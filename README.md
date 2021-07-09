@@ -9,8 +9,8 @@
 <details>
   <summary><b>📈&nbsp;&nbsp;My Time</b></summary>
   <br>
-<!--START_SECTION:waka-->
-**🐱 My Github Data** 
+<!--START_SECTION:waka-->  
+**🐱 My Github Data**  
 
 > 🏆 222 Contributions in the Year 2021
  > 
