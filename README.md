@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm iota9star.
 
-<!--
-**iota9star/iota9star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning `Rust` and more interesting thing.
+- 👯 I’m looking to collaborate on `Flutter`/`Android`/`Vue`/`Ktor`
+- 💬 Ask me about anything related to `Kotlin`/`Dart`/`Java`/`JS`/`TS` or `Flutter`/`Android`/`Vue`/`Spring`/`React`/`Ktor`
+- 📫 How to reach me: [iota9star@foxmail.com](iota9star@foxmail.com)
 
-Here are some ideas to get you started:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b>📈&nbsp;&nbsp;My Github</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/iota9star/'>
+  <img src='https://github-profile-trophy.vercel.app/?username=iota9star'>
+  <img src='https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=iota9star&hide_title=true'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=iota9star'>
+  </a>
+</details>
+
+
+![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
