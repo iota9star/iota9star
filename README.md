@@ -8,12 +8,14 @@
 
 <details>
   <summary><b>📈&nbsp;&nbsp;My Time</b></summary>
+  <br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </details>
 
 <details>
   <summary><b>📈&nbsp;&nbsp;My Github</b></summary>
+  <br>
   <img src='https://github-profile-trophy.vercel.app/?username=iota9star'>
   <img src='https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=iota9star&hide_title=true'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=iota9star'>
