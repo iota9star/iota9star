@@ -10,6 +10,18 @@
   <summary><b>📈&nbsp;&nbsp;My Time</b></summary>
   <br>
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 238 Contributions in the Year 2021
+ > 
+> 📦 379.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 56 Public Repositories 
+ > 
+> 🔑 16 Private Repositories  
+ > 
 **I'm a Night 🦉** 
 
 ```text
