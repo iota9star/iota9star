@@ -77,7 +77,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 02/12/2021
 <!--END_SECTION:waka-->
 
 <details>
