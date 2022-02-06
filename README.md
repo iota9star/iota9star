@@ -9,8 +9,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C633%20hrs%2032%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 8 Contributions in the Year 2022
@@ -73,7 +71,7 @@ Dart                     6 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 04/02/2022 21:16:27 UTC
+ Last Updated on 06/02/2022 21:16:17 UTC
 <!--END_SECTION:waka-->
 
 <details>
