@@ -9,7 +9,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C965%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C965%20hrs%2041%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,7 +77,7 @@ Dart                     7 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 13:23:44 UTC
+ Last Updated on 16/05/2022 13:25:37 UTC
 <!--END_SECTION:waka-->
 
 <details>
