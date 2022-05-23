@@ -9,11 +9,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C999%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C999%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 177 Contributions in the Year 2022
+> 🏆 175 Contributions in the Year 2022
  > 
 > 📦 843.1 kB Used in GitHub's Storage 
  > 
@@ -77,7 +77,7 @@ Dart                     7 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 23/05/2022 06:54:04 UTC
+ Last Updated on 23/05/2022 06:55:50 UTC
 <!--END_SECTION:waka-->
 
 <details>
