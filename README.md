@@ -13,9 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 626 Contributions in the Year 2022
+> 🏆 629 Contributions in the Year 2022
  > 
-> 📦 859.0 kB Used in GitHub's Storage 
+> 📦 885.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,43 +23,6 @@
  > 
 > 🔑 24 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
-🌆 Daytime    151 commits    ███████░░░░░░░░░░░░░░░░░░   30.26% 
-🌃 Evening    245 commits    ████████████░░░░░░░░░░░░░   49.1% 
-🌙 Night      67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       98 commits     █████░░░░░░░░░░░░░░░░░░░░   19.64% 
-Tuesday      99 commits     █████░░░░░░░░░░░░░░░░░░░░   19.84% 
-Wednesday    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
-Thursday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
-Friday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Saturday     78 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
-Sunday       89 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -73,7 +36,7 @@ Java                     7 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 03:00:13 UTC
+ Last Updated on 14/09/2022 21:19:01 UTC
 <!--END_SECTION:waka-->
 
 <details>
