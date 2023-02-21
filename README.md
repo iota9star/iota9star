@@ -13,6 +13,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 257 Contributions in the Year 2023
+ > 
 > 📦 935.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -71,7 +73,7 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2023 21:18:19 UTC
+ Last Updated on 21/02/2023 21:19:01 UTC
 <!--END_SECTION:waka-->
 
 <details>
