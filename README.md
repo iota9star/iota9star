@@ -4,12 +4,15 @@
 - 👯 I’m looking to collaborate on `Flutter`/`Android`/`Vue`/`Ktor`
 - 💬 Ask me about anything related to `Kotlin`/`Dart`/`Java`/`JS`/`TS` or `Flutter`/`Android`/`Vue`/`Spring`/`React`
   /`Ktor`
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs?username=iota9star&show_icons=true&locale=en&layout=compact)
+  
 - 📫 How to reach me: [iota9star@foxmail.com](iota9star@foxmail.com)
-
 
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C090%20hrs%2054%20mins-blue)
+
 
 **🐱 My GitHub Data** 
 
@@ -79,6 +82,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
   <img src='https://github-profile-trophy.vercel.app/?username=iota9star'>
   <img src='https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=iota9star&hide_title=true'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=iota9star'>
+  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=iota9star&layout=compact'>
 </details>
 
 
