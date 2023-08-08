@@ -1,79 +1,34 @@
-### Hi there 👋, I'm iota9star.
+# Web3 & Multi-chain Engineer 🌐🚀 | Full Stack Sorcerer 🔗
 
-- 🌱 I’m currently learning `Rust` and more interesting things.
-- 👯 I’m looking to collaborate on `Flutter`/`Android`/`Vue`/`Ktor`
-- 💬 Ask me about anything related to `Kotlin`/`Dart`/`Java`/`JS`/`TS` or `Flutter`/`Android`/`Vue`/`Spring`/`React`
-  /`Ktor`
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs?username=iota9star&show_icons=true&locale=en&layout=compact)
-  
-- 📫 How to reach me: [iota9star@foxmail.com](iota9star@foxmail.com)
+## Greetings, I'm **iota9star**! 👋
 
+I'm not just a regular developer - I'm a Web3 & Multi-chain Engineer, well-versed in blockchain technology and capable of wielding magic across multiple blockchain platforms. I'm passionate about creating the future with distributed technologies. 🌟
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C090%20hrs%2054%20mins-blue)
+## 💼 Magical Toolkit
 
-**🐱 My GitHub Data** 
+- 🌐 Web3 Mastery: IC, Ethereum, Bitcoin
+- 🔗 Multi-chain Weaving: Cross-chain Interactions, Blockchain Deployments
+- ✨ Frontend Incantations: React, Vue.js, Flutter
+- 🪄 Backend Wizardry: Smart Contracts, Spring, Node.js
+- 🌌 Cosmic Mobile Sorcery: Flutter, Android
+- ⚙️ Version Control Secrets: Git, GitHub/GitLab
+- 🚀 More: RESTful API Design, Cross-platform Spells, Performance Alchemy
 
-> 📦 964.2 kB Used in GitHub's Storage 
- > 
-> 🏆 1,037 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 83 Public Repositories 
- > 
-> 🔑 26 Private Repositories 
- > 
-**I'm a Night 🦉** 
+![](profile-3d-contrib/profile-season-animate.svg)
 
-```text
-🌞 Morning                1800 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-🌆 Daytime                6736 commits        ██████████░░░░░░░░░░░░░░░   39.04 % 
-🌃 Evening                6898 commits        ██████████░░░░░░░░░░░░░░░   39.98 % 
-🌙 Night                  1821 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+## 📬 Reach the Distributed Frontiers!
 
-```text
-Monday                   2116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Tuesday                  2794 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Wednesday                2716 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Thursday                 2648 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Friday                   2451 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Saturday                 2489 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sunday                   2041 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-```
+- 📧 Email: [iota9star@foxmail.com](mailto:iota9star@foxmail.com)
+- 🐦 Twitter: [@iota9star](https://twitter.com/iota9star)
 
+## 🌐 More Distributed Chronicles
 
-📊 **This Week I Spent My Time On** 
+Join me in further explorations in the distributed realm on:
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+- 📚 [juejin](https://juejin.cn/user/1591748568562829)
 
-🔥 Editors: 
-No Activity Tracked This Week
+Ready to shape the future of Web3 and multi-chains together? Let's uncover the mysteries of distribution! 🌈✨
 
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     27 repos            ████████░░░░░░░░░░░░░░░░░   30.34 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-```
-
-
-
-
- Last Updated on 08/08/2023 03:58:18 UTC
-<!--END_SECTION:waka-->
 
 <details>
   <summary><b>📈&nbsp;&nbsp;My Github</b></summary>
