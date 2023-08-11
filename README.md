@@ -1,27 +1,27 @@
-# Web3 & Multi-chain Engineer 🌐🚀 | Full Stack Sorcerer 🔗
+## Web3 & Multi-chain Engineer 🌐🚀 | Full Stack Sorcerer 🔗
 
-## Greetings, I'm **iota9star**! 👋
+### Greetings, I'm **iota9star**! 👋
 
 I'm not just a regular developer - I'm a Web3 & Multi-chain Engineer, well-versed in blockchain technology and capable of wielding magic across multiple blockchain platforms. I'm passionate about creating the future with distributed technologies. 🌟
 
-## 💼 Magical Toolkit
+### 💼 Magical Toolkit
 
 - 🌐 Web3 Mastery: IC, Ethereum, Bitcoin
 - 🔗 Multi-chain Weaving: Cross-chain Interactions, Blockchain Deployments
 - ✨ Frontend Incantations: React, Vue.js, Flutter
-- 🪄 Backend Wizardry: Smart Contracts, Spring, Node.js
+- 🪄 Backend Wizardry: Smart Contracts, Spring, Node.js, Rust
 - 🌌 Cosmic Mobile Sorcery: Flutter, Android
 - ⚙️ Version Control Secrets: Git, GitHub/GitLab
-- 🚀 More: RESTful API Design, Cross-platform Spells, Performance Alchemy
+- 🚀 More: Cross-platform Spells, Performance Alchemy
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-## 📬 Reach the Distributed Frontiers!
+### 📬 Reach the Distributed Frontiers!
 
 - 📧 Email: [iota9star@foxmail.com](mailto:iota9star@foxmail.com)
 - 🐦 Twitter: [@iota9star](https://twitter.com/iota9star)
 
-## 🌐 More Distributed Chronicles
+### 🌐 More Distributed Chronicles
 
 Join me in further explorations in the distributed realm on:
 
