@@ -6,10 +6,10 @@ I'm not just a regular developer - I'm a Web3 & Multi-chain Engineer, well-verse
 
 ### 💼 Magical Toolkit
 
-- 🌐 Web3 Mastery: IC, Ethereum, Bitcoin
+- 🌐 Web3 Mastery: Bitcoin, Ethereum, IC
 - 🔗 Multi-chain Weaving: Cross-chain Interactions, Blockchain Deployments
 - ✨ Frontend Incantations: React, Vue.js, Flutter
-- 🪄 Backend Wizardry: Smart Contracts, Spring, Node.js, Rust
+- 🪄 Backend Wizardry: Kotlin/Java, TS, Rust
 - 🌌 Cosmic Mobile Sorcery: Flutter, Android
 - ⚙️ Version Control Secrets: Git, GitHub/GitLab
 - 🚀 More: Cross-platform Spells, Performance Alchemy
