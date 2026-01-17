@@ -13,22 +13,13 @@ Building digital experiences across the stack — from high-performance backends
 
 ## Connect
 
-- Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+- Email: [iota9star](mailto:iota9star@gmail.com)
 - x: [@iota9star](https://x.com/iota9star)
-- Juejin: [Explore](https://juejin.cn/user/1591748568562829)
+- Juejin: [Blog](https://juejin.cn/user/1591748568562829)
 
 ---
 
 ![](profile-3d-contrib/profile-season-animate.svg)
-
-<details>
-  <summary><b>📈 GitHub Stats</b></summary>
-  <br>
-  <img src='https://github-profile-trophy.vercel.app/?username=iota9star'>
-  <img src='https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=iota9star&hide_title=true'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=iota9star'>
-  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=iota9star&layout=compact'>
-</details>
 
 ---
 

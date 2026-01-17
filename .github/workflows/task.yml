@@ -25,44 +25,42 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           show_full_output: false
           prompt: |
-            You are a professional GitHub profile writing assistant. Please execute the following tasks:
+            You are a creative GitHub profile designer. Generate a fresh, engaging README.md from the profile.md data.
 
-            1. Read the profile.md file to obtain the personal information framework and extract GitHub project links
-            2. Parse all GitHub project links from the <!-- REPOS --> section in profile.md (between <!-- REPOS --> and REPOS --> comment markers)
-            3. Use the gh command-line tool to query detailed information for each project (stars, description, etc.)
-               - IMPORTANT: Query repositories ONE BY ONE (sequentially), NOT in parallel. This avoids hitting API rate limits.
-               - Process each repository completely before moving to the next one.
-            4. Sort projects by star count in descending order
-            5. Generate a GitHub Card grid with two columns (no table headers, no descriptions):
-               - Use HTML img tags inside table cells: <a href="https://github.com/owner/repo"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
-               - Arrange cards in a two-column layout using HTML tables
-               - Do not include table headers or project descriptions
-               - Each table cell should contain ONLY the GitHub Card anchor+img, nothing else
-               - Add inline styles to remove padding and margin: <table style="border-collapse: collapse; padding: 0;">, <tr style="padding: 0;">, <td style="padding: 0; border: none;">
+            ## Data Collection
+            1. Read profile.md for personal info (content before <!-- REPOS -->)
+            2. Extract repo links from <!-- REPOS --> section
+            3. Use gh CLI to fetch project details (stars, description) - query ONE BY ONE to avoid rate limits
+            4. Sort by popularity (stars descending)
 
-            6. Fetch a quote from Hitokoto API: curl -s https://v1.hitokoto.cn/
-            7. Reorganize the profile.md content based on the following requirements:
-               - Retain core identity and professional positioning
-               - Reflect technical innovation and personal characteristics
-               - Use a concise and elegant expression style
-               - Highlight Rust/Java backend and full-stack capabilities
-               - Demonstrate product thinking and project management experience
-               - Use emojis to enhance readability
-               - Avoid simply listing skills
+            ## Design Guidelines (be creative!)
 
-            8. Add the Hitokoto quote to the README naturally:
-               - Incorporate the quote in an appropriate location within the README
-               - Use elegant styling that matches the overall design
-               - You can place it anywhere: intro section, between sections, or at the end
-               - Be creative with the presentation while maintaining readability
+            **Core Requirements:**
+            - Use GitHub Cards: <a href="repo-url"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
+            - Include a quote from: curl -s https://v1.hitokoto.cn/
+            - Write in English
+            - Replace entire README.md content
 
-            9. Output the optimized content to the README.md file
-               - IMPORTANT: Completely replace the existing README.md content, do not merge or preserve any existing content
+            **You Decide (experiment with different styles):**
+            - Layout: single/multi-column grid, list with cards, sections by category, or your invention
+            - Project info: cards only, or add descriptions, tech stack tags, or quick stats
+            - Personal intro: short & punchy, detailed narrative, or creative tagline
+            - Visual style: minimal, colorful, emoji-rich, or professional clean
+            - Sections: what to include and in what order (skills, projects, stats, contact...)
+            - Quote placement: intro, between sections, footer, or creative spot
+            - Formatting: use HTML tables, CSS grids, flexbox, or standard Markdown
 
-            Notes:
-            - The generated README should be professional and creative
-            - The project table should be beautiful and easy to read
-            - All output must be in English
+            **Themes to try (vary each run):**
+            - Minimalist tech showcase
+            - Story-driven developer journey
+            - Product-focused portfolio
+            - Stats-heavy analytics view
+            - Creative & personality-driven
+            - Or surprise us!
+
+            Goal: Showcase the projects professionally while making it visually interesting. Feel free to break conventions and try something new each time.
+
+            Output the final result to README.md (replace existing content).
           anthropic_api_key: ${{ secrets.CLAUDE_API_KEY }}
         env:
           ANTHROPIC_AUTH_TOKEN: ${{ secrets.CLAUDE_API_KEY }}
@@ -74,7 +72,7 @@ jobs:
       - name: Commit & Push All Changes
         run: |
           git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.email github-actions@github
           git add -A .
           git diff --staged --quiet || git commit -m "Run automated tasks: p3d & claude-code"
           git push
