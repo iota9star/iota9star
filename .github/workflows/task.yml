@@ -80,11 +80,21 @@ jobs:
             - Be creative and generous with emoji usage
             - Match emoji to content context
 
+            **Markdown Formatting Guidelines - CRITICAL:**
+
+            GitHub Markdown requires specific formatting for line breaks:
+            - To create a line break (soft break), use TWO SPACES + ENTER at the end of a line
+            - Regular ENTER without spaces creates a new paragraph (double spacing)
+            - When writing inline content that spans multiple visual lines, end each line with "  " (two spaces)
+            - Example: "This is line one  \nThis is line two" will display as two consecutive lines
+            - ALWAYS add two spaces before line breaks when you want content to continue on next line
+            - This is especially important for inline information, stats, and compact layouts
+
             **Two-Column Layout Pattern:**
             ```markdown
-            <table><tr><td style="padding:0;border:0"><a href="repo1-url"><img src="https://gh-card.dev/repos/owner/repo1.svg"></a></td><td style="padding:0;border:0"><a href="repo2-url"><img src="https://gh-card.dev/repos/owner/repo2.svg"></a></td></tr><tr><td style="padding:0;border:0"><a href="repo3-url"><img src="https://gh-card.dev/repos/owner/repo3.svg"></a></td><td style="padding:0;border:0"><a href="repo4-url"><img src="https://gh-card.dev/repos/owner/repo4.svg"></a></td></tr></table>
+            <table><tr><td><a href="repo1-url"><img src="https://gh-card.dev/repos/owner/repo1.svg"></a></td><td><a href="repo2-url"><img src="https://gh-card.dev/repos/owner/repo2.svg"></a></td></tr><tr><td><a href="repo3-url"><img src="https://gh-card.dev/repos/owner/repo3.svg"></a></td><td><a href="repo4-url"><img src="https://gh-card.dev/repos/owner/repo4.svg"></a></td></tr></table>
             ```
-            Note: Add style="padding:0;border:0" to ALL td elements. Format table as compact single-line.
+            Note: Format table as compact single-line for better GitHub markdown compatibility.
 
             **Suggested Sections (include multiple for richness):**
             - 👨‍💻 About / Introduction (detailed, with personality)
