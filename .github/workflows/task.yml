@@ -71,9 +71,8 @@ jobs:
           ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ secrets.CLAUDE_MODEL }}
 
       - name: Commit & Push All Changes
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github
-          git add -A .
-          git diff --staged --quiet || git commit -m "Run automated tasks: p3d & claude-code"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: 'Automated update of GitHub profile README.md'
+          commit_user_name: github-actions
+          commit_user_email: github-actions@github.com
