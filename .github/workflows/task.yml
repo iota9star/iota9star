@@ -32,46 +32,59 @@ jobs:
           prompt: |
             You are a creative GitHub profile designer. Generate a fresh, engaging README.md from the profile.md data.
 
-            ## Data Collection
-            1. Read profile.md for personal info (content before <!-- REPOS -->)
+            ## Data Collection Steps
+            1. Read profile.md for personal info (content before <!-- REPOS --> section)
             2. Extract repo links from <!-- REPOS --> section
             3. Use gh CLI to fetch project details (stars, description) - query ONE BY ONE to avoid rate limits
-            4. Sort by popularity (stars descending)
+            4. Sort repositories by popularity (stars descending)
 
-            ## Generate README - COMPACT & READABLE
+            ## README Generation Requirements
 
             **Core Requirements:**
-            - Use GitHub Cards: <a href="repo-url"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
-            - **CRITICAL: Content must be COMPACT and DENSE - minimize blank lines, maximize information density**
-            - **IMPORTANT: Display repo cards in a TWO-COLUMN layout using HTML table**
-            - Include a quote from: curl -s https://v1.hitokoto.cn/
-            - Write in English
-            - IMPORTANT: Use the Write tool to save the generated content to README.md
+            - Use GitHub Cards format: <a href="repo-url"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
+            - **CRITICAL: Display repo cards in TWO-COLUMN layout using HTML table**
+            - Include an inspiring quote from: curl -s https://v1.hitokoto.cn/
+            - Write content in English
+            - Use the Write tool to save the generated content to README.md
             - Replace entire README.md content (do not merge with existing)
 
-            **Layout Guidelines - COMPACT FORMAT:**
-            - Use single blank lines between sections (never double+ blank lines)
-            - Keep intro concise: 1-2 sentences max
-            - Inline information where possible (e.g., "📍 Location | 💼 Role | 🎯 Focus")
-            - Place quote compactly without excessive spacing
-            - Avoid redundant separators or decorative horizontal lines
-            - Maximize content visibility, minimize scrolling
+            **IMPORTANT: Content Layout Requirements**
 
-            **Two-Column Layout Pattern:**
+            The generated README.md must be COMPACT and DENSE for optimal readability:
+            - Use ONLY single blank lines between sections (NEVER use double or more blank lines)
+            - Keep personal intro concise: maximum 2-3 short sentences
+            - Use inline format for meta information: "📍 Location | 💼 Role | 🎯 Focus"
+            - Place quote compactly without excessive spacing around it
+            - Avoid redundant horizontal rules (---) or decorative separators
+            - Maximize information density, minimize vertical whitespace
+            - Don't add unnecessary empty lines at the beginning or end
+            - Keep overall length short - visitors should see most content without excessive scrolling
+
+            **Two-Column Layout Pattern (REQUIRED):**
+            Use HTML table format with compact styling:
+
             ```markdown
             <table><tr><td style="padding:0;border:0"><a href="repo1-url"><img src="https://gh-card.dev/repos/owner/repo1.svg"></a></td><td style="padding:0;border:0"><a href="repo2-url"><img src="https://gh-card.dev/repos/owner/repo2.svg"></a></td></tr><tr><td style="padding:0;border:0"><a href="repo3-url"><img src="https://gh-card.dev/repos/owner/repo3.svg"></a></td><td style="padding:0;border:0"><a href="repo4-url"><img src="https://gh-card.dev/repos/owner/repo4.svg"></a></td></tr></table>
             ```
-            Note: Add style="padding:0;border:0" to ALL td elements. Format table as compact single-line.
 
-            **Style Guidelines:**
-            - Project info: cards only (minimal descriptions to save space)
-            - Personal intro: 1-2 punchy sentences, not paragraphs
-            - Visual style: clean, minimal, emoji-used-sparingly
-            - Quote placement: compact, no extra spacing
+            Note: Add style="padding:0;border:0" to ALL td elements to remove spacing and borders. Format the table as a compact single line for better GitHub markdown compatibility.
 
-            Goal: Professional, dense, scannable profile. Minimize vertical space, maximize information. Always use two-column layout with compact formatting.
+            **Design Flexibility:**
+            - Personal intro style: short tagline OR brief narrative OR skill highlights
+            - Visual theme: minimal professional, subtle accent colors, or clean modern
+            - Quote placement: at top, between intro and projects, or at bottom
+            - Additional elements: tech stack badges (compact), quick stats (inline format), contact links (single line)
 
-            **CRITICAL: After generating the README content, you MUST use the Write tool to save it to README.md.**
+            **Quality Guidelines:**
+            - Projects: display cards only, no additional descriptions (cards already show info)
+            - Information density: high - every line should contain meaningful content
+            - Spacing: minimal - single blank lines between sections only
+            - Formatting: clean and scannable - avoid excessive emoji or decorative elements
+            - Length constraint: total README should fit in 2-3 screen heights maximum
+
+            **Goal:** Create a professional, information-dense, easily scannable GitHub profile. Minimize vertical space usage while maximizing content visibility. The layout should feel compact and efficient, not sparse or stretched.
+
+            **CRITICAL REMINDER:** After generating the README content, you MUST use the Write tool to save it to README.md.
           anthropic_api_key: ${{ secrets.CLAUDE_API_KEY }}
         env:
           ANTHROPIC_AUTH_TOKEN: ${{ secrets.CLAUDE_API_KEY }}
