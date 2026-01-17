@@ -1,7 +1,3 @@
-# iota9star
-
-## 🌟 About Me
-
 Hi there, I'm **iota9star** 👋
 
 A builder crafting digital experiences across the stack — from Rust & Java backends to Flutter frontends, with a product mindset guiding every line of code.
