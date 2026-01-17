@@ -33,13 +33,14 @@ jobs:
             3. Use gh CLI to fetch project details (stars, description) - query ONE BY ONE to avoid rate limits
             4. Sort by popularity (stars descending)
 
-            ## Design Guidelines (be creative!)
+            ## Generate README
 
             **Core Requirements:**
             - Use GitHub Cards: <a href="repo-url"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
             - Include a quote from: curl -s https://v1.hitokoto.cn/
             - Write in English
-            - Replace entire README.md content
+            - IMPORTANT: Use the Write tool to save the generated content to README.md
+            - Replace entire README.md content (do not merge with existing)
 
             **You Decide (experiment with different styles):**
             - Layout: single/multi-column grid, list with cards, sections by category, or your invention
@@ -60,7 +61,7 @@ jobs:
 
             Goal: Showcase the projects professionally while making it visually interesting. Feel free to break conventions and try something new each time.
 
-            Output the final result to README.md (replace existing content).
+            **CRITICAL: After generating the README content, you MUST use the Write tool to save it to README.md.**
           anthropic_api_key: ${{ secrets.CLAUDE_API_KEY }}
         env:
           ANTHROPIC_AUTH_TOKEN: ${{ secrets.CLAUDE_API_KEY }}
