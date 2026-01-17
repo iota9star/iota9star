@@ -42,19 +42,35 @@ jobs:
 
             **Core Requirements:**
             - Use GitHub Cards: <a href="repo-url"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
+            - **IMPORTANT: Display repo cards in a TWO-COLUMN layout using HTML table**
             - Include a quote from: curl -s https://v1.hitokoto.cn/
             - Write in English
             - IMPORTANT: Use the Write tool to save the generated content to README.md
             - Replace entire README.md content (do not merge with existing)
 
+            **Two-Column Layout Pattern:**
+            Use HTML table format for the two-column repo card display:
+
+            ```markdown
+            <table>
+              <tr>
+                <td><a href="repo1-url"><img src="https://gh-card.dev/repos/owner/repo1.svg"></a></td>
+                <td><a href="repo2-url"><img src="https://gh-card.dev/repos/owner/repo2.svg"></a></td>
+              </tr>
+              <tr>
+                <td><a href="repo3-url"><img src="https://gh-card.dev/repos/owner/repo3.svg"></a></td>
+                <td><a href="repo4-url"><img src="https://gh-card.dev/repos/owner/repo4.svg"></a></td>
+              </tr>
+              <!-- Continue with pairs of repos -->
+            </table>
+            ```
+
             **You Decide (experiment with different styles):**
-            - Layout: single/multi-column grid, list with cards, sections by category, or your invention
             - Project info: cards only, or add descriptions, tech stack tags, or quick stats
             - Personal intro: short & punchy, detailed narrative, or creative tagline
             - Visual style: minimal, colorful, emoji-rich, or professional clean
             - Sections: what to include and in what order (skills, projects, stats, contact...)
             - Quote placement: intro, between sections, footer, or creative spot
-            - Formatting: use HTML tables, CSS grids, flexbox, or standard Markdown
 
             **Themes to try (vary each run):**
             - Minimalist tech showcase
@@ -64,7 +80,7 @@ jobs:
             - Creative & personality-driven
             - Or surprise us!
 
-            Goal: Showcase the projects professionally while making it visually interesting. Feel free to break conventions and try something new each time.
+            Goal: Showcase the projects professionally while making it visually interesting. Always use two-column layout for repo cards.
 
             **CRITICAL: After generating the README content, you MUST use the Write tool to save it to README.md.**
           anthropic_api_key: ${{ secrets.CLAUDE_API_KEY }}
