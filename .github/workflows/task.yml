@@ -52,18 +52,10 @@ jobs:
             Use HTML table format for the two-column repo card display:
 
             ```markdown
-            <table>
-              <tr>
-                <td><a href="repo1-url"><img src="https://gh-card.dev/repos/owner/repo1.svg"></a></td>
-                <td><a href="repo2-url"><img src="https://gh-card.dev/repos/owner/repo2.svg"></a></td>
-              </tr>
-              <tr>
-                <td><a href="repo3-url"><img src="https://gh-card.dev/repos/owner/repo3.svg"></a></td>
-                <td><a href="repo4-url"><img src="https://gh-card.dev/repos/owner/repo4.svg"></a></td>
-              </tr>
-              <!-- Continue with pairs of repos -->
-            </table>
+            <table><tr><td style="padding:0;border:0"><a href="repo1-url"><img src="https://gh-card.dev/repos/owner/repo1.svg"></a></td><td style="padding:0;border:0"><a href="repo2-url"><img src="https://gh-card.dev/repos/owner/repo2.svg"></a></td></tr><tr><td style="padding:0;border:0"><a href="repo3-url"><img src="https://gh-card.dev/repos/owner/repo3.svg"></a></td><td style="padding:0;border:0"><a href="repo4-url"><img src="https://gh-card.dev/repos/owner/repo4.svg"></a></td></tr></table>
             ```
+
+            Note: Add style="padding:0;border:0" to ALL td elements to remove spacing and borders. Format the table as compact single-line for better compatibility.
 
             **You Decide (experiment with different styles):**
             - Project info: cards only, or add descriptions, tech stack tags, or quick stats
