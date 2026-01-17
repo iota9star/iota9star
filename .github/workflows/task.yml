@@ -38,41 +38,38 @@ jobs:
             3. Use gh CLI to fetch project details (stars, description) - query ONE BY ONE to avoid rate limits
             4. Sort by popularity (stars descending)
 
-            ## Generate README
+            ## Generate README - COMPACT & READABLE
 
             **Core Requirements:**
             - Use GitHub Cards: <a href="repo-url"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
+            - **CRITICAL: Content must be COMPACT and DENSE - minimize blank lines, maximize information density**
             - **IMPORTANT: Display repo cards in a TWO-COLUMN layout using HTML table**
             - Include a quote from: curl -s https://v1.hitokoto.cn/
             - Write in English
             - IMPORTANT: Use the Write tool to save the generated content to README.md
             - Replace entire README.md content (do not merge with existing)
 
-            **Two-Column Layout Pattern:**
-            Use HTML table format for the two-column repo card display:
+            **Layout Guidelines - COMPACT FORMAT:**
+            - Use single blank lines between sections (never double+ blank lines)
+            - Keep intro concise: 1-2 sentences max
+            - Inline information where possible (e.g., "📍 Location | 💼 Role | 🎯 Focus")
+            - Place quote compactly without excessive spacing
+            - Avoid redundant separators or decorative horizontal lines
+            - Maximize content visibility, minimize scrolling
 
+            **Two-Column Layout Pattern:**
             ```markdown
             <table><tr><td style="padding:0;border:0"><a href="repo1-url"><img src="https://gh-card.dev/repos/owner/repo1.svg"></a></td><td style="padding:0;border:0"><a href="repo2-url"><img src="https://gh-card.dev/repos/owner/repo2.svg"></a></td></tr><tr><td style="padding:0;border:0"><a href="repo3-url"><img src="https://gh-card.dev/repos/owner/repo3.svg"></a></td><td style="padding:0;border:0"><a href="repo4-url"><img src="https://gh-card.dev/repos/owner/repo4.svg"></a></td></tr></table>
             ```
+            Note: Add style="padding:0;border:0" to ALL td elements. Format table as compact single-line.
 
-            Note: Add style="padding:0;border:0" to ALL td elements to remove spacing and borders. Format the table as compact single-line for better compatibility.
+            **Style Guidelines:**
+            - Project info: cards only (minimal descriptions to save space)
+            - Personal intro: 1-2 punchy sentences, not paragraphs
+            - Visual style: clean, minimal, emoji-used-sparingly
+            - Quote placement: compact, no extra spacing
 
-            **You Decide (experiment with different styles):**
-            - Project info: cards only, or add descriptions, tech stack tags, or quick stats
-            - Personal intro: short & punchy, detailed narrative, or creative tagline
-            - Visual style: minimal, colorful, emoji-rich, or professional clean
-            - Sections: what to include and in what order (skills, projects, stats, contact...)
-            - Quote placement: intro, between sections, footer, or creative spot
-
-            **Themes to try (vary each run):**
-            - Minimalist tech showcase
-            - Story-driven developer journey
-            - Product-focused portfolio
-            - Stats-heavy analytics view
-            - Creative & personality-driven
-            - Or surprise us!
-
-            Goal: Showcase the projects professionally while making it visually interesting. Always use two-column layout for repo cards.
+            Goal: Professional, dense, scannable profile. Minimize vertical space, maximize information. Always use two-column layout with compact formatting.
 
             **CRITICAL: After generating the README content, you MUST use the Write tool to save it to README.md.**
           anthropic_api_key: ${{ secrets.CLAUDE_API_KEY }}
