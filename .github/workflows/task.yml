@@ -8,6 +8,7 @@ on:
 jobs:
   automated-tasks:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     name: run-automated-tasks
     steps:
       - uses: actions/checkout@v4
@@ -23,7 +24,7 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          show_full_output: false
+          show_full_output: true
           prompt: |
             You are a creative GitHub profile designer. Generate a fresh, engaging README.md from the profile.md data.
 
