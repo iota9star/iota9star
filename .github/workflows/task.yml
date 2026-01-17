@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 步骤一：生成 3D 贡献图
       - name: Generate 3D Profile Contrib
         uses: yoshi389111/github-profile-3d-contrib@v0.9.1
         env:
@@ -21,10 +20,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 999
 
-      # 步骤二：运行 Claude Code
       - name: Run Claude Code Action
         uses: anthropics/claude-code-action@v1
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           prompt: |
             You are a professional GitHub profile writing assistant. Please execute the following tasks:
 
@@ -58,6 +57,7 @@ jobs:
                - Be creative with the presentation while maintaining readability
 
             9. Output the optimized content to the README.md file
+               - IMPORTANT: Completely replace the existing README.md content, do not merge or preserve any existing content
 
             Notes:
             - The generated README should be professional and creative
@@ -70,9 +70,7 @@ jobs:
           ANTHROPIC_DEFAULT_HAIKU_MODEL: ${{ secrets.CLAUDE_MODEL }}
           ANTHROPIC_DEFAULT_SONNET_MODEL: ${{ secrets.CLAUDE_MODEL }}
           ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ secrets.CLAUDE_MODEL }}
-          ANTHROPIC_MODEL: ${{ secrets.CLAUDE_MODEL }}
 
-      # 步骤三：提交所有修改
       - name: Commit & Push All Changes
         run: |
           git config user.name github-actions
