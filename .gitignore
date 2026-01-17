@@ -1,0 +1,42 @@
+# IDE 配置
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Vim
+*.swp
+*.swo
+*.swn
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk

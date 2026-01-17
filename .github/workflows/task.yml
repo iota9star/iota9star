@@ -1,0 +1,82 @@
+name: GitHub-Profile-Automation
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+  push:
+
+jobs:
+  automated-tasks:
+    runs-on: ubuntu-latest
+    name: run-automated-tasks
+    steps:
+      - uses: actions/checkout@v4
+
+      # 步骤一：生成 3D 贡献图
+      - name: Generate 3D Profile Contrib
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 999
+
+      # 步骤二：运行 Claude Code
+      - name: Run Claude Code Action
+        uses: anthropics/claude-code-action@v1
+        with:
+          prompt: |
+            You are a professional GitHub profile writing assistant. Please execute the following tasks:
+
+            1. Read the profile.md file to obtain the personal information framework and extract GitHub project links
+            2. Parse all GitHub project links from the <!-- REPOS --> section in profile.md (between <!-- REPOS --> and REPOS --> comment markers)
+            3. Use the gh command-line tool to query detailed information for each project (stars, description, etc.)
+               - IMPORTANT: Query repositories ONE BY ONE (sequentially), NOT in parallel. This avoids hitting API rate limits.
+               - Process each repository completely before moving to the next one.
+            4. Sort projects by star count in descending order
+            5. Generate a GitHub Card grid with two columns (no table headers, no descriptions):
+               - Use the format: [![owner/repo - GitHub](https://gh-card.dev/repos/owner/repo.svg)](https://github.com/owner/repo)
+               - Arrange cards in a two-column layout using HTML tables
+               - Do not include table headers or project descriptions
+               - Each table cell should contain ONLY the GitHub Card, nothing else
+               - Add inline styles to remove padding and margin: <table style="border-collapse: collapse; padding: 0;">, <tr style="padding: 0;">, <td style="padding: 0; border: none;">
+
+            6. Fetch a quote from Hitokoto API: curl -s https://v1.hitokoto.cn/
+            7. Reorganize the profile.md content based on the following requirements:
+               - Retain core identity and professional positioning
+               - Reflect technical innovation and personal characteristics
+               - Use a concise and elegant expression style
+               - Highlight Rust/Java backend and full-stack capabilities
+               - Demonstrate product thinking and project management experience
+               - Use emojis to enhance readability
+               - Avoid simply listing skills
+
+            8. Add the Hitokoto quote to the README naturally:
+               - Incorporate the quote in an appropriate location within the README
+               - Use elegant styling that matches the overall design
+               - You can place it anywhere: intro section, between sections, or at the end
+               - Be creative with the presentation while maintaining readability
+
+            9. Output the optimized content to the README.md file
+
+            Notes:
+            - The generated README should be professional and creative
+            - The project table should be beautiful and easy to read
+            - All output must be in English
+          anthropic_api_key: ${{ secrets.CLAUDE_API_KEY }}
+        env:
+          ANTHROPIC_AUTH_TOKEN: ${{ secrets.CLAUDE_API_KEY }}
+          ANTHROPIC_BASE_URL: ${{ secrets.CLAUDE_API_BASE_URL }}
+          ANTHROPIC_DEFAULT_HAIKU_MODEL: ${{ secrets.CLAUDE_MODEL }}
+          ANTHROPIC_DEFAULT_SONNET_MODEL: ${{ secrets.CLAUDE_MODEL }}
+          ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ secrets.CLAUDE_MODEL }}
+          ANTHROPIC_MODEL: ${{ secrets.CLAUDE_MODEL }}
+
+      # 步骤三：提交所有修改
+      - name: Commit & Push All Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git diff --staged --quiet || git commit -m "Run automated tasks: p3d & claude-code"
+          git push
