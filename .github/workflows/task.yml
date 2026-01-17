@@ -29,62 +29,85 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           show_full_output: true
           claude_args: --allowedTools Write,Edit,Read,Glob,Grep,Bash(gh:*),Bash(curl:*)
-          prompt: |
-            You are a creative GitHub profile designer. Generate a fresh, engaging README.md from the profile.md data.
+          prompt: |            You are a creative GitHub profile designer. Generate a fresh, engaging README.md from the profile.md data.
 
-            ## Data Collection Steps
-            1. Read profile.md for personal info (content before <!-- REPOS --> section)
+            ## Data Collection
+            1. Read profile.md for personal info (content before <!-- REPOS -->)
             2. Extract repo links from <!-- REPOS --> section
             3. Use gh CLI to fetch project details (stars, description) - query ONE BY ONE to avoid rate limits
-            4. Sort repositories by popularity (stars descending)
+            4. Sort by popularity (stars descending)
 
-            ## README Generation Requirements
+            ## README Generation - RICH & COMPACT
 
             **Core Requirements:**
-            - Use GitHub Cards format: <a href="repo-url"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
+            - Use GitHub Cards: <a href="repo-url"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
             - **CRITICAL: Display repo cards in TWO-COLUMN layout using HTML table**
-            - Include an inspiring quote from: curl -s https://v1.hitokoto.cn/
-            - Write content in English
+            - Include a quote from: curl -s https://v1.hitokoto.cn/
+            - Write in English
             - Use the Write tool to save the generated content to README.md
             - Replace entire README.md content (do not merge with existing)
 
-            **IMPORTANT: Content Layout Requirements**
+            **Content Guidelines - RICH & COMPREHENSIVE:**
 
-            The generated README.md must be COMPACT and DENSE for optimal readability:
-            - Use ONLY single blank lines between sections (NEVER use double or more blank lines)
-            - Keep personal intro concise: maximum 2-3 short sentences
-            - Use inline format for meta information: "📍 Location | 💼 Role | 🎯 Focus"
-            - Place quote compactly without excessive spacing around it
-            - Avoid redundant horizontal rules (---) or decorative separators
-            - Maximize information density, minimize vertical whitespace
-            - Don't add unnecessary empty lines at the beginning or end
-            - Keep overall length short - visitors should see most content without excessive scrolling
+            Generate a CONTENT-RICH profile with MULTIPLE sections:
+            - Include 5-7 different sections minimum (not just intro+projects)
+            - Add diverse content: about, skills, stats, projects, quote, contact, highlights
+            - Make it feel complete and comprehensive, not minimal
+            - Each section should have substantive content, not just headers
+            - Use detailed descriptions where appropriate
+            - Add contextual information around projects
+            - Include personal touches: interests, philosophy, approach
+            - Make visitors feel they learned something about you
 
-            **Two-Column Layout Pattern (REQUIRED):**
-            Use HTML table format with compact styling:
+            **Layout Guidelines - COMPACT SPACING:**
 
+            While keeping content rich, use COMPACT spacing:
+            - Use ONLY single blank lines between sections (never double+)
+            - No unnecessary empty lines at start/end
+            - Compact but not cramped - readable but efficient
+            - Minimize vertical whitespace while maximizing content
+
+            **Emoji Guidelines - USE FREELY & CREATIVELY:**
+
+            Emojis make the profile visually engaging and organized:
+            - Use 10-20+ emojis throughout the README
+            - Different emojis for different sections for visual hierarchy
+            - Section headers with emojis: 👨‍💻 About, 🛠️ Tech Stack, 📊 Projects, 💬 Contact
+            - Use emojis in lists as bullet points
+            - Emojis for skill tags and highlights
+            - Inline emojis within text for visual breaks
+            - Be creative and generous with emoji usage
+            - Match emoji to content context
+
+            **Two-Column Layout Pattern:**
             ```markdown
             <table><tr><td style="padding:0;border:0"><a href="repo1-url"><img src="https://gh-card.dev/repos/owner/repo1.svg"></a></td><td style="padding:0;border:0"><a href="repo2-url"><img src="https://gh-card.dev/repos/owner/repo2.svg"></a></td></tr><tr><td style="padding:0;border:0"><a href="repo3-url"><img src="https://gh-card.dev/repos/owner/repo3.svg"></a></td><td style="padding:0;border:0"><a href="repo4-url"><img src="https://gh-card.dev/repos/owner/repo4.svg"></a></td></tr></table>
             ```
+            Note: Add style="padding:0;border:0" to ALL td elements. Format table as compact single-line.
 
-            Note: Add style="padding:0;border:0" to ALL td elements to remove spacing and borders. Format the table as a compact single line for better GitHub markdown compatibility.
+            **Suggested Sections (include multiple for richness):**
+            - 👨‍💻 About / Introduction (detailed, with personality)
+            - 🎯 Focus Areas / What I Do
+            - 🛠️ Tech Stack / Skills (as emoji badges)
+            - 📊 Quick Stats (repos, stars, languages, etc.)
+            - 🔥 Featured Projects (the repo cards with context)
+            - 💡 Quote / Philosophy
+            - 🏆 Highlights / Achievements
+            - 📧 Contact / Social Links
+            - 💭 Interests / Approach
 
-            **Design Flexibility:**
-            - Personal intro style: short tagline OR brief narrative OR skill highlights
-            - Visual theme: minimal professional, subtle accent colors, or clean modern
-            - Quote placement: at top, between intro and projects, or at bottom
-            - Additional elements: tech stack badges (compact), quick stats (inline format), contact links (single line)
+            **Visual Style:**
+            - Rich content with 5-7+ substantive sections
+            - Colorful and engaging with 10-20+ emojis
+            - Compact spacing (single blank lines)
+            - Professional yet personality-filled
+            - Information-dense but easy to scan
+            - Feels complete and comprehensive
 
-            **Quality Guidelines:**
-            - Projects: display cards only, no additional descriptions (cards already show info)
-            - Information density: high - every line should contain meaningful content
-            - Spacing: minimal - single blank lines between sections only
-            - Formatting: clean and scannable - avoid excessive emoji or decorative elements
-            - Length constraint: total README should fit in 2-3 screen heights maximum
+            Goal: Create a RICH, COLORFUL, COMPREHENSIVE GitHub profile. Lots of content sections, lots of emojis, but with compact efficient spacing. Make it feel like a complete portfolio that truly represents you.
 
-            **Goal:** Create a professional, information-dense, easily scannable GitHub profile. Minimize vertical space usage while maximizing content visibility. The layout should feel compact and efficient, not sparse or stretched.
+            **CRITICAL: After generating the README content, you MUST use the Write tool to save it to README.md.**
 
-            **CRITICAL REMINDER:** After generating the README content, you MUST use the Write tool to save it to README.md.
           anthropic_api_key: ${{ secrets.CLAUDE_API_KEY }}
         env:
           ANTHROPIC_AUTH_TOKEN: ${{ secrets.CLAUDE_API_KEY }}
