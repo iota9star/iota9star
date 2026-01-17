@@ -28,7 +28,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           show_full_output: true
-          claude_args: --allowedTools Write,Edit,Read,Glob,Grep
+          claude_args: --allowedTools Write,Edit,Read,Glob,Grep,Bash(gh:*),Bash(curl:*)
           prompt: |
             You are a creative GitHub profile designer. Generate a fresh, engaging README.md from the profile.md data.
 
