@@ -23,6 +23,7 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          show_full_output: false
           prompt: |
             You are a professional GitHub profile writing assistant. Please execute the following tasks:
 
@@ -33,10 +34,10 @@ jobs:
                - Process each repository completely before moving to the next one.
             4. Sort projects by star count in descending order
             5. Generate a GitHub Card grid with two columns (no table headers, no descriptions):
-               - Use the format: [![owner/repo - GitHub](https://gh-card.dev/repos/owner/repo.svg)](https://github.com/owner/repo)
+               - Use HTML img tags inside table cells: <a href="https://github.com/owner/repo"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
                - Arrange cards in a two-column layout using HTML tables
                - Do not include table headers or project descriptions
-               - Each table cell should contain ONLY the GitHub Card, nothing else
+               - Each table cell should contain ONLY the GitHub Card anchor+img, nothing else
                - Add inline styles to remove padding and margin: <table style="border-collapse: collapse; padding: 0;">, <tr style="padding: 0;">, <td style="padding: 0; border: none;">
 
             6. Fetch a quote from Hitokoto API: curl -s https://v1.hitokoto.cn/
