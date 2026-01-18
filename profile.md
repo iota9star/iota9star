@@ -4,17 +4,17 @@ Hi, I'm **iota9star**
 
 Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
----
-
-**AI Practitioner**: Proficient in AI-powered development workflows and vibing with code assistants.
+![count viewed](https://count.getloli.com/get/@iota9star:iota9star?theme=rule34)
 
 ---
+
 
 ## Core Stack
 
 **Languages**: Rust, Java, Kotlin, TypeScript, Dart
 **Backend**: Axum, Spring, Microservices, Node.js
 **Frontend**: React, Vue, Flutter, Android
+**AI**: AI-powered development workflows, code assistants, quality-focused, agents
 **Web3**: BTC, EVM, IC
 
 ## Connect
