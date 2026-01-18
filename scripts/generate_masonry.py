@@ -93,20 +93,12 @@ def calculate_svg_height(num_cards: int) -> int:
 
 def generate_masonry_svg(repos: List[str]) -> str:
     """
-    Download SVG files and generate masonry layout SVG using <image> elements.
+    Generate masonry layout SVG using <image> elements with gh-card.dev URLs.
 
     Returns SVG content with masonry layout.
     """
-    CARDS_DIR.mkdir(exist_ok=True)
-
     # Fetch and sort repos
     sorted_repos = fetch_and_sort_repos(repos)
-
-    # Download all SVG files
-    card_paths = []
-    for repo, stars, desc in sorted_repos:
-        svg_path = download_svg(repo)
-        card_paths.append((repo, svg_path))
 
     # Manual masonry layout: distribute cards across columns
     column_heights = [PADDING] * COLUMN_COUNT
@@ -114,7 +106,7 @@ def generate_masonry_svg(repos: List[str]) -> str:
 
     # Build SVG with <image> elements positioned manually
     images_svg = []
-    for i, (repo, svg_path) in enumerate(card_paths):
+    for i, (repo, stars, desc) in enumerate(sorted_repos):
         # Assign to column with minimum height (round-robin)
         col = i % COLUMN_COUNT
 
@@ -122,13 +114,12 @@ def generate_masonry_svg(repos: List[str]) -> str:
         x = column_x[col]
         y = column_heights[col]
 
-        # Get relative path from repo root
-        rel_path = str(svg_path)
-
-        # Create clickable wrapper (using <a> in SVG)
+        # Use gh-card.dev URL directly
+        card_url = f"https://gh-card.dev/repos/{repo}.svg"
         repo_link = f"https://github.com/{repo}"
+
         images_svg.append(f'''  <a href="{repo_link}" target="_top">
-    <image x="{x}" y="{y}" width="{CARD_WIDTH}" height="{CARD_HEIGHT}" href="{rel_path}" />
+    <image x="{x}" y="{y}" width="{CARD_WIDTH}" height="{CARD_HEIGHT}" href="{card_url}" />
   </a>''')
 
         # Update column height
