@@ -23,8 +23,95 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 999
 
-      - name: Generate Masonry README
-        run: python scripts/generate_masonry.py
+      - name: Generate README with Claude Code Action
+        uses: anthropics/claude-code-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          show_full_output: true
+          claude_args: --allowedTools Write,Edit,Read,Glob,Grep,Bash(python\:scripts/generate_masonry.py\ *),Bash(gh\ *),Bash(curl\ *)
+          prompt: |
+            You are a creative GitHub profile designer. Generate a fresh, engaging README.md from the profile.md data.
+
+            ## Step 1: Data Collection
+            1. Read profile.md for personal info (content before <!-- REPOS -->)
+            2. Extract repo links from <!-- REPOS --> section
+            3. Use gh CLI to fetch project details (stars, description) - query ONE BY ONE to avoid rate limits
+            4. Sort repos by popularity (stars descending)
+
+            ## Step 2: Calculate Masonry Layout
+            **CRITICAL**: Use the Python masonry tool to calculate layout positions:
+
+            ```bash
+            python scripts/generate_masonry.py owner/repo1 owner/repo2 owner/repo3 ...
+            ```
+
+            The tool will output JSON with:
+            - total_height: total SVG container height
+            - cards: array with x, y, width, height for each repo
+
+            Example output:
+            ```json
+            {
+              "total_height": 1062,
+              "cards": [
+                {"repo": "owner/repo1", "x": 0, "y": 0, "height": 130},
+                {"repo": "owner/repo2", "x": 50.5, "y": 0, "height": 109}
+              ]
+            }
+            ```
+
+            ## Step 3: Generate README Content
+
+            **Core Requirements:**
+            - Use the layout data from Step 2 to create masonry SVG
+            - Include rich, diverse content sections
+            - Write in English
+            - Use compact spacing (single blank lines)
+            - Add 10-20+ emojis for visual engagement
+            - NO horizontal separators (---)
+
+            **Suggested Sections:**
+            - 👨‍💻 About Me (detailed introduction with personality)
+            - 🎯 What I Do (focus areas and expertise)
+            - 🛠️ Tech Stack (expand from profile.md with emoji badges)
+            - 📊 Quick Stats (repos, stars, contributions)
+            - 🔥 Featured Projects (the masonry layout goes here)
+            - 💡 Quote (fetch from https://v1.hitokoto.cn/)
+            - 🏆 Highlights / Achievements
+            - 📧 Connect (social links)
+            - 💭 Philosophy / Approach
+
+            **Masonry SVG Generation Pattern:**
+            ```markdown
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="{total_height}">
+              <a href="https://github.com/{repo}">
+                <image x="{x}" y="{y}" width="49.5%" height="{height}" href="https://gh-card.dev/repos/{repo}.svg"/>
+              </a>
+              <!-- Repeat for all cards from layout data -->
+            </svg>
+            ```
+            Note: For x coordinate, use "0" (not "0%") for left column, "50.5%" for right column.
+
+            **Markdown Formatting:**
+            - To break line without paragraph: add TWO SPACES at end of line
+            - Single blank lines between sections
+            - No unnecessary empty lines
+
+            **Visual Style:**
+            - Rich content with 5-7+ substantive sections
+            - Colorful with 10-20+ emojis
+            - Professional yet personality-filled
+            - Information-dense but easy to scan
+
+            **CRITICAL: After generating content, use the Write tool to save it to README.md.**
+
+          anthropic_api_key: ${{ secrets.CLAUDE_API_KEY }}
+        env:
+          ANTHROPIC_AUTH_TOKEN: ${{ secrets.CLAUDE_API_KEY }}
+          ANTHROPIC_BASE_URL: ${{ secrets.CLAUDE_API_BASE_URL }}
+          ANTHROPIC_DEFAULT_HAIKU_MODEL: ${{ secrets.CLAUDE_MODEL }}
+          ANTHROPIC_DEFAULT_SONNET_MODEL: ${{ secrets.CLAUDE_MODEL }}
+          ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ secrets.CLAUDE_MODEL }}
 
       - name: Commit & Push All Changes
         uses: stefanzweifel/git-auto-commit-action@v7
