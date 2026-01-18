@@ -2,33 +2,35 @@
 """
 GitHub Profile Masonry Layout Generator
 
-A tool for generating CSS columns-based masonry/waterfall layout for GitHub project cards.
-Features: fetch repo stats via gh CLI, sort by stars, generate HTML.
+Generates SVG with masonry (waterfall) layout using CSS columns.
+The SVG can be embedded in GitHub README.
 
 Usage:
     python scripts/generate_masonry.py owner/repo1 owner/repo2 ...
 
 Output:
-    HTML div with CSS columns for true masonry layout
+    SVG file with masonry layout
 """
 
 import sys
 import subprocess
-import json
-from typing import List, Dict, Tuple
+import urllib.request
+import urllib.error
+import xml.etree.ElementTree as ET
+from pathlib import Path
+from typing import List, Tuple
+
+
+CARDS_DIR = Path("cards")
+CARD_WIDTH = 380  # gh-card width
+CARD_HEIGHT = 120  # approximate height per card
+COLUMN_GAP = 8    # gap between columns
+COLUMN_COUNT = 2  # number of columns
+PADDING = 8       # container padding
 
 
 def fetch_repo_info(repo: str, max_retries: int = 2) -> Tuple[str, int, str]:
-    """
-    Fetch repository info using gh CLI with retry logic.
-
-    Args:
-        repo: Repository in owner/name format
-        max_retries: Number of retries on failure (default: 2)
-
-    Returns:
-        (repo, stargazers, description)
-    """
+    """Fetch repository info using gh CLI with retry logic."""
     cmd = [
         "gh", "repo", "view", repo,
         "--json", "stargazerCount,description,name",
@@ -37,83 +39,172 @@ def fetch_repo_info(repo: str, max_retries: int = 2) -> Tuple[str, int, str]:
 
     for attempt in range(max_retries + 1):
         try:
-            result = subprocess.run(
-                cmd,
-                capture_output=True,
-                text=True,
-                timeout=10
-            )
-
+            result = subprocess.run(cmd, capture_output=True, text=True, timeout=10)
             if result.returncode == 0 and result.stdout.strip():
                 parts = result.stdout.strip().split(" | ", 2)
                 if len(parts) == 3:
-                    name = parts[0]
-                    stars = int(parts[1])
-                    desc = parts[2]
-                    return repo, stars, desc
-
+                    return repo, int(parts[1]), parts[2]
         except (subprocess.TimeoutExpired, ValueError, FileNotFoundError):
             if attempt < max_retries:
-                continue  # Retry
+                continue
             break
 
-    # Fallback for private repos or errors after all retries
     return repo, 0, ""
 
 
+def download_svg(repo: str) -> Path:
+    """Download SVG file and return local path."""
+    CARDS_DIR.mkdir(exist_ok=True)
+
+    owner, name = repo.split("/")
+    filename = f"{owner}_{name}.svg"
+    filepath = CARDS_DIR / filename
+    url = f"https://gh-card.dev/repos/{repo}.svg"
+
+    try:
+        urllib.request.urlretrieve(url, filepath)
+    except urllib.error.URLError:
+        pass  # Use existing file if download fails
+
+    return filepath
+
+
 def fetch_and_sort_repos(repos: List[str]) -> List[Tuple[str, int, str]]:
-    """
-    Fetch all repo info and sort by star count descending.
-
-    Returns:
-        List of (repo, stars, description) tuples sorted by stars
-    """
+    """Fetch all repo info and sort by star count descending."""
     repo_data = []
-
     for repo in repos:
         repo_info = fetch_repo_info(repo)
         repo_data.append(repo_info)
-
-    # Sort by star count descending
     repo_data.sort(key=lambda x: x[1], reverse=True)
     return repo_data
 
 
-def generate_masonry_html(repos: List[str]) -> str:
-    """
-    Generate HTML with CSS columns for masonry layout.
+def read_svg_content(filepath: Path) -> str:
+    """Read SVG file content."""
+    with open(filepath, 'r', encoding='utf-8') as f:
+        return f.read()
 
-    Fetches repo stats, sorts by stars, then outputs HTML.
-    CSS columns automatically distribute cards and create waterfall effect.
+
+def calculate_svg_height(num_cards: int) -> int:
+    """Calculate approximate SVG height based on number of cards."""
+    cards_per_column = (num_cards + COLUMN_COUNT - 1) // COLUMN_COUNT
+    return cards_per_column * (CARD_HEIGHT + COLUMN_GAP) + PADDING * 2
+
+
+def generate_masonry_svg(repos: List[str]) -> str:
     """
+    Download SVG files and generate masonry layout SVG.
+
+    Returns SVG content with masonry layout.
+    """
+    CARDS_DIR.mkdir(exist_ok=True)
+
     # Fetch and sort repos
     sorted_repos = fetch_and_sort_repos(repos)
 
-    lines = ['<div style="column-count: 2; column-gap: 8px;">']
-
+    # Download all SVG files and prepare card HTML
+    cards_html = []
     for repo, stars, desc in sorted_repos:
-        url = f"https://gh-card.dev/repos/{repo}.svg"
-        link = f"https://github.com/{repo}"
-        lines.append(f'<a href="{link}"><img src="{url}" width="400"/></a>')
+        # Download SVG file
+        svg_path = download_svg(repo)
 
-    lines.append('</div>')
-    return '\n'.join(lines)
+        # Read SVG content
+        svg_content = read_svg_content(svg_path)
+
+        # Convert to data URI for embedding
+        import base64
+        svg_b64 = base64.b64encode(svg_content.encode('utf-8')).decode('utf-8')
+        data_uri = f"data:image/svg+xml;base64,{svg_b64}"
+
+        # Create clickable card
+        repo_link = f"https://github.com/{repo}"
+        cards_html.append(f'''  <a href="{repo_link}" target="_top" style="display: block; break-inside: avoid; margin-bottom: {COLUMN_GAP}px;">
+    <img src="{data_uri}" width="{CARD_WIDTH}" style="width: 100%; display: block; border-radius: 6px;" />
+  </a>''')
+
+    # Calculate SVG dimensions
+    svg_width = CARD_WIDTH * COLUMN_COUNT + COLUMN_GAP * (COLUMN_COUNT - 1) + PADDING * 2
+    svg_height = calculate_svg_height(len(sorted_repos))
+
+    # Build SVG with foreignObject
+    cards_html_str = '\n'.join(cards_html)
+
+    svg_template = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">
+  <style>
+    .masonry-container {{
+      column-count: {COLUMN_COUNT};
+      column-gap: {COLUMN_GAP}px;
+      padding: {PADDING}px;
+      width: {svg_width}px;
+      height: {svg_height}px;
+      box-sizing: border-box;
+    }}
+    .masonry-container a {{
+      text-decoration: none;
+      display: block;
+      break-inside: avoid;
+      margin-bottom: {COLUMN_GAP}px;
+    }}
+    .masonry-container img {{
+      width: 100%;
+      display: block;
+      border-radius: 6px;
+      transition: transform 0.2s ease;
+    }}
+    .masonry-container a:hover img {{
+      transform: scale(1.02);
+    }}
+  </style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="masonry-container">
+{cards_html_str}
+    </div>
+  </foreignObject>
+</svg>'''
+
+    return svg_template
+
+
+def generate_masonry_svg_file(repos: List[str], output_path: Path = None) -> Path:
+    """
+    Generate and save masonry SVG file.
+
+    Returns path to the generated SVG file.
+    """
+    CARDS_DIR.mkdir(exist_ok=True)
+
+    if output_path is None:
+        output_path = CARDS_DIR / "masonry_layout.svg"
+
+    svg_content = generate_masonry_svg(repos)
+
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(svg_content)
+
+    return output_path
 
 
 def main():
     """Main entry point - CLI mode."""
     if len(sys.argv) < 2:
         print("Usage: python generate_masonry.py owner/repo1 owner/repo2 ...", file=sys.stderr)
-        print("\nOutput: HTML div with CSS columns for masonry layout", file=sys.stderr)
+        print("\nOutput: Markdown reference to generated masonry SVG", file=sys.stderr)
         print("\nFeatures:", file=sys.stderr)
         print("  - Fetches star counts via gh CLI", file=sys.stderr)
         print("  - Sorts repos by stars (descending)", file=sys.stderr)
-        print("  - Generates CSS columns masonry HTML", file=sys.stderr)
+        print("  - Downloads SVG files to cards/ directory", file=sys.stderr)
+        print("  - Generates masonry layout SVG with CSS columns", file=sys.stderr)
+        print("  - Embeds cards as data URIs (self-contained)", file=sys.stderr)
         sys.exit(1)
 
     repos = sys.argv[1:]
-    html = generate_masonry_html(repos)
-    print(html)
+
+    # Generate masonry SVG file
+    svg_path = generate_masonry_svg_file(repos)
+
+    # Output Markdown reference
+    rel_path = str(svg_path)
+    print(f'[![]({rel_path})](#)')
 
 
 if __name__ == "__main__":

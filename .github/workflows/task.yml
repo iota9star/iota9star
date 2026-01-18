@@ -38,7 +38,7 @@ jobs:
             3. Pass repos to Python script (it will fetch stars and sort automatically)
 
             ## Step 2: Generate Masonry Layout
-            **CRITICAL**: Use the Python masonry tool to generate HTML masonry layout:
+            **CRITICAL**: Use the Python masonry tool to generate SVG cards:
 
             ```bash
             python scripts/generate_masonry.py owner/repo1 owner/repo2 owner/repo3 ...
@@ -47,20 +47,15 @@ jobs:
             The tool will:
             - Fetch star counts via gh CLI automatically
             - Sort repos by popularity (stars descending)
-            - Output HTML with CSS columns for true masonry layout:
-            ```html
-            <div style="column-count: 2; column-gap: 8px;">
-            <a href="https://github.com/owner/repo1"><img src="https://gh-card.dev/repos/owner/repo1.svg" width="400"/></a>
-            <a href="https://github.com/owner/repo2"><img src="https://gh-card.dev/repos/owner/repo2.svg" width="400"/></a>
-            ...
-            </div>
-            ```
+            - Download SVG files to cards/ directory
+            - Output Markdown with local SVG references (GitHub renders SVGs natively)
 
-            This creates a true masonry/waterfall layout where:
-            - CSS column-count automatically distributes cards across 2 columns
-            - Cards maintain aspect ratio (width=400px, height auto)
-            - Cards flow naturally creating waterfall effect
-            - No manual positioning needed
+            The output format is:
+            ```markdown
+            [![](cards/owner_repo.svg)](https://github.com/owner/repo)
+            [![](cards/owner_repo2.svg)](https://github.com/owner/repo2)
+            ...
+            ```
 
             ## Step 3: Generate README Content
 
@@ -84,7 +79,7 @@ jobs:
             - 💭 Philosophy / Approach
 
             **Masonry Layout:**
-            The Python tool generates complete HTML. Simply use its output directly in the Featured Projects section.
+            The Python tool generates Markdown with SVG file references. Use its output directly in the Featured Projects section. GitHub will render the SVG files natively.
 
 
             **Markdown Formatting Rules:**
