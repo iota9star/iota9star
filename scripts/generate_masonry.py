@@ -2,8 +2,8 @@
 """
 GitHub Profile Masonry Layout Generator
 
-Generates HTML table with project cards.
-GitHub renders images natively.
+Generates HTML table with project cards using gh-card.dev URLs.
+No local files needed - GitHub renders gh-card.dev images directly.
 
 Usage:
     python scripts/generate_masonry.py owner/repo1 owner/repo2 ...
@@ -14,13 +14,7 @@ Output:
 
 import sys
 import subprocess
-import urllib.request
-import urllib.error
-from pathlib import Path
 from typing import List, Tuple
-
-
-CARDS_DIR = Path("cards")
 
 
 def fetch_repo_stars(repo: str, max_retries: int = 2) -> Tuple[str, int]:
@@ -44,23 +38,6 @@ def fetch_repo_stars(repo: str, max_retries: int = 2) -> Tuple[str, int]:
     return repo, 0
 
 
-def download_svg(repo: str) -> Path:
-    """Download SVG file and return local path."""
-    CARDS_DIR.mkdir(exist_ok=True)
-
-    owner, name = repo.split("/")
-    filename = f"{owner}_{name}.svg"
-    filepath = CARDS_DIR / filename
-    url = f"https://gh-card.dev/repos/{repo}.svg"
-
-    try:
-        urllib.request.urlretrieve(url, filepath)
-    except urllib.error.URLError:
-        pass  # Use existing file if download fails
-
-    return filepath
-
-
 def fetch_and_sort_repos(repos: List[str]) -> List[Tuple[str, int]]:
     """Fetch all repo stars and sort by star count descending."""
     repo_data = []
@@ -73,27 +50,21 @@ def fetch_and_sort_repos(repos: List[str]) -> List[Tuple[str, int]]:
 
 def generate_masonry_html(repos: List[str]) -> str:
     """
-    Download SVG files and generate HTML table with img tags.
+    Generate HTML table with gh-card.dev URLs.
 
-    Returns HTML table with local SVG file references.
+    Returns HTML table with gh-card.dev image references.
     """
-    CARDS_DIR.mkdir(exist_ok=True)
-
     # Fetch and sort repos
     sorted_repos = fetch_and_sort_repos(repos)
 
-    # Download all SVG files and prepare HTML
+    # Prepare HTML with gh-card.dev URLs
     cards_html = []
     for repo, stars in sorted_repos:
-        # Download SVG file
-        svg_path = download_svg(repo)
-
-        # Get relative path from repo root
-        rel_path = str(svg_path)
+        card_url = f"https://gh-card.dev/repos/{repo}.svg"
         repo_link = f"https://github.com/{repo}"
 
-        # Generate HTML: <a href="repo_link"><img src="svg_path" /></a>
-        cards_html.append(f'<a href="{repo_link}"><img src="{rel_path}" alt="{repo}" /></a>')
+        # Generate HTML: <a href="repo_link"><img src="gh-card_url" /></a>
+        cards_html.append(f'<a href="{repo_link}"><img src="{card_url}" alt="{repo}" /></a>')
 
     # Create 2-column table layout
     lines = ['<table>', '<tr>']
@@ -119,7 +90,7 @@ def main():
         print("\nFeatures:", file=sys.stderr)
         print("  - Fetches star counts via gh CLI", file=sys.stderr)
         print("  - Sorts repos by stars (descending)", file=sys.stderr)
-        print("  - Downloads SVG files to cards/ directory", file=sys.stderr)
+        print("  - Uses gh-card.dev URLs (no local files)", file=sys.stderr)
         print("  - Generates 2-column table layout", file=sys.stderr)
         sys.exit(1)
 
