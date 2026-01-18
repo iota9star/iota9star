@@ -2,14 +2,14 @@
 """
 GitHub Profile Masonry Layout Generator
 
-Generates Markdown table with project cards.
-GitHub renders images natively without SVG complications.
+Generates HTML table with project cards.
+GitHub renders images natively.
 
 Usage:
     python scripts/generate_masonry.py owner/repo1 owner/repo2 ...
 
 Output:
-    Markdown with table layout
+    HTML table with 2-column layout
 """
 
 import sys
@@ -23,27 +23,25 @@ from typing import List, Tuple
 CARDS_DIR = Path("cards")
 
 
-def fetch_repo_info(repo: str, max_retries: int = 2) -> Tuple[str, int, str]:
-    """Fetch repository info using gh CLI with retry logic."""
+def fetch_repo_stars(repo: str, max_retries: int = 2) -> Tuple[str, int]:
+    """Fetch repository star count using gh CLI with retry logic."""
     cmd = [
         "gh", "repo", "view", repo,
-        "--json", "stargazerCount,description,name",
-        "--jq", '"\\(.name) | \\(.stargazerCount) | \\(.description)"'
+        "--json", "stargazerCount",
+        "--jq", ".stargazerCount"
     ]
 
     for attempt in range(max_retries + 1):
         try:
             result = subprocess.run(cmd, capture_output=True, text=True, timeout=10)
             if result.returncode == 0 and result.stdout.strip():
-                parts = result.stdout.strip().split(" | ", 2)
-                if len(parts) == 3:
-                    return repo, int(parts[1]), parts[2]
+                return repo, int(result.stdout.strip())
         except (subprocess.TimeoutExpired, ValueError, FileNotFoundError):
             if attempt < max_retries:
                 continue
             break
 
-    return repo, 0, ""
+    return repo, 0
 
 
 def download_svg(repo: str) -> Path:
@@ -63,17 +61,17 @@ def download_svg(repo: str) -> Path:
     return filepath
 
 
-def fetch_and_sort_repos(repos: List[str]) -> List[Tuple[str, int, str]]:
-    """Fetch all repo info and sort by star count descending."""
+def fetch_and_sort_repos(repos: List[str]) -> List[Tuple[str, int]]:
+    """Fetch all repo stars and sort by star count descending."""
     repo_data = []
     for repo in repos:
-        repo_info = fetch_repo_info(repo)
+        repo_info = fetch_repo_stars(repo)
         repo_data.append(repo_info)
     repo_data.sort(key=lambda x: x[1], reverse=True)
     return repo_data
 
 
-def generate_masonry_markdown(repos: List[str]) -> str:
+def generate_masonry_html(repos: List[str]) -> str:
     """
     Download SVG files and generate HTML table with img tags.
 
@@ -86,7 +84,7 @@ def generate_masonry_markdown(repos: List[str]) -> str:
 
     # Download all SVG files and prepare HTML
     cards_html = []
-    for repo, stars, desc in sorted_repos:
+    for repo, stars in sorted_repos:
         # Download SVG file
         svg_path = download_svg(repo)
 
@@ -117,7 +115,7 @@ def main():
     """Main entry point - CLI mode."""
     if len(sys.argv) < 2:
         print("Usage: python generate_masonry.py owner/repo1 owner/repo2 ...", file=sys.stderr)
-        print("\nOutput: Markdown with table layout", file=sys.stderr)
+        print("\nOutput: HTML table with 2-column layout", file=sys.stderr)
         print("\nFeatures:", file=sys.stderr)
         print("  - Fetches star counts via gh CLI", file=sys.stderr)
         print("  - Sorts repos by stars (descending)", file=sys.stderr)
@@ -126,8 +124,8 @@ def main():
         sys.exit(1)
 
     repos = sys.argv[1:]
-    markdown = generate_masonry_markdown(repos)
-    print(markdown)
+    html = generate_masonry_html(repos)
+    print(html)
 
 
 if __name__ == "__main__":
