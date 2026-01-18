@@ -93,7 +93,7 @@ def calculate_svg_height(num_cards: int) -> int:
 
 def generate_masonry_svg(repos: List[str]) -> str:
     """
-    Download SVG files and generate masonry layout SVG.
+    Download SVG files and generate masonry layout SVG using <image> elements.
 
     Returns SVG content with masonry layout.
     """
@@ -102,64 +102,47 @@ def generate_masonry_svg(repos: List[str]) -> str:
     # Fetch and sort repos
     sorted_repos = fetch_and_sort_repos(repos)
 
-    # Download all SVG files and prepare card HTML
-    cards_html = []
+    # Download all SVG files
+    card_paths = []
     for repo, stars, desc in sorted_repos:
-        # Download SVG file
         svg_path = download_svg(repo)
+        card_paths.append((repo, svg_path))
 
-        # Read SVG content
-        svg_content = read_svg_content(svg_path)
+    # Manual masonry layout: distribute cards across columns
+    column_heights = [PADDING] * COLUMN_COUNT
+    column_x = [PADDING + i * (CARD_WIDTH + COLUMN_GAP) for i in range(COLUMN_COUNT)]
 
-        # Convert to data URI for embedding
-        import base64
-        svg_b64 = base64.b64encode(svg_content.encode('utf-8')).decode('utf-8')
-        data_uri = f"data:image/svg+xml;base64,{svg_b64}"
+    # Build SVG with <image> elements positioned manually
+    images_svg = []
+    for i, (repo, svg_path) in enumerate(card_paths):
+        # Assign to column with minimum height (round-robin)
+        col = i % COLUMN_COUNT
 
-        # Create clickable card
+        # Position in column
+        x = column_x[col]
+        y = column_heights[col]
+
+        # Get relative path from repo root
+        rel_path = str(svg_path)
+
+        # Create clickable wrapper (using <a> in SVG)
         repo_link = f"https://github.com/{repo}"
-        cards_html.append(f'''  <a href="{repo_link}" target="_top" style="display: block; break-inside: avoid; margin-bottom: {COLUMN_GAP}px;">
-    <img src="{data_uri}" width="{CARD_WIDTH}" style="width: 100%; display: block; border-radius: 6px;" />
+        images_svg.append(f'''  <a href="{repo_link}" target="_top">
+    <image x="{x}" y="{y}" width="{CARD_WIDTH}" height="{CARD_HEIGHT}" href="{rel_path}" />
   </a>''')
+
+        # Update column height
+        column_heights[col] += CARD_HEIGHT + COLUMN_GAP
 
     # Calculate SVG dimensions
     svg_width = CARD_WIDTH * COLUMN_COUNT + COLUMN_GAP * (COLUMN_COUNT - 1) + PADDING * 2
-    svg_height = calculate_svg_height(len(sorted_repos))
+    svg_height = max(column_heights) + PADDING
 
-    # Build SVG with foreignObject
-    cards_html_str = '\n'.join(cards_html)
+    # Build SVG
+    images_svg_str = '\n'.join(images_svg)
 
-    svg_template = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">
-  <style>
-    .masonry-container {{
-      column-count: {COLUMN_COUNT};
-      column-gap: {COLUMN_GAP}px;
-      padding: {PADDING}px;
-      width: {svg_width}px;
-      height: {svg_height}px;
-      box-sizing: border-box;
-    }}
-    .masonry-container a {{
-      text-decoration: none;
-      display: block;
-      break-inside: avoid;
-      margin-bottom: {COLUMN_GAP}px;
-    }}
-    .masonry-container img {{
-      width: 100%;
-      display: block;
-      border-radius: 6px;
-      transition: transform 0.2s ease;
-    }}
-    .masonry-container a:hover img {{
-      transform: scale(1.02);
-    }}
-  </style>
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="masonry-container">
-{cards_html_str}
-    </div>
-  </foreignObject>
+    svg_template = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">
+{images_svg_str}
 </svg>'''
 
     return svg_template
