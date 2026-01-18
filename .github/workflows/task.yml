@@ -80,13 +80,15 @@ jobs:
             - Be creative and generous with emoji usage
             - Match emoji to content context
 
-            **Markdown Formatting Rules - CRITICAL:**
+            **Markdown Formatting Rules - CRITICAL - MUST FOLLOW:**
 
             GitHub Markdown line break rules:
-            - Line break (same line continues): TWO SPACES + ENTER at line end
-            - New paragraph: ENTER alone (creates blank line between)
-            - EXAMPLE: "Text here  " + ENTER + "Next text here" = displays on consecutive lines
-            - When using Write tool, ALWAYS add two spaces before ENTER when you want content to continue on next line without paragraph break
+            - To break a line WITHOUT creating a new paragraph: add EXACTLY TWO SPACES at end of line, then press ENTER
+            - To create a new paragraph: press ENTER alone (this creates blank line)
+            - EXAMPLE: Line 1 ends with two spaces  [ENTER]Line 2 continues here
+            - When writing the README, EVERY time you want text to continue on next line (without gap), you MUST add "  " (two spaces) before pressing ENTER
+            - This is MANDATORY for inline content, lists, and any compact formatting
+            - FAILURE to add two spaces will create paragraph breaks instead of line breaks
 
             **Two-Column Layout Pattern:**
             ```markdown
