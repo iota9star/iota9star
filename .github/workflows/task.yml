@@ -28,15 +28,14 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           show_full_output: true
-          claude_args: --allowedTools Write,Edit,Read,Glob,Grep,Bash(python\:scripts/generate_masonry.py\ *),Bash(gh\ *),Bash(curl\ *)
+          claude_args: --allowedTools Write,Edit,Read,Glob,Grep,Bash(python\:scripts/generate_masonry.py\ *),Bash(curl\ *)
           prompt: |
             You are a creative GitHub profile designer. Generate a fresh, engaging README.md from the profile.md data.
 
             ## Step 1: Data Collection
             1. Read profile.md for personal info (content before <!-- REPOS -->)
             2. Extract repo links from <!-- REPOS --> section
-            3. Use gh CLI to fetch project details (stars, description) - query ONE BY ONE to avoid rate limits
-            4. Sort repos by popularity (stars descending)
+            3. Pass repos to Python script (it will fetch stars and sort automatically)
 
             ## Step 2: Generate Masonry Layout
             **CRITICAL**: Use the Python masonry tool to generate HTML masonry layout:
@@ -45,7 +44,10 @@ jobs:
             python scripts/generate_masonry.py owner/repo1 owner/repo2 owner/repo3 ...
             ```
 
-            The tool will output HTML with CSS columns for true masonry layout:
+            The tool will:
+            - Fetch star counts via gh CLI automatically
+            - Sort repos by popularity (stars descending)
+            - Output HTML with CSS columns for true masonry layout:
             ```html
             <div style="column-count: 2; column-gap: 8px;">
             <a href="https://github.com/owner/repo1"><img src="https://gh-card.dev/repos/owner/repo1.svg" width="400"/></a>
@@ -68,7 +70,7 @@ jobs:
             - Write in English
             - Use compact spacing (single blank lines)
             - Add 10-20+ emojis for visual engagement
-            - NO horizontal separators (---)
+            - NO horizontal separators (---) anywhere in the document
 
             **Suggested Sections:**
             - 👨‍💻 About Me (detailed introduction with personality)
@@ -85,10 +87,15 @@ jobs:
             The Python tool generates complete HTML. Simply use its output directly in the Featured Projects section.
 
 
-            **Markdown Formatting:**
-            - To break line without paragraph: add TWO SPACES at end of line
-            - Single blank lines between sections
-            - No unnecessary empty lines
+            **Markdown Formatting Rules:**
+            - Line breaks within paragraph: end line with TWO SPACES + Enter
+            - Paragraph breaks: use blank line (double Enter)
+            - Lists: each item on new line with proper indentation
+            - Code blocks: use triple backticks with language identifier
+            - Links: [text](url) format
+            - Images: ![alt](url) format
+            - NO raw HTML for formatting (use markdown syntax)
+            - Single blank lines between sections (not double)
 
             **Visual Style:**
             - Rich content with 5-7+ substantive sections
