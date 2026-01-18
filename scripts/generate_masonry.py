@@ -69,12 +69,14 @@ def calculate_masonry(repos: List[str]) -> Dict:
     Calculate masonry layout for given repos.
 
     Returns dict with:
-    - total_height: total SVG height
+    - viewbox_width: SVG viewBox width (800 for 400px columns)
+    - viewbox_height: SVG viewBox height (total layout height)
     - cards: list of card data with positions
     """
     temp_dir = Path("temp")
     temp_dir.mkdir(exist_ok=True)
 
+    column_width = 400  # Width of each column in pixels
     gap = 8  # Gap between cards in pixels
     left_y = 0
     right_y = 0
@@ -86,28 +88,31 @@ def calculate_masonry(repos: List[str]) -> Dict:
 
         if left_y <= right_y:
             # Place in left column
-            x_pct = 0
+            x = 0
             y = left_y
             left_y += height + gap
         else:
             # Place in right column
-            x_pct = 50.5
+            x = column_width
             y = right_y
             right_y += height + gap
 
         cards.append({
             "repo": repo,
-            "x": x_pct,
+            "x": x,
             "y": y,
-            "width": width,
+            "width": column_width,
             "height": height,
             "url": f"https://gh-card.dev/repos/{repo}.svg"
         })
 
-    total_height = max(left_y, right_y)
+    viewbox_height = max(left_y, right_y)
+    viewbox_width = column_width * 2
 
     return {
-        "total_height": total_height,
+        "viewbox_width": viewbox_width,
+        "viewbox_height": viewbox_height,
+        "total_height": viewbox_height,
         "cards": cards
     }
 

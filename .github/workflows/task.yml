@@ -46,16 +46,18 @@ jobs:
             ```
 
             The tool will output JSON with:
-            - total_height: total SVG container height
-            - cards: array with x, y, width, height for each repo
+            - viewbox_width: SVG viewBox width (800)
+            - viewbox_height: SVG viewBox height (total layout height)
+            - cards: array with x, y, width, height for each repo (all in pixels)
 
             Example output:
             ```json
             {
-              "total_height": 1062,
+              "viewbox_width": 800,
+              "viewbox_height": 1062,
               "cards": [
-                {"repo": "owner/repo1", "x": 0, "y": 0, "height": 130},
-                {"repo": "owner/repo2", "x": 50.5, "y": 0, "height": 109}
+                {"repo": "owner/repo1", "x": 0, "y": 0, "width": 400, "height": 130},
+                {"repo": "owner/repo2", "x": 400, "y": 0, "width": 400, "height": 109}
               ]
             }
             ```
@@ -83,14 +85,18 @@ jobs:
 
             **Masonry SVG Generation Pattern:**
             ```markdown
-            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="{total_height}">
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 {viewbox_width} {viewbox_height}">
               <a href="https://github.com/{repo}">
-                <image x="{x}" y="{y}" width="49.5%" height="{height}" href="https://gh-card.dev/repos/{repo}.svg"/>
+                <image x="{x}" y="{y}" width="{width}" height="{height}" href="https://gh-card.dev/repos/{repo}.svg"/>
               </a>
               <!-- Repeat for all cards from layout data -->
             </svg>
             ```
-            Note: For x coordinate, use "0" (not "0%") for left column, "50.5%" for right column.
+            IMPORTANT:
+            - Use viewBox for responsive scaling (e.g., viewBox="0 0 800 1062")
+            - All coordinates in pixels (not percentages)
+            - Left column: x=0, Right column: x=400
+            - Cards will maintain aspect ratio automatically
 
             **Markdown Formatting:**
             - To break line without paragraph: add TWO SPACES at end of line
