@@ -75,38 +75,38 @@ def fetch_and_sort_repos(repos: List[str]) -> List[Tuple[str, int, str]]:
 
 def generate_masonry_markdown(repos: List[str]) -> str:
     """
-    Download SVG files and generate Markdown with table layout.
+    Download SVG files and generate HTML table with img tags.
 
-    Returns Markdown with local SVG file references.
+    Returns HTML table with local SVG file references.
     """
     CARDS_DIR.mkdir(exist_ok=True)
 
     # Fetch and sort repos
     sorted_repos = fetch_and_sort_repos(repos)
 
-    # Download all SVG files and prepare markdown
-    cards_md = []
+    # Download all SVG files and prepare HTML
+    cards_html = []
     for repo, stars, desc in sorted_repos:
         # Download SVG file
         svg_path = download_svg(repo)
 
         # Get relative path from repo root
         rel_path = str(svg_path)
-
-        # Generate Markdown: [![](svg)](repo_link)
         repo_link = f"https://github.com/{repo}"
-        cards_md.append(f'[![]({rel_path})]({repo_link})')
+
+        # Generate HTML: <a href="repo_link"><img src="svg_path" /></a>
+        cards_html.append(f'<a href="{repo_link}"><img src="{rel_path}" alt="{repo}" /></a>')
 
     # Create 2-column table layout
     lines = ['<table>', '<tr>']
-    for i, md in enumerate(cards_md):
+    for i, html in enumerate(cards_html):
         if i > 0 and i % 2 == 0:
             lines.append('</tr><tr>')
-        lines.append(f'<td align="center">{md}</td>')
+        lines.append(f'<td align="center">{html}</td>')
     lines.append('</tr>')
 
     # Handle odd number of cards
-    if len(cards_md) % 2 != 0:
+    if len(cards_html) % 2 != 0:
         lines.insert(-1, '<td></td>')
 
     lines.append('</table>')
