@@ -1,114 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="784" height="1040" viewBox="0 0 784 1040">
-  <a href="https://github.com/iota9star/mikan_flutter" target="_top">
-    <foreignObject x="8" y="8" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" width="380" />
-      </body>
-    </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="784" height="1099" viewBox="0 0 784 1099">
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/iota9star/mikan_flutter" target="_top">
+    <image x="8" y="8" width="380" height="109" xlink:href="cards/iota9star_mikan_flutter.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/fjs" target="_top">
-    <foreignObject x="396" y="8" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/fjs" target="_top">
+    <image x="396" y="8" width="380" height="130" xlink:href="cards/fluttercandies_fjs.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/dpad" target="_top">
-    <foreignObject x="8" y="136" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/dpad" target="_top">
+    <image x="8" y="125" width="380" height="130" xlink:href="cards/fluttercandies_dpad.svg" />
   </a>
-  <a href="https://github.com/iota9star/sakura-dmhy" target="_top">
-    <foreignObject x="396" y="136" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/iota9star/sakura-dmhy" target="_top">
+    <image x="396" y="146" width="380" height="109" xlink:href="cards/iota9star_sakura-dmhy.svg" />
   </a>
-  <a href="https://github.com/iota9star/kisssub" target="_top">
-    <foreignObject x="8" y="264" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/iota9star/kisssub.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/iota9star/kisssub" target="_top">
+    <image x="8" y="263" width="380" height="109" xlink:href="cards/iota9star_kisssub.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/json_dart" target="_top">
-    <foreignObject x="396" y="264" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/json_dart" target="_top">
+    <image x="396" y="263" width="380" height="109" xlink:href="cards/fluttercandies_json_dart.svg" />
   </a>
-  <a href="https://github.com/void-signals/void_signals" target="_top">
-    <foreignObject x="8" y="392" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/void-signals/void_signals.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/void-signals/void_signals" target="_top">
+    <image x="8" y="380" width="380" height="130" xlink:href="cards/void-signals_void_signals.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/f_limit" target="_top">
-    <foreignObject x="396" y="392" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/f_limit" target="_top">
+    <image x="396" y="380" width="380" height="130" xlink:href="cards/fluttercandies_f_limit.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/hora" target="_top">
-    <foreignObject x="8" y="520" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/hora.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/hora" target="_top">
+    <image x="8" y="518" width="380" height="130" xlink:href="cards/fluttercandies_hora.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/env2dart" target="_top">
-    <foreignObject x="396" y="520" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/env2dart" target="_top">
+    <image x="396" y="518" width="380" height="109" xlink:href="cards/fluttercandies_env2dart.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/flexbox_layout" target="_top">
-    <foreignObject x="8" y="648" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/flexbox_layout" target="_top">
+    <image x="396" y="635" width="380" height="109" xlink:href="cards/fluttercandies_flexbox_layout.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/dash_router" target="_top">
-    <foreignObject x="396" y="648" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/dash_router" target="_top">
+    <image x="8" y="656" width="380" height="130" xlink:href="cards/fluttercandies_dash_router.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/svgo" target="_top">
-    <foreignObject x="8" y="776" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/svgo" target="_top">
+    <image x="396" y="752" width="380" height="109" xlink:href="cards/fluttercandies_svgo.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/resx" target="_top">
-    <foreignObject x="396" y="776" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/resx.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/resx" target="_top">
+    <image x="8" y="794" width="380" height="151" xlink:href="cards/fluttercandies_resx.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/dotrix" target="_top">
-    <foreignObject x="8" y="904" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/dotrix" target="_top">
+    <image x="396" y="869" width="380" height="130" xlink:href="cards/fluttercandies_dotrix.svg" />
   </a>
-  <a href="https://github.com/fluttercandies/vcard_dart" target="_top">
-    <foreignObject x="396" y="904" width="380" height="120">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" width="380" />
-      </body>
-    </foreignObject>
+  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/fluttercandies/vcard_dart" target="_top">
+    <image x="8" y="953" width="380" height="130" xlink:href="cards/fluttercandies_vcard_dart.svg" />
   </a>
 </svg>

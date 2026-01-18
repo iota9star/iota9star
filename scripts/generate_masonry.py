@@ -91,54 +91,77 @@ def calculate_svg_height(num_cards: int) -> int:
     return cards_per_column * (CARD_HEIGHT + COLUMN_GAP) + PADDING * 2
 
 
+def get_svg_height(filepath: Path) -> int:
+    """Extract actual height from SVG file."""
+    try:
+        content = read_svg_content(filepath)
+        # Parse SVG to get viewBox or height attribute
+        import re
+        # Try viewBox first (format: viewBox="0 0 width height")
+        viewBox_match = re.search(r'viewBox="[^"]*\s+(\d+)', content)
+        if viewBox_match:
+            return int(viewBox_match.group(1))
+        # Try height attribute
+        height_match = re.search(r'height="(\d+)"', content)
+        if height_match:
+            return int(height_match.group(1))
+    except Exception:
+        pass
+    return CARD_HEIGHT  # Fallback to default height
+
+
 def generate_masonry_svg(repos: List[str]) -> str:
     """
-    Generate masonry layout SVG using <foreignObject> with <img> elements.
+    Generate masonry layout SVG using <image> elements with local file references.
 
     Returns SVG content with masonry layout.
     """
+    CARDS_DIR.mkdir(exist_ok=True)
+
     # Fetch and sort repos
     sorted_repos = fetch_and_sort_repos(repos)
+
+    # Download all SVG files and get their actual heights
+    card_data = []
+    for repo, stars, desc in sorted_repos:
+        svg_path = download_svg(repo)
+        actual_height = get_svg_height(svg_path)
+        card_data.append((repo, svg_path, actual_height))
 
     # Manual masonry layout: distribute cards across columns
     column_heights = [PADDING] * COLUMN_COUNT
     column_x = [PADDING + i * (CARD_WIDTH + COLUMN_GAP) for i in range(COLUMN_COUNT)]
 
-    # Build SVG with <foreignObject> elements positioned manually
-    foreign_objects = []
-    for i, (repo, stars, desc) in enumerate(sorted_repos):
-        # Assign to column with minimum height (round-robin)
-        col = i % COLUMN_COUNT
+    # Build SVG with <image> elements positioned manually
+    images_svg = []
+    for i, (repo, svg_path, height) in enumerate(card_data):
+        # Assign to column with minimum height
+        col = column_heights.index(min(column_heights))
 
         # Position in column
         x = column_x[col]
         y = column_heights[col]
 
-        # Use gh-card.dev URL directly
-        card_url = f"https://gh-card.dev/repos/{repo}.svg"
+        # Get relative path from repo root
+        rel_path = str(svg_path)
         repo_link = f"https://github.com/{repo}"
 
-        # Create foreignObject with HTML img
-        foreign_objects.append(f'''  <a href="{repo_link}" target="_top">
-    <foreignObject x="{x}" y="{y}" width="{CARD_WIDTH}" height="{CARD_HEIGHT}">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
-        <img src="{card_url}" width="{CARD_WIDTH}" />
-      </body>
-    </foreignObject>
+        images_svg.append(f'''  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{repo_link}" target="_top">
+    <image x="{x}" y="{y}" width="{CARD_WIDTH}" height="{height}" xlink:href="{rel_path}" />
   </a>''')
 
         # Update column height
-        column_heights[col] += CARD_HEIGHT + COLUMN_GAP
+        column_heights[col] += height + COLUMN_GAP
 
     # Calculate SVG dimensions
     svg_width = CARD_WIDTH * COLUMN_COUNT + COLUMN_GAP * (COLUMN_COUNT - 1) + PADDING * 2
     svg_height = max(column_heights) + PADDING
 
     # Build SVG
-    foreign_objects_str = '\n'.join(foreign_objects)
+    images_svg_str = '\n'.join(images_svg)
 
     svg_template = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">
-{foreign_objects_str}
+{images_svg_str}
 </svg>'''
 
     return svg_template
