@@ -1,54 +1,46 @@
-<div align="center">
+# Hi there! I'm iota9star 👋
 
-# 👋 Hi, I'm iota9star
-
-### **Full Stack Developer | Rust & Java Backend | Product Mindset**
-
-Building digital experiences across the stack — from high-performance backends to elegant frontends.
-
-![profile-3d-contrib](profile-3d-contrib/profile-season-animate.svg)
-
-</div>
+Full Stack Developer | Rust & Java Backend | Product Mindset
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **iota9star**, a passionate full-stack developer with a love for building products that make a difference. I specialize in **Rust** and **Java** backend development, but I'm equally comfortable crafting beautiful frontends with **React**, **Vue**, and **Flutter**.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating software that not only works well but also delivers exceptional user experiences.
 
-I believe in the power of **AI-assisted development** and constantly explore new ways to enhance productivity through intelligent tooling. Whether it's architecting microservices or designing intuitive mobile experiences, I bring a product-first mindset to every project.
+As an AI practitioner, I'm proficient in AI-powered development workflows and constantly exploring how code assistants can enhance productivity and code quality.
 
 ## 🎯 What I Do
 
-🔹 **High-Performance Backend Systems** — Building scalable services with Rust (Axum) and Java (Spring)
-🔹 **Cross-Platform Mobile Apps** — Creating beautiful Flutter experiences for iOS and Android
-🔹 **Modern Web Applications** — Crafting responsive frontends with React and Vue
-🔹 **Web3 & Blockchain** — Exploring decentralized tech on BTC, EVM, and IC
-🔹 **Open Source Contributions** — Actively contributing to the Flutter ecosystem and beyond
+Backend Development: Crafting robust, scalable systems with Rust and Java
+Frontend Engineering: Building responsive, intuitive interfaces with React and Flutter
+Web3 Exploration: Diving into blockchain technologies across BTC, EVM, and IC ecosystems
+Open Source: Contributing to the Flutter community and beyond
+Product Thinking: Bridging the gap between technical implementation and user needs
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Backend
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Axum](https://img.shields.io/badge/-Axum-FFFFFF?style=flat-square&logo=rust&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-FF6B6B?style=flat-square&logo=微服务&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-2B2B2B?style=flat-square&logo=tokio&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6600?style=flat-square&logo=microservices&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ### Web3
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Internet Computer](https://img.shields.io/badge/-IC-000000?style=flat-square&logo=dfinity&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Internet Computer](https://img.shields.io/badge/IC-4A4A4A?style=flat-square&logo=internetcomputer&logoColor=white)
 
 ## 🔥 Featured Projects
 
@@ -80,39 +72,32 @@ I believe in the power of **AI-assisted development** and constantly explore new
 </tr>
 </table>
 
+## 📊 Contribution Activity
+
+![](profile-3d-contrib/profile-season-animate.svg)
+
 ## 💡 Philosophy
 
-> "We have no eternal friends, and no eternal enemies, only eternal interests."
-> — 亨利·坦普尔 (Henry Temple)
+> "点亮星火，眺望未来。"
+> — 星火集
 
-I believe in writing clean, maintainable code that stands the test of time. Every line of code is an investment in the future.
+Light the spark and gaze toward the future. I believe in the power of small contributions to ignite meaningful change in the software ecosystem.
 
 ## 🏆 Highlights
 
-✨ **Flutter Ecosystem Contributor** — Active member of FlutterCandies, building tools that empower developers worldwide
-🚀 **Full-Stack Mastery** — From database design to pixel-perfect UIs, I own the entire development lifecycle
-🤖 **AI-Enhanced Workflow** — Leveraging AI assistants to boost productivity without compromising quality
-🌐 **Web3 Explorer** — Diving deep into blockchain technology and decentralized systems
-
-## 📊 Quick Stats
-
-🎯 **Focus Areas**: Backend Development, Mobile Apps, Open Source
-💻 **Primary Languages**: Rust, Java, Kotlin, TypeScript, Dart
-🌟 **Active Contributor**: Flutter ecosystem and Rust community
-🔄 **Continuous Learner**: Always exploring new technologies and methodologies
+Active contributor to the Flutter ecosystem through FlutterCandies
+Building practical tools that solve real-world development challenges
+Exploring the intersection of AI and software development
+Passionate about knowledge sharing and community building
 
 ## 📧 Connect
 
-💬 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-🐦 **Twitter**: [@iota9star](https://x.com/iota9star)
-📝 **Blog (掘金)**: [juejin.cn/user/1591748568562829](https://juejin.cn/user/1591748568562829)
+Let's connect and build something amazing together!
+
+Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+X (Twitter): [@iota9star](https://x.com/iota9star)
+Juejin Blog: [Visit Blog](https://juejin.cn/user/1591748568562829)
 
 ---
 
-<div align="center">
-
-⭐ **Star my repos if you find them useful!**
-🤖 **Open to collaborations and interesting projects**
-💡 **Always learning, always building**
-
-</div>
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. Happy coding! 🚀
