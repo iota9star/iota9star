@@ -42,7 +42,7 @@ jobs:
 
             **Core Requirements:**
             - Use GitHub Cards: <a href="repo-url"><img src="https://gh-card.dev/repos/owner/repo.svg"></a>
-            - **CRITICAL: Display repo cards in TWO-COLUMN layout using HTML table**
+            - **CRITICAL: Display repo cards in TWO-COLUMN layout using SVG with embedded links**
             - Include a quote from: curl -s https://v1.hitokoto.cn/
             - Write in English
             - Use the Write tool to save the generated content to README.md
@@ -67,6 +67,7 @@ jobs:
             - No unnecessary empty lines at start/end
             - Compact but not cramped - readable but efficient
             - Minimize vertical whitespace while maximizing content
+            - **DO NOT use horizontal separators (---) between sections**
 
             **Emoji Guidelines - USE FREELY & CREATIVELY:**
 
@@ -90,11 +91,30 @@ jobs:
             - This is MANDATORY for inline content, lists, and any compact formatting
             - FAILURE to add two spaces will create paragraph breaks instead of line breaks
 
-            **Two-Column Layout Pattern:**
+            **Two-Column Layout Pattern with SVG:**
+
+            Use inline SVG for two-column repo card layout (replace HTML tables):
             ```markdown
-            <table><tr><td><a href="repo1-url"><img src="https://gh-card.dev/repos/owner/repo1.svg"></a></td><td><a href="repo2-url"><img src="https://gh-card.dev/repos/owner/repo2.svg"></a></td></tr><tr><td><a href="repo3-url"><img src="https://gh-card.dev/repos/owner/repo3.svg"></a></td><td><a href="repo4-url"><img src="https://gh-card.dev/repos/owner/repo4.svg"></a></td></tr></table>
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="180">
+              <a href="repo1-url">
+                <image x="0" y="0" width="49.5%" height="180" href="https://gh-card.dev/repos/owner/repo1.svg"/>
+              </a>
+              <a href="repo2-url">
+                <image x="50.5%" y="0" width="49.5%" height="180" href="https://gh-card.dev/repos/owner/repo2.svg"/>
+              </a>
+            </svg>
             ```
-            Note: Format table as compact single-line for better GitHub markdown compatibility.
+            For more than 2 cards, create multiple SVG blocks (2 cards each):
+            ```markdown
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="180">
+              <a href="repo1-url"><image x="0" y="0" width="49.5%" height="180" href="https://gh-card.dev/repos/owner/repo1.svg"/></a>
+              <a href="repo2-url"><image x="50.5%" y="0" width="49.5%" height="180" href="https://gh-card.dev/repos/owner/repo2.svg"/></a>
+            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="180">
+              <a href="repo3-url"><image x="0" y="0" width="49.5%" height="180" href="https://gh-card.dev/repos/owner/repo3.svg"/></a>
+              <a href="repo4-url"><image x="50.5%" y="0" width="49.5%" height="180" href="https://gh-card.dev/repos/owner/repo4.svg"/></a>
+            </svg>
+            ```
 
             **Suggested Sections (include multiple for richness):**
             - 👨‍💻 About / Introduction (detailed, with personality)
@@ -111,6 +131,7 @@ jobs:
             - Rich content with 5-7+ substantive sections
             - Colorful and engaging with 10-20+ emojis
             - Compact spacing (single blank lines)
+            - **NO horizontal separators (---)**
             - Professional yet personality-filled
             - Information-dense but easy to scan
             - Feels complete and comprehensive
