@@ -4,7 +4,7 @@
 
 Building digital experiences across the stack — from high-performance backends to elegant frontends. I craft code with precision, driven by curiosity and a passion for creating impactful software.
 
-![count viewed](https://count.getloli.com/get/@iota9star:iota9star?theme=rule34)
+![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 🎯 What I Do
 

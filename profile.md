@@ -4,7 +4,7 @@ Hi, I'm **iota9star**
 
 Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
-![count viewed](https://count.getloli.com/get/@iota9star:iota9star?theme=rule34)
+![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ---
 
