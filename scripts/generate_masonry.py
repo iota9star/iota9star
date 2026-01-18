@@ -93,7 +93,7 @@ def calculate_svg_height(num_cards: int) -> int:
 
 def generate_masonry_svg(repos: List[str]) -> str:
     """
-    Generate masonry layout SVG using <image> elements with gh-card.dev URLs.
+    Generate masonry layout SVG using <foreignObject> with <img> elements.
 
     Returns SVG content with masonry layout.
     """
@@ -104,8 +104,8 @@ def generate_masonry_svg(repos: List[str]) -> str:
     column_heights = [PADDING] * COLUMN_COUNT
     column_x = [PADDING + i * (CARD_WIDTH + COLUMN_GAP) for i in range(COLUMN_COUNT)]
 
-    # Build SVG with <image> elements positioned manually
-    images_svg = []
+    # Build SVG with <foreignObject> elements positioned manually
+    foreign_objects = []
     for i, (repo, stars, desc) in enumerate(sorted_repos):
         # Assign to column with minimum height (round-robin)
         col = i % COLUMN_COUNT
@@ -118,8 +118,13 @@ def generate_masonry_svg(repos: List[str]) -> str:
         card_url = f"https://gh-card.dev/repos/{repo}.svg"
         repo_link = f"https://github.com/{repo}"
 
-        images_svg.append(f'''  <a href="{repo_link}" target="_top">
-    <image x="{x}" y="{y}" width="{CARD_WIDTH}" height="{CARD_HEIGHT}" href="{card_url}" />
+        # Create foreignObject with HTML img
+        foreign_objects.append(f'''  <a href="{repo_link}" target="_top">
+    <foreignObject x="{x}" y="{y}" width="{CARD_WIDTH}" height="{CARD_HEIGHT}">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0;">
+        <img src="{card_url}" width="{CARD_WIDTH}" />
+      </body>
+    </foreignObject>
   </a>''')
 
         # Update column height
@@ -130,10 +135,10 @@ def generate_masonry_svg(repos: List[str]) -> str:
     svg_height = max(column_heights) + PADDING
 
     # Build SVG
-    images_svg_str = '\n'.join(images_svg)
+    foreign_objects_str = '\n'.join(foreign_objects)
 
     svg_template = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">
-{images_svg_str}
+{foreign_objects_str}
 </svg>'''
 
     return svg_template
