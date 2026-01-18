@@ -1,95 +1,96 @@
-# 👋 Hi, I'm iota9star
+# 👨‍💻 Hi, I'm **iota9star**
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
+**Full Stack Developer | Rust & Java Backend | Product Mindset** 👋
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating tools that developers love to use and solving complex problems with elegant solutions.
+Building digital experiences across the stack — from high-performance backends to elegant frontends.  I'm passionate about creating tools that developers love to use and solving complex problems with elegant solutions.
 
-## 💫 About Me
-
-🚀 Software engineer with a product mindset who bridges the gap between technical excellence and user experience. I believe great software is not just about code — it's about understanding people's needs and delivering solutions that make a real difference.
-
-💡 When I'm not coding, you'll find me exploring new technologies, contributing to open source, or diving deep into Web3 and decentralized systems. I love turning ideas into reality, one commit at a time.
+---
 
 ## 🎯 What I Do
 
-🔧 **Backend Architecture**: Building scalable, high-performance systems with Rust and Java
-🎨 **Frontend Development**: Creating beautiful, responsive interfaces with React, Vue, and Flutter
-⚡ **Developer Tools**: Crafting libraries and tools that make development faster and more enjoyable
-🌐 **Web3 Exploration**: Diving into BTC, EVM, and Internet Computer ecosystems
-🏗️ **Full Stack Solutions**: End-to-end development from database to deployment
+I focus on building **high-performance systems** and **developer-friendly tools**. My work spans multiple domains:
 
-## 🛠️ Tech Stack
+- 🦀 **Rust Backend** — Crafting fast, reliable services with Axum
+- ☕ **Java Ecosystem** — Building scalable microservices with Spring
+- 📱 **Cross-Platform Apps** — Creating beautiful Flutter applications
+- 🌐 **Full Stack Web** — From React/Vue frontends to Node.js backends
+- ⛓️ **Web3 Development** — Working with BTC, EVM, and IC technologies
 
-### 🎯 Core Languages
-`Rust` `Java` `Kotlin` `TypeScript` `Dart` `JavaScript` `Python`
+---
 
-### ⚙️ Backend & Frameworks
-`Axum` `Spring Boot` `Microservices` `Node.js` `QuickJS` `Actix`
+## 🛠️ Core Stack
 
-### 🎨 Frontend & Mobile
-`React` `Vue.js` `Flutter` `Dart` `CSS3` `HTML5`
+**Languages**
+`Rust` `Java` `Kotlin` `TypeScript` `Dart`
 
-### 🔧 Tools & Platforms
-`Git` `Docker` `Linux` `REST APIs` `GraphQL` `Web3`
+**Backend**
+`Axum` `Spring` `Microservices` `Node.js`
 
-## 🏆 Featured Projects
+**Frontend & Mobile**
+`React` `Vue` `Flutter`
 
-Here are some of my most popular open source contributions:
+**Web3**
+`BTC` `EVM` `IC`
 
-<table><tr><td><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg"></a></td><td><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg"></a></td></tr><tr><td><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg"></a></td><td><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg"></a></td></tr><tr><td><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg"></a></td><td><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg"></a></td></tr><tr><td><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg"></a></td><td><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg"></a></td></tr><tr><td><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg"></a></td><td><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg"></a></td></tr><tr><td><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg"></a></td><td><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg"></a></td></tr><tr><td><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg"></a></td><td><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg"></a></td></tr><tr><td><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg"></a></td><td><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg"></a></td></tr></table>
+---
 
 ## 📊 Quick Stats
 
-- 🎯 **14+** repositories contributed across Flutter/Dart ecosystem
-- ⭐ **1,500+** total stars on open source projects
-- 🔥 **mikan_flutter** with **1,100+** stars — most popular project
-- 💪 Active contributor to **fluttercandies** organization
-- 🌟 Building tools that make developers' lives easier
+⭐ **1,183+** stars across my projects
+🔧 **15+** open source repositories
+👥 **Active contributor** in the Flutter community
 
-## 💬 Philosophy & Approach
+---
 
-🎯 **Code Quality First**: I believe clean, maintainable code is the foundation of great software. Every line should have purpose, every function should be clear.
+## 🔥 Featured Projects
 
-🔄 **Continuous Learning**: Technology evolves fast, and so do I. Always exploring new languages, frameworks, and paradigms to stay ahead.
+### 🍎 Most Popular
 
-🤝 **Community Driven**: Open source is about more than code — it's about building together, learning from each other, and creating tools that serve the community.
+<table><tr><td><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg"></a></td><td><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg"></a></td></tr></table>
 
-## 🌟 Highlights & Achievements
+### 📱 Flutter Ecosystem
 
-🏆 Created **fjs** — a high-performance JavaScript runtime for Flutter built with Rust and QuickJS
-📦 Developed comprehensive Dart tooling ecosystem at **fluttercandies**
-🎮 Built specialized navigation libraries for TV and mobile platforms
-⚡ Contributed to state management and reactive programming in Flutter
-🌐 Active in Web3 space, exploring blockchain technologies
+<table><tr><td><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg"></a></td><td><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg"></a></td></tr><tr><td><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg"></a></td><td><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg"></a></td></tr></table>
 
-## 💭 Interests
+### 🛠️ Developer Tools
 
-🔬 **Systems Programming**: Love diving deep into how things work under the hood
-🎨 **UI/UX Design**: Crafting interfaces that users love to interact with
-📚 **Knowledge Sharing**: Writing blogs and tutorials to help others grow
-🌍 **Decentralization**: Exploring the future of distributed systems
-🎵 **Anime & Media**: Building tools for media consumption and management
+<table><tr><td><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg"></a></td><td><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg"></a></td></tr><tr><td><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg"></a></td><td><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg"></a></td></tr></table>
 
-## 📧 Get In Touch
+### 🎨 UI & Utilities
 
-Let's connect! I'm always open to interesting discussions, collaborations, or just a friendly chat.
+<table><tr><td><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg"></a></td><td><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg"></a></td></tr><tr><td><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg"></a></td><td><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg"></a></td></tr><tr><td><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg"></a></td><td><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg"></a></td></tr></table>
 
-- 📮 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-- 🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
-- 📝 **Blog**: [Juejin](https://juejin.cn/user/1591748568562829)
+---
+
+## 💡 Philosophy
+
+> *"你很朴实＝你可以无偿为我工作而且不抱怨。"*
+> — 不知名网友
+
+Translation: *"Being simple means you can work for me for free without complaining."*
+
+A humorous reminder that simplicity in software is valuable — and that developers deserve to be appreciated!  I believe in building tools that are simple to use, powerful under the hood, and respectful of developers' time.
+
+---
+
+## 🏆 Highlights
+
+- ⭐ Created **mikan_flutter** — my most starred project (1,183+ stars)
+- 🦀 Built **fjs** — high-performance JS runtime for Flutter using Rust
+- 📢 Active **FlutterCandies** contributor — improving the Flutter ecosystem
+- 🎯 Focused on **developer experience** — tools that make coding enjoyable
+
+---
+
+## 📧 Connect With Me
+
+Let's build something amazing together!
+
+- 📧 **Email**: [iota9star](mailto:iota9star@gmail.com)
+- 𝕏 **Twitter**: [@iota9star](https://x.com/iota9star)
+- 📝 **Blog** (Juejin): [技术文章](https://juejin.cn/user/1591748568562829)
 - 💼 **GitHub**: [iota9star](https://github.com/iota9star)
 
 ---
 
-## 💭 Quote of the Day
-
-> 想不完的思念，道不尽的话。
-> — 陈树凤
-
----
-
 ![](profile-3d-contrib/profile-season-animate.svg)
-
----
-
-**⚡ Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.**
