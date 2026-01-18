@@ -38,34 +38,32 @@ jobs:
             3. Use gh CLI to fetch project details (stars, description) - query ONE BY ONE to avoid rate limits
             4. Sort repos by popularity (stars descending)
 
-            ## Step 2: Calculate Masonry Layout
-            **CRITICAL**: Use the Python masonry tool to calculate layout positions:
+            ## Step 2: Generate Masonry Layout
+            **CRITICAL**: Use the Python masonry tool to generate HTML masonry layout:
 
             ```bash
             python scripts/generate_masonry.py owner/repo1 owner/repo2 owner/repo3 ...
             ```
 
-            The tool will output JSON with:
-            - viewbox_width: SVG viewBox width (800)
-            - viewbox_height: SVG viewBox height (total layout height)
-            - cards: array with x, y, width, height for each repo (all in pixels)
-
-            Example output:
-            ```json
-            {
-              "viewbox_width": 800,
-              "viewbox_height": 1062,
-              "cards": [
-                {"repo": "owner/repo1", "x": 0, "y": 0, "width": 400, "height": 130},
-                {"repo": "owner/repo2", "x": 400, "y": 0, "width": 400, "height": 109}
-              ]
-            }
+            The tool will output HTML with CSS columns for true masonry layout:
+            ```html
+            <div style="column-count: 2; column-gap: 8px;">
+            <a href="https://github.com/owner/repo1"><img src="https://gh-card.dev/repos/owner/repo1.svg" width="400"/></a>
+            <a href="https://github.com/owner/repo2"><img src="https://gh-card.dev/repos/owner/repo2.svg" width="400"/></a>
+            ...
+            </div>
             ```
+
+            This creates a true masonry/waterfall layout where:
+            - CSS column-count automatically distributes cards across 2 columns
+            - Cards maintain aspect ratio (width=400px, height auto)
+            - Cards flow naturally creating waterfall effect
+            - No manual positioning needed
 
             ## Step 3: Generate README Content
 
             **Core Requirements:**
-            - Use the layout data from Step 2 to create masonry SVG
+            - Use the HTML output from Python tool for masonry layout
             - Include rich, diverse content sections
             - Write in English
             - Use compact spacing (single blank lines)
@@ -83,20 +81,9 @@ jobs:
             - 📧 Connect (social links)
             - 💭 Philosophy / Approach
 
-            **Masonry SVG Generation Pattern:**
-            ```markdown
-            <svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 {viewbox_width} {viewbox_height}">
-              <a href="https://github.com/{repo}">
-                <image x="{x}" y="{y}" width="{width}" height="{height}" href="https://gh-card.dev/repos/{repo}.svg"/>
-              </a>
-              <!-- Repeat for all cards from layout data -->
-            </svg>
-            ```
-            IMPORTANT:
-            - Use viewBox for responsive scaling (e.g., viewBox="0 0 800 1062")
-            - All coordinates in pixels (not percentages)
-            - Left column: x=0, Right column: x=400
-            - Cards will maintain aspect ratio automatically
+            **Masonry Layout:**
+            The Python tool generates complete HTML. Simply use its output directly in the Featured Projects section.
+
 
             **Markdown Formatting:**
             - To break line without paragraph: add TWO SPACES at end of line

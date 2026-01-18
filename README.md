@@ -38,50 +38,22 @@ I focus on building **high-performance systems** and **developer-friendly tools*
 
 ## 🔥 Featured Projects
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 800 1132">
-  <a href="https://github.com/iota9star/mikan_flutter">
-    <image x="0" y="0" width="400" height="200" href="https://gh-card.dev/repos/iota9star/mikan_flutter.svg"/>
-  </a>
-  <a href="https://github.com/fluttercandies/fjs">
-    <image x="400" y="0" width="400" height="130" href="https://gh-card.dev/repos/fluttercandies/fjs.svg"/>
-  </a>
-  <a href="https://github.com/fluttercandies/dpad">
-    <image x="400" y="138" width="400" height="130" href="https://gh-card.dev/repos/fluttercandies/dpad.svg"/>
-  </a>
-  <a href="https://github.com/iota9star/sakura-dmhy">
-    <image x="0" y="208" width="400" height="200" href="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg"/>
-  </a>
-  <a href="https://github.com/iota9star/kisssub">
-    <image x="400" y="276" width="400" height="200" href="https://gh-card.dev/repos/iota9star/kisssub.svg"/>
-  </a>
-  <a href="https://github.com/fluttercandies/json_dart">
-    <image x="0" y="416" width="400" height="200" href="https://gh-card.dev/repos/fluttercandies/json_dart.svg"/>
-  </a>
-  <a href="https://github.com/void-signals/void_signals">
-    <image x="400" y="484" width="400" height="130" href="https://gh-card.dev/repos/void-signals/void_signals.svg"/>
-  </a>
-  <a href="https://github.com/fluttercandies/f_limit">
-    <image x="400" y="622" width="400" height="130" href="https://gh-card.dev/repos/fluttercandies/f_limit.svg"/>
-  </a>
-  <a href="https://github.com/fluttercandies/hora">
-    <image x="0" y="624" width="400" height="130" href="https://gh-card.dev/repos/fluttercandies/hora.svg"/>
-  </a>
-  <a href="https://github.com/fluttercandies/env2dart">
-    <image x="400" y="760" width="400" height="109" href="https://gh-card.dev/repos/fluttercandies/env2dart.svg"/>
-  </a>
-  <a href="https://github.com/fluttercandies/dash_router">
-    <image x="0" y="762" width="400" height="130" href="https://gh-card.dev/repos/fluttercandies/dash_router.svg"/>
-  </a>
-  <a href="https://github.com/fluttercandies/svgo">
-    <image x="400" y="877" width="400" height="109" href="https://gh-card.dev/repos/fluttercandies/svgo.svg"/>
-  </a>
-  <a href="https://github.com/fluttercandies/resx">
-    <image x="0" y="900" width="400" height="151" href="https://gh-card.dev/repos/fluttercandies/resx.svg"/>
-  </a>
-  <a href="https://github.com/fluttercandies/dotrix">
-    <image x="400" y="994" width="400" height="130" href="https://gh-card.dev/repos/fluttercandies/dotrix.svg"/>
-  </a>
-</svg>
+<div style="column-count: 2; column-gap: 8px;">
+<a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" width="400"/></a>
+<a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" width="400"/></a>
+<a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" width="400"/></a>
+<a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" width="400"/></a>
+<a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg" width="400"/></a>
+<a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" width="400"/></a>
+<a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" width="400"/></a>
+<a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" width="400"/></a>
+<a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" width="400"/></a>
+<a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" width="400"/></a>
+<a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" width="400"/></a>
+<a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" width="400"/></a>
+<a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" width="400"/></a>
+<a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" width="400"/></a>
+</div>
 
 ## 💡 Philosophy
 

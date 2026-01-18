@@ -121,12 +121,28 @@ def main():
     """Main entry point - CLI mode."""
     if len(sys.argv) < 2:
         print("Usage: python generate_masonry.py owner/repo1 owner/repo2 ...", file=sys.stderr)
-        print("\nOutput: JSON with layout data", file=sys.stderr)
+        print("\nOutput: HTML div with CSS columns for masonry layout", file=sys.stderr)
         sys.exit(1)
 
     repos = sys.argv[1:]
-    result = calculate_masonry(repos)
-    print(json.dumps(result, indent=2))
+
+    # Download to get card data (needed for display)
+    temp_dir = Path("temp")
+    temp_dir.mkdir(exist_ok=True)
+
+    cards = []
+    for repo in repos:
+        filepath, (width, height) = download_svg(repo, temp_dir)
+        cards.append({
+            "repo": repo,
+            "url": f"https://gh-card.dev/repos/{repo}.svg"
+        })
+
+    # Generate HTML with CSS columns
+    print('<div style="column-count: 2; column-gap: 8px;">')
+    for card in cards:
+        print(f'<a href="https://github.com/{card["repo"]}"><img src="{card["url"]}" width="400"/></a>')
+    print('</div>')
 
 
 if __name__ == "__main__":
