@@ -2,31 +2,25 @@
 """
 GitHub Profile Masonry Layout Generator
 
-Generates SVG with masonry (waterfall) layout using CSS columns.
-The SVG can be embedded in GitHub README.
+Generates Markdown table with project cards.
+GitHub renders images natively without SVG complications.
 
 Usage:
     python scripts/generate_masonry.py owner/repo1 owner/repo2 ...
 
 Output:
-    SVG file with masonry layout
+    Markdown with table layout
 """
 
 import sys
 import subprocess
 import urllib.request
 import urllib.error
-import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import List, Tuple
 
 
 CARDS_DIR = Path("cards")
-CARD_WIDTH = 380  # gh-card width
-CARD_HEIGHT = 120  # approximate height per card
-COLUMN_GAP = 8    # gap between columns
-COLUMN_COUNT = 2  # number of columns
-PADDING = 8       # container padding
 
 
 def fetch_repo_info(repo: str, max_retries: int = 2) -> Tuple[str, int, str]:
@@ -79,134 +73,61 @@ def fetch_and_sort_repos(repos: List[str]) -> List[Tuple[str, int, str]]:
     return repo_data
 
 
-def read_svg_content(filepath: Path) -> str:
-    """Read SVG file content."""
-    with open(filepath, 'r', encoding='utf-8') as f:
-        return f.read()
-
-
-def calculate_svg_height(num_cards: int) -> int:
-    """Calculate approximate SVG height based on number of cards."""
-    cards_per_column = (num_cards + COLUMN_COUNT - 1) // COLUMN_COUNT
-    return cards_per_column * (CARD_HEIGHT + COLUMN_GAP) + PADDING * 2
-
-
-def get_svg_height(filepath: Path) -> int:
-    """Extract actual height from SVG file."""
-    try:
-        content = read_svg_content(filepath)
-        # Parse SVG to get viewBox or height attribute
-        import re
-        # Try viewBox first (format: viewBox="0 0 width height")
-        viewBox_match = re.search(r'viewBox="[^"]*\s+(\d+)', content)
-        if viewBox_match:
-            return int(viewBox_match.group(1))
-        # Try height attribute
-        height_match = re.search(r'height="(\d+)"', content)
-        if height_match:
-            return int(height_match.group(1))
-    except Exception:
-        pass
-    return CARD_HEIGHT  # Fallback to default height
-
-
-def generate_masonry_svg(repos: List[str]) -> str:
+def generate_masonry_markdown(repos: List[str]) -> str:
     """
-    Generate masonry layout SVG using <image> elements with local file references.
+    Download SVG files and generate Markdown with table layout.
 
-    Returns SVG content with masonry layout.
+    Returns Markdown with local SVG file references.
     """
     CARDS_DIR.mkdir(exist_ok=True)
 
     # Fetch and sort repos
     sorted_repos = fetch_and_sort_repos(repos)
 
-    # Download all SVG files and get their actual heights
-    card_data = []
+    # Download all SVG files and prepare markdown
+    cards_md = []
     for repo, stars, desc in sorted_repos:
+        # Download SVG file
         svg_path = download_svg(repo)
-        actual_height = get_svg_height(svg_path)
-        card_data.append((repo, svg_path, actual_height))
-
-    # Manual masonry layout: distribute cards across columns
-    column_heights = [PADDING] * COLUMN_COUNT
-    column_x = [PADDING + i * (CARD_WIDTH + COLUMN_GAP) for i in range(COLUMN_COUNT)]
-
-    # Build SVG with <image> elements positioned manually
-    images_svg = []
-    for i, (repo, svg_path, height) in enumerate(card_data):
-        # Assign to column with minimum height
-        col = column_heights.index(min(column_heights))
-
-        # Position in column
-        x = column_x[col]
-        y = column_heights[col]
 
         # Get relative path from repo root
         rel_path = str(svg_path)
+
+        # Generate Markdown: [![](svg)](repo_link)
         repo_link = f"https://github.com/{repo}"
+        cards_md.append(f'[![]({rel_path})]({repo_link})')
 
-        images_svg.append(f'''  <a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{repo_link}" target="_top">
-    <image x="{x}" y="{y}" width="{CARD_WIDTH}" height="{height}" xlink:href="{rel_path}" />
-  </a>''')
+    # Create 2-column table layout
+    lines = ['<table>', '<tr>']
+    for i, md in enumerate(cards_md):
+        if i > 0 and i % 2 == 0:
+            lines.append('</tr><tr>')
+        lines.append(f'<td align="center">{md}</td>')
+    lines.append('</tr>')
 
-        # Update column height
-        column_heights[col] += height + COLUMN_GAP
+    # Handle odd number of cards
+    if len(cards_md) % 2 != 0:
+        lines.insert(-1, '<td></td>')
 
-    # Calculate SVG dimensions
-    svg_width = CARD_WIDTH * COLUMN_COUNT + COLUMN_GAP * (COLUMN_COUNT - 1) + PADDING * 2
-    svg_height = max(column_heights) + PADDING
-
-    # Build SVG
-    images_svg_str = '\n'.join(images_svg)
-
-    svg_template = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">
-{images_svg_str}
-</svg>'''
-
-    return svg_template
-
-
-def generate_masonry_svg_file(repos: List[str], output_path: Path = None) -> Path:
-    """
-    Generate and save masonry SVG file.
-
-    Returns path to the generated SVG file.
-    """
-    CARDS_DIR.mkdir(exist_ok=True)
-
-    if output_path is None:
-        output_path = CARDS_DIR / "masonry_layout.svg"
-
-    svg_content = generate_masonry_svg(repos)
-
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(svg_content)
-
-    return output_path
+    lines.append('</table>')
+    return '\n'.join(lines)
 
 
 def main():
     """Main entry point - CLI mode."""
     if len(sys.argv) < 2:
         print("Usage: python generate_masonry.py owner/repo1 owner/repo2 ...", file=sys.stderr)
-        print("\nOutput: Markdown reference to generated masonry SVG", file=sys.stderr)
+        print("\nOutput: Markdown with table layout", file=sys.stderr)
         print("\nFeatures:", file=sys.stderr)
         print("  - Fetches star counts via gh CLI", file=sys.stderr)
         print("  - Sorts repos by stars (descending)", file=sys.stderr)
         print("  - Downloads SVG files to cards/ directory", file=sys.stderr)
-        print("  - Generates masonry layout SVG with CSS columns", file=sys.stderr)
-        print("  - Embeds cards as data URIs (self-contained)", file=sys.stderr)
+        print("  - Generates 2-column table layout", file=sys.stderr)
         sys.exit(1)
 
     repos = sys.argv[1:]
-
-    # Generate masonry SVG file
-    svg_path = generate_masonry_svg_file(repos)
-
-    # Output Markdown reference
-    rel_path = str(svg_path)
-    print(f'[![]({rel_path})](#)')
+    markdown = generate_masonry_markdown(repos)
+    print(markdown)
 
 
 if __name__ == "__main__":

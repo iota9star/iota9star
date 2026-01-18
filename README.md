@@ -52,7 +52,33 @@ I believe in the power of **AI-assisted development** and constantly explore new
 
 ## 🔥 Featured Projects
 
-[![](cards/masonry_layout.svg)](#)
+<table>
+<tr>
+<td align="center">[![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)</td>
+<td align="center">[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)</td>
+</tr><tr>
+<td align="center">[![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)</td>
+<td align="center">[![](cards/iota9star_sakura-dmhy.svg)](https://github.com/iota9star/sakura-dmhy)</td>
+</tr><tr>
+<td align="center">[![](cards/iota9star_kisssub.svg)](https://github.com/iota9star/kisssub)</td>
+<td align="center">[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)</td>
+</tr><tr>
+<td align="center">[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)</td>
+<td align="center">[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)</td>
+</tr><tr>
+<td align="center">[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)</td>
+<td align="center">[![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)</td>
+</tr><tr>
+<td align="center">[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)</td>
+<td align="center">[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)</td>
+</tr><tr>
+<td align="center">[![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)</td>
+<td align="center">[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)</td>
+</tr><tr>
+<td align="center">[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)</td>
+<td align="center">[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)</td>
+</tr>
+</table>
 
 ## 💡 Philosophy
 
