@@ -82,9 +82,9 @@ AI-powered development workflows, intelligent code assistants, quality-focused a
 
 ## 💡 Daily Inspiration
 
-> 仰天大笑出门去，我辈岂是蓬蒿人。
+> MAKE OUR DREAMS ALIVE
 >
-> — 李白
+> — ラブライブ！
 
 ## 💭 Philosophy
 
