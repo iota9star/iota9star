@@ -1,44 +1,36 @@
-# Hi, I'm iota9star 👋
+# 👋 Hi, I'm iota9star
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
+**Full Stack Developer | Rust & Java Backend Enthusiast | Product-Driven Engineer**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I craft code with precision, driven by curiosity and a passion for creating impactful software.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating software that not only works well but also delivers exceptional user experiences.
 
-![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
+![](https://count.getloli.com/get/@iota9star?theme=rule34)
+
+## 👨‍💻 About Me
+
+I'm a developer who loves bridging the gap between complex backend systems and beautiful frontend interfaces. With a product mindset, I focus on building solutions that matter to users.
 
 ## 🎯 What I Do
 
-I specialize in building scalable backend systems and beautiful cross-platform applications. My work spans from optimizing database performance to creating smooth UI animations. I believe in the power of clean architecture and thoughtful user experiences.
-
-🚀 **Backend Development**: Building scalable microservices with Rust (Axum) and Java (Spring)
-
-💻 **Frontend Engineering**: Creating smooth, responsive experiences with React, Vue, and Flutter
-
-🌐 **Web3 Exploration**: Diving into blockchain technologies across BTC, EVM, and IC ecosystems
-
-🤖 **AI-Enhanced Coding**: Leveraging AI tools and assistants to write better code faster
+- **Backend Development**: Crafting robust, scalable systems with Rust and Java
+- **Frontend Excellence**: Building responsive, intuitive interfaces with React and Vue
+- **Mobile Apps**: Creating cross-platform experiences with Flutter and Android
+- **AI Integration**: Leveraging AI-powered workflows and code assistants
+- **Web3 Exploration**: Diving into BTC, EVM, and Internet Computer ecosystems
 
 ## 🛠️ Tech Stack
 
-### Languages
-`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Go` `Python` `JavaScript`
+### 💻 Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Backend
-`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis` `MongoDB`
+### 🔧 Backend
+![Axum](https://img.shields.io/badge/Axum-FF5733?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6600?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### Frontend & Mobile
-`React` `Vue.js` `Flutter` `Android Native` `HTML/CSS` `Tailwind CSS`
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### AI & Automation
-AI-powered development workflows, intelligent code assistants, quality-focused agents, automated testing
-
-### Web3
-`Bitcoin` `Ethereum/EVM` `Internet Computer` `Smart Contracts`
-
-## 📊 Quick Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=vue-dark&hide_border=true&hide=Shell,Rust,CMake,C++)
+### 🤖 AI & Web3
+![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square) ![Bitcoin](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/EVM-627EEA?style=flat-square&logo=ethereum&logoColor=white) ![ICP](https://img.shields.io/badge/ICP-FFA500?style=flat-square)
 
 ## 🔥 Featured Projects
 
@@ -70,32 +62,25 @@ AI-powered development workflows, intelligent code assistants, quality-focused a
 </tr>
 </table>
 
+## 💡 Philosophy
+
+> 红尘往事付流水，忘尽俗缘始得真，一饮而尽，再醉千年 — 永远的七日之都
+
+*Let go of worldly troubles to find what's truly real.*
+
 ## 🏆 Highlights
 
-🎯 **Open Source Contributor**: Active contributor to the FlutterCandies ecosystem
-
-📱 **Mobile Specialist**: Deep expertise in Flutter and Android development
-
-🔧 **Tool Builder**: Creator of utility libraries that make developers' lives easier
-
-🌱 **Continuous Learner**: Always exploring new technologies
-
-## 💡 Daily Inspiration
-
-> MAKE OUR DREAMS ALIVE
->
-> — ラブライブ！
-
-## 💭 Philosophy
-
-I approach every project with enthusiasm and a drive to exceed expectations. Clean code, thoughtful architecture, and user-centric design are my guiding principles.
-
-AI tools have transformed how I work — not by replacing creativity, but by amplifying it.
+- 🚀 Contributor to [fluttercandies](https://github.com/fluttercandies) ecosystem
+- 📱 Built multiple Flutter applications for anime resource management
+- 🔧 Created developer tools enhancing Flutter workflow efficiency
+- 💎 Active open-source maintainer and community contributor
 
 ## 📧 Connect
 
-Let's build something amazing together!
+Let's connect and collaborate!
 
-[Email](mailto:iota9star@gmail.com) | [X/Twitter](https://x.com/iota9star) | [掘金 Blog](https://juejin.cn/user/1591748568562829)
+- 📧 [Email](mailto:iota9star@gmail.com)
+- 🐦 [Twitter/X](https://x.com/iota9star)
+- 📝 [Juejin Blog](https://juejin.cn/user/1591748568562829)
 
 ![](profile-3d-contrib/profile-season-animate.svg)
