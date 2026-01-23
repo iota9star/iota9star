@@ -1,54 +1,55 @@
 # 👋 Hi, I'm iota9star
 
-**Full Stack Developer** | Rust & Java Backend | Product Mindset
+**Full Stack Developer | Rust & Java Backend | Product Mindset**
+
+Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-
 ## 👨‍💻 About Me
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm a passionate developer who loves crafting clean, efficient code that solves real problems. With expertise spanning Rust, Java, and modern frontend frameworks, I bring ideas to life through code.
-
+I'm a passionate developer who loves crafting seamless user experiences and robust backend systems. With expertise spanning Rust, Java, and modern frontend frameworks, I bring ideas to life through clean code and thoughtful architecture.
 
 ## 🎯 What I Do
 
-**Backend Development** — Designing scalable microservices and high-performance APIs
-**Frontend Engineering** — Creating responsive, intuitive user interfaces
-**Mobile Development** — Building cross-platform apps with Flutter
-**Open Source** — Contributing to projects that empower developers
-**AI Integration** — Leveraging AI-powered workflows to boost productivity
-
+💻 **Backend Development** — Building scalable microservices and high-performance APIs with Rust & Java
+🎨 **Frontend Engineering** — Creating responsive, intuitive UIs with React, Vue, and Flutter
+🤖 **AI Integration** — Leveraging AI-powered workflows and intelligent code assistants
+⛓️ **Web3 Exploration** — Diving into blockchain technologies across BTC, EVM, and IC
+📱 **Mobile Development** — Crafting native-feeling cross-platform apps with Flutter & Android
+🔧 **Tooling & Automation** — Developing developer tools that boost productivity
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Backend
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-FF6B6B?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+### Backend & Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-FF6B6B?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Web3 & AI
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square)
-
+### Blockchain & Web3
+⛓️ Bitcoin | 🦀 EVM | 🌐 Internet Computer
 
 ## 📊 Quick Stats
 
-![](profile-3d-contrib/profile-season-animate.svg)
+🏆 Contributor to 15+ open source projects
+⭐ Active maintainer of multiple Flutter community packages
+🔥 Building tools that developers actually use
+💡 Focused on code quality and developer experience
 
+![](profile-3d-contrib/profile-season-animate.svg)
 
 ## 🔥 Featured Projects
 
@@ -80,31 +81,27 @@ Building digital experiences across the stack — from high-performance backends
 </tr>
 </table>
 
+## 💡 Quote
 
-## 💡 Philosophy
-
-> "Code is poetry written for machines to execute and humans to understand."
-
-I believe in writing code that's not just functional, but elegant and maintainable. Every line is an opportunity to make things clearer, faster, and better.
-
+> "跌跌撞撞的成长，又美又疼才是本质。"
+> — 夏达
 
 ## 🏆 Highlights
 
-**Flutter Community** — Active contributor to fluttercandies ecosystem
-**Open Source Enthusiast** — Building tools that developers actually use
-**Cross-Platform Focus** — Bridging gaps between different platforms and technologies
-**Quality-Driven** — Committed to clean code, thorough testing, and best practices
-
+✨ **Flutter Candies Core Contributor** — Helping build amazing Flutter developer tools
+🚀 **Open Source Enthusiast** — Believing in the power of community-driven development
+🎯 **Product-First Thinking** — Building solutions that solve real problems
+🔄 **Continuous Learner** — Always exploring new technologies and best practices
+🌟 **Quality Advocate** — Writing clean, maintainable, and testable code
 
 ## 📧 Connect
 
-Let's connect and build something amazing together!
+📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
+📝 **Juejin Blog**: [Follow my writing](https://juejin.cn/user/1591748568562829)
 
-<a href="mailto:iota9star@gmail.com"><img src="https://img.shields.io/badge/Email-iota9star@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://x.com/iota9star"><img src="https://img.shields.io/badge/X-@iota9star-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://juejin.cn/user/1591748568562829"><img src="https://img.shields.io/badge/Juejin-Blog-1E80FF?style=flat-square&logo=juejin&logoColor=white" /></a>
+## 💭 Philosophy
 
+I believe that great software is born from empathy — understanding user needs, developer experience, and the broader ecosystem. Every line of code should have purpose, every feature should solve real problems, and every project should leave the codebase better than we found it.
 
----
-
-💭 **Always learning, always building.** The best time to write code was yesterday. The second best time is now.
+Let's build something amazing together! 🚀
