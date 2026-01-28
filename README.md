@@ -1,57 +1,48 @@
-# 👨‍💻 Hi, I'm iota9star
+# Hi there! 👋 I'm iota9star
 
-Full Stack Developer | Rust & Java Backend | Product Mindset
+**Full Stack Developer | Rust & Java Backend Enthusiast | Product-Driven Engineer**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating software that not only works well but feels great to use.
+<img src="https://count.getloli.com/get/@iota9star?theme=rule34" alt="Profile Views" />
 
-![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
+## 👨‍💻 About Me
+
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating software that not only works flawlessly but also delivers exceptional user experiences.
+
+As a developer with a product mindset, I believe great code serves great products. I love diving deep into system architecture while keeping an eye on the bigger picture.
 
 ## 🎯 What I Do
 
-I specialize in crafting robust backend systems and engaging frontend experiences. My work spans multiple domains:
-
-**Backend Development** 🚀
-- Building scalable microservices architectures
-- Designing RESTful APIs with Spring and Axum
-- Optimizing database performance and query patterns
-- Implementing real-time communication systems
-
-**Frontend Engineering** 🎨
-- Creating responsive React and Vue applications
-- Building cross-platform mobile apps with Flutter
-- Developing native Android solutions
-- Crafting smooth, intuitive user interfaces
-
-**AI & Automation** 🤖
-- Leveraging AI-powered development workflows
-- Building intelligent code assistants
-- Creating quality-focused development agents
-- Automating repetitive tasks to boost productivity
-
-**Web3 Exploration** ⛓️
-- Working with Bitcoin ecosystem
-- Developing EVM-compatible smart contracts
-- Exploring Internet Computer (IC) protocols
+- **Backend Engineering**: Crafting scalable, high-performance services in Rust and Java
+- **Frontend Development**: Building responsive, intuitive interfaces with React and Flutter
+- **Cross-Platform Solutions**: Delivering seamless experiences across web, mobile, and desktop
+- **Open Source**: Contributing to meaningful projects that empower developers worldwide
+- **AI Integration**: Leveraging AI-powered workflows to enhance development efficiency
 
 ## 🛠️ Tech Stack
 
-**Languages** `Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
+### Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend Frameworks** `Axum` `Spring Boot` `Microservices` `Node.js` `Actix`
+### Backend
+![Axum](https://img.shields.io/badge/Axum-ffc600?style=flat-square&logo=tokio&logoColor=black) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6600?style=flat-square&logo=hyper&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**Frontend Frameworks** `React` `Vue.js` `Flutter` `Android Native` `Next.js`
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Databases** `PostgreSQL` `MySQL` `Redis` `MongoDB` `SQLite`
-
-**DevOps & Tools** `Docker` `Kubernetes` `Git` `GitHub Actions` `Linux`
-
-**Web3** `Solidity` `Rust (Solana)` `Ethers.js`
+### Emerging Tech
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white) ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 ## 📊 Quick Stats
 
-![](profile-3d-contrib/profile-season-animate.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iota9star&theme=radical&hide_border=true)
 
 ## 🔥 Featured Projects
+
+Here are some of my projects and contributions, sorted by popularity:
 
 <table>
 <tr>
@@ -81,29 +72,37 @@ I specialize in crafting robust backend systems and engaging frontend experience
 </tr>
 </table>
 
-## 💡 Today's Quote
+## 💡 Philosophy
 
-> 跌跌撞撞的成长，又美又疼才是本质。
->
-> — 夏达, 哥斯拉不说话
+> 博学而笃志，切问而近思。 — 论语·子张
+
+*Learn broadly and be steadfast in purpose; inquire earnestly and reflect on what is at hand.*
 
 ## 🏆 Highlights
 
-- Active contributor to the FlutterCandies ecosystem, helping build powerful Flutter development tools
-- Creator of mikan_flutter, a popular Mikan Project client for Flutter
-- Focused on developer experience and tooling improvements
-- Exploring the intersection of AI and software development
+- **FlutterCandies Contributor**: Active member of the Flutter Candies community, building powerful Flutter libraries and tools
+- **Full Stack Expertise**: Seamless navigation between frontend elegance and backend robustness
+- **Product-Focused Development**: Every line of code written with user value in mind
+- **Continuous Learning**: Always exploring new technologies and methodologies
 
-## 💭 Philosophy
+## 💻 Activity Graph
 
-I believe in the power of open source and collaborative development. Growth comes from embracing challenges and learning from failures. Every bug fixed, every feature shipped, and every line of code reviewed is an opportunity to become better.
+![](profile-3d-contrib/profile-season-animate.svg)
 
 ## 📧 Connect
 
-- Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-- Twitter: [@iota9star](https://x.com/iota9star)
-- Blog: [Juejin](https://juejin.cn/user/1591748568562829)
+Let's build something amazing together!
+
+<div align="center">
+
+<a href="mailto:iota9star@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://x.com/iota9star"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+<a href="https://juejin.cn/user/1591748568562829"><img src="https://img.shields.io/badge/Juejin-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金"></a>
+
+</div>
 
 ---
 
-Thanks for visiting! Feel free to explore my repositories and connect with me.
+<div align="center">
+<i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
+</div>
