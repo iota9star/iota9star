@@ -2,40 +2,44 @@
 
 **Full Stack Developer | Rust & Java Backend | Product Mindset**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about crafting clean, efficient code that solves real-world problems.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-
 ## 🎯 What I Do
 
-I craft robust, scalable systems with a product-first mindset. Whether it's architecting microservices, building cross-platform mobile apps, or exploring Web3 innovations, I focus on delivering tangible value through clean, efficient code.
-
-My work spans the full spectrum — from low-level Rust performance optimizations to polished Flutter UIs, from Spring Boot enterprise backends to AI-powered development workflows.
-
+🔧 **Backend Development** — Crafting scalable microservices and APIs with Rust, Java, and Kotlin
+🎨 **Frontend Engineering** — Building responsive UIs with React, Vue, and Flutter
+📱 **Mobile Apps** — Creating native-like experiences with Flutter and Android
+🤖 **AI Integration** — Leveraging AI-powered workflows and intelligent code assistants
+⛓️ **Web3 Development** — Exploring blockchain technologies across BTC, EVM, and IC
 
 ## 🛠️ Tech Stack
 
 ### Languages
-`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Go` `Python`
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Backend
-`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis`
+### Backend & Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-FF6B00?style=for-the-badge&logo=tokio&logoColor=white)
 
 ### Frontend & Mobile
-`React` `Vue` `Flutter` `Android Native` `Dart`
-
-### AI & Automation
-`AI-powered workflows` `Code assistants` `Quality-focused agents` `LLM integration`
-
-### Web3 & Blockchain
-`Bitcoin` `EVM` `Internet Computer` `Smart contracts`
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## 📊 Quick Stats
 
-![](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
-
+📦 Open source contributions across 15+ repositories
+⭐ Contributed to projects with thousands of stars combined
+🚀 Active member of the Flutter Candies community
+💡 Focused on developer tools and productivity enhancers
 
 ## 🔥 Featured Projects
 
@@ -67,33 +71,24 @@ My work spans the full spectrum — from low-level Rust performance optimization
 </tr>
 </table>
 
+## 💡 Philosophy
 
-## 💡 Daily Inspiration
+> 日出江花红胜火，春来江水绿如蓝。
+> — 忆江南·江南好
 
-> "忘了我吧，我都忘了"
-
+I believe in writing code that's both beautiful and functional. Like the vibrant scenery described in the poem, software should be a joy to behold and experience.
 
 ## 🏆 Highlights
 
-- Active contributor to the Flutter Candies ecosystem
-- Building open-source tools that developers actually use
-- Exploring the intersection of AI and software development
-- Passionate about clean architecture and performant code
-
-
-## 💭 Philosophy
-
-I believe great software is built at the intersection of technical excellence and user empathy. Every line of code should serve a purpose, every architecture decision should have clear reasoning, and every product should solve real problems.
-
-Open source is more than code — it's about community, collaboration, and continuous learning.
-
+✨ Core contributor to Flutter Candies ecosystem
+🌟 Focused on developer experience and tooling
+🔄 Advocate for clean architecture and sustainable code
+🎯 Building products with users in mind
 
 ## 📧 Connect
 
-- **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-- **X (Twitter)**: [@iota9star](https://x.com/iota9star)
-- **Juejin**: [Blog](https://juejin.cn/user/1591748568562829)
-- **GitHub**: [iota9star](https://github.com/iota9star)
-
+💬 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+🐦 **X**: [@iota9star](https://x.com/iota9star)
+📝 **Juejin**: [Blog](https://juejin.cn/user/1591748568562829)
 
 ![](profile-3d-contrib/profile-season-animate.svg)
