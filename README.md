@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm iota9star
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
+**Full Stack Developer | Rust & Java Backend | Product Mindset 👋**
 
 Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about crafting clean, efficient code that solves real-world problems.
 
@@ -73,10 +73,10 @@ Building digital experiences across the stack — from high-performance backends
 
 ## 💡 Philosophy
 
-> 日出江花红胜火，春来江水绿如蓝。
-> — 忆江南·江南好
+> "只有分离后才能懂的事，却没有了感慨的时间。"
+> — Land of the Lustrous
 
-I believe in writing code that's both beautiful and functional. Like the vibrant scenery described in the poem, software should be a joy to behold and experience.
+I believe in writing code that's both beautiful and functional. Like the profound emotions in this quote, great software should resonate with users and stand the test of time.
 
 ## 🏆 Highlights
 
