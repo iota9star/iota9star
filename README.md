@@ -1,45 +1,52 @@
-# 👨‍💻 Hi, I'm iota9star
+# 👋 Hi, I'm **iota9star**
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset 👋**
+**Full Stack Developer | Rust & Java Backend | Product Mindset**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about crafting clean, efficient code that solves real-world problems.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating software that not only works well but also delivers exceptional user experiences.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
+## 👨‍💻 About Me
+
+I'm a developer who loves to explore the full spectrum of software development. From crafting efficient backend systems in Rust and Java to building beautiful user interfaces with Flutter and React, I enjoy the challenge of creating cohesive digital products.
+
+My approach combines technical expertise with a product-focused mindset — I believe great software comes from understanding both the technology and the people who use it.
+
 ## 🎯 What I Do
 
-🔧 **Backend Development** — Crafting scalable microservices and APIs with Rust, Java, and Kotlin
-🎨 **Frontend Engineering** — Building responsive UIs with React, Vue, and Flutter
-📱 **Mobile Apps** — Creating native-like experiences with Flutter and Android
-🤖 **AI Integration** — Leveraging AI-powered workflows and intelligent code assistants
-⛓️ **Web3 Development** — Exploring blockchain technologies across BTC, EVM, and IC
+💻 **Backend Development** — Building scalable, high-performance systems with Rust, Java, and microservices architecture
+
+🎨 **Frontend Development** — Creating responsive and intuitive user interfaces with React, Vue, and Flutter
+
+🤖 **AI-Powered Workflows** — Leveraging AI assistants and code agents to enhance development quality and productivity
+
+⛓️ **Web3 & Blockchain** — Exploring decentralized technologies across BTC, EVM, and Internet Computer
+
+🔧 **Open Source** — Contributing to the Flutter ecosystem and building developer tools
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+🦀 **Rust** | ☕ **Java** | 🎯 **Kotlin** | 💛 **JavaScript/TypeScript** | 🎯 **Dart** | 🐍 **Python**
 
-### Backend & Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-FF6B00?style=for-the-badge&logo=tokio&logoColor=white)
+### Backend
+⚡ **Axum** | 🌱 **Spring Boot** | 🔄 **Microservices** | 🚀 **Node.js** | 🦀 **Tokio**
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+⚛️ **React** | 💚 **Vue.js** | 🦋 **Flutter** | 🤖 **Android** | 🌐 **Web**
+
+### Tools & Platforms
+🐙 **Git** | 🐳 **Docker** | ☁️ **Cloud** | 🔧 **CI/CD** | 📊 **Databases**
+
+### Areas of Interest
+🤖 **AI/ML** | ⛓️ **Web3** | 🔐 **Security** | 📈 **Performance** | 🎨 **UI/UX**
 
 ## 📊 Quick Stats
 
-📦 Open source contributions across 15+ repositories
-⭐ Contributed to projects with thousands of stars combined
-🚀 Active member of the Flutter Candies community
-💡 Focused on developer tools and productivity enhancers
+🏢 **Organizations**: FlutterCandies contributor, VoidSignals maintainer
+📦 **Repositories**: Active contributor to 15+ open source projects
+⭐ **Stars**: Hundreds of stars across contributed projects
+🔄 **Contributions**: Consistent open source contributions
 
 ## 🔥 Featured Projects
 
@@ -74,21 +81,28 @@ Building digital experiences across the stack — from high-performance backends
 ## 💡 Philosophy
 
 > "只有分离后才能懂的事，却没有了感慨的时间。"
-> — Land of the Lustrous
+> — *Land of the Lustrous*
 
-I believe in writing code that's both beautiful and functional. Like the profound emotions in this quote, great software should resonate with users and stand the test of time.
+I believe in writing clean, maintainable code that stands the test of time. Every line of code is an investment in the future, and I strive to make that investment worthwhile.
 
 ## 🏆 Highlights
 
-✨ Core contributor to Flutter Candies ecosystem
-🌟 Focused on developer experience and tooling
-🔄 Advocate for clean architecture and sustainable code
-🎯 Building products with users in mind
+✨ **FlutterCandies Core Contributor** — Helped build multiple popular Flutter packages used by developers worldwide
+
+🚀 **Full-Stack Projects** — Built and maintained complete applications from backend to mobile frontend
+
+🔧 **Tool Builder** — Created developer tools that improve productivity and code quality
+
+🌍 **Open Source Advocate** — Strong believer in the power of open source to drive innovation
 
 ## 📧 Connect
 
-💬 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-🐦 **X**: [@iota9star](https://x.com/iota9star)
-📝 **Juejin**: [Blog](https://juejin.cn/user/1591748568562829)
+Let's connect! I'm always interested in discussing technology, collaboration opportunities, or just having a great conversation about software development.
+
+📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
+📝 **Juejin Blog**: [Read my articles](https://juejin.cn/user/1591748568562829)
 
 ![](profile-3d-contrib/profile-season-animate.svg)
+
+💭 **Always learning, always building. Let's create something amazing together!**
