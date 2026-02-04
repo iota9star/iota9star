@@ -2,51 +2,41 @@
 
 **Full Stack Developer | Rust & Java Backend | Product Mindset**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating software that not only works well but also delivers exceptional user experiences.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating tools that make a difference, whether it's optimizing database performance, crafting beautiful Flutter interfaces, or exploring the frontiers of Web3 and AI.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 👨‍💻 About Me
-
-I'm a developer who loves to explore the full spectrum of software development. From crafting efficient backend systems in Rust and Java to building beautiful user interfaces with Flutter and React, I enjoy the challenge of creating cohesive digital products.
-
-My approach combines technical expertise with a product-focused mindset — I believe great software comes from understanding both the technology and the people who use it.
-
 ## 🎯 What I Do
 
-💻 **Backend Development** — Building scalable, high-performance systems with Rust, Java, and microservices architecture
+💻 **Backend Engineering** — Crafting scalable microservices with Rust and Java, leveraging frameworks like Axum and Spring to build robust, high-performance systems.
 
-🎨 **Frontend Development** — Creating responsive and intuitive user interfaces with React, Vue, and Flutter
+🎨 **Frontend Development** — Creating responsive, intuitive interfaces with React, Vue, and Flutter. From web apps to mobile experiences, I focus on user-centric design.
 
-🤖 **AI-Powered Workflows** — Leveraging AI assistants and code agents to enhance development quality and productivity
+🤖 **AI Integration** — Exploring AI-powered development workflows, building intelligent code assistants, and developing quality-focused agents that enhance productivity.
 
-⛓️ **Web3 & Blockchain** — Exploring decentralized technologies across BTC, EVM, and Internet Computer
+⛓️ **Web3 Exploration** — Diving into blockchain technologies across BTC, EVM, and Internet Computer ecosystems, building decentralized solutions.
 
-🔧 **Open Source** — Contributing to the Flutter ecosystem and building developer tools
+🔧 **Developer Tools** — Contributing to open-source libraries that streamline development workflows and solve common pain points.
 
 ## 🛠️ Tech Stack
 
-### Languages
-🦀 **Rust** | ☕ **Java** | 🎯 **Kotlin** | 💛 **JavaScript/TypeScript** | 🎯 **Dart** | 🐍 **Python**
+### 📝 Languages
+🦀 **Rust** | ☕ **Java** | 🎯 **Kotlin** | 📘 **TypeScript** | 🎯 **Dart**
 
-### Backend
-⚡ **Axum** | 🌱 **Spring Boot** | 🔄 **Microservices** | 🚀 **Node.js** | 🦀 **Tokio**
+### ⚙️ Backend
+🚀 **Axum** | 🌱 **Spring** | 🔄 **Microservices** | 🟢 **Node.js**
 
-### Frontend & Mobile
-⚛️ **React** | 💚 **Vue.js** | 🦋 **Flutter** | 🤖 **Android** | 🌐 **Web**
+### 🎨 Frontend
+⚛️ **React** | 💚 **Vue** | 🦋 **Flutter** | 🤖 **Android**
 
-### Tools & Platforms
-🐙 **Git** | 🐳 **Docker** | ☁️ **Cloud** | 🔧 **CI/CD** | 📊 **Databases**
-
-### Areas of Interest
-🤖 **AI/ML** | ⛓️ **Web3** | 🔐 **Security** | 📈 **Performance** | 🎨 **UI/UX**
+### 🤖 AI & 🌐 Web3
+🧠 **AI Development Workflows** | 🤖 **Code Assistants** | ⛓️ **BTC** | 🔗 **EVM** | 🌐 **Internet Computer**
 
 ## 📊 Quick Stats
 
-🏢 **Organizations**: FlutterCandies contributor, VoidSignals maintainer
-📦 **Repositories**: Active contributor to 15+ open source projects
-⭐ **Stars**: Hundreds of stars across contributed projects
-🔄 **Contributions**: Consistent open source contributions
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iota9star&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iota9star&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iota9star&theme=radical)
 
 ## 🔥 Featured Projects
 
@@ -78,31 +68,29 @@ My approach combines technical expertise with a product-focused mindset — I be
 </tr>
 </table>
 
-## 💡 Philosophy
+## 💭 Philosophy
 
-> "只有分离后才能懂的事，却没有了感慨的时间。"
-> — *Land of the Lustrous*
+I believe in the power of open source to transform ideas into reality. Every line of code is an opportunity to learn, every bug a lesson in resilience, and every collaboration a chance to grow. Whether I'm optimizing a database query, crafting a pixel-perfect UI, or exploring the latest in AI, I'm driven by curiosity and a desire to build things that matter.
 
-I believe in writing clean, maintainable code that stands the test of time. Every line of code is an investment in the future, and I strive to make that investment worthwhile.
+## 💡 Quote
 
-## 🏆 Highlights
+> 人总要抱紧什么才知道自己真的存在，哪怕那只是幻影。
+> — 网络
 
-✨ **FlutterCandies Core Contributor** — Helped build multiple popular Flutter packages used by developers worldwide
-
-🚀 **Full-Stack Projects** — Built and maintained complete applications from backend to mobile frontend
-
-🔧 **Tool Builder** — Created developer tools that improve productivity and code quality
-
-🌍 **Open Source Advocate** — Strong believer in the power of open source to drive innovation
-
-## 📧 Connect
-
-Let's connect! I'm always interested in discussing technology, collaboration opportunities, or just having a great conversation about software development.
-
-📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
-📝 **Juejin Blog**: [Read my articles](https://juejin.cn/user/1591748568562829)
+## 📈 Contribution Activity
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-💭 **Always learning, always building. Let's create something amazing together!**
+## 📧 Connect
+
+📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+
+🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
+
+📝 **Juejin Blog**: [掘金](https://juejin.cn/user/1591748568562829)
+
+💼 **GitHub**: [iota9star](https://github.com/iota9star)
+
+---
+
+*✨ Let's build something amazing together!*
