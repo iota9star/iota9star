@@ -88,8 +88,6 @@ Let's build something amazing together!
 - 🐦 X: [@iota9star](https://x.com/iota9star)
 - 📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
 
----
-
-*"The best way to predict the future is to invent it."* — Alan Kay
+*"人间四月芳菲尽，山寺桃花始盛开。"* — 大林寺桃花
 
 Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate. 👨‍💻✨
