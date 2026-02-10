@@ -1,34 +1,70 @@
-# 👋 Hi, I'm iota9star
+# 👋 Hi, I'm **iota9star**
 
 **Full Stack Developer | Rust & Java Backend | Product Mindset**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I love crafting tools that solve real problems and exploring the intersection of performance, usability, and innovation.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating tools that make developers' lives easier and users' experiences better.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
+
+## 👨‍💻 About Me
+
+I'm a developer who loves tackling complex problems across the entire technology stack. With a strong foundation in backend systems and a keen eye for frontend user experience, I build applications that are both powerful and pleasant to use.
+
+My journey in tech has taken me from performance-critical backend services to beautiful mobile applications, always with a focus on code quality and user value. I believe in the power of open source and actively contribute to projects that push the boundaries of what's possible.
+
+When I'm not coding, you'll find me exploring new technologies, contributing to open source projects, or diving deep into the latest developments in AI and Web3 space.
+
+
 ## 🎯 What I Do
 
-I'm passionate about building scalable systems and beautiful interfaces. My work spans:
+**Backend Development**
+- Building scalable microservices architectures with Rust and Java
+- Designing efficient APIs and data processing pipelines
+- Implementing real-time systems and high-throughput applications
 
-- 🦀 **High-Performance Backends** — Crafting efficient, type-safe services in Rust and Java
-- 📱 **Cross-Platform Apps** — Building mobile experiences with Flutter and Dart
-- 🤖 **AI-Powered Development** — Exploring code assistants and intelligent workflows
-- ⛓️ **Web3 & Blockchain** — Dabbling in BTC, EVM, and Internet Computer protocols
-- 🎨 **Developer Tools** — Creating libraries that make other developers' lives easier
+**Frontend Excellence**
+- Creating responsive cross-platform applications with Flutter
+- Building modern web experiences with React and Vue
+- Crafting smooth animations and intuitive user interfaces
+
+**Developer Tools**
+- Creating libraries and utilities that streamline development workflows
+- Building code generators and automation tools
+- Contributing to open source projects that benefit the community
+
+**Emerging Technologies**
+- Exploring AI-powered development workflows and intelligent assistants
+- Experimenting with blockchain technologies (BTC, EVM, IC)
+- Pushing the boundaries of what's possible with modern frameworks
+
 
 ## 🛠️ Tech Stack
 
-### Languages
-`🦀 Rust` `☕ Java` `🎯 Kotlin` `💎 TypeScript` `🎯 Dart` `🐍 Python`
+**Languages**
+`🦀 Rust` `☕ Java` `🎯 Kotlin` `💎 TypeScript` `🎯 Dart` `🐍 Python` `🐹 Go`
 
-### Backend
-`🌲 Axum` `🍃 Spring` `🔧 Microservices` `⚡ Node.js`
+**Backend**
+`🌲 Axum` `🍃 Spring Boot` `🔧 Microservices` `⚡ Node.js` `🐘 PostgreSQL` `🔴 Redis`
 
-### Frontend & Mobile
-`⚛️ React` `💚 Vue` `🦋 Flutter` `🤖 Android`
+**Frontend**
+`⚛️ React` `💚 Vue.js` `🦋 Flutter` `🤖 Android Native` `🌐 HTML/CSS`
 
-### Areas of Interest
-`🧠 AI/ML` `⛓️ Web3` `🔐 Blockchain` `📦 DevTools`
+**Tools & DevOps**
+`📦 Git` `🐳 Docker` `🔄 CI/CD` `🐧 Linux` `⚡ GitHub Actions`
+
+**Interests**
+`🧠 AI/ML` `⛓️ Web3` `🔐 Blockchain` `🌟 Open Source` `🛠️ Developer Experience`
+
+
+## 📊 Quick Stats
+
+- 🚀 Contributing to multiple open source projects
+- ⭐ Building tools that developers love to use
+- 🔧 Crafting elegant solutions to complex problems
+- 📱 Creating beautiful cross-platform applications
+- 🌟 Focused on code quality and user experience
+
 
 ## 🔥 Featured Projects
 
@@ -60,31 +96,39 @@ I'm passionate about building scalable systems and beautiful interfaces. My work
 </tr>
 </table>
 
+
+## 💭 Philosophy
+
+> "人，百年一世；龙，百年一岁。君生吾已老，君未变，而吾已老。"
+> — 妖怪名单
+
+I believe in writing clean, maintainable code that stands the test of time. Technology evolves rapidly, but solid engineering principles remain constant. I strive to balance innovation with pragmatism, always choosing the right tool for the job while keeping an eye on emerging trends.
+
+Continuous learning is at the heart of my practice. Whether it's a new programming language, a different paradigm, or an innovative framework, I'm always eager to expand my toolkit and share knowledge with the community.
+
+
 ## 🏆 Highlights
 
-- ✨ **Flutter Candies Core Member** — Active contributor to the Flutter ecosystem
-- 🚀 **Full Stack Expertise** — Comfortable working across the entire technology stack
-- 🎯 **Product Focus** — Building solutions with real-world impact
-- 🌍 **Community Driven** — Sharing knowledge through blog posts and open source
-- 🔥 **Performance Enthusiast** — Optimizing for speed and efficiency
+- 🌟 Active contributor to the FlutterCandies open source organization
+- 🎯 Building practical tools that solve real developer pain points
+- 💡 Passionate about developer experience and productivity
+- 🔥 Focused on performance optimization and best practices
+- 🤝 Collaborating with developers worldwide to build amazing things
 
-## 💡 Philosophy
-
-> "只有分离后才能懂的事，却没有了感慨的时间。"
-> — *Land of the Lustrous*
-
-I believe in writing clean, maintainable code that stands the test of time. Every project is an opportunity to learn something new and push the boundaries of what's possible.
-
-## 📊 Contribution Activity
-
-![](profile-3d-contrib/profile-season-animate.svg)
 
 ## 📧 Connect
 
-- 📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-- 𝕏 **Twitter**: [@iota9star](https://x.com/iota9star)
-- 📝 **Juejin Blog**: [Follow my writing](https://juejin.cn/user/1591748568562829)
+Let's connect and build something amazing together!
+
+- 📧 Email: [iota9star](mailto:iota9star@gmail.com)
+- 𝕏 Twitter: [@iota9star](https://x.com/iota9star)
+- 📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
+- 💼 GitHub: [iota9star](https://github.com/iota9star)
+
+
+![](profile-3d-contrib/profile-season-animate.svg)
+
 
 ---
 
-*Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate.* 🚀
+*💭 "Code is poetry written for machines to execute and humans to understand."*
