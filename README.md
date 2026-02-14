@@ -1,55 +1,42 @@
-# 👋 Hi, I'm iota9star
+# Hi there! 👋
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
-
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating tools that make developers' lives easier and users' experiences better.
+I'm **iota9star**, a Full Stack Developer passionate about building digital experiences across the entire stack — from high-performance backends to elegant frontends.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-I'm a developer who loves bridging the gap between complex systems and beautiful user interfaces. With a strong foundation in **Rust** and **Java** backends, combined with modern frontend frameworks, I build complete solutions that scale.
-
-I believe in the power of clean code, thoughtful architecture, and continuous learning. Whether it's optimizing database queries, crafting responsive UIs, or exploring the latest in Web3 technologies, I'm always pushing the boundaries of what's possible.
+I'm a developer who loves crafting quality software with a product mindset. I believe in writing clean, maintainable code that solves real problems. Whether it's optimizing Rust backend services, building responsive Flutter apps, or contributing to open source projects, I bring enthusiasm and attention to detail to everything I do.
 
 ## 🎯 What I Do
 
-🔧 **Backend Development** — Building robust, scalable services with Rust and Java
-
-🎨 **Frontend Engineering** — Creating intuitive interfaces with React, Vue, and Flutter
-
-🤖 **AI-Powered Workflows** — Leveraging code assistants and agents to boost productivity
-
-⛓️ **Web3 Exploration** — Diving into BTC, EVM, and Internet Computer ecosystems
-
-📦 **Open Source** — Contributing to projects that empower developers worldwide
+- **Backend Development**: Building scalable, high-performance services with Rust and Java
+- **Frontend Engineering**: Creating beautiful, responsive user experiences with Flutter, React, and Vue
+- **Mobile Development**: Crafting native-like cross-platform apps with Flutter and Android
+- **Open Source**: Contributing to projects that make developers' lives easier
+- **AI Integration**: Leveraging AI-powered workflows to enhance development productivity
 
 ## 🛠️ Tech Stack
 
 ### Languages
-`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Backend
-`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis`
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Microservices](https://img.shields.io/badge/microservices-%23000000.svg?style=for-the-badge&logo=microservices&logoColor=white)
 
 ### Frontend & Mobile
-`React` `Vue.js` `Flutter` `Android Native` `Dart`
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### AI & Automation
-`Code Assistants` `AI Agents` `Quality-Focused Workflows`
-
-### Web3
-`Bitcoin` `Ethereum` `Internet Computer` `Smart Contracts`
+### Other
+![Blockchain](https://img.shields.io/badge/blockchain-%23121212.svg?style=for-the-badge&logo=blockchain&logoColor=white) ![AI](https://img.shields.io/badge/ai-%23FF6F00.svg?style=for-the-badge&logo=ai&logoColor=white)
 
 ## 📊 Quick Stats
 
-🚀 Actively contributing to open source
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
 
-🌟 Building tools that developers love
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical)
 
-💡 Always exploring new technologies
-
-🤝 Collaborating with global teams
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iota9star&theme=radical)
 
 ## 🔥 Featured Projects
 
@@ -81,35 +68,29 @@ I believe in the power of clean code, thoughtful architecture, and continuous le
 </tr>
 </table>
 
-## 💡 Philosophy
+## 💡 Quote
 
-> "人间忽晚，山河已秋。"
-> —— 亦沫不吃鱼
-
-I believe in the beauty of continuous growth and the importance of staying curious. Technology moves fast, but the principles of good software — simplicity, maintainability, and user focus — remain constant.
+> 西方人并不比东方人聪明，但是他们却找对了路。 — 三体
 
 ## 🏆 Highlights
 
-✨ **Flutter Community Contributor** — Active member of fluttercandies, building tools that make Flutter development more enjoyable
+- 🚀 Contributing to multiple Flutter ecosystem projects at fluttercandies
+- 📱 Building open-source mobile applications for anime and media content
+- 🛠️ Creating developer tools and utilities that streamline workflows
+- 🌐 Working with blockchain technologies (BTC, EVM, IC)
 
-🌱 **Open Source Advocate** — Strong believer in the power of community-driven development
+## 💭 Philosophy
 
-🔥 **Full-Stack Perspective** — Understanding the entire pipeline from database to UI
-
-🎯 **Product-First Mindset** — Writing code that solves real problems for real users
-
-## 📈 Contribution Activity
-
-![](profile-3d-contrib/profile-season-animate.svg)
+I believe that great software is built by developers who understand both the technical and human aspects of product development. Writing code is not just about syntax and algorithms — it's about understanding user needs, collaborating effectively with teams, and continuously learning and improving.
 
 ## 📧 Connect
 
-Let's build something amazing together!
+Let's connect and build something amazing together!
 
-📧 **Email**: [iota9star](mailto:iota9star@gmail.com)
+- 📧 Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+- 🐦 X: [@iota9star](https://x.com/iota9star)
+- 📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
 
-🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
+![](profile-3d-contrib/profile-season-animate.svg)
 
-📝 **Juejin Blog**: [Articles & Tutorials](https://juejin.cn/user/1591748568562829)
-
-💭 **Always learning, always building, always shipping.** 🚀
+⭐️ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
