@@ -1,42 +1,48 @@
-# Hi there! 👋
+# 👨‍💻 Hi, I'm iota9star
 
-I'm **iota9star**, a Full Stack Developer passionate about building digital experiences across the entire stack — from high-performance backends to elegant frontends.
+Full Stack Developer | Rust & Java Backend | Product Mindset
+
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I thrive on turning complex problems into simple, beautiful solutions.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 👨‍💻 About Me
-
-I'm a developer who loves crafting quality software with a product mindset. I believe in writing clean, maintainable code that solves real problems. Whether it's optimizing Rust backend services, building responsive Flutter apps, or contributing to open source projects, I bring enthusiasm and attention to detail to everything I do.
-
 ## 🎯 What I Do
 
-- **Backend Development**: Building scalable, high-performance services with Rust and Java
-- **Frontend Engineering**: Creating beautiful, responsive user experiences with Flutter, React, and Vue
-- **Mobile Development**: Crafting native-like cross-platform apps with Flutter and Android
-- **Open Source**: Contributing to projects that make developers' lives easier
-- **AI Integration**: Leveraging AI-powered workflows to enhance development productivity
+I'm a full-stack developer with a passion for building robust systems and delightful user experiences. My work spans backend architecture, frontend development, mobile apps, and emerging technologies like AI and Web3.
+
+I believe in writing clean, maintainable code and creating products that users love. Whether it's optimizing database queries, crafting responsive UIs, or exploring blockchain integrations, I bring curiosity and dedication to every project.
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+**Languages**
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Backend
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Microservices](https://img.shields.io/badge/microservices-%23000000.svg?style=for-the-badge&logo=microservices&logoColor=white)
+**Backend**
+![Axum](https://img.shields.io/badge/Axum-FF9900?style=flat-square)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+Microservices Architecture
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### Other
-![Blockchain](https://img.shields.io/badge/blockchain-%23121212.svg?style=for-the-badge&logo=blockchain&logoColor=white) ![AI](https://img.shields.io/badge/ai-%23FF6F00.svg?style=for-the-badge&logo=ai&logoColor=white)
+**Emerging Tech**
+🤖 AI-powered development workflows, code assistants, quality-focused agents
+₿ Blockchain: BTC, EVM, Internet Computer
 
 ## 📊 Quick Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iota9star&theme=radical)
+![](profile-3d-contrib/profile-season-animate.svg)
 
 ## 🔥 Featured Projects
 
@@ -68,29 +74,23 @@ I'm a developer who loves crafting quality software with a product mindset. I be
 </tr>
 </table>
 
-## 💡 Quote
+## 💭 Philosophy
 
-> 西方人并不比东方人聪明，但是他们却找对了路。 — 三体
+不敢正视你的眼睛，是怕我每一个眼神都在告白。
 
 ## 🏆 Highlights
 
-- 🚀 Contributing to multiple Flutter ecosystem projects at fluttercandies
-- 📱 Building open-source mobile applications for anime and media content
-- 🛠️ Creating developer tools and utilities that streamline workflows
-- 🌐 Working with blockchain technologies (BTC, EVM, IC)
-
-## 💭 Philosophy
-
-I believe that great software is built by developers who understand both the technical and human aspects of product development. Writing code is not just about syntax and algorithms — it's about understanding user needs, collaborating effectively with teams, and continuously learning and improving.
+🚀 Building high-performance, scalable backend systems
+🎨 Crafting intuitive and responsive user interfaces
+📱 Developing cross-platform mobile applications
+🔧 Contributing to open-source Flutter ecosystem
+🌐 Exploring blockchain technologies and decentralized applications
 
 ## 📧 Connect
 
-Let's connect and build something amazing together!
+📧 Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+🐦 X/Twitter: [@iota9star](https://x.com/iota9star)
+📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
+💼 GitHub: [iota9star](https://github.com/iota9star)
 
-- 📧 Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-- 🐦 X: [@iota9star](https://x.com/iota9star)
-- 📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
-
-![](profile-3d-contrib/profile-season-animate.svg)
-
-⭐️ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
+⭐ Star some repos if you find them helpful! 🌟
