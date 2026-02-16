@@ -1,41 +1,38 @@
-# 👨‍💻 Hi, I'm iota9star
+# Hi there! 👋
 
-Full Stack Developer | Rust & Java Backend | Product Mindset
+I'm **iota9star** — a Full Stack Developer passionate about building elegant digital experiences across the entire tech stack. 🚀
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I thrive on turning complex problems into simple, beautiful solutions.
+From high-performance Rust backends to beautiful Flutter frontends, I craft solutions that bridge the gap between complex technology and simple user experiences. With a product mindset, I transform ideas into reality.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 🎯 What I Do
 
-I'm a full-stack developer with a passion for building robust systems and delightful user experiences. My work spans backend architecture, frontend development, mobile apps, and emerging technologies like AI and Web3.
+**💻 Backend Engineering**
+Building scalable microservices with Rust and Java. Designing robust APIs and distributed systems that handle millions of requests. Performance optimization is my playground.
 
-I believe in writing clean, maintainable code and creating products that users love. Whether it's optimizing database queries, crafting responsive UIs, or exploring blockchain integrations, I bring curiosity and dedication to every project.
+**🎨 Frontend Development**
+Creating intuitive UIs with React and Vue. Building cross-platform apps with Flutter that run everywhere. Crafting smooth, polished user experiences that delight users.
+
+**🤖 AI-Powered Development**
+Leveraging AI assistants for code quality and productivity. Building intelligent agents and automation tools. Exploring the future of software development.
+
+**🌐 Web3 & Blockchain**
+Bitcoin (BTC), Ethereum (EVM), and Internet Computer (IC) development. Decentralized applications and smart contracts.
 
 ## 🛠️ Tech Stack
 
-**Languages**
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+### Languages
+`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
 
-**Backend**
-![Axum](https://img.shields.io/badge/Axum-FF9900?style=flat-square)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-Microservices Architecture
+### Backend
+`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis` `MongoDB`
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+### Frontend
+`React` `Vue.js` `Flutter` `Android` `HTML/CSS` `TailwindCSS`
 
-**Emerging Tech**
-🤖 AI-powered development workflows, code assistants, quality-focused agents
-₿ Blockchain: BTC, EVM, Internet Computer
+### Tools & Platforms
+`Git` `Docker` `GitHub Actions` `AWS` `Linux` `VS Code`
 
 ## 📊 Quick Stats
 
@@ -74,23 +71,27 @@ Microservices Architecture
 </tr>
 </table>
 
-## 💭 Philosophy
+## 💡 Philosophy
 
-不敢正视你的眼睛，是怕我每一个眼神都在告白。
+> "我们不是狼，我们只是长着獠牙的羊......"
+> — 羊之歌
+
+I believe in writing clean, maintainable code that scales. Technology should serve people, not the other way around. Every line of code is an opportunity to make someone's life a little better.
 
 ## 🏆 Highlights
 
-🚀 Building high-performance, scalable backend systems
-🎨 Crafting intuitive and responsive user interfaces
-📱 Developing cross-platform mobile applications
-🔧 Contributing to open-source Flutter ecosystem
-🌐 Exploring blockchain technologies and decentralized applications
+- 🎯 Active contributor to the Flutter ecosystem via fluttercandies
+- 🔥 Building tools that developers actually love to use
+- 🌍 Bridging the gap between complex tech and simple user experiences
+- 📚 Continuous learner — always exploring new technologies and paradigms
 
 ## 📧 Connect
 
-📧 Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-🐦 X/Twitter: [@iota9star](https://x.com/iota9star)
-📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
-💼 GitHub: [iota9star](https://github.com/iota9star)
+Let's build something amazing together!
+
+- 📧 Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+- 🐦 X/Twitter: [@iota9star](https://x.com/iota9star)
+- 📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
+- 💼 GitHub: [iota9star](https://github.com/iota9star)
 
 ⭐ Star some repos if you find them helpful! 🌟
