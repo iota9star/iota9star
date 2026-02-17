@@ -1,45 +1,42 @@
-# Hi there! 👋
+# 👋 Hi, I'm iota9star!
 
-I'm **iota9star** — a Full Stack Developer passionate about building elegant digital experiences across the entire tech stack. 🚀
+**Full Stack Developer | Rust & Java Backend | Product Mindset**
 
-From high-performance Rust backends to beautiful Flutter frontends, I craft solutions that bridge the gap between complex technology and simple user experiences. With a product mindset, I transform ideas into reality.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating tools that developers love to use and solving complex problems with elegant solutions.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 🎯 What I Do
 
-**💻 Backend Engineering**
-Building scalable microservices with Rust and Java. Designing robust APIs and distributed systems that handle millions of requests. Performance optimization is my playground.
-
-**🎨 Frontend Development**
-Creating intuitive UIs with React and Vue. Building cross-platform apps with Flutter that run everywhere. Crafting smooth, polished user experiences that delight users.
-
-**🤖 AI-Powered Development**
-Leveraging AI assistants for code quality and productivity. Building intelligent agents and automation tools. Exploring the future of software development.
-
-**🌐 Web3 & Blockchain**
-Bitcoin (BTC), Ethereum (EVM), and Internet Computer (IC) development. Decentralized applications and smart contracts.
+🔧 **Backend Development**: Crafting scalable microservices and high-performance APIs with Rust and Java
+📱 **Mobile & Frontend**: Building beautiful cross-platform apps with Flutter, React, and Vue
+🤖 **AI Integration**: Leveraging AI-powered development workflows and code assistants to boost productivity
+⛓️ **Web3 & Blockchain**: Exploring decentralized technologies across BTC, EVM, and Internet Computer
+🚀 **Open Source**: Contributing to the Flutter ecosystem and developer tooling
 
 ## 🛠️ Tech Stack
 
 ### Languages
-`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
+`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Go` `Python`
 
-### Backend
-`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis` `MongoDB`
+### Backend & Infrastructure
+`Axum` `Spring Boot` `Microservices` `Node.js` `Docker` `Kubernetes`
 
-### Frontend
-`React` `Vue.js` `Flutter` `Android` `HTML/CSS` `TailwindCSS`
+### Frontend & Mobile
+`React` `Vue.js` `Flutter` `Android Native` `Dart`
 
-### Tools & Platforms
-`Git` `Docker` `GitHub Actions` `AWS` `Linux` `VS Code`
+### Areas of Expertise
+- 🧠 **AI-Powered Development**: Code assistants, intelligent agents, quality-focused workflows
+- 🌐 **Web3 Technologies**: Bitcoin, Ethereum Virtual Machine, Internet Computer
+- 📦 **Flutter Ecosystem**: Active contributor to fluttercandies organization
+- 🔌 **API Design**: RESTful services, GraphQL, real-time communication
 
 ## 📊 Quick Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true)
-
-![](profile-3d-contrib/profile-season-animate.svg)
+🏢 **Organizations**: fluttercandies, void-signals
+📚 **Repositories**: 16+ projects across mobile, backend, and developer tools
+⭐ **Community**: Building tools that make developers' lives easier
+🌏 **Global Impact**: Users and contributors from around the world
 
 ## 🔥 Featured Projects
 
@@ -73,25 +70,24 @@ Bitcoin (BTC), Ethereum (EVM), and Internet Computer (IC) development. Decentral
 
 ## 💡 Philosophy
 
-> "我们不是狼，我们只是长着獠牙的羊......"
-> — 羊之歌
+I believe in the power of open source to transform ideas into reality. Every line of code is an opportunity to make someone's life a little easier, every project a chance to learn something new.
 
-I believe in writing clean, maintainable code that scales. Technology should serve people, not the other way around. Every line of code is an opportunity to make someone's life a little better.
+> "江湖可能因为少了谁而失色，却不会因为少了谁后就不再是江湖。" —— 高手寂寞
 
 ## 🏆 Highlights
 
-- 🎯 Active contributor to the Flutter ecosystem via fluttercandies
-- 🔥 Building tools that developers actually love to use
-- 🌍 Bridging the gap between complex tech and simple user experiences
-- 📚 Continuous learner — always exploring new technologies and paradigms
+✨ **Flutter Community**: Active member of fluttercandies, creating innovative Flutter packages
+🎨 **UI/UX Focus**: Crafting intuitive interfaces that delight users
+🔍 **Quality First**: Writing clean, maintainable, and well-tested code
+🌟 **Continuous Learning**: Always exploring new technologies and best practices
 
 ## 📧 Connect
 
-Let's build something amazing together!
+💼 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
+📝 **Juejin Blog**: [技术文章](https://juejin.cn/user/1591748568562829)
+🐙 **GitHub**: [iota9star](https://github.com/iota9star)
 
-- 📧 Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-- 🐦 X/Twitter: [@iota9star](https://x.com/iota9star)
-- 📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
-- 💼 GitHub: [iota9star](https://github.com/iota9star)
+---
 
-⭐ Star some repos if you find them helpful! 🌟
+![](profile-3d-contrib/profile-season-animate.svg)
