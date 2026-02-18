@@ -1,42 +1,42 @@
-# 👋 Hi, I'm iota9star!
+# 👨‍💻 Hi, I'm iota9star
 
 **Full Stack Developer | Rust & Java Backend | Product Mindset**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating tools that developers love to use and solving complex problems with elegant solutions.
+Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
-![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
+![](https://count.getloli.com/get/@iota9star?theme=rule34)
+
+![](profile-3d-contrib/profile-season-animate.svg)
 
 ## 🎯 What I Do
 
-🔧 **Backend Development**: Crafting scalable microservices and high-performance APIs with Rust and Java
-📱 **Mobile & Frontend**: Building beautiful cross-platform apps with Flutter, React, and Vue
-🤖 **AI Integration**: Leveraging AI-powered development workflows and code assistants to boost productivity
-⛓️ **Web3 & Blockchain**: Exploring decentralized technologies across BTC, EVM, and Internet Computer
-🚀 **Open Source**: Contributing to the Flutter ecosystem and developer tooling
+I'm a passionate developer who loves crafting clean, efficient code and building products that make a difference. My journey spans from low-level systems programming in Rust to enterprise-grade backend services with Java, all the way to beautiful mobile experiences with Flutter.
+
+I believe in the power of open source and actively contribute to the Flutter ecosystem through fluttercandies, creating tools and libraries that help developers build better apps faster.
 
 ## 🛠️ Tech Stack
 
-### Languages
-`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Go` `Python`
+### 💻 Languages
+Rust | Java | Kotlin | TypeScript | Dart | Go | Python
 
-### Backend & Infrastructure
-`Axum` `Spring Boot` `Microservices` `Node.js` `Docker` `Kubernetes`
+### ⚙️ Backend
+Axum | Spring Boot | Microservices | Node.js | gRPC | RESTful APIs
 
-### Frontend & Mobile
-`React` `Vue.js` `Flutter` `Android Native` `Dart`
+### 🎨 Frontend & Mobile
+React | Vue | Flutter | Android Native | Responsive Design
 
-### Areas of Expertise
-- 🧠 **AI-Powered Development**: Code assistants, intelligent agents, quality-focused workflows
-- 🌐 **Web3 Technologies**: Bitcoin, Ethereum Virtual Machine, Internet Computer
-- 📦 **Flutter Ecosystem**: Active contributor to fluttercandies organization
-- 🔌 **API Design**: RESTful services, GraphQL, real-time communication
+### 🤖 AI & Automation
+AI-powered development workflows | Code assistants | Quality-focused tooling | Intelligent agents
+
+### 🔗 Web3 & Blockchain
+Bitcoin (BTC) | Ethereum (EVM) | Internet Computer (IC) | Smart Contracts
 
 ## 📊 Quick Stats
 
-🏢 **Organizations**: fluttercandies, void-signals
-📚 **Repositories**: 16+ projects across mobile, backend, and developer tools
-⭐ **Community**: Building tools that make developers' lives easier
-🌏 **Global Impact**: Users and contributors from around the world
+🔥 14+ repositories contributing to the Flutter ecosystem
+🌟 Active open source contributor and maintainer
+💡 Focused on developer tooling and productivity enhancement
+🚀 Building tools that make development more enjoyable
 
 ## 🔥 Featured Projects
 
@@ -68,26 +68,28 @@ Building digital experiences across the stack — from high-performance backends
 </tr>
 </table>
 
-## 💡 Philosophy
+## 💭 Philosophy
 
-I believe in the power of open source to transform ideas into reality. Every line of code is an opportunity to make someone's life a little easier, every project a chance to learn something new.
+I believe that great software is built at the intersection of technical excellence and user empathy. Every line of code should serve a purpose, every feature should solve a real problem, and every product should create value.
 
-> "江湖可能因为少了谁而失色，却不会因为少了谁后就不再是江湖。" —— 高手寂寞
+> "当遇到你时，大脑连上CSGO都会掉帧。" —— Florence
 
 ## 🏆 Highlights
 
-✨ **Flutter Community**: Active member of fluttercandies, creating innovative Flutter packages
-🎨 **UI/UX Focus**: Crafting intuitive interfaces that delight users
-🔍 **Quality First**: Writing clean, maintainable, and well-tested code
-🌟 **Continuous Learning**: Always exploring new technologies and best practices
+✨ Core contributor to fluttercandies - a collective of Flutter enthusiasts building amazing developer tools
+🌱 Champion of open source collaboration and knowledge sharing
+🎯 Product-minded engineer who understands both technical and business requirements
+🔄 Continuous learner exploring emerging technologies in AI, Web3, and beyond
 
 ## 📧 Connect
 
-💼 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
-📝 **Juejin Blog**: [技术文章](https://juejin.cn/user/1591748568562829)
-🐙 **GitHub**: [iota9star](https://github.com/iota9star)
+Let's connect and build something amazing together!
 
----
+📧 Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+🐦 X (Twitter): [@iota9star](https://x.com/iota9star)
+📝 Blog (Juejin): [Articles & Tutorials](https://juejin.cn/user/1591748568562829)
+🐙 GitHub: [iota9star](https://github.com/iota9star)
 
-![](profile-3d-contrib/profile-season-animate.svg)
+⭐ If you find my work useful, consider giving it a star! Every star motivates me to keep building.
+
+🦄 *With gratitude to the open source community*
