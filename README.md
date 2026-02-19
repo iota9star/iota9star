@@ -1,42 +1,53 @@
-# 👨‍💻 Hi, I'm iota9star
+<div align="center">
+
+# 👋 Hi there! I'm iota9star
 
 **Full Stack Developer | Rust & Java Backend | Product Mindset**
 
 Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
-![](https://count.getloli.com/get/@iota9star?theme=rule34)
+![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-![](profile-3d-contrib/profile-season-animate.svg)
+</div>
+
+## 👨‍💻 About Me
+
+I'm a passionate developer who loves crafting clean, efficient code and building products that make a difference. With expertise spanning multiple languages and frameworks, I bring ideas to life through technology.
+
+My journey in software development is driven by curiosity and a constant desire to learn. I believe in writing code that not only works but is maintainable, scalable, and enjoyable to read.
 
 ## 🎯 What I Do
 
-I'm a passionate developer who loves crafting clean, efficient code and building products that make a difference. My journey spans from low-level systems programming in Rust to enterprise-grade backend services with Java, all the way to beautiful mobile experiences with Flutter.
-
-I believe in the power of open source and actively contribute to the Flutter ecosystem through fluttercandies, creating tools and libraries that help developers build better apps faster.
+- **Backend Development** - Crafting robust APIs and microservices with Rust and Java
+- **Frontend Engineering** - Creating beautiful, responsive interfaces with React and Flutter
+- **Mobile Development** - Building cross-platform apps with Flutter and native Android
+- **Web3 Exploration** - Diving into blockchain technologies across BTC, EVM, and IC
+- **AI Integration** - Leveraging AI-powered workflows to boost development productivity
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-Rust | Java | Kotlin | TypeScript | Dart | Go | Python
+`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
 
-### ⚙️ Backend
-Axum | Spring Boot | Microservices | Node.js | gRPC | RESTful APIs
+### ⚙️ Backend & Frameworks
+`Axum` `Spring Boot` `Microservices` `Node.js` `gRPC` `RESTful APIs`
 
 ### 🎨 Frontend & Mobile
-React | Vue | Flutter | Android Native | Responsive Design
+`React` `Vue.js` `Flutter` `Android Native` `Responsive Design`
 
-### 🤖 AI & Automation
-AI-powered development workflows | Code assistants | Quality-focused tooling | Intelligent agents
+### 🔧 Tools & Platforms
+`Git` `Docker` `Linux` `VS Code` `IntelliJ IDEA` `Firebase`
 
-### 🔗 Web3 & Blockchain
-Bitcoin (BTC) | Ethereum (EVM) | Internet Computer (IC) | Smart Contracts
+### 🔗 Blockchain & Web3
+`Bitcoin` `Ethereum` `Internet Computer` `Solidity` `Smart Contracts`
 
 ## 📊 Quick Stats
 
-🔥 14+ repositories contributing to the Flutter ecosystem
-🌟 Active open source contributor and maintainer
-💡 Focused on developer tooling and productivity enhancement
-🚀 Building tools that make development more enjoyable
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iota9star&theme=radical)
 
 ## 🔥 Featured Projects
 
@@ -68,28 +79,52 @@ Bitcoin (BTC) | Ethereum (EVM) | Internet Computer (IC) | Smart Contracts
 </tr>
 </table>
 
-## 💭 Philosophy
+## 🏆 Highlights & Achievements
 
-I believe that great software is built at the intersection of technical excellence and user empathy. Every line of code should serve a purpose, every feature should solve a real problem, and every product should create value.
+- 🚀 **Active contributor** to Flutter ecosystem via FlutterCandies
+- 📱 **Built multiple** production-ready mobile applications
+- ⚡ **Performance optimization** enthusiast - making things faster
+- 🌐 **Open source advocate** - believing in collaborative development
+- 🔬 **Constant explorer** of new technologies and paradigms
+- 🤝 **Community builder** - helping others learn and grow
 
-> "当遇到你时，大脑连上CSGO都会掉帧。" —— Florence
+## 💡 Philosophy
 
-## 🏆 Highlights
+> 弱水三千，我只取一瓢饮。
 
-✨ Core contributor to fluttercandies - a collective of Flutter enthusiasts building amazing developer tools
-🌱 Champion of open source collaboration and knowledge sharing
-🎯 Product-minded engineer who understands both technical and business requirements
-🔄 Continuous learner exploring emerging technologies in AI, Web3, and beyond
+*Of the three thousand miles of weak water, I take only one scoop to drink.*
 
-## 📧 Connect
+This ancient Chinese proverb reflects my approach to technology and life - in a world of infinite possibilities, I focus on mastering what truly matters and building depth over breadth.
+
+Great software is built at the intersection of technical excellence and user empathy. Every line of code should serve a purpose, every feature should solve a real problem, and every product should create value.
+
+## 📈 Contribution Activity
+
+![](profile-3d-contrib/profile-season-animate.svg)
+
+## 🎯 Current Focus
+
+- 🦀 Exploring **Rust** for systems programming and high-performance services
+- 🤖 Integrating **AI tools** into development workflows for enhanced productivity
+- 🔮 Deepening knowledge in **Web3** and blockchain technologies
+- 📚 Sharing knowledge through **blog posts** and open source contributions
+- 🎨 Creating beautiful **user experiences** with modern frontend frameworks
+
+## 📧 Connect With Me
 
 Let's connect and build something amazing together!
 
-📧 Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-🐦 X (Twitter): [@iota9star](https://x.com/iota9star)
-📝 Blog (Juejin): [Articles & Tutorials](https://juejin.cn/user/1591748568562829)
-🐙 GitHub: [iota9star](https://github.com/iota9star)
+<div align="center">
 
-⭐ If you find my work useful, consider giving it a star! Every star motivates me to keep building.
+📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
+📝 **Blog**: [Juejin](https://juejin.cn/user/1591748568562829)
+💼 **GitHub**: [iota9star](https://github.com/iota9star)
 
-🦄 *With gratitude to the open source community*
+---
+
+**⭐ Star repos you find interesting! Fork and contribute!**
+
+Made with ❤️ by iota9star
+
+</div>
