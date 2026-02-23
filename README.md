@@ -1,51 +1,41 @@
-# Hi there! I'm iota9star 👋
-
-## 👨‍💻 About Me
-
-Full Stack Developer with a passion for building elegant digital experiences across the entire technology stack. I specialize in crafting high-performance backend systems and creating polished frontend interfaces that users love.
-
-I believe in the power of clean code, thoughtful architecture, and continuous learning. Every line of code is an opportunity to make something better.
+# 👨‍💻 Hey there, I'm **iota9star**
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm a full-stack developer passionate about creating products that users love.
+
+![](profile-3d-contrib/profile-season-animate.svg)
+
 ## 🎯 What I Do
 
-🚀 Building scalable microservices architectures with Rust and Java
+Full Stack Development with a product mindset. I specialize in:
 
-🎨 Creating beautiful cross-platform applications with Flutter and React
-
-🤖 Exploring AI-powered development workflows and code assistants
-
-⛓️ Diving into Web3 technologies across BTC, EVM, and IC ecosystems
-
-📦 Contributing to open-source projects that make developers' lives easier
+- **Backend Engineering** 🦀 Building scalable microservices with Rust and Java
+- **Mobile Development** 📱 Crafting smooth Flutter and Android experiences
+- **Frontend Magic** ⚛️ Creating reactive UIs with React and Vue
+- **AI Integration** 🤖 Leveraging AI-powered workflows for smarter development
+- **Web3 Exploration** 🔗 Diving into BTC, EVM, and Internet Computer ecosystems
 
 ## 🛠️ Tech Stack
 
 ### Languages
-`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
+`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Go` `Python`
 
 ### Backend
-`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis` `MongoDB`
+`Axum` `Spring Boot` `Microservices` `Node.js` `MySQL` `Redis` `MongoDB`
 
 ### Frontend & Mobile
-`React` `Vue` `Flutter` `Android` `iOS` `Web`
+`React` `Vue` `Flutter` `Android` `Dart`
 
 ### Tools & Platforms
-`Git` `Docker` `Kubernetes` `CI/CD` `AWS` `GCP` `Linux`
-
-### Areas of Interest
-🤖 AI/ML & Code Assistants 🌐 Web3 & Blockchain 📱 Mobile Development 🔧 DevOps ☁️ Cloud Architecture
+`Git` `Docker` `Linux` `VS Code` `AI Agents` `GitHub Actions`
 
 ## 📊 Quick Stats
 
-🔥 16+ projects across Flutter ecosystem and beyond
-
-⭐ Contributing to popular open-source libraries
-
-💻 Full-stack expertise from backend to frontend
-
-🌏 Building bridges between Chinese and global dev communities
+- 💼 Open source enthusiast & contributor
+- ⭐ Active member of fluttercandies community
+- 🚀 Building tools that make developers' lives easier
+- 🌍 Based in China, connected globally
 
 ## 🔥 Featured Projects
 
@@ -77,37 +67,27 @@ I believe in the power of clean code, thoughtful architecture, and continuous le
 </tr>
 </table>
 
+## 💡 Philosophy
+
+I believe in writing clean, maintainable code that stands the test of time. Every commit is an opportunity to leave the codebase better than we found it. Learning never stops — that's the beauty of software development.
+
 ## 🏆 Highlights
 
-✨ Active contributor to the fluttercandies ecosystem
+- Core contributor to fluttercandies ecosystem
+- Built multiple Flutter development tools used by developers worldwide
+- Exploring the intersection of AI and software engineering
+- Always curious, always building
 
-🌟 Building tools that simplify Flutter development
+## 💬 Quote
 
-🔧 Creating elegant solutions for complex problems
+> "我们不是狼，我们只是长着獠牙的羊......" — 羊之歌
 
-📚 Sharing knowledge through blog posts and open source
+## 📧 Let's Connect
 
-## 💡 Quote
+I'm always excited to collaborate on interesting projects or just chat about tech!
 
-> 找到迷失于黑夜的少女，这便是改写你命运的咒语。
-> — 少女前线
+- Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+- X (Twitter): [@iota9star](https://x.com/iota9star)
+- Juejin Blog: [Read my articles](https://juejin.cn/user/1591748568562829)
 
-## 💭 Philosophy
-
-Code is more than syntax—it's expression. I strive to write code that's not only functional but beautiful, maintainable, and meaningful. Every project is a chance to learn, grow, and create something that matters.
-
-## 📧 Connect
-
-Let's connect and build something amazing together!
-
-📧 Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-
-🐦 X: [@iota9star](https://x.com/iota9star)
-
-📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
-
-💼 GitHub: [@iota9star](https://github.com/iota9star)
-
----
-
-![](profile-3d-contrib/profile-season-animate.svg)
+Thanks for stopping by! 👋
