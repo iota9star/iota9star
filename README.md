@@ -1,20 +1,26 @@
-# 👨‍💻 Hey there, I'm **iota9star**
+<div align="center">
 
-![](https://count.getloli.com/get/@iota9star?theme=rule34)
+# 👋 Hi, I'm iota9star
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm a full-stack developer passionate about creating products that users love.
+### Full Stack Developer | Rust & Java Backend | Product Mindset
 
-![](profile-3d-contrib/profile-season-animate.svg)
+![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
+
+</div>
+
+## 👨‍💻 About Me
+
+Building digital experiences across the stack — from high-performance backends to elegant frontends.
+
+I'm a passionate developer who loves crafting clean, efficient code and building products that make a difference. With expertise spanning multiple languages and frameworks, I bring ideas to life through technology.
 
 ## 🎯 What I Do
 
-Full Stack Development with a product mindset. I specialize in:
-
-- **Backend Engineering** 🦀 Building scalable microservices with Rust and Java
-- **Mobile Development** 📱 Crafting smooth Flutter and Android experiences
-- **Frontend Magic** ⚛️ Creating reactive UIs with React and Vue
-- **AI Integration** 🤖 Leveraging AI-powered workflows for smarter development
-- **Web3 Exploration** 🔗 Diving into BTC, EVM, and Internet Computer ecosystems
+🔹 **Backend Development** — Designing scalable microservices and RESTful APIs with Rust and Java
+🔹 **Frontend Engineering** — Creating responsive, intuitive user interfaces with React, Vue, and Flutter
+🔹 **Mobile Development** — Building cross-platform apps that work seamlessly on Android and iOS
+🔹 **AI Integration** — Leveraging AI-powered workflows and code assistants to boost productivity
+🔹 **Web3 Exploration** — Diving into blockchain technologies across BTC, EVM, and IC ecosystems
 
 ## 🛠️ Tech Stack
 
@@ -22,20 +28,17 @@ Full Stack Development with a product mindset. I specialize in:
 `Rust` `Java` `Kotlin` `TypeScript` `Dart` `Go` `Python`
 
 ### Backend
-`Axum` `Spring Boot` `Microservices` `Node.js` `MySQL` `Redis` `MongoDB`
+`Axum` `Spring Boot` `Microservices` `Node.js` `MySQL` `PostgreSQL` `Redis` `MongoDB`
 
 ### Frontend & Mobile
-`React` `Vue` `Flutter` `Android` `Dart`
+`React` `Vue` `Flutter` `Android Native` `HTML/CSS` `Tailwind CSS`
 
 ### Tools & Platforms
-`Git` `Docker` `Linux` `VS Code` `AI Agents` `GitHub Actions`
+`Git` `Docker` `Linux` `GitHub Actions` `VS Code` `IntelliJ IDEA`
 
 ## 📊 Quick Stats
 
-- 💼 Open source enthusiast & contributor
-- ⭐ Active member of fluttercandies community
-- 🚀 Building tools that make developers' lives easier
-- 🌍 Based in China, connected globally
+![](https://stats.justsong.cn/api/github?id=iota9star&theme=dark)
 
 ## 🔥 Featured Projects
 
@@ -67,27 +70,37 @@ Full Stack Development with a product mindset. I specialize in:
 </tr>
 </table>
 
-## 💡 Philosophy
+## 💡 Quote
 
-I believe in writing clean, maintainable code that stands the test of time. Every commit is an opportunity to leave the codebase better than we found it. Learning never stops — that's the beauty of software development.
+> "去年今日此门中，人面桃花相映红。" — 崔护
 
 ## 🏆 Highlights
 
-- Core contributor to fluttercandies ecosystem
-- Built multiple Flutter development tools used by developers worldwide
-- Exploring the intersection of AI and software engineering
-- Always curious, always building
+🌟 Active contributor to the Flutter Candies ecosystem
+🚀 Built multiple production-ready mobile applications
+💻 Open source enthusiast with contributions across various projects
+🎓 Constantly learning and exploring new technologies
 
-## 💬 Quote
+## 💭 Philosophy
 
-> "我们不是狼，我们只是长着獠牙的羊......" — 羊之歌
+Code is poetry. I believe in writing clean, maintainable code that not only works but tells a story. Every project is an opportunity to learn, grow, and create something meaningful.
 
-## 📧 Let's Connect
+Technology should serve people, not the other way around. I strive to build tools and applications that genuinely improve users' lives and solve real problems.
 
-I'm always excited to collaborate on interesting projects or just chat about tech!
+## 📧 Connect
 
-- Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-- X (Twitter): [@iota9star](https://x.com/iota9star)
-- Juejin Blog: [Read my articles](https://juejin.cn/user/1591748568562829)
+<div align="center">
 
-Thanks for stopping by! 👋
+<a href="mailto:iota9star@gmail.com"><img src="https://img.shields.io/badge/Email-iota9star@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/iota9star"><img src="https://img.shields.io/badge/X-@iota9star-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://juejin.cn/user/1591748568562829"><img src="https://img.shields.io/badge/Juejin-Blog-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="Juejin"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](profile-3d-contrib/profile-season-animate.svg)
+
+</div>
