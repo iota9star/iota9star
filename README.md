@@ -1,51 +1,53 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Rust+%26+Java+Backend;Product+Mindset+👋;Building+Digital+Experiences" alt="Typing SVG" />
+</p>
 
-# 👋 Hi, I'm iota9star
-
-### Full Stack Developer | Rust & Java Backend | Product Mindset
-
-![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
-
-</div>
+<p align="center">
+  <img src="https://count.getloli.com/get/@iota9star?theme=rule34" alt="Profile Views" />
+</p>
 
 ## 👨‍💻 About Me
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm a passionate developer who loves crafting clean, efficient code and building products that make a difference.
+Hi, I'm **iota9star** — a passionate full-stack developer bridging the gap between elegant frontend experiences and high-performance backend systems.
 
-I thrive at the intersection of technology and creativity, turning complex problems into elegant solutions. Whether it's optimizing a database query, designing a microservice architecture, or crafting a pixel-perfect UI, I bring attention to detail and a user-first mindset to every project.
+I thrive on building products that matter. My journey spans across mobile development, distributed systems, and emerging Web3 technologies. I believe in writing clean, maintainable code that scales.
 
 ## 🎯 What I Do
 
-💼 **Backend Development**: Crafting scalable microservices and RESTful APIs with Rust and Java, leveraging frameworks like Axum and Spring to build robust systems that perform.
-
-📱 **Frontend Engineering**: Creating responsive, intuitive user interfaces with React, Vue, and Flutter that users love to interact with.
-
-📲 **Mobile Development**: Building cross-platform applications that work seamlessly on Android and iOS, delivering native-like experiences.
-
-🤖 **AI Integration**: Leveraging AI-powered workflows and code assistants to boost productivity and explore the future of software development.
-
-⛓️ **Web3 Exploration**: Diving into blockchain technologies across BTC, EVM, and Internet Computer ecosystems, building the decentralized future.
+- **Mobile Development** — Crafting beautiful Flutter experiences that users love
+- **Backend Architecture** — Designing robust systems with Rust and Java that handle millions of requests
+- **Open Source** — Contributing to projects that empower developers worldwide
+- **Web3 Exploration** — Diving into blockchain technologies across BTC, EVM, and IC ecosystems
+- **AI-Enhanced Development** — Leveraging AI agents and code assistants to ship better software faster
 
 ## 🛠️ Tech Stack
 
-### Languages
-`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square" />
+</p>
 
-### Backend
-`Axum` `Spring Boot` `Microservices` `Node.js` `MySQL` `PostgreSQL` `Redis` `MongoDB`
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
+</p>
 
-### Frontend & Mobile
-`React` `Vue` `Flutter` `Android Native` `HTML/CSS` `Tailwind CSS`
-
-### Tools & Platforms
-`Git` `Docker` `Linux` `GitHub Actions` `VS Code` `IntelliJ IDEA`
-
-### AI & Web3
-`AI/ML` `LLMs` `Code Assistants` `BTC` `EVM` `IC`
+<p>
+  <img alt="Axum" src="https://img.shields.io/badge/-Axum-FFFFFF?logo=tokio&logoColor=black&style=flat-square" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
+</p>
 
 ## 📊 Quick Stats
 
-![](https://stats.justsong.cn/api/github?id=iota9star&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ## 🔥 Featured Projects
 
@@ -77,38 +79,40 @@ I thrive at the intersection of technology and creativity, turning complex probl
 </tr>
 </table>
 
-## 💡 Quote of the Day
-
-> 自己选择的路，跪着也要走完
-
 ## 🏆 Highlights
 
-🌟 **Open Source Contributor**: Active contributor to the FlutterCandies ecosystem, building developer tools and utilities that make Flutter development more enjoyable.
+- 📱 **Flutter Enthusiast** — Active contributor to fluttercandies, pushing the boundaries of what's possible with Flutter
+- 🚀 **Performance Focus** — Building apps that run smooth, scale effortlessly, and delight users
+- 🌐 **Web3 Explorer** — Navigating the decentralized frontier with practical blockchain implementations
+- 🤖 **AI-Native Developer** — Embracing AI tools to supercharge productivity while maintaining code quality
 
-🚀 **Full-Stack Projects**: Shipped multiple production-ready mobile applications from concept to deployment, reaching thousands of users.
+## 💡 Quote
 
-💻 **Diverse Experience**: From high-performance backend systems to beautiful mobile UIs, I've worked across the entire technology stack.
-
-🎓 **Continuous Learner**: Always exploring new technologies — from blockchain to AI agents, there's always something new to discover.
+> "就算天塌下来变成一片废墟，他的脸色也不会有丝毫变化。"
+> — 叔本华, 《人生的智慧》
 
 ## 💭 Philosophy
 
-Code is poetry. I believe in writing clean, maintainable code that not only works but tells a story. Every project is an opportunity to learn, grow, and create something meaningful.
-
-Technology should serve people, not the other way around. I strive to build tools and applications that genuinely improve users' lives and solve real problems. The best software is invisible — it just works.
+Code is more than syntax — it's a craft. I believe in:
+- **Simplicity over complexity** — The best code is the code you don't have to write
+- **User experience first** — Technology serves humans, not the other way around
+- **Continuous learning** — The tech landscape evolves, and so should we
+- **Open collaboration** — Great software is built together, not in isolation
 
 ## 📧 Connect
 
-<div align="center">
+<p align="center">
+  <a href="mailto:iota9star@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-iota9star@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://x.com/iota9star">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-@iota9star-000000?logo=x&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://juejin.cn/user/1591748568562829">
+    <img alt="Juejin" src="https://img.shields.io/badge/Juejin-Blog-1E80FF?logo=juejin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-<a href="mailto:iota9star@gmail.com"><img src="https://img.shields.io/badge/Email-iota9star@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://x.com/iota9star"><img src="https://img.shields.io/badge/X-@iota9star-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://juejin.cn/user/1591748568562829"><img src="https://img.shields.io/badge/Juejin-Blog-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="Juejin"/></a>
-
-</div>
-
-<div align="center">
-
-![](profile-3d-contrib/profile-season-animate.svg)
-
-</div>
+<p align="center">
+  <img src="profile-3d-contrib/profile-season-animate.svg" alt="GitHub Contributions" />
+</p>
