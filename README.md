@@ -1,68 +1,64 @@
 <div align="center">
 
-# 👋 Hi, I'm iota9star
+# Hi, I'm iota9star! 👋
 
-### Full Stack Developer | Rust & Java Backend | Product Mindset
+[![Profile Views](https://count.getloli.com/get/@iota9star?theme=rule34)](https://github.com/iota9star)
 
-![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
+**Full Stack Developer | Rust & Java Backend | Product Mindset**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. Passionate about clean code, innovative solutions, and the intersection of technology and user experience.
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer who loves turning ideas into reality through code. My journey spans across multiple ecosystems — from the elegance of Rust to the enterprise power of Java, from Flutter's cross-platform magic to React's component-based architecture. I believe in building software that not only works but delights users with its performance and polish. When I'm not coding, you'll find me exploring emerging tech trends in Web3 and AI, contributing to open source, or sharing knowledge with the developer community.
+I'm a developer who loves crafting software that matters. With expertise spanning **Rust**, **Java**, and modern frontend frameworks, I build applications that are both powerful and delightful to use.
+
+My journey takes me through microservices architectures, cross-platform mobile apps, and the exciting world of Web3. I believe in the power of open source and contributing to tools that developers actually enjoy using.
+
+When I'm not coding, you'll find me exploring new technologies, optimizing performance bottlenecks, or sharing knowledge with the community.
+
+---
 
 ## 🎯 What I Do
 
-Backend Development: Crafting scalable microservices and high-performance APIs with Rust and Java
+- **Backend Development**: High-performance services with Rust and Java
+- **Frontend Engineering**: Responsive web apps with React & Vue
+- **Mobile Development**: Cross-platform solutions with Flutter & Android
+- **AI Integration**: Building AI-powered development workflows and assistants
+- **Web3 Exploration**: Working with BTC, EVM, and Internet Computer protocols
+- **Open Source**: Actively contributing to Flutter ecosystem and beyond
 
-Frontend Engineering: Building responsive, accessible UIs with React, Vue, and Flutter
-
-Mobile Development: Creating beautiful cross-platform apps with Flutter and native Android
-
-DevTool Innovation: Developing tools that make developers' lives easier and more productive
-
-Open Source: Actively contributing to Flutter ecosystem and community projects
+---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
 
-### Backend & Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-FF5722?style=flat-square&logo=tokio&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6600?style=flat-square&logo=microservices&logoColor=white)
+### Backend
+`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis`
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+### Frontend
+`React` `Vue.js` `Flutter` `Android` `HTML5/CSS3`
 
-### Emerging Tech
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+### Tools & Platforms
+`Git` `Docker` `GitHub Actions` `VS Code` `IntelliJ IDEA`
+
+### Areas of Interest
+`AI Agents` `Web3` `System Design` `Performance Optimization`
+
+---
 
 ## 📊 Quick Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
 
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=transparent&hide_border=true&hide_title=true)
 
-![](profile-3d-contrib/profile-season-animate.svg)
-
-</div>
+---
 
 ## 🔥 Featured Projects
 
@@ -94,36 +90,45 @@ Open Source: Actively contributing to Flutter ecosystem and community projects
 </tr>
 </table>
 
-## 💡 Daily Inspiration
+---
 
-> *你怕不怕，这辈子就是上辈子所说的下辈子？*
+## 💡 Philosophy
+
+> "The only way to do great work is to love what you do."
+> — Steve Jobs
+
+I believe in writing code that's not just functional, but elegant. Every line should have purpose, every architecture should tell a story of thoughtful design. Technology is a tool for solving real problems, and the best solutions come from understanding both the technical constraints and human needs.
+
+---
 
 ## 🏆 Highlights
 
-Core contributor to [FlutterCandies](https://github.com/fluttercandies) — building essential Flutter developer tools and libraries
+- 🌟 Active contributor to the Flutter ecosystem via fluttercandies
+- 🔧 Built developer tools that simplify complex workflows
+- 📱 Created cross-platform mobile applications used by thousands
+- 🚀 Experienced in building scalable microservices architectures
+- 🤖 Exploring AI-powered development assistants and agents
 
-Active maintainer of multiple open source projects with thousands of stars
-
-Building AI-powered development workflows and code assistants
-
-Exploring the intersection of Web3 technologies and traditional software development
-
-## 💭 Philosophy
-
-I believe that great software is born from curiosity, persistence, and a relentless focus on user experience. Every line of code is an opportunity to make someone's life a little easier. I'm constantly learning, experimenting, and pushing the boundaries of what's possible.
+---
 
 ## 📧 Connect
 
+Let's connect! I'm always open to interesting conversations and collaborations.
+
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iota9star)
-[![Juejin](https://img.shields.io/badge/Juejin-1E80FF?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/1591748568562829)
+[![Email](https://img.shields.io/badge/Email-iota9star@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
+[![X](https://img.shields.io/badge/X-@iota9star-black?style=flat-square&logo=x&logoColor=white)](https://x.com/iota9star)
+[![Juejin](https://img.shields.io/badge/Juejin-Blog-1E80FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiNmZmYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDE1IDEwLTE1eiIvPjwvc3ZnPg==)](https://juejin.cn/user/1591748568562829)
 
 </div>
 
+---
+
 <div align="center">
 
-*Thanks for stopping by! Let's build something amazing together.* 🚀
+![Activity Graph](profile-3d-contrib/profile-season-animate.svg)
+
+*Thanks for visiting! Have a great day! 🌟*
 
 </div>
