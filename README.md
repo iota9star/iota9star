@@ -1,41 +1,67 @@
+<div align="center">
+
 # 👋 Hi, I'm **iota9star**
 
-Full Stack Developer | Rust & Java Backend | Product Mindset
-
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I thrive on turning complex problems into simple, beautiful solutions that users love.
+### Full Stack Developer | Rust & Java Backend | Product Mindset
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
+*Building digital experiences across the stack — from high-performance backends to elegant frontends*
+
+[![Email](https://img.shields.io/badge/Email-iota9star@gmail.com-blue)](mailto:iota9star@gmail.com)
+[![X](https://img.shields.io/badge/X-@iota9star-black)](https://x.com/iota9star)
+[![Blog](https://img.shields.io/badge/Blog-bytex.space-green)](https://bytex.space)
+[![Juejin](https://img.shields.io/badge/Juejin-Blog-red)](https://juejin.cn/user/1591748568562829)
+
+![](profile-3d-contrib/profile-season-animate.svg)
+
+</div>
+
 ## 👨‍💻 About Me
 
-I'm a passionate developer who loves crafting software that makes a difference. With a product mindset and deep technical expertise, I bridge the gap between business needs and elegant code. I believe in continuous learning and sharing knowledge with the community.
+A passionate developer who loves crafting seamless digital experiences. I believe great software comes from the intersection of technical excellence and user empathy. Whether it's optimizing backend performance or polishing UI interactions, I bring care and attention to every layer of the stack.
+
+We share more similarities than differences — let's build something meaningful together.
 
 ## 🎯 What I Do
 
-- 🚀 **High-Performance Backend Systems** — Building scalable microservices with Rust and Java
-- 📱 **Cross-Platform Mobile Apps** — Creating beautiful Flutter experiences
-- 🤖 **AI-Powered Development** — Leveraging AI agents and code assistants for quality workflows
-- 🌐 **Web3 & Blockchain** — Exploring BTC, EVM, and Internet Computer ecosystems
-- 🎨 **Open Source Contributions** — Active contributor to Flutter Candies and various projects
+I specialize in building scalable applications with a focus on:
+
+**Backend Engineering** — High-performance services with Rust and Java ecosystems that scale elegantly under load
+
+**Frontend Development** — Responsive, accessible interfaces with modern frameworks that users love
+
+**Mobile Development** — Native-feeling apps with Flutter and Android that reach users everywhere
+
+**AI Integration** — Leveraging AI-powered workflows for smarter development and code assistance
+
+**Web3 Technologies** — Exploring the frontier of BTC, EVM, and IC ecosystems
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
 
 ### Backend
-![Axum](https://img.shields.io/badge/Axum-green?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-blue?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+`Axum` `Spring Boot` `Microservices` `Node.js` `gRPC` `Redis` `PostgreSQL` `MySQL`
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### Web3
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![ICP](https://img.shields.io/badge/ICP-1485FA?style=flat-square)
+`React` `Vue.js` `Flutter` `Android` `Dart` `TailwindCSS` `Next.js`
+
+### DevOps & Tools
+
+`Docker` `Kubernetes` `GitHub Actions` `AWS` `Vercel` `Git` `Linux`
 
 ## 📊 Quick Stats
 
-![](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iota9star&theme=tokyonight&hide_border=true)
 
 ## 🔥 Featured Projects
 
@@ -67,31 +93,52 @@ I'm a passionate developer who loves crafting software that makes a difference. 
 </tr>
 </table>
 
-## 💭 Philosophy
+## 💡 Daily Inspiration
 
-> "Everything lost cannot be chased again." — 梦伴
+> "绿树阴浓夏日长，楼台倒影入池塘。"
+>
+> — 高骈《山亭夏日》
 
-This quote reminds me to cherish every moment and opportunity. In software development, I apply this by being mindful of trade-offs and making decisions that create lasting value.
+*The green trees cast deep shadows in the long summer days, the reflection of pavilions enters the pond.*
 
-## 🏆 Highlights
+A reminder that beauty emerges from the interplay of light and shadow, depth and reflection — much like the art of programming.
 
-- 💎 **Flutter Candies Core Contributor** — Building essential Flutter developer tools
-- 🌟 **Open Source Advocate** — Believer in the power of community-driven development
-- 🔥 **Product-First Thinking** — Always asking "why" before "how"
-- 📚 **Knowledge Sharer** — Active blogger on Juejin
+## 🏆 Highlights & Achievements
 
-## 📧 Connect With Me
+- 📦 **Active FlutterCandies Contributor** — Building essential tools that make Flutter development more enjoyable
+- 🔨 **Tool Builder** — Creating utilities that solve real developer pain points
+- 🌱 **Open Source Advocate** — Believer in the power of community-driven development
+- 🚀 **97+ Public Repositories** — Consistently shipping code and sharing knowledge
+- 👥 **Growing Community** — Joined by 276+ developers on the journey
+- 📝 **Knowledge Sharer** — Active blogger sharing insights on Juejin
+
+## 💭 Philosophy & Approach
+
+I believe that:
+
+- **Code is Poetry** — Every line should be crafted with intention and care
+- **Learning is Infinite** — Stay curious, embrace challenges as opportunities
+- **Sharing Multiplies Value** — Knowledge grows when shared openly
+- **Tools for Developers** — The best tools are built by developers, for developers
+- **Simplicity Wins** — Complexity should be handled, not inflicted
+
+## 📧 Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-iota9star@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
-[![X](https://img.shields.io/badge/X-@iota9star-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
-[![Juejin](https://img.shields.io/badge/Juejin-Blog-1E80FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDE1IDEwLTE1eiIvPjwvc3ZnPg==)](https://juejin.cn/user/1591748568562829)
+Let's build something amazing together!
+
+[![Email](https://img.shields.io/badge/📧_Email-iota9star@gmail.com-blue)](mailto:iota9star@gmail.com)
+[![X](https://img.shields.io/badge/X_@iota9star-black)](https://x.com/iota9star)
+[![Blog](https://img.shields.io/badge/📝_Blog-bytex.space-green)](https://bytex.space)
+[![Juejin](https://img.shields.io/badge/掘金_Blog-red)](https://juejin.cn/user/1591748568562829)
 
 </div>
 
-![](profile-3d-contrib/profile-season-animate.svg)
-
 <div align="center">
-Made with ❤️ by iota9star
+
+---
+
+*Made with 💜 by iota9star*
+
 </div>
