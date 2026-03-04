@@ -95,13 +95,11 @@ I specialize in building scalable applications with a focus on:
 
 ## 💡 Daily Inspiration
 
-> "绿树阴浓夏日长，楼台倒影入池塘。"
->
-> — 高骈《山亭夏日》
+> 憧憬是距离理解最遥远的感情。 — 蓝染惣右介
 
-*The green trees cast deep shadows in the long summer days, the reflection of pavilions enters the pond.*
+*Admiration is the emotion farthest from understanding.*
 
-A reminder that beauty emerges from the interplay of light and shadow, depth and reflection — much like the art of programming.
+A reminder that true understanding requires more than admiration — it demands deep exploration, critical thinking, and the courage to question what we see.
 
 ## 🏆 Highlights & Achievements
 
