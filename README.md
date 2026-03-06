@@ -1,42 +1,51 @@
-# 👋 Hi, I'm iota9star
+<div align="center">
 
-![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=42&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Rust+%26+Java+Backend;Product+Mindset" alt="Typing SVG" />
+
+![](https://count.getloli.com/get/@iota9star?theme=rule34)
+
+</div>
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Developer with a passion for building digital experiences across the entire stack — from high-performance backends to elegant frontends.
+Hi, I'm **iota9star** — a full-stack developer with a passion for building digital experiences across the entire technology stack. From crafting high-performance backends to designing elegant frontends, I bring ideas to life through code.
 
-I believe in the power of clean code, elegant solutions, and continuous learning. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or diving deep into the latest developer tools.
+I specialize in **Rust** and **Java** backend development, with deep expertise in microservices architecture and scalable systems. My frontend work spans **React**, **Vue**, and **Flutter**, creating responsive and intuitive user experiences.
+
+What drives me? The intersection of technology and product thinking. I don't just write code — I build solutions that solve real problems and deliver value.
 
 ## 🎯 What I Do
 
-**Backend Development** — Crafting robust, scalable systems using Rust and Java
-
-**Frontend Engineering** — Building responsive UIs with React, Vue, and Flutter
-
-**Mobile Development** — Creating native Android and cross-platform apps
-
-**AI Integration** — Leveraging AI-powered workflows for smarter development
-
-**Web3 Exploration** — Diving into BTC, EVM, and Internet Computer ecosystems
+- **Backend Engineering**: Building robust, scalable APIs and microservices with Rust (Axum) and Java (Spring)
+- **Frontend Development**: Creating beautiful, responsive interfaces with React, Vue, and Flutter
+- **Mobile Development**: Cross-platform apps using Flutter and native Android
+- **AI-Powered Workflows**: Leveraging AI tools and code assistants to enhance development productivity
+- **Web3 Development**: Working with BTC, EVM, and Internet Computer protocols
 
 ## 🛠️ Tech Stack
 
-### Languages
-<span style="font-size: 1.2em">🦀</span> Rust · <span style="font-size: 1.2em">☕</span> Java · <span style="font-size: 1.2em">🎯</span> Kotlin · <span style="font-size: 1.2em">📘</span> TypeScript · <span style="font-size: 1.2em">🎯</span> Dart
+**Languages**
+`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python`
 
-### Backend
-<span>🚀</span> Axum · <span>🌱</span> Spring · <span>🔧</span> Microservices · <span>🟢</span> Node.js
+**Backend & Frameworks**
+`Axum` `Spring Boot` `Microservices` `Node.js` `Actix`
 
-### Frontend & Mobile
-<span>⚛️</span> React · <span>💚</span> Vue · <span>🦋</span> Flutter · <span>🤖</span> Android
+**Frontend & Mobile**
+`React` `Vue.js` `Flutter` `Android` `Tailwind CSS`
 
-### AI & Web3
-<span>🤖</span> AI Agents · <span>🔗</span> BTC · <span>💎</span> EVM · <span>🌐</span> IC
+**Tools & Platforms**
+`Git` `Docker` `CI/CD` `gh CLI` `AI Agents`
+
+**Web3**
+`Bitcoin` `Ethereum` `Internet Computer` `Smart Contracts`
 
 ## 📊 Quick Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=gradient&hide_border=true)
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iota9star&theme=transparent)
+
+</div>
 
 ## 🔥 Featured Projects
 
@@ -68,29 +77,42 @@ I believe in the power of clean code, elegant solutions, and continuous learning
 </tr>
 </table>
 
-## 💡 Today's Quote
+## 💡 Thought of the Day
 
-> 如果圆规的两只脚都动，永远也画不出一个圆。
->
-> *If both legs of a compass move, it can never draw a circle.*
->
-> — 网络
+> "搞怪的不是红绿灯，而是我数不清的犹豫。" — 请回答1998
 
 ## 🏆 Highlights
 
-- **Flutter Community Contributor** — Active member of fluttercandies, building tools that empower developers worldwide
-- **Full Stack Versatility** — Comfortable working across the entire technology stack
-- **Product Mindset** — Focused on delivering value and solving real user problems
-- **Open Source Advocate** — Believer in collaborative development and knowledge sharing
+- **Open Source Contributor**: Active contributor to the Flutter Candies ecosystem
+- **Full Stack Experience**: Building end-to-end solutions from database to UI
+- **Product-First Mindset**: Focusing on user needs and business value
+- **Continuous Learning**: Always exploring new technologies and best practices
+- **Community Engagement**: Sharing knowledge through blogs and technical writing
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![](profile-3d-contrib/profile-season-animate.svg)
+
+</div>
 
 ## 📧 Connect
 
-<span>📮</span> [iota9star@gmail.com](mailto:iota9star@gmail.com)
-<span>🐦</span> [@iota9star](https://x.com/iota9star)
-<span>✍️</span> [Juejin Blog](https://juejin.cn/user/1591748568562829)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-iota9star@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
+[![X](https://img.shields.io/badge/X-@iota9star-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
+[![Juejin](https://img.shields.io/badge/Juejin-Blog-1E80FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDguNTkgOCA4LTMuNTkgOC04IDh6Ii8+PC9zdmc+)](https://juejin.cn/user/1591748568562829)
+
+</div>
 
 ## 💭 Philosophy
 
-I believe great software is built at the intersection of technical excellence and user empathy. Every line of code should serve a purpose, every feature should solve a real problem, and every project should leave the world a little better than we found it.
+I believe in writing clean, maintainable code that stands the test of time. Technology is a means to an end — the end being solved problems and delighted users. Whether it's a simple script or a complex distributed system, I approach every project with curiosity, rigor, and a commitment to excellence.
 
-![](profile-3d-contrib/profile-season-animate.svg)
+<div align="center">
+
+*"The best code is the code that doesn't exist — but when it must exist, make it beautiful."*
+
+</div>
