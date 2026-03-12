@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **iota9star** 👋
+# Hi, I'm iota9star 👋
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -8,13 +8,13 @@
 
 </div>
 
-I'm a passionate developer who loves turning complex problems into simple, beautiful solutions. With expertise spanning multiple languages and frameworks, I bring a holistic approach to software development — from system architecture to pixel-perfect UIs.
+## 👨‍💻 About Me
 
-## About Me
+Passionate Full Stack Developer with a product mindset and a love for building digital experiences across the entire stack. I specialize in crafting high-performance backends with Rust and Java while creating elegant, intuitive frontends that users love.
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I craft solutions that balance performance, maintainability, and user experience. My journey spans multiple domains, always driven by curiosity and a desire to create meaningful software that solves real problems.
+I believe in the power of clean code, thoughtful architecture, and continuous learning. Whether it's optimizing database queries, designing microservices, or polishing UI animations — I enjoy every layer of the development process.
 
-## What I Do
+## 🎯 What I Do
 
 💻 **Backend Development** — Building scalable, high-performance services with Rust and Java
 📱 **Mobile Development** — Creating beautiful Flutter and Android applications
@@ -23,24 +23,24 @@ Building digital experiences across the stack — from high-performance backends
 ⛓️ **Web3 Technologies** — Exploring BTC, EVM, and Internet Computer ecosystems
 🔧 **System Architecture** — Designing robust microservices and distributed systems
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 🎨 Languages & Frameworks
 `Rust` `Java` `Kotlin` `TypeScript` `Dart` `Go` `Python`
 
-### Backend
-`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis` `Kafka`
+### ⚙️ Backend
+`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis` `Kafka` `gRPC`
 
-### Frontend & Mobile
+### 🎨 Frontend & Mobile
 `React` `Vue` `Flutter` `Android Native` `Dart` `TypeScript` `Tailwind`
 
-### AI & Automation
+### 🤖 AI & Automation
 AI-powered development workflows, code assistants, intelligent agents, quality-focused automation
 
-### Web3
+### 🔗 Web3
 `Bitcoin` `EVM` `Internet Computer` `Smart Contracts`
 
-## Quick Stats
+## 📊 Quick Stats
 
 <div align="center">
 
@@ -48,7 +48,7 @@ AI-powered development workflows, code assistants, intelligent agents, quality-f
 
 </div>
 
-## Featured Projects
+## 🔥 Featured Projects
 
 <table>
 <tr>
@@ -78,19 +78,11 @@ AI-powered development workflows, code assistants, intelligent agents, quality-f
 </tr>
 </table>
 
-## Philosophy
+## 💡 Quote
 
-> "Study, study, and study some more! Learn, and then you'll know your shortcomings."
-> — Vladimir Ilyich Lenin
+> "不相信人咬不到肚脐的，咬破肚脐去死如何？" — 海猫鸣泣之时
 
-I believe in:
-- Writing clean, maintainable code that others can understand
-- Building systems that scale gracefully under pressure
-- Continuous learning and sharing knowledge with the community
-- Balancing pragmatism with best practices
-- Creating software that makes a real difference
-
-## Highlights
+## 🏆 Highlights
 
 🚀 Active contributor to the Flutter Candies ecosystem
 🌟 Core maintainer of multiple open-source projects
@@ -99,7 +91,7 @@ I believe in:
 ⚡ Performance optimization enthusiast
 🎯 Product-focused engineering mindset
 
-## Connect
+## 📧 Connect
 
 <div align="center">
 
@@ -107,11 +99,7 @@ I believe in:
 [![](https://img.shields.io/badge/X-@iota9star-black)](https://x.com/iota9star)
 [![](https://img.shields.io/badge/Blog-Juejin-red)](https://juejin.cn/user/1591748568562829)
 
-</div>
-
 Let's connect and build something amazing together!
-
-<div align="center">
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
