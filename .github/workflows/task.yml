@@ -2,7 +2,7 @@ name: GitHub-Profile-Automation
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -107,6 +107,7 @@ jobs:
           ANTHROPIC_DEFAULT_HAIKU_MODEL: ${{ secrets.CLAUDE_MODEL }}
           ANTHROPIC_DEFAULT_SONNET_MODEL: ${{ secrets.CLAUDE_MODEL }}
           ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ secrets.CLAUDE_MODEL }}
+          ANTHROPIC_REASONING_MODEL: ${{ secrets.CLAUDE_MODEL }}
 
       - name: Commit & Push All Changes
         uses: stefanzweifel/git-auto-commit-action@v7
