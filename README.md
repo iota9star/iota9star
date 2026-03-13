@@ -1,50 +1,46 @@
 <div align="center">
 
-# Hi, I'm iota9star 👋
+# Hi, I'm iota9star! 👋
+
+**Full Stack Developer | Rust & Java Backend | Product Mindset**
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
+Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
 </div>
 
 ## 👨‍💻 About Me
 
-Passionate Full Stack Developer with a product mindset and a love for building digital experiences across the entire stack. I specialize in crafting high-performance backends with Rust and Java while creating elegant, intuitive frontends that users love.
-
-I believe in the power of clean code, thoughtful architecture, and continuous learning. Whether it's optimizing database queries, designing microservices, or polishing UI animations — I enjoy every layer of the development process.
+Passionate developer with a product mindset who loves crafting scalable solutions. I bridge the gap between complex technical challenges and user-friendly experiences. Always exploring new technologies and pushing the boundaries of what's possible.
 
 ## 🎯 What I Do
 
-💻 **Backend Development** — Building scalable, high-performance services with Rust and Java
-📱 **Mobile Development** — Creating beautiful Flutter and Android applications
-🌐 **Frontend Development** — Crafting responsive React and Vue web experiences
-🤖 **AI-Powered Workflows** — Leveraging AI for intelligent development assistance
-⛓️ **Web3 Technologies** — Exploring BTC, EVM, and Internet Computer ecosystems
-🔧 **System Architecture** — Designing robust microservices and distributed systems
+- 🔧 **Backend Development** - Building robust, high-performance services with Rust and Java
+- 🎨 **Frontend Craft** - Creating beautiful, responsive interfaces with React and Flutter
+- 🤖 **AI Integration** - Leveraging AI-powered workflows for smarter development
+- ⛓️ **Web3 Explorer** - Diving into BTC, EVM, and Internet Computer ecosystems
+- 📱 **Mobile Apps** - Native cross-platform experiences with Flutter and Android
 
 ## 🛠️ Tech Stack
 
-### 🎨 Languages & Frameworks
-`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Go` `Python`
+### Languages
+`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
 
-### ⚙️ Backend
-`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis` `Kafka` `gRPC`
+### Backend
+`Axum` `Spring Boot` `Microservices` `Node.js` `PostgreSQL` `Redis`
 
-### 🎨 Frontend & Mobile
-`React` `Vue` `Flutter` `Android Native` `Dart` `TypeScript` `Tailwind`
+### Frontend
+`React` `Vue.js` `Flutter` `Android Native` `Tailwind CSS`
 
-### 🤖 AI & Automation
-AI-powered development workflows, code assistants, intelligent agents, quality-focused automation
-
-### 🔗 Web3
-`Bitcoin` `EVM` `Internet Computer` `Smart Contracts`
+### Tools & Platforms
+`Git` `Docker` `GitHub Actions` `Linux` `VS Code`
 
 ## 📊 Quick Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical&hide_border=true)
+![](profile-3d-contrib/profile-season-animate.svg)
 
 </div>
 
@@ -78,31 +74,32 @@ AI-powered development workflows, code assistants, intelligent agents, quality-f
 </tr>
 </table>
 
-## 💡 Quote
+## 💡 Philosophy
 
-> "不相信人咬不到肚脐的，咬破肚脐去死如何？" — 海猫鸣泣之时
+> "We must attack the enemy by surprise while they are still scattered." — Vladimir Lenin
+
+I believe in striking first with innovation, iterating quickly, and delivering value before the competition even knows what hit them. Code is my weapon, and I wield it with precision.
 
 ## 🏆 Highlights
 
-🚀 Active contributor to the Flutter Candies ecosystem
-🌟 Core maintainer of multiple open-source projects
-💼 Building production-grade applications across web, mobile, and backend
-🧠 Exploring the intersection of AI and software development
-⚡ Performance optimization enthusiast
-🎯 Product-focused engineering mindset
+- 🚀 Contributed to multiple open-source Flutter projects at fluttercandies
+- 🌟 Created popular tools used by developers worldwide
+- 💻 Built full-stack applications serving thousands of users
+- 🎓 Continuous learner - always exploring new tech stacks
+- 🔥 Active contributor to the developer community
 
 ## 📧 Connect
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Email-iota9star@gmail.com-blue)](mailto:iota9star@gmail.com)
-[![](https://img.shields.io/badge/X-@iota9star-black)](https://x.com/iota9star)
-[![](https://img.shields.io/badge/Blog-Juejin-red)](https://juejin.cn/user/1591748568562829)
+[![Email](https://img.shields.io/badge/Email-iota9star@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
+[![X](https://img.shields.io/badge/X-@iota9star-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
+[![Juejin](https://img.shields.io/badge/Juejin-Blog-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDguNTkgMy41OSA4IDgtMy41OSA4LTggOHptLTIuNS05aDVjLjgzIDAgMS41LjY3IDEuNSAxLjV2M2MwIC44My0uNjcgMS41LTEuNSAxLjVoLTVjLS44MyAwLTEuNS0uNjctMS41LTEuNHYtM2MwLS44My42Ny0xLjUgMS41LTEuNXoiLz48L3N2Zz4=)](https://juejin.cn/user/1591748568562829)
 
-Let's connect and build something amazing together!
+</div>
 
-![](profile-3d-contrib/profile-season-animate.svg)
+<div align="center">
 
-**Keep learning, keep building, keep shipping! 🚀**
+*Thanks for visiting! Have a great day! ✨*
 
 </div>
