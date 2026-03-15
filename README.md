@@ -1,43 +1,78 @@
-# Hi there! 👋 I'm iota9star
+<div align="center">
 
-![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
+# 👋 Hi, I'm **iota9star**
 
-Full Stack Developer crafting digital experiences across the stack — from high-performance backends to elegant frontends.
+### Full Stack Developer | Rust & Java Backend | Product Mindset
+
+[![Email](https://img.shields.io/badge/Email-iota9star%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
+[![X](https://img.shields.io/badge/X-@iota9star-black?logo=x&logoColor=white)](https://x.com/iota9star)
+[![Juejin](https://img.shields.io/badge/Juejin-Blog-1e80ff?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMDI0IDUxMmMwLTI4Mi43Ny0yMjkuMjMtNTEyLTUxMi01MTJTMS41NDMgMjI5LjIzIDEuNTQzIDUxMmMwIDQzLjAzIDUuOTkgODQuOCAxNi45IDEyNC43NDdMODMuNDU5IDg5NC45MTRjLTEwLjkxIDM5Ljk0Ni0xNi45IDgxLjkxLTE2LjkgMTI1LjA4NiAwIDI4Mi43NyAyMjkuMjMgNTEyIDUxMiA1MTJzNTEyLTIyOS4yMyA1MTItNTEyek0zODQuNTQ1IDM5Ni44NThsMTc4Ljg5MyAxMDMuMjM1YzExLjM2MiA2LjU2MyAxMS4zNjIgMjIuOTkzIDAgMjkuNTU2TDM4NC41NDUgNjMyLjg4NGMtMTEuMzYyIDYuNTYzLTI1LjYxOC0xLjY0MS0yNS42MTgtMTQuNzc2VjQxMS42MzRjMC0xMy4xMzUgMTQuMjU2LTIxLjMzOSAyNS42MTgtMTQuNzc2eiIvPjwvc3ZnPg==)](https://juejin.cn/user/1591748568562829)
+
+![visitor count](https://count.getloli.com/get/@iota9star?theme=rule34)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who loves building products that matter. With a product mindset and technical depth, I bridge the gap between elegant code and user needs.
+Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
-Whether it's architecting scalable microservices, crafting beautiful Flutter UIs, or exploring the frontiers of Web3, I bring creativity and precision to every line of code.
+I'm a passionate developer who loves crafting clean, efficient code. With expertise spanning multiple languages and frameworks, I bring ideas to life through thoughtful architecture and user-centric design.
+
+![](profile-3d-contrib/profile-season-animate.svg)
+
+---
 
 ## 🎯 What I Do
 
-Backend Engineering – Building robust, scalable systems with Rust and Java
-Frontend Development – Creating delightful user experiences with React, Vue & Flutter
-Mobile Apps – Cross-platform solutions with Flutter and Android native
-AI Integration – Leveraging AI-powered workflows and intelligent agents
-Web3 Development – BTC, EVM, and Internet Computer ecosystem
+**Backend Engineering** — Building scalable microservices with Rust and Java
+
+**Frontend Development** — Creating responsive UIs with React, Vue, and Flutter
+
+**Mobile Apps** — Cross-platform development with Flutter and Android native
+
+**AI Integration** — Leveraging AI agents for enhanced development workflows
+
+**Web3 Exploration** — Dabbling in BTC, EVM, and Internet Computer protocols
+
+---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
 ### Backend
-![Axum](https://img.shields.io/badge/Axum-ffffff?style=flat-square&logo=tokio&logoColor=black) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-FFFFFF?logo=rust&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6600?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMNCA3bDggMTMgOC0xMy04LTV6Ii8+PC9zdmc+)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
-### Web3
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![ICP](https://img.shields.io/badge/ICP-333333?style=flat-square)
+### AI & Web3
+![AI](https://img.shields.io/badge/AI-Powered-FF6F00?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJhMTAgMTAgMCAxIDAgMTAgMTBBNCA0IDAgMCAxIDEyIDE2YTQgNCAwIDAgMSAwLTh6Ii8+PHBhdGggZD0iTTEyIDJ2NCIvPjxwYXRoIGQ9Ik0xMiAxOHY0Ii8+PHBhdGggZD0iTTE4IDEybC00IDRtMC00Ii8+PC9zdmc+)
+![BTC](https://img.shields.io/badge/BTC-F7931A?logo=bitcoin&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM-3C3C3D?logo=ethereum&logoColor=white)
+![IC](https://img.shields.io/badge/IC-28A745?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMnExMCAwIDEwIDEwIi8+PC9zdmc+)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+---
 
 ## 📊 Quick Stats
 
-![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical&hide_border=true)
+
+---
 
 ## 🔥 Featured Projects
 
@@ -69,23 +104,44 @@ Web3 Development – BTC, EVM, and Internet Computer ecosystem
 </tr>
 </table>
 
+---
+
+## 💡 Quote
+
+> "任何足够先进的技术都与魔法无异。"
+> — 《2001太空漫游》
+
+---
+
 ## 🏆 Highlights
 
-Flutter Candies Core Team Member – Contributing to open-source Flutter ecosystem
-Full Stack Architecture – Designing end-to-end solutions from database to UI
-Web3 Explorer – Building on Bitcoin, EVM, and Internet Computer platforms
-AI Enthusiast – Embracing AI-powered development workflows and intelligent agents
+* Active contributor to the **Flutter Candies** organization, building tools developers love
+* Full stack architecture — designing end-to-end solutions from database to UI
+* Web3 explorer — building on Bitcoin, EVM, and Internet Computer platforms
+* AI enthusiast — embracing intelligent agents for enhanced development workflows
 
-## 💡 Philosophy
+---
 
-Quality over quantity. Clean code over clever hacks. User value over feature bloat.
+## 💭 Philosophy
 
-I believe in building software that scales not just technically, but organizationally. The best code is code that others can understand, modify, and extend.
+Code is poetry, but shipping is prose. I believe in writing clean, maintainable code while delivering value to users. The best software is built at the intersection of technical excellence and human needs.
+
+---
 
 ## 📧 Connect
 
-<a href="mailto:iota9star@gmail.com"><img src="https://img.shields.io/badge/Email-iota9star@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://x.com/iota9star"><img src="https://img.shields.io/badge/Twitter-@iota9star-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://juejin.cn/user/1591748568562829"><img src="https://img.shields.io/badge/Juejin-Blog-1E80FF?style=flat-square&logo=juejin&logoColor=white" /></a>
+Let's build something amazing together.
 
-![](profile-3d-contrib/profile-season-animate.svg)
+* Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+* X: [@iota9star](https://x.com/iota9star)
+* Juejin: [Blog](https://juejin.cn/user/1591748568562829)
+
+---
+
+<div align="center">
+
+*[![Star History Chart](https://api.star-history.com/svg?repos=iota9star/iota9star&type=Date)](https://star-history.com/#iota9star/iota9star&Date)*
+
+**⭐ If you find my work useful, consider giving it a star!**
+
+</div>
