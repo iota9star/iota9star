@@ -93,7 +93,8 @@ I believe great software is born from the intersection of technical excellence a
 
 ## 💭 Philosophy
 
-> "Simplicity is the ultimate sophistication." — Leonardo da Vinci
+> 天下熙熙，皆为利来；天下攘攘，皆为利往。
+> — 史记·货殖列传
 
 I strive to write clean, maintainable code that stands the test of time. Complexity should be handled, not created. The best solutions are often the simplest ones — they're easier to understand, easier to maintain, and easier to build upon.
 
