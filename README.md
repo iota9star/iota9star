@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm **iota9star**
+# Hi, I'm iota9star! 👋
 
-### Full Stack Developer | Rust & Java Backend | Product Mindset
+**Full Stack Developer | Rust & Java Backend | Product Mindset**
+
+Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -10,56 +12,58 @@
 
 ## 👨‍💻 About Me
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm a developer who cares deeply about product quality and user experience.
+I'm a passionate developer who loves crafting elegant solutions to complex problems. With expertise spanning multiple languages and frameworks, I bring ideas to life through clean, efficient code.
 
-I believe great software is born from the intersection of technical excellence and genuine user empathy. Every line of code should serve a purpose, and every feature should solve a real problem. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or diving deep into system design challenges.
+From building scalable microservices to creating beautiful user interfaces, I enjoy the full spectrum of software development. I believe in the power of open source and contributing to the developer community.
 
 ## 🎯 What I Do
 
-🚀 **Backend Development** — Crafting scalable microservices with Rust and Java that handle millions of requests
+Backend Architecture with Rust, Java & Kotlin — Crafting scalable systems that handle millions of requests
 
-🎨 **Frontend Engineering** — Building responsive interfaces with React, Vue, and Flutter that users love
+Cross-platform Mobile Development with Flutter & Android — Creating native experiences that users love
 
-📱 **Mobile Development** — Creating native Android experiences and cross-platform solutions
+Frontend Experiences with React & Vue — Building responsive interfaces that delight users
 
-🤖 **AI Integration** — Leveraging AI-powered workflows for smarter development and code assistance
+AI-Powered Development Workflows — Leveraging code assistants and agents for smarter development
 
-⛓️ **Web3 Exploration** — Dabbling in BTC, EVM, and Internet Computer protocols
+Web3 & Blockchain Development — Exploring BTC, EVM, and Internet Computer protocols
 
-🧩 **Open Source** — Active contributor to Flutter Candies ecosystem and developer tools
+Open Source Contributions — Active contributor to Flutter Candies ecosystem and developer tools
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Backend & Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-FF9900?style=flat-square&logo=rust&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6600?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<span><img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust"></span>
+<span><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"></span>
+<span><img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin"></span>
+<span><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript"></span>
+<span><img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart"></span>
+
+### Backend
+
+<span><img src="https://img.shields.io/badge/Axum-FF69B4?logo=rust&logoColor=white" alt="Axum"></span>
+<span><img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Spring"></span>
+<span><img src="https://img.shields.io/badge/Microservices-FF6600?logo=dotnet&logoColor=white" alt="Microservices"></span>
+<span><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"></span>
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### Blockchain
-![Bitcoin](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+<span><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"></span>
+<span><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue"></span>
+<span><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"></span>
+<span><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"></span>
+
+### Web3 & AI
+
+<span><img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white" alt="BTC"></span>
+<span><img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" alt="EVM"></span>
+<span><img src="https://img.shields.io/badge/AI-FF6F00?logo=anthropic&logoColor=white" alt="AI"></span>
 
 ## 📊 Quick Stats
 
-![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/iota9star)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iota9star&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🔥 Featured Projects
 
@@ -91,39 +95,38 @@ I believe great software is born from the intersection of technical excellence a
 </tr>
 </table>
 
-## 💭 Philosophy
+## 💡 Quote
 
-> 天下熙熙，皆为利来；天下攘攘，皆为利往。
-> — 史记·货殖列传
-
-I strive to write clean, maintainable code that stands the test of time. Complexity should be handled, not created. The best solutions are often the simplest ones — they're easier to understand, easier to maintain, and easier to build upon.
+> 要邃晓你的处境，凡人！
 
 ## 🏆 Highlights
 
-🎯 Core contributor to [fluttercandies](https://github.com/fluttercandies) — a vibrant Flutter developer community
+Core contributor to fluttercandies — building essential Flutter packages for the developer community
 
-🌟 Maintainer of multiple open-source packages with thousands of stars
+Open source advocate — actively maintaining packages with thousands of stars and serving developers worldwide
 
-📱 Built production mobile applications serving active user bases
+Product-focused engineer — delivering solutions that balance technical excellence with user needs
 
-🔧 Developed developer tools that streamline workflows and improve productivity
+Cross-disciplinary developer — comfortable across backend, frontend, mobile, and blockchain technologies
 
-🌍 Bridging Eastern and Western developer communities through technical collaboration
+## 💭 Philosophy
+
+I believe great software is built at the intersection of technical excellence and user empathy. Every line of code should serve a purpose, and every feature should solve a real problem. I strive to write code that is not only functional but also maintainable, scalable, and joyful to work with.
 
 ## 📧 Connect
 
 Let's build something amazing together!
 
-<a href="mailto:iota9star@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://x.com/iota9star"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-<a href="https://juejin.cn/user/1591748568562829"><img src="https://img.shields.io/badge/Juejin-1E80FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMjguMTY5IDUxMS45OTVDMTI4LjE2OSAzMDMuMTY1IDI5Ni4zMzkgMTI4IDUxMS45OTUgMTI4YzIxNS42NTYgMCAzODMuOTk1IDE3NS4xNjUgMzgzLjk5NSAzODMuOTk1IDAgMjA4LjgzLTE2OC4zMzkgMzg0LTM4My45OTUgMzg0LTIxNS42NTYgMC0zODMuODI2LTE3NS4xNy0zODMuODI2LTM4NHoiLz48L3N2Zz4=&logoColor=white" alt="Juejin" /></a>
+<span><a href="mailto:iota9star@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a></span>
+<span><a href="https://x.com/iota9star"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"></a></span>
+<span><a href="https://juejin.cn/user/1591748568562829"><img src="https://img.shields.io/badge/Juejin-1E80FF?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMjguMTY5IDUxMS45OTVDMTI4LjE2OSAzMDMuMTY1IDI5Ni4zMzkgMTI4IDUxMS45OTUgMTI4YzIxNS42NTYgMCAzODMuOTk1IDE3NS4xNjUgMzgzLjk5NSAzODMuOTk1IDAgMjA4LjgzLTE2OC4zMzkgMzg0LTM4My45OTUgMzg0LTIxNS42NTYgMC0zODMuODI2LTE3NS4xNy0zODMuODI2LTM4NHoiLz48L3N2Zz4=&logoColor=white" alt="Juejin"></a></span>
 
 <div align="center">
 
-![profile-3d-contrib](profile-3d-contrib/profile-season-animate.svg)
+![](profile-3d-contrib/profile-season-animate.svg)
 
 ### ⭐ If you find my work helpful, consider giving it a star!
 
-<i>Always learning, always building, always shipping.</i>
+<i>Code with passion. Ship with confidence.</i>
 
 </div>
