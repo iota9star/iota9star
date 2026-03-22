@@ -1,56 +1,44 @@
 # Hi there! I'm iota9star 👋
 
-[![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)](https://count.getloli.com/get/@iota9star?theme=rule34)
+[![](https://count.getloli.com/get/@iota9star?theme=rule34)](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-A Full Stack Developer passionate about building digital experiences across the entire stack — from high-performance backends to elegant frontends. I write code that solves real problems.
-
-![](profile-3d-contrib/profile-season-animate.svg)
-
+![](https://raw.githubusercontent.com/iota9star/iota9star/main/profile-3d-contrib/profile-season-animate.svg)
 
 ## 👨‍💻 About Me
 
-I'm a developer who loves turning ideas into reality through code. My journey spans multiple domains — from mobile development with Flutter to backend systems in Rust and Java. I believe in the power of open source and actively contribute to projects that make developers' lives easier.
+Full Stack Developer with a passion for building digital experiences across the entire stack — from high-performance backends to elegant frontends. I thrive on turning complex problems into simple, beautiful solutions.
 
-When I'm not coding, you'll find me exploring new technologies, contributing to the Flutter community, or diving deep into blockchain and Web3 technologies. I'm particularly interested in BTC, EVM, and IC ecosystems.
-
+Specializing in **Rust** and **Java** backend development with a strong product mindset. I believe great software is not just about code — it's about creating value and delightful experiences for users.
 
 ## 🎯 What I Do
 
-**Backend Development** — Building scalable, high-performance services using Rust's async ecosystem and Spring's enterprise-grade capabilities. Microservices architecture is my playground.
+🚀 Building scalable microservices architectures with Rust and Spring
 
-**Frontend & Mobile** — Crafting beautiful, responsive interfaces with React and Vue. Building cross-platform mobile apps with Flutter that feel native on every device.
+📱 Crafting cross-platform mobile and web applications with Flutter and React
 
-**Developer Tools** — Creating utilities and libraries that streamline development workflows. From JSON generators to layout managers, I build tools I wish existed.
+🤖 Exploring AI-powered development workflows and intelligent code assistants
 
-**Open Source Contributions** — Active contributor to fluttercandies, maintaining and improving packages that power thousands of Flutter apps worldwide.
+⛓️ Dabbling in Web3 technologies across BTC, EVM, and Internet Computer
 
+🎨 Designing elegant UI/UX that users love
 
 ## 🛠️ Tech Stack
 
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+### Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-FF4500?logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+### Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Axum](https://img.shields.io/badge/Axum-1A1A1A?style=for-the-badge&logo=rust&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+### AI & Web3
+🤖 AI-powered workflows | 🧠 Code assistants | 🧪 Quality-focused agents | ⛓️ BTC | 💠 EVM | 🌐 IC
 
 ## 📊 Quick Stats
 
-![](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iota9star&theme=github_dark)
 
 ## 🔥 Featured Projects
 
@@ -82,32 +70,32 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 </tr>
 </table>
 
-
 ## 💡 Daily Inspiration
 
-> 原是今生今世已惘然，山河岁月空惆怅，而我，终将是要等着你的。
-
+> *为你，所向披靡。* — 天官赐福
 
 ## 🏆 Highlights
 
-Contributing to open source projects used by thousands of developers worldwide. My work on Flutter utilities and layout systems has helped make app development more efficient and enjoyable.
+✨ Active contributor to the Flutter ecosystem via fluttercandies
 
-Active member of the fluttercandies community, where we collaborate on innovative solutions for common Flutter development challenges.
+🌟 Built multiple popular open-source tools loved by developers
 
+🔓 Advocate for open-source software and community collaboration
+
+🎯 Focused on delivering products with real user impact
 
 ## 📧 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/iota9star)
-[![Juejin](https://img.shields.io/badge/Juejin-1E80FF?logo=juejin&logoColor=white)](https://juejin.cn/user/1591748568562829)
-
+<a href="mailto:iota9star@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/iota9star"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://juejin.cn/user/1591748568562829"><img src="https://img.shields.io/badge/Juejin-1E80FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTA 5SAxMCAxMFMxNy41MiAyIDEyIDJ6bS0uNDggMTguNTNjLTMuNDEgMC02LjItMi44LTYuMi02LjJzMi43OS02LjIgNi4yLTYuMiA2LjIgMi43OSA2LjIgNi4yLTIuNzkgNi4yLTYuMiA2LjJ6Ii8+PC9zdmc+" alt="Juejin Blog"/></a>
 
 ## 💭 Philosophy
 
-Code is more than syntax — it's a craft. I strive to write clean, maintainable, and efficient code that stands the test of time. Every line should have purpose, every function should be clear, and every project should make someone's life a little better.
+I believe that great software is built at the intersection of technical excellence and user empathy. Every line of code should serve a purpose, every feature should solve a real problem, and every product should make someone's life a little bit better.
 
-Learning never stops in tech. I embrace new challenges and share knowledge with the community. Let's build something amazing together!
+Technology is a tool for empowerment — not complexity. I strive to build systems that are powerful yet simple, robust yet flexible, and innovative yet reliable.
 
 ---
 
-![](profile-3d-contrib/profile-gitblock.svg)
+*Thanks for visiting! Feel free to explore my repositories and connect with me. Let's build something amazing together!* 🚀
