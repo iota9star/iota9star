@@ -86,11 +86,9 @@ A passionate developer who loves crafting elegant solutions to complex problems.
 </tr>
 </table>
 
-## 💭 Philosophy
+## 💭 Quote
 
-> *"燃烧吧，我的小宇宙！"* — 圣斗士星矢
-
-I believe in **writing code that tells a story**. Every function, every module should have a clear purpose and be a joy to work with. Clean architecture isn't just about aesthetics — it's about building systems that evolve gracefully and empower teams to move fast without breaking things.
+> *"我……败……了……"* — 无疤者奥斯里安
 
 ## 🏆 Highlights
 
