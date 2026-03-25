@@ -1,20 +1,22 @@
 <div align="center">
 
-# 👋 Hey, I'm iota9star
+# 👋 Hey there, I'm **iota9star**
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
+### ✨ Full Stack Developer | Rust & Java Backend | Product Mindset ✨
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends.
+**Building digital experiences across the stack** — from high-performance backends to elegant frontends
 
-![Profile Views](https://count.getloli.com/get/@iota9star?theme=rule34)
+![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 </div>
 
 ## 👨‍💻 About Me
 
-A passionate developer who loves crafting elegant solutions to complex problems. I thrive at the intersection of **performance and usability**, building systems that scale beautifully while delighting users. Whether it's a Rust microservice handling millions of requests or a Flutter app with buttery-smooth animations, I pour my heart into every line of code.
+Hey! I'm a passionate full-stack developer who loves crafting elegant solutions to complex problems. My journey spans from low-level systems programming in **Rust** to building scalable microservices in **Java/Kotlin**, and everything in between on the frontend.
 
-🚀 Currently exploring the frontiers of **AI-powered development** and **Web3 technologies**.
+I believe in writing code that's not just functional, but beautiful — clean architecture, thoughtful abstractions, and developer experience matter. When I'm not coding, you'll find me exploring AI-powered development workflows, diving into Web3 technologies, or contributing to open source.
+
+🎯 **Current Focus**: AI-assisted development, Flutter ecosystem, and building tools that make developers' lives easier.
 
 ## 🎯 What I Do
 
@@ -31,14 +33,14 @@ A passionate developer who loves crafting elegant solutions to complex problems.
 ## 🛠️ Tech Stack
 
 **Languages**
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Backend**
-![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-DEA584?style=flat-square&logo=rust&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
@@ -49,14 +51,21 @@ A passionate developer who loves crafting elegant solutions to complex problems.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Specialties**
-![AI](https://img.shields.io/badge/AI-Powered_Development-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-BTC_EVM_IC-8247E5?style=flat-square&logo=ethereum&logoColor=white)
+🤖 AI-Powered Development | ⛓️ Web3 (BTC, EVM, IC) | ☁️ Microservices
 
-## 📊 Contribution Activity
+## 📊 Quick Stats
 
-![](profile-3d-contrib/profile-season-animate.svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-season-animate.svg" alt="Contribution Graph" />
+</div>
 
 ## 🔥 Featured Projects
+
+Here are some of the projects I've been working on:
 
 <table>
 <tr>
@@ -86,30 +95,48 @@ A passionate developer who loves crafting elegant solutions to complex problems.
 </tr>
 </table>
 
-## 💭 Quote
-
-> *"我……败……了……"* — 无疤者奥斯里安
-
 ## 🏆 Highlights
 
-🎯 **Open Source Contributor** — Active maintainer of FlutterCandies ecosystem
+- 🚀 **Flutter Candies** — Active contributor to the Flutter ecosystem with multiple published packages
+- 🎮 **TV/Android Development** — Building cross-platform experiences that work everywhere
+- 🔧 **Developer Tools** — Creating utilities that improve developer productivity
+- 🌐 **Full-Stack Mastery** — Comfortable from database to deployment
 
-🌍 **Multi-platform Expert** — From embedded systems to cloud-native microservices
+## 💭 Philosophy
 
-🔄 **Full Cycle Development** — From concept to deployment and beyond
+> *"Code is poetry. Every function tells a story, every module is a chapter, and the entire codebase is a book waiting to be read."*
 
-📚 **Continuous Learner** — Always exploring new paradigms and technologies
+I believe in:
+- 🎯 **Simplicity over complexity** — The best solution is often the simplest one
+- 🔄 **Continuous learning** — Technology evolves, and so should we
+- 🤝 **Open source spirit** — Sharing knowledge makes everyone better
+- ⚡ **Performance matters** — Fast code is good code
 
-## 📧 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-iota9star@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
-[![X](https://img.shields.io/badge/X-@iota9star-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iota9star)
-[![Blog](https://img.shields.io/badge/Juejin-Blog-1E80FF?style=flat-square&logo=bytedance&logoColor=white)](https://juejin.cn/user/1591748568562829)
+## 💡 Quote
 
 <div align="center">
 
-**Thanks for visiting! ⭐ Feel free to explore my projects and reach out!**
+*"In the end, missed opportunities become the norm of life."*
 
-*Happy Coding!* 🚀
+**— NetEase Cloud Music**
+
+</div>
+
+## 📧 Let's Connect!
+
+I'm always happy to chat about tech, collaborate on projects, or just say hi!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iota9star)
+[![Blog](https://img.shields.io/badge/Juejin-1E80FF?style=for-the-badge&logo=bytedance&logoColor=white)](https://juejin.cn/user/1591748568562829)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iota9star)
+
+<div align="center">
+
+### ✨ Thanks for stopping by! ✨
+
+*If you find my work useful, consider starring ⭐ some repos!*
+
+![](https://komarev.com/ghpvc/?username=iota9star&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
