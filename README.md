@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm **iota9star**
 
-### ✨ Full Stack Developer | Rust & Java Backend | Product Mindset ✨
+### 🚀 Full Stack Developer | 🦀 Rust & ☕ Java Backend | 🧠 Product Mindset 🚀
 
 **Building digital experiences across the stack** — from high-performance backends to elegant frontends
 
@@ -116,9 +116,9 @@ I believe in:
 
 <div align="center">
 
-*"In the end, missed opportunities become the norm of life."*
+*"男人变态有什么错！"*
 
-**— NetEase Cloud Music**
+**—— 寒蝉鸣泣之时**
 
 </div>
 
