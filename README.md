@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey there, I'm **iota9star**
+# ✨ iota9star ✨
 
-### 🚀 Full Stack Developer | 🦀 Rust & ☕ Java Backend | 🧠 Product Mindset 🚀
+**🦀 Rust | ☕ Java | 🎯 Dart | 🌐 TypeScript | ⚙️ Kotlin**
 
-**Building digital experiences across the stack** — from high-performance backends to elegant frontends
+*Architecting high-performance backends and delightful frontends — one commit at a time*
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,32 +12,20 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm a passionate full-stack developer who loves crafting elegant solutions to complex problems. My journey spans from low-level systems programming in **Rust** to building scalable microservices in **Java/Kotlin**, and everything in between on the frontend.
+Hey, I'm **iota9star** — a full-stack developer who gets genuinely excited about clean code, smart abstractions, and shipping things that matter. I swing between systems-level Rust programming and beautiful Flutter UIs, with a healthy dose of Java microservices in between.
 
-I believe in writing code that's not just functional, but beautiful — clean architecture, thoughtful abstractions, and developer experience matter. When I'm not coding, you'll find me exploring AI-powered development workflows, diving into Web3 technologies, or contributing to open source.
+I'm deeply involved in the **Flutter Candies** ecosystem, building tools and packages that thousands of developers rely on. Beyond code, I'm fascinated by AI-powered dev workflows and the evolving Web3 landscape (BTC, EVM, IC).
 
-🎯 **Current Focus**: AI-assisted development, Flutter ecosystem, and building tools that make developers' lives easier.
+🎯 **Right now**: Pushing the boundaries of AI-assisted development and crafting next-gen Flutter developer tools.
 
-## 🎯 What I Do
-
-🔧 **Backend Engineering** — High-performance services with Rust (Axum) & Java (Spring)
-
-📱 **Cross-platform Apps** — Beautiful Flutter & React Native applications
-
-🌐 **Frontend Development** — Modern React & Vue experiences
-
-🤖 **AI Integration** — Building intelligent workflows and code assistants
-
-⛓️ **Web3 Development** — BTC, EVM, and Internet Computer protocols
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 **Languages**
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-02569B?style=flat-square&logo=dart&logoColor=white)
 
 **Backend**
 ![Axum](https://img.shields.io/badge/Axum-DEA584?style=flat-square&logo=rust&logoColor=white)
@@ -50,22 +38,10 @@ I believe in writing code that's not just functional, but beautiful — clean ar
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Specialties**
-🤖 AI-Powered Development | ⛓️ Web3 (BTC, EVM, IC) | ☁️ Microservices
-
-## 📊 Quick Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-season-animate.svg" alt="Contribution Graph" />
-</div>
+**Frontier Tech**
+🤖 AI-Powered Dev Tools · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems
 
 ## 🔥 Featured Projects
-
-Here are some of the projects I've been working on:
 
 <table>
 <tr>
@@ -95,47 +71,55 @@ Here are some of the projects I've been working on:
 </tr>
 </table>
 
+## 📊 Contribution Garden
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-season-animate.svg" alt="Season Contribution Graph" />
+</div>
+
 ## 🏆 Highlights
 
-- 🚀 **Flutter Candies** — Active contributor to the Flutter ecosystem with multiple published packages
-- 🎮 **TV/Android Development** — Building cross-platform experiences that work everywhere
-- 🔧 **Developer Tools** — Creating utilities that improve developer productivity
-- 🌐 **Full-Stack Mastery** — Comfortable from database to deployment
+🚀 **Flutter Candies Contributor** — Building and maintaining essential packages for the Flutter community
+🎮 **Cross-Platform Pioneer** — From Android TV to mobile to web, making apps shine everywhere
+🔧 **Tooling Enthusiast** — If it makes devs faster, I've probably built it or contributed to it
+⚡ **Performance Obsessed** — Rust for a reason: because every millisecond counts
+🌐 **Web3 Explorer** — Dabbling in BTC, EVM, and IC protocols on the decentralized frontier
 
-## 💭 Philosophy
+## 💭 Dev Philosophy
 
-> *"Code is poetry. Every function tells a story, every module is a chapter, and the entire codebase is a book waiting to be read."*
+> 🎯 *Simplicity is the ultimate sophistication* — the best code is code you don't have to write
+> 🔄 *Learn fast, ship faster* — the tech world waits for no one
+> 🤝 *Open source is a mindset* — share what you learn, build on what others share
+> ⚡ *Performance is a feature* — not an afterthought
 
-I believe in:
-- 🎯 **Simplicity over complexity** — The best solution is often the simplest one
-- 🔄 **Continuous learning** — Technology evolves, and so should we
-- 🤝 **Open source spirit** — Sharing knowledge makes everyone better
-- ⚡ **Performance matters** — Fast code is good code
-
-## 💡 Quote
+## 💡 Random Spark
 
 <div align="center">
 
-*"男人变态有什么错！"*
+*「あたいってば最強ね！」（本小姐最強）*
 
-**—— 寒蝉鸣泣之时**
+**—— 琪露诺**
 
 </div>
 
-## 📧 Let's Connect!
+## 📧 Let's Connect
 
-I'm always happy to chat about tech, collaborate on projects, or just say hi!
+Whether it's a wild tech idea, an open-source collab, or just a friendly hello — my inbox is open!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iota9star)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
 [![Blog](https://img.shields.io/badge/Juejin-1E80FF?style=for-the-badge&logo=bytedance&logoColor=white)](https://juejin.cn/user/1591748568562829)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iota9star)
 
 <div align="center">
 
-### ✨ Thanks for stopping by! ✨
+### 🌟 Thanks for dropping by! 🌟
 
-*If you find my work useful, consider starring ⭐ some repos!*
+*Found something useful? A ⭐ on a repo makes my day!*
 
 ![](https://komarev.com/ghpvc/?username=iota9star&color=58A6FF&style=flat-square&label=Profile+Views)
 
