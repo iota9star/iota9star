@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌌 iota9star 🌌
+# ✨ iota9star ✨
 
-**🦀 Rust · ☕ Java · 🎯 Dart · 🌊 TypeScript · ⚡ Kotlin**
+🦀 **Rust** · ☕ **Java** · 🎯 **Dart** · 🌊 **TypeScript** · ⚡ **Kotlin**
 
-*Building elegant systems from bare metal to pixel-perfect UIs*
+*Crafting high-performance systems & delightful user experiences*
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,19 +12,19 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a full-stack engineer who lives at the intersection of performance and beauty. My days are split between crafting blazing-fast Rust backends, architecting scalable Java microservices, and building delightful Flutter experiences that users actually enjoy.
+Hey! I'm **iota9star** — a full-stack engineer who thrives at the crossroads of performance engineering and user-centric design. By day I architect blazing-fast Rust microservices and scalable Java backends; by night I polish Flutter apps until they feel like magic ✨
 
-I'm a proud contributor to the **Flutter Candies** ecosystem, where I build open-source tools that empower thousands of developers worldwide. When I'm not coding, you'll find me exploring AI-powered development workflows, tinkering with Web3 protocols, or chasing the perfect cup of coffee ☕.
+I'm an active contributor to the **Flutter Candies** ecosystem, where I build open-source packages used by thousands of developers around the globe. Beyond code, I'm deeply curious about AI-powered dev workflows, reactive architectures, and the decentralized web 🌐
 
-🧭 **Currently exploring**: AI agents, reactive signal architectures, and the art of making complex things simple.
+🔍 **Currently exploring**: AI agents that actually ship features, signal-based reactivity patterns, and the fine art of keeping things simple.
 
 ## 🎯 What I Do
 
-🏗️ **Systems Architecture** — Designing resilient microservices and distributed backends with Rust/Axum and Spring Boot
-📱 **Cross-Platform Apps** — Shipping native-quality experiences via Flutter, React, and Android
-🧩 **Developer Tooling** — Creating packages and CLI tools that make fellow devs more productive
-🤖 **AI Workflows** — Integrating AI agents and assistants into the development lifecycle
-⛓️ **Web3 Protocols** — Exploring BTC, EVM, and Internet Computer ecosystems
+🏗️ **Backend Architecture** — Designing resilient microservices with Rust/Axum and Spring Boot that handle real-world traffic
+📱 **Cross-Platform Apps** — Shipping native-quality experiences on Flutter, React, Vue, and Android
+🧩 **Open Source Tooling** — Building developer packages and CLI tools so others can build faster
+🤖 **AI Development** — Integrating intelligent agents and code assistants into everyday engineering workflows
+⛓️ **Web3 Exploration** — Diving into BTC, EVM, and Internet Computer protocols
 
 ## 🛠️ Tech Stack
 
@@ -91,33 +91,31 @@ I'm a proud contributor to the **Flutter Candies** ecosystem, where I build open
 
 ## 🏆 Highlights
 
-🚀 **Flutter Candies Contributor** — Building and maintaining essential packages that the Flutter community depends on daily
-🎮 **Cross-Platform Pioneer** — From Android TV D-pad navigation to responsive web, making apps shine on every screen
-🔧 **Tooling Builder** — If it saves developers time, I've probably open-sourced it
-⚡ **Performance First** — Rust isn't just a language choice, it's a philosophy: every millisecond matters
-🌐 **Web3 Explorer** — Navigating BTC, EVM, and Internet Computer protocols on the decentralized frontier
-🤖 **AI Enthusiast** — Harnessing AI agents and code assistants to push the boundaries of dev productivity
+🚀 **Flutter Candies Contributor** — Building and maintaining packages that empower Flutter developers worldwide
+🎮 **Cross-Platform Pioneer** — From Android TV D-pad navigation to responsive web — every screen deserves a great experience
+🔧 **Tooling Advocate** — If a tool saves developer time, it deserves to be open-sourced
+⚡ **Performance Disciple** — Rust isn't just a language, it's a way of thinking: every CPU cycle counts
+🌐 **Web3 Navigator** — Exploring BTC, EVM, and IC protocols on the decentralized frontier
+🤖 **AI Augmenter** — Leveraging AI agents to multiply engineering output, not replace it
 
 ## 💭 Dev Philosophy
 
-> 🎯 *Simplicity is the ultimate sophistication* — the best code is code you don't have to write
-> 🔄 *Learn fast, ship faster* — the tech world waits for no one
-> 🤝 *Open source is a mindset* — share what you learn, build on what others share
-> ⚡ *Performance is a feature* — not an afterthought
+> 🎯 *Simplicity is the ultimate sophistication* — the best code is the code you never had to write
+> 🔄 *Learn fast, ship faster* — velocity with quality is the real superpower
+> 🤝 *Open source is a mindset* — share what you learn, stand on the shoulders of giants
+> ⚡ *Performance is a feature* — not a nice-to-have, but a requirement
 
 ## 💡 Random Spark
 
 <div align="center">
 
-*「我们所度过的每个平凡的日常，也许就是连续发生的奇迹。」*
-
-**—— 笹原幸治郎 《日常》**
+*「人是万灵之长，智慧的差异是很小的，经历本身也是文化。」*
 
 </div>
 
 ## 📧 Let's Connect
 
-Whether it's a wild tech idea, an open-source collab, or just a friendly hello — my inbox is always open! 🚪
+Got a wild tech idea, want to collaborate on open source, or just say hi? My inbox is always open 📬
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
@@ -126,9 +124,9 @@ Whether it's a wild tech idea, an open-source collab, or just a friendly hello �
 
 <div align="center">
 
-### ✨ Thanks for stopping by! ✨
+### ⭐ Thanks for visiting! ⭐
 
-*Found something useful? A ⭐ on a repo makes my day!*
+*Found something useful? A star on a repo would make my day!*
 
 ![](https://komarev.com/ghpvc/?username=iota9star&color=58A6FF&style=flat-square&label=Profile+Views)
 
