@@ -1,10 +1,10 @@
 <div align="center">
 
-# ✨ iota9star ✨
+# 🌌 iota9star 🌌
 
 🦀 **Rust** · ☕ **Java** · 🎯 **Dart** · 🌊 **TypeScript** · ⚡ **Kotlin**
 
-*Architecting high-performance systems & crafting delightful user experiences*
+*Performance obsessed · Pixel perfectionist · Open source advocate*
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,19 +12,21 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a passionate full-stack engineer who lives at the intersection of raw performance and polished design. I spend my days building lightning-fast Rust backends and rock-solid Java microservices, and my evenings perfecting Flutter UIs until every pixel sings 🎨
+Hey, I'm **iota9star** — a full-stack engineer who believes that great software lives where raw performance meets beautiful design 🔥
 
-I'm a proud contributor to the **Flutter Candies** ecosystem, creating open-source packages that help thousands of developers ship better apps, faster. When I'm not coding, you'll find me deep-diving into AI agent architectures, signal-based reactivity, and the ever-evolving Web3 landscape 🌍
+By day I architect high-throughput Rust microservices and battle-tested Java backends. By night I polish Flutter animations until 60fps feels like 120fps. I'm a core contributor to the **Flutter Candies** ecosystem, building open-source packages used by thousands of developers worldwide 🌍
 
-🔬 **Currently tinkering with**: intelligent code agents, reactive state primitives, and the eternal quest for simplicity in complex systems.
+I'm endlessly curious about what comes next — whether that's AI agents that amplify human creativity, reactive primitives that simplify state management, or decentralized protocols that redefine trust on the internet 🚀
+
+🔬 **Right now**: exploring signal-based reactivity patterns, intelligent code agents, and making complex systems feel simple.
 
 ## 🎯 What I Do
 
-🏗️ **Backend Systems** — Designing fault-tolerant microservices with Rust/Axum and Spring Boot that laugh at traffic spikes
-📱 **Cross-Platform Mastery** — Delivering buttery-smooth native experiences on Flutter, React, Vue, and Android
-🧩 **Open Source Crafting** — Building developer tools, packages, and CLI utilities so the community can move faster
-🤖 **AI-Augmented Dev** — Harnessing AI agents and intelligent workflows to amplify engineering velocity
-⛓️ **Web3 Explorer** — Navigating the decentralized world across BTC, EVM, and Internet Computer
+🏗️ **Backend Architecture** — Fault-tolerant microservices with Rust/Axum and Spring Boot that scale without breaking a sweat
+📱 **Cross-Platform Apps** — Pixel-perfect native experiences across Flutter, React, Vue, and Android
+🧩 **Open Source Packages** — Developer tools and libraries that make the community faster and happier
+🤖 **AI-Powered Workflows** — Building intelligent agents and code assistants that multiply engineering output
+⛓️ **Web3 Exploration** — Diving deep into BTC, EVM, and Internet Computer protocols
 
 ## 🛠️ Tech Stack
 
@@ -92,30 +94,32 @@ I'm a proud contributor to the **Flutter Candies** ecosystem, creating open-sour
 ## 🏆 Highlights
 
 🚀 **Flutter Candies Builder** — Crafting and maintaining open-source packages that supercharge the Flutter ecosystem worldwide
-🎮 **Every Screen Matters** — From Android TV D-pad controls to responsive web layouts — great UX belongs everywhere
-🔧 **DevTool Champion** — If a utility saves even one developer an hour, it deserves to be shared with the world
-⚡ **Performance Believer** — Rust taught me that speed isn't optional, it's a responsibility to every user
-🌐 **Decentralized Pathfinder** — Exploring BTC, EVM, and IC protocols to understand the next wave of the internet
-🤖 **AI Multiplier** — Using intelligent agents to amplify creativity and output, not replace the human spark
+🎮 **Every Screen Matters** — From Android TV D-pad controls to responsive web layouts — great UX belongs on every device
+🔧 **DevTool Champion** — If a CLI saves one developer one hour, it deserves to be open-sourced
+⚡ **Performance Disciple** — Rust showed me that speed is not a luxury, it's a duty to every user
+🌐 **Decentralized Pathfinder** — Exploring BTC, EVM, and IC to understand the internet's next chapter
+🤖 **AI Multiplier** — Using intelligent agents to amplify human creativity, not replace it
 
 ## 💭 Dev Philosophy
 
-> 🎯 *Complexity is the enemy* — the most elegant solution is the one that makes the next person say "of course!"
-> 🔄 *Ship to learn* — perfect code is a myth; shipped code is reality — iterate ruthlessly
-> 🤝 *Open by default* — knowledge grows when shared; stand on the shoulders of giants, then offer yours
-> ⚡ *Speed is respect* — every millisecond saved is a moment given back to the user
+> 🎯 *Simplicity is the ultimate sophistication* — if the next developer says "of course!", you've won
+> 🚢 *Ship to learn* — perfect code is a myth; shipped code teaches what theory never will
+> 🤝 *Open by default* — stand on the shoulders of giants, then offer yours to the next climber
+> ⚡ *Speed is empathy* — every millisecond you save is a moment returned to the user
 
 ## 💡 Random Spark
 
 <div align="center">
 
-*「"你失去了""我从未拥有"」*
+*「愿人们的爱恨为你加冕」*
+
+— 郭敬明
 
 </div>
 
 ## 📧 Let's Connect
 
-Got an exciting project idea, want to team up on open source, or just want to chat about Rust vs the world? I'm always up for a good conversation 🚀
+Got a wild project idea, want to collaborate on open source, or just debate whether Rust really has no runtime cost? I'm always up for a great conversation 🚀
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
@@ -126,7 +130,7 @@ Got an exciting project idea, want to team up on open source, or just want to ch
 
 ### ⭐ Thanks for stopping by! ⭐
 
-*If anything here caught your eye, a star would absolutely make my day 🌟*
+*If anything caught your eye, a star would absolutely make my day 🌟*
 
 ![](https://komarev.com/ghpvc/?username=iota9star&color=58A6FF&style=flat-square&label=Profile+Views)
 
