@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌌 iota9star 🌌
+# ✨ iota9star ✨
 
 🦀 **Rust** · ☕ **Java** · 🎯 **Dart** · 🌊 **TypeScript** · ⚡ **Kotlin**
 
-*Performance obsessed · Pixel perfectionist · Open source advocate*
+*Where raw performance meets pixel-perfect design*
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,21 +12,21 @@
 
 ## 👨‍💻 About Me
 
-Hey, I'm **iota9star** — a full-stack engineer who believes that great software lives where raw performance meets beautiful design 🔥
+Hey, I'm **iota9star** — a full-stack engineer who geeks out on making things fast *and* beautiful 🎨
 
-By day I architect high-throughput Rust microservices and battle-tested Java backends. By night I polish Flutter animations until 60fps feels like 120fps. I'm a core contributor to the **Flutter Candies** ecosystem, building open-source packages used by thousands of developers worldwide 🌍
+I architect high-throughput **Rust** microservices and battle-tested **Java** backends by day 🏗️ By night, I'm polishing Flutter UIs until every frame is buttery smooth 🦋 As a core contributor to the **Flutter Candies** ecosystem, I build open-source packages used by thousands of developers around the globe 🌏
 
-I'm endlessly curious about what comes next — whether that's AI agents that amplify human creativity, reactive primitives that simplify state management, or decentralized protocols that redefine trust on the internet 🚀
+Currently deep-diving into signal-based reactivity, AI agents that amplify human creativity, and decentralized protocols that could reshape how we trust the web 🧠
 
-🔬 **Right now**: exploring signal-based reactivity patterns, intelligent code agents, and making complex systems feel simple.
+🔭 **Exploring**: reactive primitives · intelligent code agents · making complex systems feel effortless
 
 ## 🎯 What I Do
 
-🏗️ **Backend Architecture** — Fault-tolerant microservices with Rust/Axum and Spring Boot that scale without breaking a sweat
-📱 **Cross-Platform Apps** — Pixel-perfect native experiences across Flutter, React, Vue, and Android
-🧩 **Open Source Packages** — Developer tools and libraries that make the community faster and happier
+🏗️ **Backend Architecture** — Fault-tolerant Rust/Axum and Spring Boot microservices that scale gracefully under pressure
+📱 **Cross-Platform Apps** — Native-quality experiences across Flutter, React, Vue, and Android — every pixel counts
+🧩 **Open Source Libraries** — Developer tools that make the Flutter Candies community faster and happier
 🤖 **AI-Powered Workflows** — Building intelligent agents and code assistants that multiply engineering output
-⛓️ **Web3 Exploration** — Diving deep into BTC, EVM, and Internet Computer protocols
+⛓️ **Web3 Protocols** — Exploring BTC, EVM, and Internet Computer to understand the next chapter of the internet
 
 ## 🛠️ Tech Stack
 
@@ -50,6 +50,12 @@ I'm endlessly curious about what comes next — whether that's AI agents that am
 
 **Frontier Tech**
 🤖 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems
+
+## 📊 Quick Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+</div>
 
 ## 🔥 Featured Projects
 
@@ -81,11 +87,7 @@ I'm endlessly curious about what comes next — whether that's AI agents that am
 </tr>
 </table>
 
-## 📊 Contribution Garden
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-</div>
+## 🌱 Contribution Garden
 
 <div align="center">
   <img src="profile-3d-contrib/profile-season-animate.svg" alt="Season Contribution Graph" />
@@ -93,33 +95,33 @@ I'm endlessly curious about what comes next — whether that's AI agents that am
 
 ## 🏆 Highlights
 
-🚀 **Flutter Candies Builder** — Crafting and maintaining open-source packages that supercharge the Flutter ecosystem worldwide
-🎮 **Every Screen Matters** — From Android TV D-pad controls to responsive web layouts — great UX belongs on every device
+🚀 **Flutter Candies Builder** — Crafting open-source packages that supercharge the Flutter ecosystem worldwide
+🎮 **Every Screen Matters** — From Android TV D-pad controls to responsive web layouts — great UX belongs everywhere
 🔧 **DevTool Champion** — If a CLI saves one developer one hour, it deserves to be open-sourced
-⚡ **Performance Disciple** — Rust showed me that speed is not a luxury, it's a duty to every user
-🌐 **Decentralized Pathfinder** — Exploring BTC, EVM, and IC to understand the internet's next chapter
-🤖 **AI Multiplier** — Using intelligent agents to amplify human creativity, not replace it
+⚡ **Performance Disciple** — Rust taught me that speed is not a luxury, it's a duty to every user
+🌐 **Decentralized Pathfinder** — Exploring BTC, EVM, and IC to decode the internet's next chapter
+🤖 **AI Multiplier** — Using intelligent agents to amplify creativity, not replace it
 
 ## 💭 Dev Philosophy
 
-> 🎯 *Simplicity is the ultimate sophistication* — if the next developer says "of course!", you've won
+> 🎯 *Simplicity is the ultimate sophistication* — when the next dev reads your code and says "of course!", you've won
 > 🚢 *Ship to learn* — perfect code is a myth; shipped code teaches what theory never will
 > 🤝 *Open by default* — stand on the shoulders of giants, then offer yours to the next climber
-> ⚡ *Speed is empathy* — every millisecond you save is a moment returned to the user
+> ⚡ *Speed is empathy* — every millisecond saved is a moment returned to the user
 
 ## 💡 Random Spark
 
 <div align="center">
 
-*「愿人们的爱恨为你加冕」*
+*「爱，其实很简单，困难的是去接受它。」*
 
-— 郭敬明
+— 通灵王
 
 </div>
 
 ## 📧 Let's Connect
 
-Got a wild project idea, want to collaborate on open source, or just debate whether Rust really has no runtime cost? I'm always up for a great conversation 🚀
+Got a wild project idea, want to collaborate on open source, or just debate whether Rust truly has zero-cost abstractions? I'm always up for a great conversation 🚀
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
