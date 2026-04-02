@@ -4,7 +4,7 @@
 
 🦀 **Rust** · ☕ **Java** · 🎯 **Dart** · 🌊 **TypeScript** · ⚡ **Kotlin**
 
-*Where raw performance meets pixel-perfect design*
+*Engineering at the intersection of performance, beauty, and open source*
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,21 +12,25 @@
 
 ## 👨‍💻 About Me
 
-Hey, I'm **iota9star** — a full-stack engineer who geeks out on making things fast *and* beautiful 🎨
+Hey, I'm **iota9star** — a full-stack engineer who believes great software is equal parts engineering rigor and creative craft 🎨
 
-I architect high-throughput **Rust** microservices and battle-tested **Java** backends by day 🏗️ By night, I'm polishing Flutter UIs until every frame is buttery smooth 🦋 As a core contributor to the **Flutter Candies** ecosystem, I build open-source packages used by thousands of developers around the globe 🌏
+I design high-throughput **Rust** services and battle-tested **Java** backends that handle real-world scale 🏗️ On the flip side, I obsess over Flutter UIs until every animation frame is buttery smooth 🦋 As a core contributor to the **Flutter Candies** ecosystem, I build open-source packages that empower thousands of developers worldwide 🌏
 
-Currently deep-diving into signal-based reactivity, AI agents that amplify human creativity, and decentralized protocols that could reshape how we trust the web 🧠
+Right now I'm deep into signal-based reactivity systems 🔄, AI agents that amplify human creativity rather than replace it 🧠, and decentralized protocols that could redefine digital trust ⛓️
 
-🔭 **Exploring**: reactive primitives · intelligent code agents · making complex systems feel effortless
+🔭 **Currently exploring**: reactive primitives · intelligent code agents · making complex systems feel effortless
 
 ## 🎯 What I Do
 
-🏗️ **Backend Architecture** — Fault-tolerant Rust/Axum and Spring Boot microservices that scale gracefully under pressure
-📱 **Cross-Platform Apps** — Native-quality experiences across Flutter, React, Vue, and Android — every pixel counts
-🧩 **Open Source Libraries** — Developer tools that make the Flutter Candies community faster and happier
+🏗️ **Backend Architecture** — Fault-tolerant Rust/Axum and Spring Boot microservices that scale gracefully under real-world pressure
+
+📱 **Cross-Platform Apps** — Native-quality experiences across Flutter, React, Vue, and Android — because every pixel is a promise to the user
+
+🧩 **Open Source Libraries** — Developer tools and packages in the Flutter Candies ecosystem that make thousands of devs faster and happier
+
 🤖 **AI-Powered Workflows** — Building intelligent agents and code assistants that multiply engineering output
-⛓️ **Web3 Protocols** — Exploring BTC, EVM, and Internet Computer to understand the next chapter of the internet
+
+⛓️ **Web3 Protocols** — Exploring BTC, EVM, and Internet Computer to understand the next chapter of digital trust
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +53,7 @@ Currently deep-diving into signal-based reactivity, AI agents that amplify human
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Frontier Tech**
-🤖 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems
+🤖 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems · 🔮 Reactive Primitives
 
 ## 📊 Quick Stats
 
@@ -96,10 +100,15 @@ Currently deep-diving into signal-based reactivity, AI agents that amplify human
 ## 🏆 Highlights
 
 🚀 **Flutter Candies Builder** — Crafting open-source packages that supercharge the Flutter ecosystem worldwide
+
 🎮 **Every Screen Matters** — From Android TV D-pad controls to responsive web layouts — great UX belongs everywhere
+
 🔧 **DevTool Champion** — If a CLI saves one developer one hour, it deserves to be open-sourced
+
 ⚡ **Performance Disciple** — Rust taught me that speed is not a luxury, it's a duty to every user
+
 🌐 **Decentralized Pathfinder** — Exploring BTC, EVM, and IC to decode the internet's next chapter
+
 🤖 **AI Multiplier** — Using intelligent agents to amplify creativity, not replace it
 
 ## 💭 Dev Philosophy
@@ -113,9 +122,9 @@ Currently deep-diving into signal-based reactivity, AI agents that amplify human
 
 <div align="center">
 
-*「爱，其实很简单，困难的是去接受它。」*
+*「有朝一日，是否会有人纪念他们。」*
 
-— 通灵王
+— 《纪念之日》，TNO启示录事件
 
 </div>
 
