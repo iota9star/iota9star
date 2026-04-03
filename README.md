@@ -122,9 +122,9 @@ Right now I'm deep into signal-based reactivity systems 🔄, AI agents that amp
 
 <div align="center">
 
-*「有朝一日，是否会有人纪念他们。」*
+*「人类最大的敌人是傲慢，其次是无知。」*
 
-— 《纪念之日》，TNO启示录事件
+— 亚亚努阿
 
 </div>
 
