@@ -1,10 +1,10 @@
 <div align="center">
 
-# ✨ iota9star ✨
+# 🌌 iota9star 🌌
 
 🦀 **Rust** · ☕ **Java** · 🎯 **Dart** · 🌊 **TypeScript** · ⚡ **Kotlin**
 
-*Engineering at the intersection of performance, beauty, and open source*
+*Crafting software where performance meets artistry*
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,25 +12,25 @@
 
 ## 👨‍💻 About Me
 
-Hey, I'm **iota9star** — a full-stack engineer who believes great software is equal parts engineering rigor and creative craft 🎨
+Hey there! I'm **iota9star** — a full-stack engineer who splits time between building **high-performance Rust microservices** ☣️ and obsessing over pixel-perfect **Flutter animations** 🦋
 
-I design high-throughput **Rust** services and battle-tested **Java** backends that handle real-world scale 🏗️ On the flip side, I obsess over Flutter UIs until every animation frame is buttery smooth 🦋 As a core contributor to the **Flutter Candies** ecosystem, I build open-source packages that empower thousands of developers worldwide 🌏
+By day I architect battle-tested **Java/Spring** backends and blazing-fast **Axum** services that handle real-world scale 🏗️ By night I contribute to the **Flutter Candies** ecosystem, creating open-source packages used by thousands of developers around the globe 🌏
 
-Right now I'm deep into signal-based reactivity systems 🔄, AI agents that amplify human creativity rather than replace it 🧠, and decentralized protocols that could redefine digital trust ⛓️
+Currently diving deep into **signal-based reactivity** 🔄, building **AI agents** that amplify human creativity 🧠, and exploring **decentralized protocols** on BTC, EVM & IC ⛓️ I believe the best code is the kind that makes the next developer smile 😊
 
-🔭 **Currently exploring**: reactive primitives · intelligent code agents · making complex systems feel effortless
+🔭 **Exploring**: reactive primitives · intelligent code agents · making distributed systems feel effortless
 
 ## 🎯 What I Do
 
-🏗️ **Backend Architecture** — Fault-tolerant Rust/Axum and Spring Boot microservices that scale gracefully under real-world pressure
+🏗️ **Backend Engineering** — Designing fault-tolerant Rust/Axum and Spring Boot microservices that gracefully handle whatever the real world throws at them
 
-📱 **Cross-Platform Apps** — Native-quality experiences across Flutter, React, Vue, and Android — because every pixel is a promise to the user
+📱 **Cross-Platform Experiences** — Shipping native-quality apps on Flutter, React, Vue & Android — because every pixel is a promise
 
-🧩 **Open Source Libraries** — Developer tools and packages in the Flutter Candies ecosystem that make thousands of devs faster and happier
+🧩 **Open Source Author** — Building developer tools and packages in the Flutter Candies ecosystem to make thousands of devs faster and happier
 
-🤖 **AI-Powered Workflows** — Building intelligent agents and code assistants that multiply engineering output
+🤖 **AI Workflows** — Crafting intelligent agents and code assistants that multiply engineering output without replacing the engineer
 
-⛓️ **Web3 Protocols** — Exploring BTC, EVM, and Internet Computer to understand the next chapter of digital trust
+⛓️ **Web3 Explorer** — Navigating BTC, EVM & Internet Computer to decode the next chapter of digital trust
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +52,7 @@ Right now I'm deep into signal-based reactivity systems 🔄, AI agents that amp
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Frontier Tech**
+**Frontier**
 🤖 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems · 🔮 Reactive Primitives
 
 ## 📊 Quick Stats
@@ -99,38 +99,36 @@ Right now I'm deep into signal-based reactivity systems 🔄, AI agents that amp
 
 ## 🏆 Highlights
 
-🚀 **Flutter Candies Builder** — Crafting open-source packages that supercharge the Flutter ecosystem worldwide
+🚀 **Flutter Candies Builder** — Fueling the Flutter ecosystem with open-source packages that make developers worldwide more productive
 
-🎮 **Every Screen Matters** — From Android TV D-pad controls to responsive web layouts — great UX belongs everywhere
+🎮 **Every Screen Matters** — From Android TV D-pad navigation to responsive web layouts — great UX should live everywhere
 
-🔧 **DevTool Champion** — If a CLI saves one developer one hour, it deserves to be open-sourced
+🔧 **DevTool Champion** — If a CLI tool saves one developer one hour, it deserves to be open-sourced and shared
 
-⚡ **Performance Disciple** — Rust taught me that speed is not a luxury, it's a duty to every user
+⚡ **Performance Obsessed** — Rust taught me that speed isn't a luxury — it's a responsibility to every single user
 
-🌐 **Decentralized Pathfinder** — Exploring BTC, EVM, and IC to decode the internet's next chapter
+🌐 **Decentralization Pioneer** — Exploring BTC, EVM & IC to help write the internet's next chapter
 
-🤖 **AI Multiplier** — Using intelligent agents to amplify creativity, not replace it
+🤖 **AI Augmented** — Building intelligent agents that amplify human creativity instead of replacing it
 
 ## 💭 Dev Philosophy
 
-> 🎯 *Simplicity is the ultimate sophistication* — when the next dev reads your code and says "of course!", you've won
+> 🎯 *Simplicity is the ultimate sophistication* — when the next dev reads your code and whispers "of course", you've won
 > 🚢 *Ship to learn* — perfect code is a myth; shipped code teaches what theory never will
 > 🤝 *Open by default* — stand on the shoulders of giants, then offer yours to the next climber
-> ⚡ *Speed is empathy* — every millisecond saved is a moment returned to the user
+> ⚡ *Speed is empathy* — every millisecond saved is a moment returned to someone's life
 
 ## 💡 Random Spark
 
 <div align="center">
 
-*「人类最大的敌人是傲慢，其次是无知。」*
-
-— 亚亚努阿
+*「因为失去，所以明白。」*
 
 </div>
 
 ## 📧 Let's Connect
 
-Got a wild project idea, want to collaborate on open source, or just debate whether Rust truly has zero-cost abstractions? I'm always up for a great conversation 🚀
+Got a wild project idea 🚀 want to collaborate on open source 🤝 or just debate whether Rust's borrow checker is the best thing since sliced bread? I'm always up for a great conversation 💬
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
