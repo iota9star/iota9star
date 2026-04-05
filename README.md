@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌌 iota9star 🌌
+# ✨ iota9star ✨
 
 🦀 **Rust** · ☕ **Java** · 🎯 **Dart** · 🌊 **TypeScript** · ⚡ **Kotlin**
 
-*Crafting software where performance meets artistry*
+*Where performance meets artistry — one commit at a time*
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,25 +12,25 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a full-stack engineer who splits time between building **high-performance Rust microservices** ☣️ and obsessing over pixel-perfect **Flutter animations** 🦋
+Hey! I'm **iota9star** — a full-stack engineer who lives at the intersection of **blazing-fast backends** and **beautiful cross-platform UIs** 🎨
 
-By day I architect battle-tested **Java/Spring** backends and blazing-fast **Axum** services that handle real-world scale 🏗️ By night I contribute to the **Flutter Candies** ecosystem, creating open-source packages used by thousands of developers around the globe 🌏
+By day I craft production-grade **Rust/Axum** services and battle-tested **Spring Boot** microservices that shoulder real-world traffic without breaking a sweat 💪 By night I pour energy into the **Flutter Candies** ecosystem, shipping open-source packages that thousands of developers rely on daily 🌍
 
-Currently diving deep into **signal-based reactivity** 🔄, building **AI agents** that amplify human creativity 🧠, and exploring **decentralized protocols** on BTC, EVM & IC ⛓️ I believe the best code is the kind that makes the next developer smile 😊
+Right now I'm deep into **signal-based reactivity** 🔮, building **AI agents** that supercharge developer workflows 🤖, and exploring the decentralized frontier across **BTC, EVM & IC** ⛓️ I write code I'd want to inherit — clean, fast, and a little bit fun 😄
 
-🔭 **Exploring**: reactive primitives · intelligent code agents · making distributed systems feel effortless
+🔭 **Currently exploring**: reactive primitives · intelligent code agents · making distributed systems feel simple
 
 ## 🎯 What I Do
 
-🏗️ **Backend Engineering** — Designing fault-tolerant Rust/Axum and Spring Boot microservices that gracefully handle whatever the real world throws at them
+🏗️ **Backend Architecture** — Fault-tolerant Rust/Axum and Spring Boot microservices engineered for the messy real world
 
-📱 **Cross-Platform Experiences** — Shipping native-quality apps on Flutter, React, Vue & Android — because every pixel is a promise
+📱 **Cross-Platform Apps** — Flutter, React, Vue & Android experiences where every pixel tells a story
 
-🧩 **Open Source Author** — Building developer tools and packages in the Flutter Candies ecosystem to make thousands of devs faster and happier
+🧩 **Open Source Builder** — Developer tools in the Flutter Candies ecosystem that make thousands of devs faster and happier every day
 
-🤖 **AI Workflows** — Crafting intelligent agents and code assistants that multiply engineering output without replacing the engineer
+🤖 **AI-Powered Workflows** — Intelligent agents and code assistants that amplify creativity without replacing the creator
 
-⛓️ **Web3 Explorer** — Navigating BTC, EVM & Internet Computer to decode the next chapter of digital trust
+⛓️ **Web3 Explorer** — Decoding BTC, EVM & Internet Computer protocols to help shape the next era of digital trust
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +53,7 @@ Currently diving deep into **signal-based reactivity** 🔄, building **AI agent
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Frontier**
-🤖 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems · 🔮 Reactive Primitives
+🧠 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems · 🔮 Reactive Primitives
 
 ## 📊 Quick Stats
 
@@ -99,17 +99,17 @@ Currently diving deep into **signal-based reactivity** 🔄, building **AI agent
 
 ## 🏆 Highlights
 
-🚀 **Flutter Candies Builder** — Fueling the Flutter ecosystem with open-source packages that make developers worldwide more productive
+🚀 **Ecosystem Builder** — Fueling Flutter Candies with packages that power thousands of apps worldwide
 
-🎮 **Every Screen Matters** — From Android TV D-pad navigation to responsive web layouts — great UX should live everywhere
+🎮 **Every Screen Counts** — From Android TV D-pad navigation to responsive web — great UX belongs everywhere
 
-🔧 **DevTool Champion** — If a CLI tool saves one developer one hour, it deserves to be open-sourced and shared
+🔧 **DevTools Advocate** — If a CLI saves one developer one hour, it deserves to be open-sourced
 
-⚡ **Performance Obsessed** — Rust taught me that speed isn't a luxury — it's a responsibility to every single user
+⚡ **Speed is a Feature** — Rust taught me that performance isn't optional — it's respect for every user's time
 
-🌐 **Decentralization Pioneer** — Exploring BTC, EVM & IC to help write the internet's next chapter
+🌐 **Web3 Pioneer** — Exploring decentralized protocols to help write the internet's next chapter
 
-🤖 **AI Augmented** — Building intelligent agents that amplify human creativity instead of replacing it
+🤖 **AI Augmented** — Building agents that amplify human creativity instead of replacing it
 
 ## 💭 Dev Philosophy
 
@@ -122,7 +122,8 @@ Currently diving deep into **signal-based reactivity** 🔄, building **AI agent
 
 <div align="center">
 
-*「因为失去，所以明白。」*
+*「The best way to predict the future is to invent it.」*
+*— Alan Kay*
 
 </div>
 
