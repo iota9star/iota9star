@@ -4,7 +4,7 @@
 
 🦀 **Rust** · ☕ **Java** · 🎯 **Dart** · 🌊 **TypeScript** · ⚡ **Kotlin**
 
-*Where performance meets artistry — one commit at a time*
+*Crafting software at the edge of performance and elegance*
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,25 +12,25 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **iota9star** — a full-stack engineer who lives at the intersection of **blazing-fast backends** and **beautiful cross-platform UIs** 🎨
+Hey there! I'm **iota9star** — a full-stack engineer who believes great software should feel like magic ✨
 
-By day I craft production-grade **Rust/Axum** services and battle-tested **Spring Boot** microservices that shoulder real-world traffic without breaking a sweat 💪 By night I pour energy into the **Flutter Candies** ecosystem, shipping open-source packages that thousands of developers rely on daily 🌍
+I spend my days building **high-throughput Rust microservices** and **robust Spring Boot backends** that handle real traffic with grace 🔥 My nights? Shipping open-source packages through the **Flutter Candies** collective — tools that help developers around the world build better apps, faster 🌏
 
-Right now I'm deep into **signal-based reactivity** 🔮, building **AI agents** that supercharge developer workflows 🤖, and exploring the decentralized frontier across **BTC, EVM & IC** ⛓️ I write code I'd want to inherit — clean, fast, and a little bit fun 😄
+Lately I've been obsessed with **reactive signal architectures** 🔮, crafting **AI agents** that make developers superhuman 🤖, and venturing into the decentralized web across **Bitcoin, EVM & Internet Computer** ⛓️ I treat every line of code as a conversation with the next person who'll read it — clear, intentional, and maybe even enjoyable 😄
 
-🔭 **Currently exploring**: reactive primitives · intelligent code agents · making distributed systems feel simple
+🔭 **Deep into**: signal primitives · intelligent dev tooling · making distributed systems approachable
 
 ## 🎯 What I Do
 
-🏗️ **Backend Architecture** — Fault-tolerant Rust/Axum and Spring Boot microservices engineered for the messy real world
+🏗️ **Backend Systems** — Rust/Axum and Spring Boot services built for scale, resilience, and operational simplicity
 
-📱 **Cross-Platform Apps** — Flutter, React, Vue & Android experiences where every pixel tells a story
+📱 **Cross-Platform Experiences** — Flutter, React, Vue & Android apps where performance and beauty coexist
 
-🧩 **Open Source Builder** — Developer tools in the Flutter Candies ecosystem that make thousands of devs faster and happier every day
+🧩 **Open Source at Heart** — Core contributor to Flutter Candies, shipping tools used by thousands daily
 
-🤖 **AI-Powered Workflows** — Intelligent agents and code assistants that amplify creativity without replacing the creator
+🤖 **AI-Native Development** — Agents and assistants that amplify human creativity, not replace it
 
-⛓️ **Web3 Explorer** — Decoding BTC, EVM & Internet Computer protocols to help shape the next era of digital trust
+⛓️ **Web3 Explorer** — Navigating BTC, EVM & IC protocols to help build the trust layer of the internet
 
 ## 🛠️ Tech Stack
 
@@ -52,8 +52,8 @@ Right now I'm deep into **signal-based reactivity** 🔮, building **AI agents**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Frontier**
-🧠 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems · 🔮 Reactive Primitives
+**Exploring**
+🧠 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems · 🔮 Reactive Signals
 
 ## 📊 Quick Stats
 
@@ -99,17 +99,17 @@ Right now I'm deep into **signal-based reactivity** 🔮, building **AI agents**
 
 ## 🏆 Highlights
 
-🚀 **Ecosystem Builder** — Fueling Flutter Candies with packages that power thousands of apps worldwide
+🚀 **Ecosystem Architect** — Driving Flutter Candies forward with packages that power thousands of apps globally
 
-🎮 **Every Screen Counts** — From Android TV D-pad navigation to responsive web — great UX belongs everywhere
+🎮 **Every Screen Matters** — From Android TV remote navigation to responsive web layouts — great UX has no boundaries
 
-🔧 **DevTools Advocate** — If a CLI saves one developer one hour, it deserves to be open-sourced
+🔧 **Tooling Believer** — If a well-crafted CLI can save one developer one hour, it deserves to exist in the open
 
-⚡ **Speed is a Feature** — Rust taught me that performance isn't optional — it's respect for every user's time
+⚡ **Performance as Empathy** — Rust showed me that speed isn't vanity — it's respect for every user's time
 
-🌐 **Web3 Pioneer** — Exploring decentralized protocols to help write the internet's next chapter
+🌐 **Decentralization Curious** — Exploring Web3 protocols not for hype, but to help write the internet's next chapter
 
-🤖 **AI Augmented** — Building agents that amplify human creativity instead of replacing it
+🤖 **AI-First Mindset** — Building agents that extend human capability, because the best code is the code you never have to write
 
 ## 💭 Dev Philosophy
 
@@ -122,14 +122,14 @@ Right now I'm deep into **signal-based reactivity** 🔮, building **AI agents**
 
 <div align="center">
 
-*「The best way to predict the future is to invent it.」*
-*— Alan Kay*
+*「Since humanity has been fortunate enough to possess wisdom, we should use it well.」*
+*— Yilin*
 
 </div>
 
 ## 📧 Let's Connect
 
-Got a wild project idea 🚀 want to collaborate on open source 🤝 or just debate whether Rust's borrow checker is the best thing since sliced bread? I'm always up for a great conversation 💬
+Whether you've got a wild project idea 🚀 want to collaborate on open source 🤝 or just want to debate whether Rust's borrow checker is the best thing since sliced bread — I'm always up for a great conversation 💬
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
