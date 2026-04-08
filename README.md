@@ -4,7 +4,7 @@
 
 🦀 Rust · ☕ Java · 🎯 Dart · 🌊 TypeScript · ⚡ Kotlin
 
-*Full-stack engineer building at the intersection of performance and elegance*
+*Building at the intersection of performance and elegance — from bare-metal backends to pixel-perfect UIs*
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,23 +12,25 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **iota9star** — a developer who lives and breathes code across the entire stack 🚀
+Hey there! I'm **iota9star** — a full-stack engineer who believes great software is equal parts engineering rigor and creative flair ✨
 
-By day I architect **high-throughput Rust microservices** and **battle-tested Spring Boot systems** that serve real users at scale 💪 By night I ship open-source packages through the **Flutter Candies** collective — developer tools that empower thousands of apps worldwide 🌍
+My days are spent crafting **high-throughput Rust microservices** with Axum and **battle-tested Spring Boot systems** that handle real-world traffic without breaking a sweat 💪 When the sun sets, I switch gears to ship open-source packages through the **Flutter Candies** collective — developer tools that power thousands of apps around the globe 🌍
 
-Right now I'm deep into **reactive signal architectures** 🔮 building **AI agents** that make developers feel like superheroes 🤖 and exploring the decentralized frontier across **Bitcoin, EVM & Internet Computer** ⛓️ I believe every function should tell a story, every API should feel intuitive, and every commit should leave the codebase better than I found it ✨
+Right now you'll find me deep in **reactive signal architectures** 🔮 experimenting with **AI agents** that turn developers into 10x versions of themselves 🤖 and exploring the decentralized frontier across **Bitcoin, EVM & Internet Computer** ⛓️
+
+I believe every function should tell a story, every API should feel like a conversation, and every commit should leave the codebase healthier than I found it 🌱
 
 ## 🎯 What I Do
 
 🏗️ **Backend Engineering** — Rust/Axum and Spring Boot systems designed for throughput, resilience, and operational clarity
 
-📱 **Cross-Platform Craft** — Flutter, React, Vue & Android apps where buttery-smooth UX meets solid architecture
+📱 **Cross-Platform Craft** — Flutter, React, Vue & Android apps where buttery-smooth UX meets rock-solid architecture
 
-🧩 **Open Source Contributor** — Core maintainer at Flutter Candies, shipping utilities that developers actually love using
+🧩 **Open Source Contributor** — Core maintainer at Flutter Candies, shipping utilities that developers genuinely enjoy using
 
 🤖 **AI-Powered Workflows** — Building intelligent agents and dev tools that amplify human creativity instead of replacing it
 
-⛓️ **Web3 Explorer** — Diving deep into BTC, EVM & IC protocols to help shape the decentralized web
+⛓️ **Web3 Explorer** — Diving into BTC, EVM & IC protocols to help shape the decentralized web's trust layer
 
 ## 🛠️ Tech Stack
 
@@ -73,9 +75,9 @@ Right now I'm deep into **reactive signal architectures** 🔮 building **AI age
 <td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
-</tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
@@ -97,9 +99,9 @@ Right now I'm deep into **reactive signal architectures** 🔮 building **AI age
 
 ## 🏆 Highlights
 
-🚀 **Ecosystem Builder** — Powering the Flutter Candies collective with packages used by developers across the globe
+🚀 **Ecosystem Builder** — Powering the Flutter Candies collective with packages that make developers' lives easier across the globe
 
-🎮 **Every Screen Counts** — From Android TV D-pad navigation to responsive web flexbox — great UX transcends device boundaries
+🎮 **Every Screen Matters** — From Android TV D-pad navigation to responsive web flexbox — great UX transcends device boundaries
 
 🔧 **Tooling Advocate** — If a well-crafted library can save one developer one headache, it deserves to be open-sourced
 
@@ -120,8 +122,8 @@ Right now I'm deep into **reactive signal architectures** 🔮 building **AI age
 
 <div align="center">
 
-*「有美一人，清扬婉兮。」*
-*— 诗经·野有蔓草*
+*「智者埋泉下，愚者长不灭。」*
+*— 崩坏：星穹铁道*
 
 </div>
 
