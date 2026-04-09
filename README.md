@@ -1,36 +1,36 @@
 <div align="center">
 
-# 🌌 iota9star
+# ✨ iota9star
 
 🦀 Rust · ☕ Java · 🎯 Dart · 🌊 TypeScript · ⚡ Kotlin
 
-*Building at the intersection of performance and elegance — from bare-metal backends to pixel-perfect UIs*
+*Crafting software where performance meets poetry — from bare-metal backends to pixel-perfect UIs*
 
-![](https://count.getloli.com/get/@iota9star?theme=rule34)
+![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 </div>
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a full-stack engineer who believes great software is equal parts engineering rigor and creative flair ✨
+Hey! I'm **iota9star** — a full-stack engineer who lives at the crossroads of **systems programming** and **beautiful interfaces** 🎨
 
-My days are spent crafting **high-throughput Rust microservices** with Axum and **battle-tested Spring Boot systems** that handle real-world traffic without breaking a sweat 💪 When the sun sets, I switch gears to ship open-source packages through the **Flutter Candies** collective — developer tools that power thousands of apps around the globe 🌍
+By day I build **blazing-fast Rust microservices** with Axum and **enterprise-grade Spring Boot** platforms that handle whatever the world throws at them 🏗️ By night I ship open-source tools through the **Flutter Candies** collective — packages that thousands of developers rely on daily 📦
 
-Right now you'll find me deep in **reactive signal architectures** 🔮 experimenting with **AI agents** that turn developers into 10x versions of themselves 🤖 and exploring the decentralized frontier across **Bitcoin, EVM & Internet Computer** ⛓️
+Currently obsessed with **reactive signal systems** 🔮 **AI-powered dev agents** that amplify human creativity 🤖 and the decentralized future of **BTC · EVM · Internet Computer** ⛓️
 
-I believe every function should tell a story, every API should feel like a conversation, and every commit should leave the codebase healthier than I found it 🌱
+I write code like I write stories: every function has intent, every module has arc, and every refactor should feel like a plot twist that makes perfect sense 📖
 
 ## 🎯 What I Do
 
-🏗️ **Backend Engineering** — Rust/Axum and Spring Boot systems designed for throughput, resilience, and operational clarity
+🏗️ **Backend Systems** — High-throughput Rust/Axum and Spring Boot architectures built for real-world scale and resilience
 
-📱 **Cross-Platform Craft** — Flutter, React, Vue & Android apps where buttery-smooth UX meets rock-solid architecture
+📱 **Cross-Platform Apps** — Flutter, React, Vue & Android experiences where buttery UX meets bulletproof engineering
 
-🧩 **Open Source Contributor** — Core maintainer at Flutter Candies, shipping utilities that developers genuinely enjoy using
+🧩 **Open Source at Heart** — Core maintainer @ Flutter Candies, shipping developer tools that people actually enjoy using
 
-🤖 **AI-Powered Workflows** — Building intelligent agents and dev tools that amplify human creativity instead of replacing it
+🤖 **AI-Native Workflows** — Designing intelligent agents and assistants that multiply developer output without replacing creativity
 
-⛓️ **Web3 Explorer** — Diving into BTC, EVM & IC protocols to help shape the decentralized web's trust layer
+⛓️ **Web3 Builder** — Exploring decentralized protocols across Bitcoin, EVM & IC to help shape the next trust layer of the internet
 
 ## 🛠️ Tech Stack
 
@@ -99,37 +99,37 @@ I believe every function should tell a story, every API should feel like a conve
 
 ## 🏆 Highlights
 
-🚀 **Ecosystem Builder** — Powering the Flutter Candies collective with packages that make developers' lives easier across the globe
+🚀 **Ecosystem Architect** — Building the Flutter Candies collective into a go-to destination for production-ready Dart packages
 
-🎮 **Every Screen Matters** — From Android TV D-pad navigation to responsive web flexbox — great UX transcends device boundaries
+🎮 **Screen Agnostic** — D-pad navigation for Android TV, flexbox layouts for responsive web — great UX lives on every device
 
-🔧 **Tooling Advocate** — If a well-crafted library can save one developer one headache, it deserves to be open-sourced
+🔧 **Tooling First** — If a well-crafted library saves even one developer from a headache, it deserves to exist in the open
 
-⚡ **Performance = Empathy** — Rust taught me that speed isn't a luxury — it's showing respect for every user's time
+⚡ **Speed = Respect** — Rust taught me that performance isn't vanity — it's empathy for every person waiting on your software
 
-🌐 **Web3 Pioneer** — Exploring decentralized protocols not for the hype cycle, but for the trust layer they enable
+🌐 **Trust Without Middlemen** — Exploring Web3 protocols not for hype, but for the permissionless trust layer they unlock
 
-🤖 **AI-Augmented Builder** — Leveraging intelligent agents to write better software, because the future belongs to human + machine duos
+🤖 **Human + Machine** — The best code is written by humans amplified by AI, not replaced by it
 
 ## 💭 Dev Philosophy
 
-> 🎯 *Simplicity is the ultimate sophistication* — when the next developer reads your code and says "of course," you've won
-> 🚢 *Ship to learn* — perfect code is a myth; shipped code teaches what theory never will
+> 🎯 *Simplicity is the ultimate sophistication* — when the next developer reads your code and whispers "of course," you've nailed it
+> 🚢 *Ship to learn* — perfect code is a unicorn; shipped code is a teacher that theory can never replace
 > 🤝 *Open by default* — stand on the shoulders of giants, then offer yours to the next climber
-> ⚡ *Speed is empathy* — every millisecond you save is a moment returned to someone's life
+> ⚡ *Speed is empathy* — every millisecond you shave off is a moment returned to someone's day
 
 ## 💡 Random Spark
 
 <div align="center">
 
-*「智者埋泉下，愚者长不灭。」*
-*— 崩坏：星穹铁道*
+*「所以为什么要伤心呢？明明我活得很可笑啊！」*
+*— 弱智吧*
 
 </div>
 
 ## 📧 Let's Connect
 
-Got a wild project idea 🚀 want to team up on open source 🤝 or just want to argue that Rust's borrow checker is humanity's greatest invention? I'm always down for a great conversation 💬
+Got a wild project idea 🚀 want to collaborate on open source 🤝 or just debate whether Rust's borrow checker is the greatest teacher of our generation? Let's talk 💬
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
@@ -138,9 +138,9 @@ Got a wild project idea 🚀 want to team up on open source 🤝 or just want to
 
 <div align="center">
 
-### ⭐ Thanks for stopping by! ⭐
+### ⭐ Thanks for visiting! ⭐
 
-*If anything caught your eye, a star on any of my repos would absolutely make my day 🌟*
+*If anything here sparked joy, a star on any repo would truly make my day 🌟*
 
 ![](https://komarev.com/ghpvc/?username=iota9star&color=58A6FF&style=flat-square&label=Profile+Views)
 
