@@ -1,10 +1,12 @@
 <div align="center">
 
-# ✨ iota9star
+# 🌌 iota9star
+
+**Full-Stack Engineer · Open Source Maintainer · Systems Thinker**
 
 🦀 Rust · ☕ Java · 🎯 Dart · 🌊 TypeScript · ⚡ Kotlin
 
-*Crafting software where performance meets poetry — from bare-metal backends to pixel-perfect UIs*
+*Building at the intersection of raw performance and refined design*
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,25 +14,25 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **iota9star** — a full-stack engineer who lives at the crossroads of **systems programming** and **beautiful interfaces** 🎨
+Hello, I'm **iota9star** 👋 — a full-stack developer who believes great software is born where **systems thinking** meets **creative craft** 🎨
 
-By day I build **blazing-fast Rust microservices** with Axum and **enterprise-grade Spring Boot** platforms that handle whatever the world throws at them 🏗️ By night I ship open-source tools through the **Flutter Candies** collective — packages that thousands of developers rely on daily 📦
+I architect **high-performance Rust backends** with Axum and **robust Spring Boot microservices** that keep things running under pressure ⚡ On the frontend, I ship polished cross-platform experiences with **Flutter**, **React**, and **Vue** — because users deserve software that feels effortless 📱
 
-Currently obsessed with **reactive signal systems** 🔮 **AI-powered dev agents** that amplify human creativity 🤖 and the decentralized future of **BTC · EVM · Internet Computer** ⛓️
+As a core contributor to the **Flutter Candies** collective, I maintain and grow a suite of open-source packages used by developers worldwide 🍬 There's nothing more rewarding than building tools that remove friction for fellow builders
 
-I write code like I write stories: every function has intent, every module has arc, and every refactor should feel like a plot twist that makes perfect sense 📖
+Lately I've been deep into **reactive signal architectures** 🔮 **AI-powered developer agents** 🤖 and the evolving world of **Web3** across BTC, EVM, and Internet Computer ⛓️
 
 ## 🎯 What I Do
 
-🏗️ **Backend Systems** — High-throughput Rust/Axum and Spring Boot architectures built for real-world scale and resilience
+🏗️ **Backend Architect** — Designing high-throughput systems in Rust/Axum and Java/Spring that scale gracefully under real-world load
 
-📱 **Cross-Platform Apps** — Flutter, React, Vue & Android experiences where buttery UX meets bulletproof engineering
+📱 **Cross-Platform Craft** — Shipping Flutter, React, Vue, and Android apps where buttery smooth UX meets rock-solid engineering
 
-🧩 **Open Source at Heart** — Core maintainer @ Flutter Candies, shipping developer tools that people actually enjoy using
+🍬 **Open Source Steward** — Maintaining the Flutter Candies ecosystem, producing developer tools that solve real pain points
 
-🤖 **AI-Native Workflows** — Designing intelligent agents and assistants that multiply developer output without replacing creativity
+🤖 **AI Workflow Designer** — Building intelligent agents and code assistants that amplify human creativity rather than replace it
 
-⛓️ **Web3 Builder** — Exploring decentralized protocols across Bitcoin, EVM & IC to help shape the next trust layer of the internet
+⛓️ **Web3 Explorer** — Navigating decentralized protocols across Bitcoin, EVM & IC to understand the trust layer of tomorrow
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +54,7 @@ I write code like I write stories: every function has intent, every module has a
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Exploring**
+**Frontier**
 🧠 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems · 🔮 Reactive Signals
 
 ## 📊 GitHub Stats
@@ -99,37 +101,37 @@ I write code like I write stories: every function has intent, every module has a
 
 ## 🏆 Highlights
 
-🚀 **Ecosystem Architect** — Building the Flutter Candies collective into a go-to destination for production-ready Dart packages
+🚀 **Ecosystem Builder** — Growing Flutter Candies into a trusted library collective for the Dart community
 
-🎮 **Screen Agnostic** — D-pad navigation for Android TV, flexbox layouts for responsive web — great UX lives on every device
+🎮 **Every Screen Matters** — From Android TV D-pad navigation to responsive web flexbox — UX should never be device-dependent
 
-🔧 **Tooling First** — If a well-crafted library saves even one developer from a headache, it deserves to exist in the open
+🔧 **Tooling Philosopher** — A well-crafted library that saves one developer from a headache is worth publishing
 
-⚡ **Speed = Respect** — Rust taught me that performance isn't vanity — it's empathy for every person waiting on your software
+⚡ **Performance = Empathy** — Rust taught me that shaving milliseconds isn't vanity, it's respect for everyone's time
 
-🌐 **Trust Without Middlemen** — Exploring Web3 protocols not for hype, but for the permissionless trust layer they unlock
+🌐 **Trust Without Permission** — Exploring Web3 for the decentralized trust layer it enables, not the hype cycle
 
-🤖 **Human + Machine** — The best code is written by humans amplified by AI, not replaced by it
+🤖 **Human-Centered AI** — The future belongs to developers amplified by AI, not replaced by it
 
 ## 💭 Dev Philosophy
 
-> 🎯 *Simplicity is the ultimate sophistication* — when the next developer reads your code and whispers "of course," you've nailed it
-> 🚢 *Ship to learn* — perfect code is a unicorn; shipped code is a teacher that theory can never replace
-> 🤝 *Open by default* — stand on the shoulders of giants, then offer yours to the next climber
-> ⚡ *Speed is empathy* — every millisecond you shave off is a moment returned to someone's day
+> 🎯 *Elegance is the art of making the complex feel simple* — when someone reads your code and says "of course," you've won
+> 🚢 *Ship first, perfect later* — deployed code teaches what theory never can
+> 🤝 *Open by default* — stand on giants' shoulders, then offer yours to the next climber
+> ⚡ *Every millisecond is a gift* — performance optimization is the quietest form of kindness
 
 ## 💡 Random Spark
 
 <div align="center">
 
-*「所以为什么要伤心呢？明明我活得很可笑啊！」*
-*— 弱智吧*
+*「远上寒山石径斜，白云深处有人家。」*
+*— 杜牧《山行》*
 
 </div>
 
 ## 📧 Let's Connect
 
-Got a wild project idea 🚀 want to collaborate on open source 🤝 or just debate whether Rust's borrow checker is the greatest teacher of our generation? Let's talk 💬
+Whether you have a bold project idea 🚀 want to collaborate on open source 🤝 or simply want to debate whether the borrow checker makes you a better person — my inbox is open 💬
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
@@ -138,9 +140,9 @@ Got a wild project idea 🚀 want to collaborate on open source 🤝 or just deb
 
 <div align="center">
 
-### ⭐ Thanks for visiting! ⭐
+### ⭐ Thanks for stopping by! ⭐
 
-*If anything here sparked joy, a star on any repo would truly make my day 🌟*
+*If anything here sparked a thought, a star on any repo would make my day 🌟*
 
 ![](https://komarev.com/ghpvc/?username=iota9star&color=58A6FF&style=flat-square&label=Profile+Views)
 
