@@ -1,12 +1,12 @@
 <div align="center">
 
-# ✨ iota9star
+# 🌌 iota9star
 
-**Full-Stack Engineer · Open Source Author · Systems Builder**
+**Full-Stack Engineer · Systems Architect · Open Source Craftsperson**
 
 🦀 Rust · ☕ Java · 🎯 Dart · 🌊 TypeScript · ⚡ Kotlin
 
-*Crafting software where raw performance meets elegant design*
+*Where raw performance meets thoughtful design*
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -14,25 +14,22 @@
 
 ## 👨‍💻 About Me
 
-Hey there, I'm **iota9star** 👋 — a developer who lives at the crossroads of **systems engineering** and **creative product design** 🎨
+Hey, I'm **iota9star** 👋 — a developer who believes the best software feels inevitable, like it couldn't have been built any other way.
 
-My days are spent building **blazing-fast Rust services** with Axum and **battle-tested Spring microservices** that handle whatever the world throws at them 🔥 On the flip side, I craft smooth, delightful user experiences with **Flutter**, **React**, and **Vue** — because beautiful backends deserve beautiful frontends 💎
+I split my time between **high-performance Rust backends** with Axum 🔥 and **robust Java/Spring microservices** that keep the lights on at scale. On the frontend, I build smooth, responsive experiences with **Flutter**, **React**, and **Vue** — because a great system deserves a great interface 💎
 
-I'm a core maintainer at **Flutter Candies** 🍬 — a collective building open-source Dart/Flutter packages that developers actually love to use. There's something deeply satisfying about shipping a library that makes someone's day a little easier
+As a core maintainer at **Flutter Candies** 🍬, I help grow a collective of open-source Dart/Flutter packages used by developers worldwide. There's a unique joy in shipping a library that quietly makes someone's work a little easier ✨
 
-Right now I'm exploring **reactive signal architectures** 🔮 tinkering with **AI-powered developer agents** 🤖 and diving deep into **Web3** across Bitcoin, EVM, and Internet Computer ⛓️
+Lately I've been deep into **reactive signal architectures** 🔮 **AI-augmented developer workflows** 🤖 and **Web3** across Bitcoin, EVM, and Internet Computer ⛓️ — always chasing the next layer of what's possible.
 
 ## 🎯 What I Do
 
-🏗️ **Backend Architecture** — Rust/Axum and Java/Spring systems designed for throughput, resilience, and clean separation of concerns
-
-📱 **Cross-Platform Apps** — Flutter, React, Vue, and Android experiences where performance and polish aren't trade-offs
-
-🍬 **Open Source Ecosystem** — Growing Flutter Candies into a go-to toolkit for the Dart community worldwide
-
-🤖 **AI-Enhanced Development** — Building intelligent workflows and agents that amplify developer creativity, not replace it
-
-⛓️ **Web3 Protocols** — Exploring decentralized trust on BTC, EVM, and IC — building for the permissionless future
+🏗️ **Backend Systems** — Rust/Axum and Java/Spring architectures built for throughput, resilience, and clean domain boundaries
+📱 **Cross-Platform Apps** — Flutter, React, Vue, and Android — performance and polish in every pixel
+🍬 **Open Source Ecosystem** — Nurturing Flutter Candies into a toolkit the Dart community can rely on
+🤖 **AI-Powered Workflows** — Building intelligent agents that amplify creativity instead of replacing it
+⛓️ **Web3 Exploration** — Decentralized trust on BTC, EVM, and IC — designing for a permissionless future
+🔧 **Developer Tooling** — From CLI utilities to code generators: if it saves developers time, I want to build it
 
 ## 🛠️ Tech Stack
 
@@ -54,13 +51,14 @@ Right now I'm exploring **reactive signal architectures** 🔮 tinkering with **
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Frontier Tech**
+**Frontier**
 🧠 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems · 🔮 Reactive Signals
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iota9star&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 ## 🔥 Featured Projects
@@ -101,17 +99,17 @@ Right now I'm exploring **reactive signal architectures** 🔮 tinkering with **
 
 ## 🏆 Highlights
 
-🚀 **Ecosystem Builder** — Turning Flutter Candies into a trusted library collective that thousands of Dart developers rely on daily
+🚀 **Ecosystem Builder** — Turning Flutter Candies into a trusted library collective that thousands of Dart developers depend on daily
 
-🎮 **Pixel-Perfect Everywhere** — From Android TV D-pad navigation to responsive flexbox layouts — every screen deserves a great experience
+🎮 **Pixel-Perfect on Every Screen** — From Android TV D-pad navigation to responsive flexbox layouts — great UX doesn't compromise on device
 
-🔧 **Developer Experience Advocate** — A library that saves one developer from a headache is worth publishing; one that saves a thousand is worth maintaining forever
+🔧 **DX-First Mindset** — A library that saves one developer from a headache is worth publishing; one that saves a thousand is worth maintaining forever
 
-⚡ **Performance as Empathy** — Rust rewired my brain: every millisecond shaved is respect for someone else's time
+⚡ **Performance as Empathy** — Rust rewired how I think: every millisecond shaved is respect for someone else's time
 
-🌐 **Decentralized by Default** — Exploring Web3 not for the hype, but for the trust layer that lets strangers cooperate without gatekeepers
+🌐 **Decentralized by Conviction** — Exploring Web3 not for the hype, but for the trust layer that lets strangers cooperate without gatekeepers
 
-🤖 **AI-Native Builder** — The next era belongs to developers who amplify their thinking with intelligent agents — I'm building toward that future
+🤖 **AI-Native Builder** — The next era belongs to developers who amplify their thinking with intelligent agents — I'm building toward that future every day
 
 ## 💭 Dev Philosophy
 
@@ -124,13 +122,14 @@ Right now I'm exploring **reactive signal architectures** 🔮 tinkering with **
 
 <div align="center">
 
-*「Dopamine is not love, but love always comes with dopamine.」*
+*「所谓觉悟，乃是在漆黑的荒原中，开辟出一条属于自己的星光大道！」*
+*— Giorno Giovanna 🌟*
 
 </div>
 
 ## 📧 Let's Connect
 
-Got a bold project idea? 🚀 Want to co-build something open source? 🤝 Or maybe just debate whether Rust's borrow checker makes you a better person? My inbox is always open 💬
+Building something bold? 🚀 Want to co-create open source? 🤝 Or just debate whether Rust's borrow checker makes you a better person? My inbox is always open 💬
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
