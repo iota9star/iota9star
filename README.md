@@ -1,12 +1,12 @@
 <div align="center">
 
-# ✨ iota9star
+# 🌌 iota9star
 
-**Full-Stack Engineer · Systems Architect · Open Source Craftsperson**
+**Full-Stack Engineer · Systems Thinker · Open Source Advocate**
 
 🦀 Rust · ☕ Java · 🎯 Dart · 🌊 TypeScript · ⚡ Kotlin
 
-*Crafting software that feels inevitable*
+*Building software that bridges power and elegance*
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -14,22 +14,22 @@
 
 ## 👨‍💻 About Me
 
-Hey there, I'm **iota9star** — a developer who finds joy in building things that *just work* ⚙️
+Hey, I'm **iota9star** — a developer who believes great software is built at the intersection of **performance** ⚡ and **craft** 🎨
 
-My days are spent between the **raw power of Rust** with Axum 🔥 and the **battle-tested reliability of Java/Spring** microservices running in production at scale. But I believe great backends deserve great frontends — so I craft polished experiences with **Flutter**, **React**, and **Vue** that make the whole system shine 💎
+I split my time between **high-throughput Rust backends** with Axum 🔥 and **enterprise-grade Java/Spring** systems that keep production humming at scale. But a powerful backend deserves an equally refined frontend — so I build polished experiences with **Flutter**, **React**, and **Vue** that make the whole product feel cohesive 💎
 
-As a core maintainer at **Flutter Candies** 🍬, I get to nurture a growing ecosystem of open-source Dart/Flutter packages. There's something deeply satisfying about shipping a library that quietly makes another developer's day just a bit smoother ✨
+As a core contributor to **Flutter Candies** 🍬, I help maintain an ecosystem of open-source Dart/Flutter packages used by developers worldwide. There's nothing quite like shipping a tiny utility that quietly saves someone hours of work ✨
 
-Right now I'm diving deep into **reactive signal architectures** 🔮 **AI-augmented development** 🤖 and **Web3** across Bitcoin, EVM, and Internet Computer ⛓️ — always exploring what's around the next corner.
+Lately I've been obsessed with **reactive signal architectures** 🔮 **AI-augmented engineering** 🤖 and the decentralized promise of **Web3** across Bitcoin, EVM, and Internet Computer ⛓️ — always chasing the next paradigm shift.
 
 ## 🎯 What I Do
 
-🏗️ **Backend Systems** — Rust/Axum for raw throughput and Java/Spring for battle-tested reliability at scale
-📱 **Cross-Platform Apps** — Flutter, React, Vue, and Android with pixel-perfect attention to detail
-🍬 **Open Source Ecosystem** — Growing Flutter Candies into a toolkit the Dart community trusts daily
-🤖 **AI-Powered Workflows** — Intelligent agents that amplify human creativity, not replace it
-⛓️ **Web3 Exploration** — Decentralized systems on BTC, EVM, and IC — trust without gatekeepers
-🔧 **Developer Tooling** — CLIs, code generators, and DX polish — because saved time compounds
+🏗️ **Backend Engineering** — Rust/Axum for zero-cost abstractions and Java/Spring for resilient microservices that scale
+📱 **Cross-Platform Craft** — Flutter, React, Vue, and Android with obsessive attention to every pixel and gesture
+🍬 **Open Source Stewardship** — Growing Flutter Candies into a library ecosystem the Dart community relies on daily
+🤖 **AI-Augmented Development** — Building intelligent agents and workflows that amplify creativity, not replace it
+⛓️ **Web3 & Decentralization** — Trust-minimized systems on BTC, EVM, and IC — cooperation without gatekeepers
+🔧 **Developer Experience** — CLIs, generators, and tooling — because frictionless DX compounds into velocity
 
 ## 🛠️ Tech Stack
 
@@ -99,36 +99,36 @@ Right now I'm diving deep into **reactive signal architectures** 🔮 **AI-augme
 
 ## 🏆 Highlights
 
-🚀 **Ecosystem Builder** — Turning Flutter Candies into a trusted library collective that thousands of Dart developers depend on daily
+🚀 **Ecosystem Architect** — Shaping Flutter Candies into a library collective that thousands of Dart developers trust and depend on every day
 
-🎮 **Pixel-Perfect Everywhere** — From Android TV D-pad navigation to responsive flexbox layouts — great UX doesn't compromise on device
+🎮 **Every Screen Matters** — From Android TV D-pad navigation to responsive flexbox layouts — great UX means zero compromise across devices
 
-🔧 **DX-First Mindset** — A library that saves one developer from a headache is worth publishing; one that saves a thousand is worth maintaining forever
+🔧 **DX Obsessed** — A library that spares one developer a headache is worth publishing; one that helps a thousand is worth maintaining forever
 
-⚡ **Performance as Empathy** — Rust rewired how I think about code: every millisecond shaved is respect for someone else's time
+⚡ **Performance = Empathy** — Rust rewired my brain: every millisecond saved is respect for the human on the other side of the screen
 
-🌐 **Decentralized by Conviction** — Exploring Web3 not for the hype, but for the trust layer that lets strangers cooperate without gatekeepers
+🌐 **Decentralized by Design** — Exploring Web3 not for the hype cycle, but for the trust layer that enables strangers to collaborate without intermediaries
 
-🤖 **AI-Native Builder** — The next era belongs to developers who amplify their thinking with intelligent agents — building toward that future every day
+🤖 **AI-Native Thinking** — The future belongs to engineers who amplify their instincts with intelligent agents — building toward that world daily
 
 ## 💭 Dev Philosophy
 
-> 🎯 *Elegance is making the complex feel simple* — when someone reads your API and says "of course," you've nailed it
-> 🚢 *Ship to learn, iterate to excel* — production teaches what whiteboards never can
-> 🤝 *Open by conviction* — stand on giants' shoulders, then offer yours to the next climber
-> ⚡ *Speed is a feature* — not for benchmarks, but for the human waiting on the other end
+> 🎯 *Simplicity is the ultimate sophistication* — when your API makes people say "of course it works this way," you've won
+> 🚢 *Ship early, learn fast, iterate ruthlessly* — production is the only teacher that matters
+> 🤝 *Open by principle* — stand on the shoulders of giants, then offer yours to the next climber
+> ⚡ *Fast code is kind code* — not for benchmarks, but for every person waiting on the other end
 
 ## 💡 Random Spark
 
 <div align="center">
 
-*「哪里都去不了，就想念起大海来。」*
+*「The grand show is about to begin — those who aren't ready for the stage will only watch from the wings.」*
 
 </div>
 
 ## 📧 Let's Connect
 
-Building something bold? 🚀 Want to co-create open source? 🤝 Or just debate whether Rust's borrow checker makes you a better person? My inbox is always open 💬
+Working on something ambitious? 🚀 Want to collaborate on open source? 🤝 Or just debate whether Rust's borrow checker builds character? My inbox is always open 💬
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
