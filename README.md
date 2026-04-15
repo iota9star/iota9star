@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌌 iota9star
+# ✨ iota9star
 
 **Full-Stack Engineer · Systems Thinker · Open Source Advocate**
 
 🦀 Rust · ☕ Java · 🎯 Dart · 🌊 TypeScript · ⚡ Kotlin
 
-*Building software that bridges power and elegance*
+*Where raw performance meets pixel-perfect craft*
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -14,22 +14,22 @@
 
 ## 👨‍💻 About Me
 
-Hey, I'm **iota9star** — a developer who believes great software is built at the intersection of **performance** ⚡ and **craft** 🎨
+Hey there, I'm **iota9star** — a developer who lives at the crossroads of **speed** ⚡ and **elegance** 🎨
 
-I split my time between **high-throughput Rust backends** with Axum 🔥 and **enterprise-grade Java/Spring** systems that keep production humming at scale. But a powerful backend deserves an equally refined frontend — so I build polished experiences with **Flutter**, **React**, and **Vue** that make the whole product feel cohesive 💎
+My days are spent deep in **Rust backends** powered by Axum, crafting systems where zero-cost abstractions aren't just theory but production reality 🔥 When the enterprise calls, I pivot to **Java/Spring microservices** — battle-tested architectures that carry millions of requests without breaking a sweat. But what good is a blazing backend without a stunning frontend? That's where **Flutter**, **React**, and **Vue** come in — turning complex state and data into interfaces that feel effortless 💎
 
-As a core contributor to **Flutter Candies** 🍬, I help maintain an ecosystem of open-source Dart/Flutter packages used by developers worldwide. There's nothing quite like shipping a tiny utility that quietly saves someone hours of work ✨
+As a core maintainer of **Flutter Candies** 🍬, I pour energy into an ecosystem of open-source packages that quietly make thousands of developers' lives easier. There's a special kind of satisfaction in shipping a small utility that becomes someone's daily driver ✨
 
-Lately I've been obsessed with **reactive signal architectures** 🔮 **AI-augmented engineering** 🤖 and the decentralized promise of **Web3** across Bitcoin, EVM, and Internet Computer ⛓️ — always chasing the next paradigm shift.
+Right now I'm deep in the weeds of **reactive signal architectures** 🔮, **AI-powered dev workflows** 🤖, and the decentralized future of **Web3** across Bitcoin, EVM, and Internet Computer ⛓️ — always one paradigm shift ahead.
 
 ## 🎯 What I Do
 
-🏗️ **Backend Engineering** — Rust/Axum for zero-cost abstractions and Java/Spring for resilient microservices that scale
-📱 **Cross-Platform Craft** — Flutter, React, Vue, and Android with obsessive attention to every pixel and gesture
-🍬 **Open Source Stewardship** — Growing Flutter Candies into a library ecosystem the Dart community relies on daily
-🤖 **AI-Augmented Development** — Building intelligent agents and workflows that amplify creativity, not replace it
-⛓️ **Web3 & Decentralization** — Trust-minimized systems on BTC, EVM, and IC — cooperation without gatekeepers
-🔧 **Developer Experience** — CLIs, generators, and tooling — because frictionless DX compounds into velocity
+🏗️ **Backend at Scale** — Rust/Axum for raw throughput and Java/Spring for resilient microservices that never sleep
+📱 **Cross-Platform Experiences** — Flutter, React, Vue, and Android, because users don't care about platforms, they care about feel
+🍬 **Open Source Ecosystem** — Growing Flutter Candies into the Dart community's go-to library collective
+🤖 **AI-Native Engineering** — Intelligent agents and workflows that amplify human creativity, not replace it
+⛓️ **Web3 Builder** — Trustless systems on BTC, EVM, and IC — cooperation without gatekeepers
+🔧 **DX Craftsman** — CLIs, generators, and tooling, because smooth workflows compound into shipping velocity
 
 ## 🛠️ Tech Stack
 
@@ -101,15 +101,15 @@ Lately I've been obsessed with **reactive signal architectures** 🔮 **AI-augme
 
 🚀 **Ecosystem Architect** — Shaping Flutter Candies into a library collective that thousands of Dart developers trust and depend on every day
 
-🎮 **Every Screen Matters** — From Android TV D-pad navigation to responsive flexbox layouts — great UX means zero compromise across devices
+🎮 **Every Screen Matters** — From Android TV D-pad navigation to responsive flexbox layouts, great UX means zero compromise across devices
 
 🔧 **DX Obsessed** — A library that spares one developer a headache is worth publishing; one that helps a thousand is worth maintaining forever
 
-⚡ **Performance = Empathy** — Rust rewired my brain: every millisecond saved is respect for the human on the other side of the screen
+⚡ **Performance is Empathy** — Rust rewired my brain: every millisecond saved is respect for the person on the other side of the screen
 
-🌐 **Decentralized by Design** — Exploring Web3 not for the hype cycle, but for the trust layer that enables strangers to collaborate without intermediaries
+🌐 **Decentralized by Design** — Exploring Web3 not for the hype, but for the trust layer that enables strangers to collaborate without intermediaries
 
-🤖 **AI-Native Thinking** — The future belongs to engineers who amplify their instincts with intelligent agents — building toward that world daily
+🤖 **AI-Native Thinking** — The future belongs to engineers who amplify their instincts with intelligent agents — building toward that world every day
 
 ## 💭 Dev Philosophy
 
@@ -122,13 +122,14 @@ Lately I've been obsessed with **reactive signal architectures** 🔮 **AI-augme
 
 <div align="center">
 
-*「The grand show is about to begin — those who aren't ready for the stage will only watch from the wings.」*
+*「Code is like humor. When you have to explain it, it's bad.」*
+*— Cory House*
 
 </div>
 
 ## 📧 Let's Connect
 
-Working on something ambitious? 🚀 Want to collaborate on open source? 🤝 Or just debate whether Rust's borrow checker builds character? My inbox is always open 💬
+Got something ambitious brewing? 🚀 Want to team up on open source? 🤝 Or just debate whether the borrow checker builds character? My inbox is always open 💬
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iota9star)
