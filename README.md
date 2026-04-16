@@ -20,7 +20,7 @@ My days are spent deep in **Rust backends** powered by Axum, crafting systems wh
 
 As a core maintainer of **Flutter Candies** 🍬, I pour energy into an ecosystem of open-source packages that quietly make thousands of developers' lives easier. There's a special kind of satisfaction in shipping a small utility that becomes someone's daily driver ✨
 
-Right now I'm deep in the weeds of **reactive signal architectures** 🔮, **AI-powered dev workflows** 🤖, and the decentralized future of **Web3** across Bitcoin, EVM, and Internet Computer ⛓️ — always one paradigm shift ahead.
+Right now I'm deep in the weeds of **reactive signals architectures** 🔮, **AI-powered dev workflows** 🤖, and the decentralized future of **Web3** across Bitcoin, EVM, and Internet Computer ⛓️ — always one paradigm shift ahead.
 
 ## 🎯 What I Do
 
@@ -122,8 +122,8 @@ Right now I'm deep in the weeds of **reactive signal architectures** 🔮, **AI-
 
 <div align="center">
 
-*「Code is like humor. When you have to explain it, it's bad.」*
-*— Cory House*
+*「人生总是那么痛苦吗？还是只有小时候是这样？」*
+*— Léon*
 
 </div>
 
