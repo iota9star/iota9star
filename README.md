@@ -1,12 +1,12 @@
 <div align="center">
 
-# ✨ iota9star
+# 🌌 iota9star
 
-**Full-Stack Engineer · Systems Thinker · Open Source Advocate**
+**Full-Stack Engineer · Open Source Steward · Systems Craftsman**
 
 🦀 Rust · ☕ Java · 🎯 Dart · 🌊 TypeScript · ⚡ Kotlin
 
-*Where raw performance meets pixel-perfect craft*
+*Building at the edge of performance and possibility*
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -14,22 +14,22 @@
 
 ## 👨‍💻 About Me
 
-Hey there, I'm **iota9star** — a developer who lives at the crossroads of **speed** ⚡ and **elegance** 🎨
+Hey, I'm **iota9star** — a developer who believes that great software is where **raw speed** ⚡ and **thoughtful design** 🎨 converge. I spend my days building things that run fast *and* feel right.
 
-My days are spent deep in **Rust backends** powered by Axum, crafting systems where zero-cost abstractions aren't just theory but production reality 🔥 When the enterprise calls, I pivot to **Java/Spring microservices** — battle-tested architectures that carry millions of requests without breaking a sweat. But what good is a blazing backend without a stunning frontend? That's where **Flutter**, **React**, and **Vue** come in — turning complex state and data into interfaces that feel effortless 💎
+On the backend, I live in **Rust + Axum** 🦀 — where zero-cost abstractions aren't slogans, they're the code I ship to production. When the enterprise scale calls, I reach for **Java/Spring microservices** ☕ — battle-hardened systems that handle millions of requests without flinching. And because every powerful backend deserves a beautiful face, I craft frontends with **Flutter**, **React**, and **Vue** 💎 — turning complex data into interfaces that feel intuitive.
 
-As a core maintainer of **Flutter Candies** 🍬, I pour energy into an ecosystem of open-source packages that quietly make thousands of developers' lives easier. There's a special kind of satisfaction in shipping a small utility that becomes someone's daily driver ✨
+I'm also a core maintainer of the **Flutter Candies** 🍬 ecosystem — a collection of open-source packages that thousands of Dart developers use daily. Few things match the joy of shipping a small tool that quietly becomes someone's everyday essential ✨
 
-Right now I'm deep in the weeds of **reactive signals architectures** 🔮, **AI-powered dev workflows** 🤖, and the decentralized future of **Web3** across Bitcoin, EVM, and Internet Computer ⛓️ — always one paradigm shift ahead.
+Currently exploring **reactive signal architectures** 🔮, **AI-powered dev workflows** 🤖, and the decentralized world of **Web3** across BTC, EVM, and IC ⛓️ — always pushing toward what comes next.
 
 ## 🎯 What I Do
 
-🏗️ **Backend at Scale** — Rust/Axum for raw throughput and Java/Spring for resilient microservices that never sleep
-📱 **Cross-Platform Experiences** — Flutter, React, Vue, and Android, because users don't care about platforms, they care about feel
-🍬 **Open Source Ecosystem** — Growing Flutter Candies into the Dart community's go-to library collective
-🤖 **AI-Native Engineering** — Intelligent agents and workflows that amplify human creativity, not replace it
-⛓️ **Web3 Builder** — Trustless systems on BTC, EVM, and IC — cooperation without gatekeepers
-🔧 **DX Craftsman** — CLIs, generators, and tooling, because smooth workflows compound into shipping velocity
+🏗️ **Backend Systems** — Rust/Axum for raw throughput; Java/Spring for resilient microservices at enterprise scale
+📱 **Cross-Platform UI** — Flutter, React, Vue, and Android — because great UX is platform-agnostic
+🍬 **Open Source Steward** — Growing Flutter Candies into the Dart community's most trusted library collective
+🤖 **AI-Native Development** — Building intelligent agents and workflows that amplify creativity, not replace it
+⛓️ **Web3 Explorer** — Trustless systems on BTC, EVM, and IC — cooperation without gatekeepers
+🔧 **DX Obsessive** — CLIs, generators, and tooling — because smooth workflows compound into shipping velocity
 
 ## 🛠️ Tech Stack
 
@@ -54,12 +54,14 @@ Right now I'm deep in the weeds of **reactive signals architectures** 🔮, **AI
 **Frontier**
 🧠 AI Agents · ⛓️ Web3 (BTC / EVM / IC) · ☁️ Distributed Systems · 🔮 Reactive Signals
 
-## 📊 GitHub Stats
+## 📊 Quick Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iota9star&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
+
+🎯 **99** public repos · 👥 **280** followers · 🔗 Building since **2016**
 
 ## 🔥 Featured Projects
 
@@ -99,17 +101,17 @@ Right now I'm deep in the weeds of **reactive signals architectures** 🔮, **AI
 
 ## 🏆 Highlights
 
-🚀 **Ecosystem Architect** — Shaping Flutter Candies into a library collective that thousands of Dart developers trust and depend on every day
+🚀 **Ecosystem Architect** — Shaping Flutter Candies into a library collective that thousands of Dart developers trust every day
 
-🎮 **Every Screen Matters** — From Android TV D-pad navigation to responsive flexbox layouts, great UX means zero compromise across devices
+🎮 **Every Screen, Every Device** — From Android TV D-pad navigation to responsive flexbox layouts, great UX means zero compromise across platforms
 
-🔧 **DX Obsessed** — A library that spares one developer a headache is worth publishing; one that helps a thousand is worth maintaining forever
+🔧 **DX First** — A library that saves one developer a headache is worth publishing; one that helps a thousand is worth maintaining forever
 
 ⚡ **Performance is Empathy** — Rust rewired my brain: every millisecond saved is respect for the person on the other side of the screen
 
-🌐 **Decentralized by Design** — Exploring Web3 not for the hype, but for the trust layer that enables strangers to collaborate without intermediaries
+🌐 **Decentralized by Design** — Exploring Web3 not for the hype, but for the trust layer that lets strangers collaborate without intermediaries
 
-🤖 **AI-Native Thinking** — The future belongs to engineers who amplify their instincts with intelligent agents — building toward that world every day
+🤖 **AI-Native Thinking** — The future belongs to engineers who amplify their instincts with intelligent agents — building toward that world daily
 
 ## 💭 Dev Philosophy
 
@@ -122,8 +124,8 @@ Right now I'm deep in the weeds of **reactive signals architectures** 🔮, **AI
 
 <div align="center">
 
-*「人生总是那么痛苦吗？还是只有小时候是这样？」*
-*— Léon*
+*「努力吧！就算再寂寞！也要努力活下去！」*
+*— 鬼滅之刃*
 
 </div>
 
