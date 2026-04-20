@@ -10,18 +10,18 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a passionate developer who thrives at the intersection of performance and elegance. I believe great software is born from deep systems thinking and relentless curiosity. Whether it's crafting a high-throughput Rust microservice or polishing a Flutter UI to pixel-perfection, I'm in my element when solving real problems with clean code. 🚀
+Hey there! I'm **iota9star** — a builder who lives at the crossroads of raw performance and thoughtful design. I treat every project as a product, not just code: from architecting low-latency Rust services to crafting buttery-smooth Flutter animations, I care deeply about the experience behind every interaction. 🚀
 
-I'm an active contributor to the **Flutter Candies** ecosystem, building tools and libraries that empower thousands of developers worldwide. When I'm not coding, you'll find me exploring Web3 protocols, tinkering with AI-powered workflows, or diving into anime communities. 🎮
+As a core contributor to the **Flutter Candies** ecosystem, I help maintain tools that thousands of developers rely on daily. Beyond code, I'm drawn to the decentralized future of Web3, the creative potential of AI agents, and the vibrant world of anime communities. 🎮
 
 ## 🎯 What I Do
 
-- 🔧 **Backend Engineering** — High-performance services with Rust (Axum) and Java (Spring), microservices architecture
-- 📱 **Cross-Platform Apps** — Flutter & Dart for beautiful, native experiences on mobile and beyond
-- 🌐 **Frontend Craft** — React & Vue for responsive, modern web interfaces
-- 🤖 **AI Workflows** — Leveraging AI agents and code assistants for quality-focused development
-- ⛓️ **Web3 Exploration** — BTC, EVM, and Internet Computer protocols
-- 🧩 **Open Source** — Maintaining and contributing to developer tooling libraries
+- 🔧 **Backend Systems** — Rust (Axum) and Java (Spring) microservices built for scale and resilience
+- 📱 **Cross-Platform Apps** — Flutter & Dart delivering native-quality experiences across platforms
+- 🌐 **Modern Frontend** — React & Vue SPAs with clean state management and pixel-perfect UIs
+- 🤖 **AI-Powered Dev** — Integrating AI agents and assistants into quality-first development workflows
+- ⛓️ **Web3 Protocols** — Exploring BTC, EVM, and Internet Computer ecosystems
+- 🧩 **Open Source Tooling** — Creating developer utilities that simplify complex workflows
 
 ## 🛠️ Tech Stack
 
@@ -81,17 +81,17 @@ I'm an active contributor to the **Flutter Candies** ecosystem, building tools a
 
 ## 💭 Philosophy
 
-> 💡 梦里走了许多路，醒来还是没能走到是非之外...
-> — linkey2011
+> 💡 你们认为没有路，是因为没有学会不择手段。
 
-I write code with a product mindset — every line should serve the user. I value simplicity over cleverness, clarity over brevity, and shipping over perfection. The best tools are the ones that get out of your way and let you focus on what matters. 🧠
+I approach software with a product-first mindset — every function, every abstraction, every decision should serve the end user. I value simplicity over cleverness, readability over brevity, and shipping over over-engineering. The best developer tools are invisible: they dissolve complexity and let you focus on creating. 🧠
 
 ## 🏆 Highlights
 
-- 🎖️ Core contributor to **Flutter Candies** — a collective building essential Flutter libraries
-- 📦 Published multiple Dart/Flutter packages used across the ecosystem
-- 🌉 Building bridges between Rust performance and Dart developer experience
-- 🔍 Passionate about developer tooling — if it makes coding faster, I'm interested
+- 🎖️ Core contributor to **Flutter Candies** — building essential libraries for the Flutter ecosystem
+- 📦 Author of multiple Dart/Flutter packages powering apps across the community
+- 🌉 Bridging Rust's performance with Dart's developer experience through native tooling
+- 🔍 Driven by developer ergonomics — if it removes friction, I want to build it
+- 🎯 16 open source projects and counting, spanning frontend, backend, and tooling
 
 ## 🌱 Contribution Activity
 
