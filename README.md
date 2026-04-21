@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ iota9star
+# ⚡ iota9star
 
-**Full Stack Developer · Rust & Java Backend · Product Mindset** 👋
+**Full Stack Developer · Rust & Java Backend · Product Thinker** 🚀
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -10,18 +10,18 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a builder who lives at the crossroads of raw performance and thoughtful design. I treat every project as a product, not just code: from architecting low-latency Rust services to crafting buttery-smooth Flutter animations, I care deeply about the experience behind every interaction. 🚀
+Hey, I'm **iota9star** — a developer who believes great software is equal parts engineering and empathy. I architect high-performance Rust backends by day and craft pixel-perfect Flutter experiences by night, treating every commit as a product decision. ✨
 
-As a core contributor to the **Flutter Candies** ecosystem, I help maintain tools that thousands of developers rely on daily. Beyond code, I'm drawn to the decentralized future of Web3, the creative potential of AI agents, and the vibrant world of anime communities. 🎮
+As a core maintainer in the **Flutter Candies** ecosystem, I build tools that thousands of developers depend on daily. Off the keyboard, I'm deep into Web3 protocols, AI-powered workflows, and anime culture. I write code that removes friction — for myself and for everyone else. 🎯
 
 ## 🎯 What I Do
 
-- 🔧 **Backend Systems** — Rust (Axum) and Java (Spring) microservices built for scale and resilience
-- 📱 **Cross-Platform Apps** — Flutter & Dart delivering native-quality experiences across platforms
-- 🌐 **Modern Frontend** — React & Vue SPAs with clean state management and pixel-perfect UIs
-- 🤖 **AI-Powered Dev** — Integrating AI agents and assistants into quality-first development workflows
-- ⛓️ **Web3 Protocols** — Exploring BTC, EVM, and Internet Computer ecosystems
-- 🧩 **Open Source Tooling** — Creating developer utilities that simplify complex workflows
+- 🦀 **Backend Systems** — Rust (Axum) & Java (Spring) microservices designed for throughput and resilience
+- 📱 **Cross-Platform Apps** — Flutter & Dart apps with native-quality polish on every platform
+- 🌐 **Modern Frontend** — React & Vue SPAs with clean architecture and delightful UX
+- 🤖 **AI-Enhanced Dev** — Agents, assistants, and automated workflows that ship better code faster
+- ⛓️ **Web3 Exploration** — BTC, EVM, and Internet Computer ecosystems
+- 🧩 **Open Source Craft** — Developer tooling that turns complex problems into simple APIs
 
 ## 🛠️ Tech Stack
 
@@ -79,19 +79,25 @@ As a core contributor to the **Flutter Candies** ecosystem, I help maintain tool
 </tr>
 </table>
 
-## 💭 Philosophy
-
-> 💡 你们认为没有路，是因为没有学会不择手段。
-
-I approach software with a product-first mindset — every function, every abstraction, every decision should serve the end user. I value simplicity over cleverness, readability over brevity, and shipping over over-engineering. The best developer tools are invisible: they dissolve complexity and let you focus on creating. 🧠
-
 ## 🏆 Highlights
 
-- 🎖️ Core contributor to **Flutter Candies** — building essential libraries for the Flutter ecosystem
-- 📦 Author of multiple Dart/Flutter packages powering apps across the community
-- 🌉 Bridging Rust's performance with Dart's developer experience through native tooling
-- 🔍 Driven by developer ergonomics — if it removes friction, I want to build it
-- 🎯 16 open source projects and counting, spanning frontend, backend, and tooling
+- 🎖️ Core contributor to **Flutter Candies** — essential libraries powering the Flutter ecosystem
+- 📦 Author of Dart/Flutter packages used across the community — from layout engines to tooling
+- 🌉 Bridging Rust's zero-cost abstractions with Dart's developer ergonomics
+- 🔍 Obsessed with developer experience — if it removes friction, it ships
+- 🎯 16+ open source projects spanning backend, frontend, mobile, and devtools
+- 🧠 Exploring the intersection of AI agents and software engineering workflows
+
+## 💡 Quote
+
+> 📖 自由意志问题也可以被区分为浅问题和深问题。
+> — 自由意志的深问题及其知识论的解决方案
+
+## 💭 Philosophy
+
+I write software with a product-first lens — every abstraction exists to serve the user, not to impress the reviewer. I value simplicity over cleverness, shipping over perfecting, and empathy over ego. The best tools are invisible: they dissolve complexity so you can focus on what matters. 🧠
+
+In a world of over-engineering, I reach for the simplest thing that works — and refactor when the real requirements show up. The code I'm proudest of is the code nobody notices because it just works. 🌊
 
 ## 🌱 Contribution Activity
 
