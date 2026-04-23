@@ -1,29 +1,29 @@
 <div align="center">
 
-# 🌌 iota9star
+# ✨ iota9star
 
 **Full Stack Architect · Rust Enthusiast · Open Source Builder**
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-*Crafting high-performance backends and delightful cross-platform experiences*
+*Building high-performance systems and delightful developer experiences*
 
 </div>
 
 ## 👨‍💻 About Me
 
-Hey there! 👋 I'm **iota9star**, a developer who lives at the intersection of systems engineering and product design. By day I architect resilient microservices in Rust and Java; by night I craft Flutter apps and contribute to the open source community. 🦀
+Hey there! 👋 I'm **iota9star** — a developer who thrives at the crossroads of systems engineering and product craft. I architect resilient microservices in Rust 🦀 and Java by day, and build Flutter apps + open source tools by night.
 
-I'm a core maintainer in the **Flutter Candies** ecosystem 🍬, building developer tools and libraries that the community relies on every day. When I'm not coding, you'll find me exploring Web3 protocols, tinkering with AI-powered dev workflows, or hunting for the next great anime series. 🎬
+I'm a core maintainer in the **Flutter Candies** ecosystem 🍬 — a collection of developer-loved packages that power Flutter apps around the world. When I'm not shipping code, you'll catch me diving into Web3 protocols, experimenting with AI-powered dev workflows, or tracking down the next great anime series. 🎬🍿
 
 ## 🎯 What I'm Passionate About
 
-- 🦀 **Systems Programming** — Rust backends with Axum that handle millions of requests
-- 📱 **Flutter & Dart** — Cross-platform apps that feel truly native
-- 🌐 **Full-Stack Web** — React & Vue frontends backed by Spring and Node.js
-- 🤖 **AI x Engineering** — Building intelligent dev workflows with agents and automation
-- ⛓️ **Web3 Explorer** — BTC, EVM, and Internet Computer protocols
-- 🔧 **Developer Tooling** — Creating APIs that make complex things simple
+- 🦀 **Systems Programming** — Rust backends with Axum that handle millions of requests gracefully
+- 📱 **Flutter & Dart** — Cross-platform apps that feel truly native on every device
+- 🌐 **Full-Stack Web** — React & Vue frontends backed by Spring and Node.js services
+- 🤖 **AI x Engineering** — Intelligent dev workflows with agents, automation, and code assistants
+- ⛓️ **Web3 Explorer** — BTC, EVM, and Internet Computer protocol ecosystems
+- 🔧 **Developer Tooling** — APIs and libraries that make complex things delightfully simple
 
 ## 🛠️ Tech Arsenal
 
@@ -87,13 +87,13 @@ I'm a core maintainer in the **Flutter Candies** ecosystem 🍬, building develo
 - 📦 Published multiple Dart/Flutter packages: layout engines, routers, JSON tools, and more
 - 🦀 Bridging the gap between Rust's zero-cost performance and Dart's developer ergonomics
 - 🧠 Actively exploring how AI agents can transform software engineering workflows
-- 🎯 16+ open source repos spanning backend, mobile, web, and devtools
+- 🎯 16+ open source repos spanning backend, mobile, web, and developer tooling
 - 🔍 Fanatical about DX — if a tool removes friction, it's worth building
 
 ## 💡 Quote
 
-> 📖 以爱回应忠诚，以荣誉回应英勇，以复仇回应背叛
-> — Qihoo360
+> 📖 飒爽英姿闯江湖，诗酒茶话莫孤独。
+> — 飒
 
 ## 💭 My Approach
 
