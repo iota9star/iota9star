@@ -92,8 +92,10 @@ I'm a core maintainer in the **Flutter Candies** ecosystem 🍬 — a collection
 
 ## 💡 Quote
 
-> 📖 飒爽英姿闯江湖，诗酒茶话莫孤独。
-> — 飒
+> 🌙 *我们要一直往上爬，总有一天抵达月亮吧。*
+> — 千都，《少女终末旅行》
+>
+> *"Let's keep climbing up. Someday we'll reach the moon."*
 
 ## 💭 My Approach
 
