@@ -1,31 +1,31 @@
 <div align="center">
 
-# ✨ iota9star
+# 🌌 iota9star
 
-**Full Stack Architect · Rust Enthusiast · Open Source Builder**
+**Full Stack Architect · Rust Believer · Open Source Artisan**
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-*Building high-performance systems and delightful developer experiences*
+*Crafting high-performance systems and developer tools that feel effortless*
 
 </div>
 
 ## 👨‍💻 About Me
 
-Hey there! 👋 I'm **iota9star** — a developer who thrives at the crossroads of systems engineering and product craft. I architect resilient microservices in Rust 🦀 and Java by day, and build Flutter apps + open source tools by night.
+Hey! 👋 I'm **iota9star** — a full-stack developer who lives where systems engineering meets product thinking. I build resilient backends in Rust 🦀 and Java, create Flutter apps loved by thousands, and maintain core packages in the **Flutter Candies** ecosystem 🍬.
 
-I'm a core maintainer in the **Flutter Candies** ecosystem 🍬 — a collection of developer-loved packages that power Flutter apps around the world. When I'm not shipping code, you'll catch me diving into Web3 protocols, experimenting with AI-powered dev workflows, or tracking down the next great anime series. 🎬🍿
+When I'm not writing code, you'll find me exploring Web3 protocols 🪙, tinkering with AI-powered dev workflows 🤖, or hunting down the next must-watch anime. I believe the best software is the kind you don't notice — it just works. 🌊
 
-## 🎯 What I'm Passionate About
+## 🎯 What I Do
 
-- 🦀 **Systems Programming** — Rust backends with Axum that handle millions of requests gracefully
-- 📱 **Flutter & Dart** — Cross-platform apps that feel truly native on every device
-- 🌐 **Full-Stack Web** — React & Vue frontends backed by Spring and Node.js services
-- 🤖 **AI x Engineering** — Intelligent dev workflows with agents, automation, and code assistants
-- ⛓️ **Web3 Explorer** — BTC, EVM, and Internet Computer protocol ecosystems
-- 🔧 **Developer Tooling** — APIs and libraries that make complex things delightfully simple
+- 🦀 **Rust & Systems** — High-throughput backends with Axum, zero-cost abstractions, fearless concurrency
+- ☕ **Java & Spring** — Enterprise-grade microservices that actually stay up
+- 📱 **Flutter & Dart** — Cross-platform apps with native feel and buttery animations
+- 🌐 **Full-Stack Web** — React & Vue frontends wired to Node.js and Spring services
+- 🤖 **AI-Powered DX** — Agents, code assistants, and automated workflows that multiply productivity
+- ⛓️ **Web3** — BTC, EVM, and Internet Computer protocol exploration
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 **Languages**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -34,7 +34,7 @@ I'm a core maintainer in the **Flutter Candies** ecosystem 🍬 — a collection
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend & Infrastructure**
+**Backend**
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -45,7 +45,7 @@ I'm a core maintainer in the **Flutter Candies** ecosystem 🍬 — a collection
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-## 📊 GitHub in Numbers
+## 📊 GitHub Stats
 
 ![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
 
@@ -83,23 +83,23 @@ I'm a core maintainer in the **Flutter Candies** ecosystem 🍬 — a collection
 
 ## 🏆 Highlights
 
-- 🎖️ Core maintainer of **Flutter Candies** — essential packages powering Flutter apps worldwide
-- 📦 Published multiple Dart/Flutter packages: layout engines, routers, JSON tools, and more
-- 🦀 Bridging the gap between Rust's zero-cost performance and Dart's developer ergonomics
-- 🧠 Actively exploring how AI agents can transform software engineering workflows
-- 🎯 16+ open source repos spanning backend, mobile, web, and developer tooling
-- 🔍 Fanatical about DX — if a tool removes friction, it's worth building
+- 🎖️ Core maintainer of **Flutter Candies** — packages powering Flutter apps across the globe
+- 📦 Published Dart/Flutter packages spanning layout engines, routers, JSON tooling, and more
+- 🦀 Bridging Rust's raw performance with Dart's developer ergonomics through native bindings
+- 🧠 Actively exploring how AI agents reshape the way we build and ship software
+- 🔍 Obsessed with DX — if a tool removes friction, it deserves to exist
+- 🎯 16+ open source repos across backend, mobile, web, and developer tooling
 
 ## 💡 Quote
 
-> 🌙 *我们要一直往上爬，总有一天抵达月亮吧。*
-> — 千都，《少女终末旅行》
+> ⚔️ *站在向阳处必能成就英雄，站在背阴处亦可引导灾祸……*
+> — 原神
 >
-> *"Let's keep climbing up. Someday we'll reach the moon."*
+> *"Standing in the light, one may become a hero; standing in the shadows, one may guide calamity…"*
 
-## 💭 My Approach
+## 💭 Philosophy
 
-I believe great code is **invisible** ✨ — it gets out of the way and lets people focus on what matters. I reach for simplicity over cleverness, shipping over perfecting, and empathy over ego. Every abstraction I write exists to serve the user, not to impress the next reader. 🧠
+I believe great code is **invisible** ✨ — it gets out of the way and lets people focus on what matters. I choose simplicity over cleverness, shipping over perfecting, and empathy over ego. Every abstraction I write exists to serve the user, not to impress the next reader. 🧠
 
 In a world that loves over-engineering, I ship the simplest thing that works — and refactor when reality tells me what it actually needs. The code I'm proudest of? The code nobody notices, because it just works. 🌊
 
