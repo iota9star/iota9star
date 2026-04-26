@@ -1,29 +1,29 @@
 <div align="center">
 
-# 🌌 iota9star
+# ✦ iota9star
 
-**Full Stack Architect · Rust Believer · Open Source Artisan**
+**Full-Stack Architect · Rust Purist · Open Source Contributor**
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-*Crafting high-performance systems and developer tools that feel effortless*
+*Building systems that are fast, reliable, and a joy to use*
 
 </div>
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-Hey! 👋 I'm **iota9star** — a full-stack developer who lives where systems engineering meets product thinking. I build resilient backends in Rust 🦀 and Java, create Flutter apps loved by thousands, and maintain core packages in the **Flutter Candies** ecosystem 🍬.
+Hey there 👋 I'm **iota9star** — a developer who thrives at the intersection of systems engineering and product craft. By day I architect resilient backends in Rust 🦀 and Java ☕; by night I ship Flutter apps, maintain packages in the **Flutter Candies** ecosystem 🍬, and dive deep into Web3 protocols and AI-powered developer tools 🤖.
 
-When I'm not writing code, you'll find me exploring Web3 protocols 🪙, tinkering with AI-powered dev workflows 🤖, or hunting down the next must-watch anime. I believe the best software is the kind you don't notice — it just works. 🌊
+I'm also a huge anime fan — some of my open source projects were born from scratch-my-own-itch needs in the anime community. I believe the best software feels like magic: invisible, reliable, and effortless. 🌊
 
-## 🎯 What I Do
+## 🎯 Focus Areas
 
-- 🦀 **Rust & Systems** — High-throughput backends with Axum, zero-cost abstractions, fearless concurrency
-- ☕ **Java & Spring** — Enterprise-grade microservices that actually stay up
-- 📱 **Flutter & Dart** — Cross-platform apps with native feel and buttery animations
-- 🌐 **Full-Stack Web** — React & Vue frontends wired to Node.js and Spring services
-- 🤖 **AI-Powered DX** — Agents, code assistants, and automated workflows that multiply productivity
-- ⛓️ **Web3** — BTC, EVM, and Internet Computer protocol exploration
+🦀 **Rust & Systems** — High-throughput backends with Axum, zero-cost abstractions, fearless concurrency
+☕ **Java & Spring** — Production-grade microservices built to survive real traffic
+📱 **Flutter & Dart** — Cross-platform apps with native polish and smooth animations
+🌐 **Full-Stack Web** — React & Vue frontends backed by Node.js and Spring
+🤖 **AI & DX** — Agents, code assistants, and automated workflows that 10x productivity
+⛓️ **Web3 Explorer** — BTC, EVM, Internet Computer — exploring what decentralization enables
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +34,7 @@ When I'm not writing code, you'll find me exploring Web3 protocols 🪙, tinkeri
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend**
+**Backend & Infrastructure**
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -47,9 +47,9 @@ When I'm not writing code, you'll find me exploring Web3 protocols 🪙, tinkeri
 
 ## 📊 GitHub Stats
 
-![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+<img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="iota9star's GitHub stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
 
 ## 🔥 Featured Projects
 
@@ -83,25 +83,25 @@ When I'm not writing code, you'll find me exploring Web3 protocols 🪙, tinkeri
 
 ## 🏆 Highlights
 
-- 🎖️ Core maintainer of **Flutter Candies** — packages powering Flutter apps across the globe
-- 📦 Published Dart/Flutter packages spanning layout engines, routers, JSON tooling, and more
-- 🦀 Bridging Rust's raw performance with Dart's developer ergonomics through native bindings
-- 🧠 Actively exploring how AI agents reshape the way we build and ship software
-- 🔍 Obsessed with DX — if a tool removes friction, it deserves to exist
-- 🎯 16+ open source repos across backend, mobile, web, and developer tooling
+🎖️ Core maintainer of **Flutter Candies** — packages powering Flutter apps worldwide
+📦 Dart/Flutter packages spanning layout engines, routers, JSON tooling, and reactive signals
+🦀 Bridging Rust's raw performance with Dart's ergonomics via native bindings
+🧠 Exploring how AI agents reshape software construction and developer workflows
+🔍 Relentless about DX — if a tool removes friction, it deserves to exist
+🎯 16+ open source repos across backend, mobile, web, and developer tooling
 
 ## 💡 Quote
 
-> ⚔️ *站在向阳处必能成就英雄，站在背阴处亦可引导灾祸……*
-> — 原神
+> 🌙 *或许是不知梦的缘故，流离之人追逐幻影。*
+> — 龙族
 >
-> *"Standing in the light, one may become a hero; standing in the shadows, one may guide calamity…"*
+> *"Perhaps because they know not the cause of their dreams, the displaced chase after phantoms."*
 
 ## 💭 Philosophy
 
-I believe great code is **invisible** ✨ — it gets out of the way and lets people focus on what matters. I choose simplicity over cleverness, shipping over perfecting, and empathy over ego. Every abstraction I write exists to serve the user, not to impress the next reader. 🧠
+Great code is **invisible** ✨ — it disappears behind the experience it creates. I choose simplicity over cleverness, shipping over perfecting, and empathy over ego. Every abstraction I write exists to serve the user, not to impress the next reader.
 
-In a world that loves over-engineering, I ship the simplest thing that works — and refactor when reality tells me what it actually needs. The code I'm proudest of? The code nobody notices, because it just works. 🌊
+In a world addicted to over-engineering, I ship the simplest thing that works — and refactor when reality tells me what it actually needs. The code I'm proudest of? The code nobody notices. 🌊
 
 ## 🌱 Contribution Activity
 
@@ -115,5 +115,5 @@ In a world that loves over-engineering, I ship the simplest thing that works —
 [![GitHub](https://img.shields.io/badge/GitHub-iota9star-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iota9star)
 
 <div align="center">
-<sub>Built with ☕ and curiosity · Profile crafted with ❤️</sub>
+<sub>Crafted with ☕ curiosity and a dash of 🦀 — thanks for stopping by ✦</sub>
 </div>
