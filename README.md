@@ -18,12 +18,12 @@ I'm also a big anime fan — some of my most popular open source projects starte
 
 ## 🎯 What I Do
 
-🦀 **Rust Systems** — High-throughput backends with Axum, zero-cost abstractions, and fearless concurrency
-☕ **Java Microservices** — Production-grade Spring services built for real-world traffic
-📱 **Flutter & Dart** — Cross-platform apps with buttery-smooth animations and native feel
-🌐 **Full-Stack Web** — React and Vue frontends backed by Node.js and Spring
-🤖 **AI Workflows** — Agents, code assistants, and automation that amplify developer productivity
-⛓️ **Web3 Explorer** — BTC, EVM, Internet Computer — decoding the decentralized future
+- 🦀 **Rust Systems** — High-throughput backends with Axum, zero-cost abstractions, and fearless concurrency
+- ☕ **Java Microservices** — Production-grade Spring services built for real-world traffic
+- 📱 **Flutter & Dart** — Cross-platform apps with buttery-smooth animations and native feel
+- 🌐 **Full-Stack Web** — React and Vue frontends backed by Node.js and Spring
+- 🤖 **AI Workflows** — Agents, code assistants, and automation that amplify developer productivity
+- ⛓️ **Web3 Explorer** — BTC, EVM, Internet Computer — decoding the decentralized future
 
 ## 🛠️ Tech Stack
 
@@ -43,18 +43,25 @@ I'm also a big anime fan — some of my most popular open source projects starte
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
 **AI & Web3**
 ![OpenAI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Quick Stats
 
+<div align="center">
+<img src="https://img.shields.io/badge/Public_Repos-99-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Followers-281-ff69b4?style=flat-square" />
+<img src="https://img.shields.io/badge/Maintaining-Flutter_Candies_📦-orange?style=flat-square" />
+</div>
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="iota9star's GitHub stats" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</div>
 
 ## 🔥 Featured Projects
 
@@ -88,16 +95,19 @@ I'm also a big anime fan — some of my most popular open source projects starte
 
 ## 🏆 Highlights
 
-🎖️ Core maintainer at **Flutter Candies** — packages powering Flutter apps around the globe
-📦 16+ open source repos spanning layout engines, routers, JSON tooling, and reactive signals
-🦀 Bridging Rust's raw performance with Dart's developer ergonomics via native bindings
-🧠 Exploring how AI agents and assistants are reshaping the way we build software
-🔍 Obsessed with DX — if a tool removes friction from the workflow, it deserves to exist
-🎯 From backend infra to mobile UI — shipping across the entire stack
+- 🎖️ Core maintainer at **Flutter Candies** — packages powering Flutter apps around the globe
+- 📦 16+ open source repos spanning layout engines, routers, JSON tooling, and reactive signals
+- 🦀 Bridging Rust's raw performance with Dart's developer ergonomics via native bindings
+- 🧠 Exploring how AI agents and assistants are reshaping the way we build software
+- 🔍 Obsessed with DX — if a tool removes friction from the workflow, it deserves to exist
+- 🎯 From backend infra to mobile UI — shipping across the entire stack
 
 ## 💡 Quote
 
-> *"The best code is the code nobody notices — it just works."* ✨
+> 📜 *人生艰难。这是一条伟大的真理，是最伟大的真理之一。*
+> *—— 心灵成长：一条人迹罕至的路*
+>
+> Life is difficult. That's a great truth — one of the greatest. Embrace the struggle, ship the code, and keep building 🚀
 
 ## 💭 Philosophy
 
@@ -107,7 +117,9 @@ Every abstraction I write exists to serve the user, not to impress the next read
 
 ## 🌱 Contribution Activity
 
-![](profile-3d-contrib/profile-season-animate.svg)
+<div align="center">
+<img width="100%" src="profile-3d-contrib/profile-season-animate.svg" />
+</div>
 
 ## 📧 Let's Connect
 
