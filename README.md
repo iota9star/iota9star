@@ -12,9 +12,9 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **iota9star** — a developer who lives where systems engineering meets product design 🎯. I spend my days building resilient backends in Rust 🦀 and Java ☕, my evenings shipping Flutter apps and maintaining packages in the **Flutter Candies** ecosystem 🍬, and my weekends exploring Web3 protocols and AI-powered dev tools 🤖.
+Hey! I'm **iota9star** — a developer who lives at the intersection of systems engineering and product design 🎯. My days are spent building resilient backends in Rust 🦀 and Java ☕, my evenings shipping Flutter apps and maintaining packages in the **Flutter Candies** ecosystem 🍬, and my weekends exploring Web3 protocols and AI-powered dev tools 🤖.
 
-I'm also a big anime fan — some of my most popular open source projects started as personal tools for the anime community. I believe great software should feel like magic: invisible infrastructure powering delightful experiences ✨
+I'm also a big anime fan — some of my most popular open source projects started as personal tools for the anime community 🎌. I believe great software should feel like magic: invisible infrastructure powering delightful experiences ✨
 
 ## 🎯 What I Do
 
@@ -95,7 +95,7 @@ I'm also a big anime fan — some of my most popular open source projects starte
 
 ## 🏆 Highlights
 
-- 🎖️ Core maintainer at **Flutter Candies** — packages powering Flutter apps around the globe
+- 🎖️ Core maintainer at **Flutter Candies** — packages powering Flutter apps worldwide
 - 📦 16+ open source repos spanning layout engines, routers, JSON tooling, and reactive signals
 - 🦀 Bridging Rust's raw performance with Dart's developer ergonomics via native bindings
 - 🧠 Exploring how AI agents and assistants are reshaping the way we build software
@@ -104,14 +104,14 @@ I'm also a big anime fan — some of my most popular open source projects starte
 
 ## 💡 Quote
 
-> 📜 *人生艰难。这是一条伟大的真理，是最伟大的真理之一。*
-> *—— 心灵成长：一条人迹罕至的路*
+> 📜 *须知政权是由枪杆子中取得的。*
+> *—— 八七会议报告*
 >
-> Life is difficult. That's a great truth — one of the greatest. Embrace the struggle, ship the code, and keep building 🚀
+> Political power grows from the barrel of a gun — and great software grows from the courage to ship 🚀
 
 ## 💭 Philosophy
 
-I choose **simplicity over cleverness**, shipping over perfecting, and empathy over ego 🌊. In a world addicted to over-engineering, I ship the simplest thing that works — and refactor when reality tells me what it actually needs.
+I choose **simplicity over cleverness**, shipping over perfecting, and empathy over ego 🌊. In a world addicted to over-engineering, I build the simplest thing that works — and refactor when reality tells me what it actually needs.
 
 Every abstraction I write exists to serve the user, not to impress the next reader. The code I'm proudest of? The code that disappears behind the experience it creates 🎨
 
