@@ -104,10 +104,10 @@ I'm also a big anime fan — some of my most popular open source projects starte
 
 ## 💡 Quote
 
-> 📜 *须知政权是由枪杆子中取得的。*
-> *—— 八七会议报告*
+> 📜 *欲买桂花同载酒，荒泷天下第一斗。*
+> *—— 原神*
 >
-> Political power grows from the barrel of a gun — and great software grows from the courage to ship 🚀
+> Every great developer was once a beginner who refused to quit 🌟
 
 ## 💭 Philosophy
 
