@@ -2,7 +2,7 @@
 
 # 🌌 iota9star
 
-**Systems Thinker · Rust Craftsman · Flutter Ecosystem Builder**
+**Full Stack Developer · Rust Craftsman · Flutter Ecosystem Builder**
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there, I'm **iota9star** — a full-stack developer who believes the best code is the kind users never notice 🪄. By day I architect high-throughput backends in Rust 🦀 and battle-tested Java services ☕. By night I'm shipping Flutter packages through the **Flutter Candies** collective 🍬, tinkering with Web3 protocols ⛓️, and pushing the boundaries of AI-assisted development 🤖.
+Hey there, I'm **iota9star** — a full-stack developer who believes the best code is the kind users never notice 🪄. By day I architect high-throughput backends in Rust 🦀 and battle-tested Java services ☕. By night I'm shipping Flutter packages through the **FlutterCandies** collective 🍬, tinkering with Web3 protocols ⛓️, and pushing the boundaries of AI-assisted development 🤖.
 
 I got my start building tools for the anime community — some of my most-starred projects were born from scratching my own itch 🎌. These days I'm equally excited about zero-cost abstractions and pixel-perfect animations. I think great engineering is like great design: when it's done right, nobody should have to think about it ✨
 
@@ -20,7 +20,7 @@ I got my start building tools for the anime community — some of my most-starre
 
 - 🦀 **Rust Powerhouses** — Axum-based services that handle traffic like it's nothing, with compile-time guarantees and fearless concurrency
 - ☕ **Battle-Tested JVM** — Spring microservices engineered for reliability at scale, from database to API gateway
-- 📱 **Flutter & Dart** — Cross-platform experiences with native polish; maintaining 12+ packages in Flutter Candies
+- 📱 **Flutter & Dart** — Cross-platform experiences with native polish; maintaining 12+ packages in FlutterCandies
 - 🌐 **Full-Stack Web** — React and Vue SPAs powered by Node.js and Spring, end-to-end ownership
 - 🤖 **AI-First Workflows** — Building with agents, code assistants, and automation that 10x developer velocity
 - ⛓️ **Web3 Tinkerer** — Exploring BTC, EVM, and Internet Computer — connecting the decentralized dots
@@ -53,9 +53,9 @@ I got my start building tools for the anime community — some of my most-starre
 ## 📊 By the Numbers
 
 <div align="center">
-<img src="https://img.shields.io/badge/Public_Repos-99-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Followers-281-ff69b4?style=flat-square" />
-<img src="https://img.shields.io/badge/Org-Flutter_Candies_🍬-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Public_Repos-100-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Followers-282-ff69b4?style=flat-square" />
+<img src="https://img.shields.io/badge/Org-FlutterCandies_🍬-orange?style=flat-square" />
 </div>
 
 <div align="center">
@@ -95,7 +95,7 @@ I got my start building tools for the anime community — some of my most-starre
 
 ## 🏆 Highlights
 
-- 🎖️ Core maintainer at **Flutter Candies** — empowering Flutter devs worldwide with production-ready packages
+- 🎖️ Core maintainer at **FlutterCandies** — empowering Flutter devs worldwide with production-ready packages
 - 📦 16+ open source repos covering reactive signals, layout engines, routing, JSON tooling, and native Rust bindings
 - 🦀 Bridging Rust's systems-level performance with Dart's elegant ergonomics through FFI and native integrations
 - 🧠 Early adopter of AI-powered dev workflows — exploring how agents reshape the craft of building software
@@ -104,8 +104,8 @@ I got my start building tools for the anime community — some of my most-starre
 
 ## 💡 Quote
 
-> 📜 *王只有一个！那就是我！*
-> *—— 游戏王5DS*
+> 🍃 *人类充满了谎言，我又怎能独善其身*
+> *—— 流光印记*
 >
 > Code is like humor. When you have to explain it, it's bad 😄
 
