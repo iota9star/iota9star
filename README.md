@@ -1,31 +1,31 @@
 <div align="center">
 
-# 🌌 iota9star
+# ✨ iota9star
 
-**Full Stack Developer · Rust Craftsman · Flutter Ecosystem Builder**
+**Full Stack Developer · Rust Artisan · Flutter Ecosystem Builder**
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-*Where raw performance meets delightful UX*
+*Building software that's fast where it matters, beautiful where it counts*
 
 </div>
 
 ## 👨‍💻 About Me
 
-Hey there, I'm **iota9star** — a full-stack developer who believes the best code is the kind users never notice 🪄. By day I architect high-throughput backends in Rust 🦀 and battle-tested Java services ☕. By night I'm shipping Flutter packages through the **FlutterCandies** collective 🍬, tinkering with Web3 protocols ⛓️, and pushing the boundaries of AI-assisted development 🤖.
+Hey, I'm **iota9star** — a developer who lives at the intersection of performance and polish 🎯. I spend my days crafting high-throughput Rust services 🦀 and resilient Java microservices ☕, and my evenings shipping Dart/Flutter packages through the **FlutterCandies** collective 🍬.
 
-I got my start building tools for the anime community — some of my most-starred projects were born from scratching my own itch 🎌. These days I'm equally excited about zero-cost abstractions and pixel-perfect animations. I think great engineering is like great design: when it's done right, nobody should have to think about it ✨
+My journey started in the anime community — building tools to scratch my own itch turned into some of my most popular open source projects 🎌. Now I'm deep into AI-assisted development 🤖, Web3 protocols ⛓️, and making the developer experience delightful for everyone. I believe the best technology is invisible — users should feel the magic, not the machinery 🪄
 
 ## 🎯 What I Build
 
-- 🦀 **Rust Powerhouses** — Axum-based services that handle traffic like it's nothing, with compile-time guarantees and fearless concurrency
-- ☕ **Battle-Tested JVM** — Spring microservices engineered for reliability at scale, from database to API gateway
-- 📱 **Flutter & Dart** — Cross-platform experiences with native polish; maintaining 12+ packages in FlutterCandies
-- 🌐 **Full-Stack Web** — React and Vue SPAs powered by Node.js and Spring, end-to-end ownership
-- 🤖 **AI-First Workflows** — Building with agents, code assistants, and automation that 10x developer velocity
-- ⛓️ **Web3 Tinkerer** — Exploring BTC, EVM, and Internet Computer — connecting the decentralized dots
+- 🦀 **High-Performance Rust** — Axum services with zero-cost abstractions, fearless concurrency, and compile-time safety nets
+- ☕ **Enterprise JVM** — Spring Boot microservices built for real traffic, real scale, and real reliability
+- 📱 **Flutter & Dart Ecosystem** — 12+ packages in FlutterCandies, from reactive signals to layout engines
+- 🌐 **Full-Stack Web** — React & Vue frontends backed by Node.js or Spring, shipped end-to-end
+- 🤖 **AI-Powered Dev Tools** — Agents, assistants, and automation that multiply what one developer can do
+- ⛓️ **Web3 Explorer** — BTC, EVM, Internet Computer — decoding the decentralized future
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 **Languages**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -53,7 +53,7 @@ I got my start building tools for the anime community — some of my most-starre
 ## 📊 By the Numbers
 
 <div align="center">
-<img src="https://img.shields.io/badge/Public_Repos-100-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Public_Repos-100+-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Followers-282-ff69b4?style=flat-square" />
 <img src="https://img.shields.io/badge/Org-FlutterCandies_🍬-orange?style=flat-square" />
 </div>
@@ -95,25 +95,25 @@ I got my start building tools for the anime community — some of my most-starre
 
 ## 🏆 Highlights
 
-- 🎖️ Core maintainer at **FlutterCandies** — empowering Flutter devs worldwide with production-ready packages
-- 📦 16+ open source repos covering reactive signals, layout engines, routing, JSON tooling, and native Rust bindings
-- 🦀 Bridging Rust's systems-level performance with Dart's elegant ergonomics through FFI and native integrations
-- 🧠 Early adopter of AI-powered dev workflows — exploring how agents reshape the craft of building software
-- 🎌 Built beloved tools for the anime community that grew into popular open source projects
-- 🔍 Relentlessly focused on developer experience — if it removes friction, it ships
+- 🎖️ Core maintainer at **FlutterCandies** — shipping production-grade Flutter packages used by thousands of developers
+- 📦 16+ open source projects spanning reactive state, layout systems, routing, JSON tooling, and Rust-Dart FFI bridges
+- 🦀 Connecting Rust's bare-metal speed with Dart's developer-friendly ergonomics through native integrations
+- 🧠 Exploring how AI agents and code assistants are reshaping the way we write and think about software
+- 🎌 Turned personal anime community tools into widely-adopted open source libraries
+- 🔍 Obsessed with developer experience — if it saves someone five minutes, it's worth building
 
 ## 💡 Quote
 
-> 🍃 *人类充满了谎言，我又怎能独善其身*
-> *—— 流光印记*
+> 🍃 *如果你不能给她穿上嫁衣，请停下脱她衣服的手*
+> *—— 网络*
 >
-> Code is like humor. When you have to explain it, it's bad 😄
+> First, solve the problem. Then, write the code 💻
 
 ## 💭 Philosophy
 
-I believe in **shipping over perfecting**, simplicity over cleverness, and empathy over ego 🌊. The world has enough over-engineered systems — I'd rather build the simplest thing that works and let reality tell me what to refactor.
+I ship early, simplify relentlessly, and let users guide the refactoring 🌊. The world doesn't need more clever abstractions — it needs tools that work so well they become invisible 🎨.
 
-The code I'm most proud of is the code that disappears behind the experience it creates 🎨. Every abstraction I write serves the user, not my ego. And if a weekend side project makes even one developer's life easier, that's a win worth celebrating 🏅
+My favorite code is the code nobody notices. Every function, every module, every system I build exists to serve the experience, not to show off the engineering. And if a weekend hack makes one developer smile, that's worth more than any architecture award 🏅
 
 ## 🌱 Contribution Garden
 
@@ -129,5 +129,5 @@ The code I'm most proud of is the code that disappears behind the experience it 
 [![GitHub](https://img.shields.io/badge/GitHub-iota9star-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iota9star)
 
 <div align="center">
-<sub>Crafted with ☕ caffeine, 🦀 Rust, and an unreasonable love for clean abstractions ⚡</sub>
+<sub>Built with ☕ coffee, 🦀 Rust, and a stubborn belief that DX matters ⚡</sub>
 </div>
