@@ -104,10 +104,11 @@ My journey started in the anime community — building tools to scratch my own i
 
 ## 💡 Quote
 
-> 🍃 *如果你不能给她穿上嫁衣，请停下脱她衣服的手*
-> *—— 网络*
+> 🍃 *后天的努力很重要，所以今天和明天先睡觉。*
+> *—— 网络* 😴
 >
-> First, solve the problem. Then, write the code 💻
+> *"The day after tomorrow's effort is crucial — so today and tomorrow, rest well first."*
+> A reminder that sustainable pacing beats burnout every time 💡
 
 ## 💭 Philosophy
 
