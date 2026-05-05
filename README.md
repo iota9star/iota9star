@@ -1,29 +1,29 @@
 <div align="center">
 
-# ✨ iota9star
+# ⚡ iota9star
 
-**Full Stack Developer · Rust Artisan · Flutter Ecosystem Builder**
+**Rust Artisan · Flutter Ecosystem Builder · Full Stack Engineer**
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-*Building software that's fast where it matters, beautiful where it counts*
+*"Code is poetry — compile it well"* 🚀
 
 </div>
 
 ## 👨‍💻 About Me
 
-Hey, I'm **iota9star** — a developer who lives at the intersection of performance and polish 🎯. I spend my days crafting high-throughput Rust services 🦀 and resilient Java microservices ☕, and my evenings shipping Dart/Flutter packages through the **FlutterCandies** collective 🍬.
+Hey there! I'm **iota9star** — a developer who believes great software feels like magic 🪄. By day I architect high-throughput Rust services 🦀 and battle-tested Java microservices ☕. By night I'm shipping Dart packages through the **FlutterCandies** collective 🍬, tinkering with AI agents 🤖, and exploring decentralized protocols ⛓️.
 
-My journey started in the anime community — building tools to scratch my own itch turned into some of my most popular open source projects 🎌. Now I'm deep into AI-assisted development 🤖, Web3 protocols ⛓️, and making the developer experience delightful for everyone. I believe the best technology is invisible — users should feel the magic, not the machinery 🪄
+My coding roots trace back to the anime community 🎌 — tools I built to scratch my own itch evolved into open source projects used by thousands. These days I'm fascinated by the intersection of AI and developer experience, convinced that the best tools are the ones you forget you're using 🎯
 
 ## 🎯 What I Build
 
-- 🦀 **High-Performance Rust** — Axum services with zero-cost abstractions, fearless concurrency, and compile-time safety nets
-- ☕ **Enterprise JVM** — Spring Boot microservices built for real traffic, real scale, and real reliability
-- 📱 **Flutter & Dart Ecosystem** — 12+ packages in FlutterCandies, from reactive signals to layout engines
-- 🌐 **Full-Stack Web** — React & Vue frontends backed by Node.js or Spring, shipped end-to-end
-- 🤖 **AI-Powered Dev Tools** — Agents, assistants, and automation that multiply what one developer can do
-- ⛓️ **Web3 Explorer** — BTC, EVM, Internet Computer — decoding the decentralized future
+- 🦀 **Rust Microservices** — Axum-powered backends with zero-cost abstractions and fearless concurrency
+- ☕ **JVM at Scale** — Spring Boot microservices that handle real production traffic with grace
+- 📱 **Flutter & Dart Packages** — 12+ open source packages from reactive signals to flexbox layout engines
+- 🌐 **Full-Stack Experiences** — React & Vue frontends wired to robust backends, end-to-end delivery
+- 🤖 **AI Dev Workflows** — Agents, assistants, and automation that amplify what one developer can achieve
+- ⛓️ **Web3 Protocols** — BTC, EVM, Internet Computer — bridging the gap between theory and working code
 
 ## 🛠️ Tech Stack
 
@@ -95,26 +95,26 @@ My journey started in the anime community — building tools to scratch my own i
 
 ## 🏆 Highlights
 
-- 🎖️ Core maintainer at **FlutterCandies** — shipping production-grade Flutter packages used by thousands of developers
-- 📦 16+ open source projects spanning reactive state, layout systems, routing, JSON tooling, and Rust-Dart FFI bridges
-- 🦀 Connecting Rust's bare-metal speed with Dart's developer-friendly ergonomics through native integrations
-- 🧠 Exploring how AI agents and code assistants are reshaping the way we write and think about software
-- 🎌 Turned personal anime community tools into widely-adopted open source libraries
-- 🔍 Obsessed with developer experience — if it saves someone five minutes, it's worth building
+- 🎖️ Core maintainer at **FlutterCandies** — production-grade packages powering thousands of Flutter apps worldwide
+- 📦 16+ open source projects spanning reactive state management, layout systems, routing, JSON tooling, and Rust-Dart FFI bridges
+- 🦀 Bridging Rust's bare-metal performance with Dart's ergonomic developer experience through native integrations
+- 🧠 Active explorer of AI-assisted development — agents, code assistants, and the future of how we write software
+- 🎌 Community-first approach: tools born from real needs, refined by real users
+- 🔍 DX obsessive — if a tool saves someone five minutes, it deserves to exist
 
 ## 💡 Quote
 
-> 🍃 *后天的努力很重要，所以今天和明天先睡觉。*
-> *—— 网络* 😴
+> 🍃 *遵从剧本获取既定结局，突破剧本付出相应代价。*
+> *—— 做魚玉子燒* ✨
 >
-> *"The day after tomorrow's effort is crucial — so today and tomorrow, rest well first."*
-> A reminder that sustainable pacing beats burnout every time 💡
+> *"Follow the script and reach the predetermined ending — break the script and pay the price."*
+> A reminder that writing your own rules takes courage, but the view from off-script is always better 💡
 
 ## 💭 Philosophy
 
-I ship early, simplify relentlessly, and let users guide the refactoring 🌊. The world doesn't need more clever abstractions — it needs tools that work so well they become invisible 🎨.
+Ship early. Simplify relentlessly. Let users guide the refactoring 🌊. The world doesn't need more clever abstractions — it needs tools that work so naturally they become invisible 🎨.
 
-My favorite code is the code nobody notices. Every function, every module, every system I build exists to serve the experience, not to show off the engineering. And if a weekend hack makes one developer smile, that's worth more than any architecture award 🏅
+My favorite code is the code nobody notices. Every function, every module, every system I build exists to serve the experience, not to showcase the engineering 🏅 And if a weekend hack makes one developer smile — that's the best architecture award there is.
 
 ## 🌱 Contribution Garden
 
