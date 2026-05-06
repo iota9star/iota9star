@@ -6,24 +6,26 @@
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-*"Code is poetry — compile it well"* 🚀
+*"须晴日，看红装素裹，分外妖娆。"* 🌅
 
 </div>
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a developer who believes great software feels like magic 🪄. By day I architect high-throughput Rust services 🦀 and battle-tested Java microservices ☕. By night I'm shipping Dart packages through the **FlutterCandies** collective 🍬, tinkering with AI agents 🤖, and exploring decentralized protocols ⛓️.
+Hey there! I'm **iota9star** — a developer who lives at the intersection of performance and elegance 🎯. I architect Rust services that hum at wire speed 🦀, craft Java microservices that never flinch under load ☕, and ship Dart packages through the **FlutterCandies** collective 🍬 that thousands of developers rely on daily.
 
-My coding roots trace back to the anime community 🎌 — tools I built to scratch my own itch evolved into open source projects used by thousands. These days I'm fascinated by the intersection of AI and developer experience, convinced that the best tools are the ones you forget you're using 🎯
+My journey started in the anime community 🎌 — building tools to scratch my own itch, which grew into open source projects with real users. Somewhere along the way I fell down the AI rabbit hole 🤖 and started exploring how intelligent agents can amplify what one developer can accomplish. I also dabble in Web3 ⛓️ because decentralization fascinates me as a model for trustless cooperation.
+
+When I'm not coding, I'm probably thinking about coding — or finding new ways to make developer tools disappear into the workflow so you can focus on what matters 🪄
 
 ## 🎯 What I Build
 
-- 🦀 **Rust Microservices** — Axum-powered backends with zero-cost abstractions and fearless concurrency
-- ☕ **JVM at Scale** — Spring Boot microservices that handle real production traffic with grace
-- 📱 **Flutter & Dart Packages** — 12+ open source packages from reactive signals to flexbox layout engines
-- 🌐 **Full-Stack Experiences** — React & Vue frontends wired to robust backends, end-to-end delivery
-- 🤖 **AI Dev Workflows** — Agents, assistants, and automation that amplify what one developer can achieve
-- ⛓️ **Web3 Protocols** — BTC, EVM, Internet Computer — bridging the gap between theory and working code
+- 🦀 **Rust Backends** — Axum-powered services with zero-cost abstractions, tokio runtimes, and fearless concurrency
+- ☕ **JVM Microservices** — Spring Boot systems hardened by production traffic and real edge cases
+- 📱 **Flutter & Dart Packages** — 16+ open source libraries: reactive signals, flexbox layouts, routing, JSON tooling, and Rust-Dart FFI bridges
+- 🌐 **Full-Stack Delivery** — React & Vue frontends wired to robust APIs, shipped end-to-end
+- 🤖 **AI Workflows** — Agents, code assistants, and automation pipelines that make developers superhuman
+- ⛓️ **Web3 Exploration** — BTC, EVM, Internet Computer — turning protocol theory into working code
 
 ## 🛠️ Tech Stack
 
@@ -96,25 +98,25 @@ My coding roots trace back to the anime community 🎌 — tools I built to scra
 ## 🏆 Highlights
 
 - 🎖️ Core maintainer at **FlutterCandies** — production-grade packages powering thousands of Flutter apps worldwide
-- 📦 16+ open source projects spanning reactive state management, layout systems, routing, JSON tooling, and Rust-Dart FFI bridges
-- 🦀 Bridging Rust's bare-metal performance with Dart's ergonomic developer experience through native integrations
-- 🧠 Active explorer of AI-assisted development — agents, code assistants, and the future of how we write software
-- 🎌 Community-first approach: tools born from real needs, refined by real users
-- 🔍 DX obsessive — if a tool saves someone five minutes, it deserves to exist
+- 📦 16+ open source projects spanning reactive state management, layout engines, routing, JSON tooling, and Rust-Dart FFI bridges
+- 🦀 Bridging Rust's bare-metal performance with Dart's developer ergonomics through native integrations
+- 🧠 Exploring AI-assisted development — agents, code assistants, and the evolving craft of how we write software
+- 🎌 Community-first philosophy: tools born from real needs, battle-tested by real users
+- 🔍 DX obsessed — if a tool saves someone five minutes, it deserves to exist and be open source
 
 ## 💡 Quote
 
-> 🍃 *遵从剧本获取既定结局，突破剧本付出相应代价。*
-> *—— 做魚玉子燒* ✨
+> 🌅 *须晴日，看红装素裹，分外妖娆。*
+> *—— 沁园春·雪* ✨
 >
-> *"Follow the script and reach the predetermined ending — break the script and pay the price."*
-> A reminder that writing your own rules takes courage, but the view from off-script is always better 💡
+> *"Wait for a clear day — see the red and white-clad hills, surpassing in beauty."*
+> A reminder that patience reveals the most breathtaking views — in code and in life 💎
 
 ## 💭 Philosophy
 
-Ship early. Simplify relentlessly. Let users guide the refactoring 🌊. The world doesn't need more clever abstractions — it needs tools that work so naturally they become invisible 🎨.
+Ship early 🚀. Simplify relentlessly ✂️. Let users guide the refactoring 🌊. The world doesn't need more clever abstractions — it needs tools that work so naturally they become invisible 🎨.
 
-My favorite code is the code nobody notices. Every function, every module, every system I build exists to serve the experience, not to showcase the engineering 🏅 And if a weekend hack makes one developer smile — that's the best architecture award there is.
+My favorite code is the code nobody notices. Every function, every module, every system exists to serve the experience, not to showcase the engineering 🏅 If a weekend hack makes one developer smile — that's the best architecture award there is.
 
 ## 🌱 Contribution Garden
 
