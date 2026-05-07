@@ -6,7 +6,7 @@
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-*"须晴日，看红装素裹，分外妖娆。"* 🌅
+*"目标是以科学的力量凌驾于超能力之上，为了伯伦希尔的荣耀。"* 🌌
 
 </div>
 
@@ -56,6 +56,7 @@ When I'm not coding, I'm probably thinking about coding — or finding new ways 
 
 <div align="center">
 <img src="https://img.shields.io/badge/Public_Repos-100+-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Total_Stars-1,528+-yellow?style=flat-square" />
 <img src="https://img.shields.io/badge/Followers-282-ff69b4?style=flat-square" />
 <img src="https://img.shields.io/badge/Org-FlutterCandies_🍬-orange?style=flat-square" />
 </div>
@@ -106,11 +107,10 @@ When I'm not coding, I'm probably thinking about coding — or finding new ways 
 
 ## 💡 Quote
 
-> 🌅 *须晴日，看红装素裹，分外妖娆。*
-> *—— 沁园春·雪* ✨
+> 🌌 *目标是以科学的力量凌驾于超能力之上，为了伯伦希尔的荣耀。*
 >
-> *"Wait for a clear day — see the red and white-clad hills, surpassing in beauty."*
-> A reminder that patience reveals the most breathtaking views — in code and in life 💎
+> *"The goal is to surpass supernatural powers through the force of science, for the glory of Brunhild."*
+> — Because engineering is the closest thing to superpowers we have 💎
 
 ## 💭 Philosophy
 
