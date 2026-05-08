@@ -1,31 +1,31 @@
 <div align="center">
 
-# ⚡ iota9star
+# 🌌 iota9star
 
-**Rust Artisan · Flutter Ecosystem Builder · Full Stack Engineer**
+**Rust · Java · Dart · Full Stack · Open Source**
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-*"目标是以科学的力量凌驾于超能力之上，为了伯伦希尔的荣耀。"* 🌌
+*忘掉拥有过的花，去种有结果的树。* 🌳
 
 </div>
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a developer who lives at the intersection of performance and elegance 🎯. I architect Rust services that hum at wire speed 🦀, craft Java microservices that never flinch under load ☕, and ship Dart packages through the **FlutterCandies** collective 🍬 that thousands of developers rely on daily.
+Hey, I'm **iota9star** — a full stack engineer with a passion for building things that are fast, beautiful, and genuinely useful 🚀. My days are spent crafting Rust services that run at wire speed 🦀, designing Java backends that handle whatever production throws at them ☕, and maintaining the **FlutterCandies** 🍬 ecosystem of Dart packages used by developers around the world.
 
-My journey started in the anime community 🎌 — building tools to scratch my own itch, which grew into open source projects with real users. Somewhere along the way I fell down the AI rabbit hole 🤖 and started exploring how intelligent agents can amplify what one developer can accomplish. I also dabble in Web3 ⛓️ because decentralization fascinates me as a model for trustless cooperation.
+I got started building tools for the anime community 🎌 — scratching my own itch turned into open source projects with real adoption. Along the way I picked up a deep interest in AI-powered development 🤖 and Web3 ⛓️ because I believe the best tools are the ones that amplify human creativity, not replace it.
 
-When I'm not coding, I'm probably thinking about coding — or finding new ways to make developer tools disappear into the workflow so you can focus on what matters 🪄
+When I'm not writing code, I'm probably thinking about how to make the next developer's life just a little bit easier ✨
 
 ## 🎯 What I Build
 
-- 🦀 **Rust Backends** — Axum-powered services with zero-cost abstractions, tokio runtimes, and fearless concurrency
-- ☕ **JVM Microservices** — Spring Boot systems hardened by production traffic and real edge cases
-- 📱 **Flutter & Dart Packages** — 16+ open source libraries: reactive signals, flexbox layouts, routing, JSON tooling, and Rust-Dart FFI bridges
-- 🌐 **Full-Stack Delivery** — React & Vue frontends wired to robust APIs, shipped end-to-end
-- 🤖 **AI Workflows** — Agents, code assistants, and automation pipelines that make developers superhuman
-- ⛓️ **Web3 Exploration** — BTC, EVM, Internet Computer — turning protocol theory into working code
+- 🦀 **High-Performance Backends** — Axum + Tokio services with zero-cost abstractions and fearless concurrency
+- ☕ **Production-Grade JVM Systems** — Spring Boot microservices battle-tested under real traffic
+- 📱 **Flutter & Dart Packages** — 16+ open source libraries: reactive signals, layout engines, routers, JSON tools, and Rust-Dart FFI bridges
+- 🌐 **Full-Stack Applications** — React and Vue frontends wired to robust backend APIs
+- 🤖 **AI-Enhanced Workflows** — Agents, code assistants, and automation that make developers superhuman
+- ⛓️ **Web3 Protocols** — Exploring BTC, EVM, and Internet Computer — turning theory into shipped code
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +52,7 @@ When I'm not coding, I'm probably thinking about coding — or finding new ways 
 ![Ethereum](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 
-## 📊 By the Numbers
+## 📊 Quick Stats
 
 <div align="center">
 <img src="https://img.shields.io/badge/Public_Repos-100+-blue?style=flat-square" />
@@ -99,24 +99,18 @@ When I'm not coding, I'm probably thinking about coding — or finding new ways 
 ## 🏆 Highlights
 
 - 🎖️ Core maintainer at **FlutterCandies** — production-grade packages powering thousands of Flutter apps worldwide
-- 📦 16+ open source projects spanning reactive state management, layout engines, routing, JSON tooling, and Rust-Dart FFI bridges
+- 📦 16+ open source libraries spanning reactive state management, flexbox layouts, routing, JSON tooling, and Rust-Dart FFI bridges
 - 🦀 Bridging Rust's bare-metal performance with Dart's developer ergonomics through native integrations
-- 🧠 Exploring AI-assisted development — agents, code assistants, and the evolving craft of how we write software
-- 🎌 Community-first philosophy: tools born from real needs, battle-tested by real users
-- 🔍 DX obsessed — if a tool saves someone five minutes, it deserves to exist and be open source
-
-## 💡 Quote
-
-> 🌌 *目标是以科学的力量凌驾于超能力之上，为了伯伦希尔的荣耀。*
->
-> *"The goal is to surpass supernatural powers through the force of science, for the glory of Brunhild."*
-> — Because engineering is the closest thing to superpowers we have 💎
+- 🧠 Exploring AI-assisted development — agents, code assistants, and the evolving craft of writing software
+- 🎌 Community-first: tools born from real needs, battle-tested by real users
+- 🔍 DX obsessed — if a tool saves someone five minutes, it deserves to be open source
 
 ## 💭 Philosophy
 
-Ship early 🚀. Simplify relentlessly ✂️. Let users guide the refactoring 🌊. The world doesn't need more clever abstractions — it needs tools that work so naturally they become invisible 🎨.
+Ship early 🚀. Simplify relentlessly ✂️. Let users guide the refactoring 🌊.
+The world doesn't need more clever abstractions — it needs tools that work so naturally they become invisible 🎨.
 
-My favorite code is the code nobody notices. Every function, every module, every system exists to serve the experience, not to showcase the engineering 🏅 If a weekend hack makes one developer smile — that's the best architecture award there is.
+My favorite code is the code nobody notices. Every function, every module, every system exists to serve the experience, not to showcase the engineering 🏅
 
 ## 🌱 Contribution Garden
 
