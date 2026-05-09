@@ -1,31 +1,31 @@
 <div align="center">
 
-# 🌌 iota9star
+# ✨ iota9star
 
-**Rust · Java · Dart · Full Stack · Open Source**
+**Rust · Java · Dart · Full Stack · Open Source Enthusiast**
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-*忘掉拥有过的花，去种有结果的树。* 🌳
+*全场笑倒，群魔乱舞。我打开手机，没有新的消息。* 📱
 
 </div>
 
 ## 👨‍💻 About Me
 
-Hey, I'm **iota9star** — a full stack engineer with a passion for building things that are fast, beautiful, and genuinely useful 🚀. My days are spent crafting Rust services that run at wire speed 🦀, designing Java backends that handle whatever production throws at them ☕, and maintaining the **FlutterCandies** 🍬 ecosystem of Dart packages used by developers around the world.
+Hey there! I'm **iota9star** — a full stack engineer who believes great software should feel invisible 🪄. I spend my days building high-performance Rust services 🦀, crafting battle-tested Java backends ☕, and nurturing the **FlutterCandies** 🍬 ecosystem — a collection of production-grade Dart packages used by developers worldwide.
 
-I got started building tools for the anime community 🎌 — scratching my own itch turned into open source projects with real adoption. Along the way I picked up a deep interest in AI-powered development 🤖 and Web3 ⛓️ because I believe the best tools are the ones that amplify human creativity, not replace it.
+My journey started with scratching my own itch in the anime community 🎌 — building tools I wished existed. Those side projects grew into open source libraries with real adoption and a community that keeps me inspired every day.
 
-When I'm not writing code, I'm probably thinking about how to make the next developer's life just a little bit easier ✨
+These days I'm deep into AI-powered development 🤖 and Web3 ⛓️ — because the best engineers don't just write code, they amplify what humans can create. I'm also mildly obsessed with developer experience — if a tool saves someone five minutes, it deserves to exist 💡.
 
 ## 🎯 What I Build
 
-- 🦀 **High-Performance Backends** — Axum + Tokio services with zero-cost abstractions and fearless concurrency
-- ☕ **Production-Grade JVM Systems** — Spring Boot microservices battle-tested under real traffic
-- 📱 **Flutter & Dart Packages** — 16+ open source libraries: reactive signals, layout engines, routers, JSON tools, and Rust-Dart FFI bridges
-- 🌐 **Full-Stack Applications** — React and Vue frontends wired to robust backend APIs
-- 🤖 **AI-Enhanced Workflows** — Agents, code assistants, and automation that make developers superhuman
-- ⛓️ **Web3 Protocols** — Exploring BTC, EVM, and Internet Computer — turning theory into shipped code
+- 🦀 **Blazing-Fast Backends** — Axum + Tokio services with zero-cost abstractions and fearless concurrency
+- ☕ **JVM Powerhouses** — Spring Boot microservices that handle real production traffic without breaking a sweat
+- 📱 **Flutter & Dart Libraries** — 16+ open source packages: reactive signals, layout engines, routers, JSON tools, and Rust-Dart FFI bridges
+- 🌐 **Full-Stack Experiences** — React & Vue frontends wired to robust backend APIs
+- 🤖 **AI-Enhanced Dev Tools** — Agents, code assistants, and workflows that make developers feel superhuman
+- ⛓️ **Web3 Experiments** — BTC, EVM, Internet Computer — turning blockchain theory into shipped code
 
 ## 🛠️ Tech Stack
 
