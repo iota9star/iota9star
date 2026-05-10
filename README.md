@@ -6,7 +6,7 @@
 
 ![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-*全场笑倒，群魔乱舞。我打开手机，没有新的消息。* 📱
+*我于杀戮之中盛放，亦如黎明中的花朵。* 🌸
 
 </div>
 
