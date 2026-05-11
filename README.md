@@ -1,31 +1,31 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+iota9star;Full+Stack+Developer;Rust+%E2%9D%A4%EF%B8%8F+Java+%E2%9D%A4%EF%B8%8F+Flutter;Building+digital+experiences" alt="Typing SVG" />
+</h1>
 
-# ✨ iota9star
-
-**Rust · Java · Dart · Full Stack · Open Source Enthusiast**
-
-![](https://count.getloli.com/get/@iota9star?theme=rule34)
-
-*我于杀戮之中盛放，亦如黎明中的花朵。* 🌸
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iota9star&style=flat-square&color=58A6FF" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Product_Mindset-FF6B6B?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open_Source-Enthusiast-7C3AED?style=flat-square" alt="Open Source" />
+</p>
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a full stack engineer who believes great software should feel invisible 🪄. I spend my days building high-performance Rust services 🦀, crafting battle-tested Java backends ☕, and nurturing the **FlutterCandies** 🍬 ecosystem — a collection of production-grade Dart packages used by developers worldwide.
+A full stack developer with a passion for crafting **high-performance backends** and **elegant frontends**. I believe great software is born where engineering rigor meets user empathy. When I'm not writing code, you'll find me exploring anime subculture, tinkering with Web3 protocols, or building tools that make developers' lives easier. 🚀
 
-My journey started with scratching my own itch in the anime community 🎌 — building tools I wished existed. Those side projects grew into open source libraries with real adoption and a community that keeps me inspired every day.
+- 🔭 Currently architecting microservices with Rust & Java
+- 🌱 Deep diving into AI-powered development workflows and agents
+- 🎮 Anime enthusiast building community tools (Mikan Project, DMHY, KissSub)
+- ✨ Philosophy: _Clean code, clear intent, continuous improvement_
 
-These days I'm deep into AI-powered development 🤖 and Web3 ⛓️ — because the best engineers don't just write code, they amplify what humans can create. I'm also mildly obsessed with developer experience — if a tool saves someone five minutes, it deserves to exist 💡.
+## 🎯 What I Do
 
-## 🎯 What I Build
-
-- 🦀 **Blazing-Fast Backends** — Axum + Tokio services with zero-cost abstractions and fearless concurrency
-- ☕ **JVM Powerhouses** — Spring Boot microservices that handle real production traffic without breaking a sweat
-- 📱 **Flutter & Dart Libraries** — 16+ open source packages: reactive signals, layout engines, routers, JSON tools, and Rust-Dart FFI bridges
-- 🌐 **Full-Stack Experiences** — React & Vue frontends wired to robust backend APIs
-- 🤖 **AI-Enhanced Dev Tools** — Agents, code assistants, and workflows that make developers feel superhuman
-- ⛓️ **Web3 Experiments** — BTC, EVM, Internet Computer — turning blockchain theory into shipped code
+| Area | Focus |
+|------|-------|
+| 🦀 **Backend** | High-performance APIs with Axum (Rust) & Spring (Java/Kotlin) |
+| 📱 **Mobile** | Cross-platform apps with Flutter & native Android |
+| 🌐 **Frontend** | Rich UIs with React, Vue, and modern TypeScript |
+| 🤖 **AI** | AI-assisted workflows, code quality agents, intelligent tooling |
+| ⛓️ **Web3** | BTC, EVM chains, Internet Computer (IC) ecosystem |
 
 ## 🛠️ Tech Stack
 
@@ -36,35 +36,25 @@ These days I'm deep into AI-powered development 🤖 and Web3 ⛓️ — because
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend**
+**Frameworks & Tools**
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**AI & Web3**
-![OpenAI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Ethereum](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+## 📊 GitHub Stats
 
-## 📊 Quick Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iota9star&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currLabel=58A6FF" width="48%" alt="Streak Stats" />
+</p>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Public_Repos-100+-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Total_Stars-1,528+-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/Followers-282-ff69b4?style=flat-square" />
-<img src="https://img.shields.io/badge/Org-FlutterCandies_🍬-orange?style=flat-square" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="iota9star's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iota9star&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="95%" alt="Contribution Graph" />
+</p>
 
 ## 🔥 Featured Projects
 
@@ -98,33 +88,35 @@ These days I'm deep into AI-powered development 🤖 and Web3 ⛓️ — because
 
 ## 🏆 Highlights
 
-- 🎖️ Core maintainer at **FlutterCandies** — production-grade packages powering thousands of Flutter apps worldwide
-- 📦 16+ open source libraries spanning reactive state management, flexbox layouts, routing, JSON tooling, and Rust-Dart FFI bridges
-- 🦀 Bridging Rust's bare-metal performance with Dart's developer ergonomics through native integrations
-- 🧠 Exploring AI-assisted development — agents, code assistants, and the evolving craft of writing software
-- 🎌 Community-first: tools born from real needs, battle-tested by real users
-- 🔍 DX obsessed — if a tool saves someone five minutes, it deserves to be open source
+- 🎯 Core contributor to **FlutterCandies** — one of the most active Flutter plugin ecosystems
+- 📱 Built **Mikan Flutter** — a beloved anime resource client for the community
+- 🔧 Crafting developer tools with a focus on DX and code quality
+- ⚡ Bridging Rust performance with Dart elegance through FFI bindings
+- 🌍 Active in Web3 space across BTC, EVM, and Internet Computer
 
-## 💭 Philosophy
+## 💭 Quote
 
-Ship early 🚀. Simplify relentlessly ✂️. Let users guide the refactoring 🌊.
-The world doesn't need more clever abstractions — it needs tools that work so naturally they become invisible 🎨.
-
-My favorite code is the code nobody notices. Every function, every module, every system exists to serve the experience, not to showcase the engineering 🏅
+> 🌸 人与人的相遇，不是恩赐就是劫。
+>
+> — 网易云
 
 ## 🌱 Contribution Garden
 
-<div align="center">
-<img width="100%" src="profile-3d-contrib/profile-season-animate.svg" />
-</div>
+<p align="center">
+  <img src="profile-3d-contrib/profile-season-animate.svg" width="95%" alt="3D Contribution Graph" />
+</p>
 
-## 📧 Let's Connect
+## 📧 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-iota9star@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com)
-[![X](https://img.shields.io/badge/X-@iota9star-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iota9star)
-[![Juejin](https://img.shields.io/badge/Juejin-Blog-007FFF?style=flat-square&logo=bytedance&logoColor=white)](https://juejin.cn/user/1591748568562829)
-[![GitHub](https://img.shields.io/badge/GitHub-iota9star-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iota9star)
+<p align="center">
+  <a href="mailto:iota9star@gmail.com"><img src="https://img.shields.io/badge/Email-iota9star@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/iota9star"><img src="https://img.shields.io/badge/X-@iota9star-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://juejin.cn/user/1591748568562829"><img src="https://img.shields.io/badge/Juejin-Blog-007FFF?style=for-the-badge&logo=bytedance&logoColor=white" /></a>
+  <a href="https://github.com/iota9star"><img src="https://img.shields.io/badge/GitHub-iota9star-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<div align="center">
-<sub>Built with ☕ coffee, 🦀 Rust, and a stubborn belief that DX matters ⚡</sub>
-</div>
+<p align="center">
+  <img src="https://count.getloli.com/get/@iota9star?theme=rule34" alt="Visitor Counter" />
+</p>
+
+<p align="center"><em>Thanks for visiting! ⭐ Feel free to explore my repos and drop a star if something catches your eye.</em></p>
