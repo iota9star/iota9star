@@ -1,31 +1,37 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+iota9star;Full+Stack+Developer;Rust+%E2%9D%A4%EF%B8%8F+Java+%E2%9D%A4%EF%B8%8F+Flutter;Building+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Hello%2C+I'm+iota9star;Full+Stack+Developer+%F0%9F%9A%80;Rust+%E2%9D%A4%EF%B8%8F+Java+%E2%9D%A4%EF%B8%8F+Flutter;Building+digital+experiences" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iota9star&style=flat-square&color=58A6FF" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Product_Mindset-FF6B6B?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open_Source-Enthusiast-7C3AED?style=flat-square" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Focus-Rust_%C2%B7_Java_%C2%B7_Flutter-FF6B6B?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Mindset-Product_First-7C3AED?style=flat-square" alt="Mindset" />
+  <img src="https://img.shields.io/badge/Passion-Open_Source-2EA043?style=flat-square" alt="Open Source" />
 </p>
 
 ## 👨‍💻 About Me
 
-A full stack developer with a passion for crafting **high-performance backends** and **elegant frontends**. I believe great software is born where engineering rigor meets user empathy. When I'm not writing code, you'll find me exploring anime subculture, tinkering with Web3 protocols, or building tools that make developers' lives easier. 🚀
+Hey there! I'm **iota9star** — a full stack developer who lives at the intersection of **performance engineering** and **delightful UX**. I write Rust because I love zero-cost abstractions, build Flutter apps because pixels matter, and architect microservices because scale is a beautiful puzzle. 🧩
 
-- 🔭 Currently architecting microservices with Rust & Java
-- 🌱 Deep diving into AI-powered development workflows and agents
-- 🎮 Anime enthusiast building community tools (Mikan Project, DMHY, KissSub)
-- ✨ Philosophy: _Clean code, clear intent, continuous improvement_
+When I'm not pushing commits, you'll find me deep in anime subculture, exploring Web3 protocols, or building tools that make fellow developers smile. I believe the best code is the kind that disappears — so intuitive that users never think about it. 🪄
+
+- 🦀 Rust evangelist building high-performance backends with Axum
+- 🤖 Exploring AI-powered development workflows and autonomous agents
+- 🎮 Anime community builder — Mikan Project, DMHY, KissSub
+- ⛓️ Web3 tinkerer across BTC, EVM, and Internet Computer
+- 💡 _"Make it work, make it right, make it fast — then make it beautiful"_
 
 ## 🎯 What I Do
 
-| Area | Focus |
-|------|-------|
-| 🦀 **Backend** | High-performance APIs with Axum (Rust) & Spring (Java/Kotlin) |
-| 📱 **Mobile** | Cross-platform apps with Flutter & native Android |
-| 🌐 **Frontend** | Rich UIs with React, Vue, and modern TypeScript |
-| 🤖 **AI** | AI-assisted workflows, code quality agents, intelligent tooling |
-| ⛓️ **Web3** | BTC, EVM chains, Internet Computer (IC) ecosystem |
+I craft software across the entire spectrum — from bare-metal performance to pixel-perfect interfaces:
+
+| 🏗️ Area | 🔥 What I Build |
+|---------|----------------|
+| **Backend** | Blazing-fast APIs with Axum (Rust) and Spring (Java/Kotlin) |
+| **Mobile** | Cross-platform experiences with Flutter and native Android |
+| **Frontend** | Rich interactive UIs with React, Vue, and TypeScript |
+| **AI** | Intelligent dev workflows, code quality agents, AI-assisted tooling |
+| **Web3** | On-chain logic across BTC, EVM, and Internet Computer |
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +42,7 @@ A full stack developer with a passion for crafting **high-performance backends**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks & Runtimes**
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -88,17 +94,20 @@ A full stack developer with a passion for crafting **high-performance backends**
 
 ## 🏆 Highlights
 
-- 🎯 Core contributor to **FlutterCandies** — one of the most active Flutter plugin ecosystems
-- 📱 Built **Mikan Flutter** — a beloved anime resource client for the community
-- 🔧 Crafting developer tools with a focus on DX and code quality
-- ⚡ Bridging Rust performance with Dart elegance through FFI bindings
-- 🌍 Active in Web3 space across BTC, EVM, and Internet Computer
+- 🎯 Core contributor to **FlutterCandies** — powering one of the most active Flutter plugin ecosystems
+- 📱 Creator of **Mikan Flutter** — a community-loved anime resource client used by thousands
+- 🔧 Building developer tools that prioritize DX — because happy devs write better code
+- ⚡ Bridging Rust's raw performance with Dart's elegance through seamless FFI bindings
+- 🌍 Active across the Web3 frontier — BTC, EVM chains, and Internet Computer
+- 🤖 Embracing AI-augmented development to ship faster without sacrificing quality
 
-## 💭 Quote
+## 💭 Philosophy
 
-> 🌸 人与人的相遇，不是恩赐就是劫。
+> 🌸 人们把自己不能理解的状态称之为疯狂。
 >
-> — 网易云
+> — 尸者的帝国
+
+I believe great software is **invisible** — it does exactly what you expect, instantly, without friction. Every line of code should earn its place. Every API should feel intuitive. Every pixel should serve a purpose. 🎯
 
 ## 🌱 Contribution Garden
 
@@ -119,4 +128,4 @@ A full stack developer with a passion for crafting **high-performance backends**
   <img src="https://count.getloli.com/get/@iota9star?theme=rule34" alt="Visitor Counter" />
 </p>
 
-<p align="center"><em>Thanks for visiting! ⭐ Feel free to explore my repos and drop a star if something catches your eye.</em></p>
+<p align="center"><em>Thanks for stopping by! ⭐ If anything here sparks your interest, a star would make my day.</em></p>
