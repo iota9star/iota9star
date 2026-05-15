@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hey, I'm **iota9star**
+# 🌟 Hey, I'm **iota9star**
 
 **Full Stack Developer · Rust & Java Backend · Product Mindset**
 
@@ -15,26 +15,26 @@ Building digital experiences across the stack — from high-performance backends
 
 👨‍💻 **About Me**
 
-Hey there! I'm **iota9star** — a full stack developer who thrives at the crossroads of **performance engineering** and **beautiful UX**. I write Rust for the thrill of zero-cost abstractions, craft Flutter apps because every pixel matters, and architect microservices because distributed systems are fascinating puzzles. 🧩
+I'm **iota9star** — a full stack developer who lives at the intersection of **performance engineering** and **delightful UX**. I write Rust because zero-cost abstractions feel like magic, craft Flutter apps because every pixel tells a story, and architect microservices because distributed systems are puzzles worth solving. 🧩
 
-When I'm not shipping code, I'm diving into anime culture, tinkering with Web3 protocols, or building tools that make other developers smile. The best software is invisible — it does exactly what you expect, instantly, without friction. That's what I strive for. 🪄
+Beyond code, you'll find me exploring anime culture, tinkering with Web3 protocols, or building tools that make fellow developers smile. I believe the best software disappears — it does exactly what you expect, instantly, effortlessly. That's the craft I chase every day. 🪄
 
-- 🦀 Rust enthusiast building high-performance backends with Axum
-- ☕ Java & Kotlin craftsman on the JVM with Spring
-- 📱 Flutter community contributor creating cross-platform magic
+- 🦀 Rust devotee crafting high-performance backends with Axum
+- ☕ Java & Kotlin artisan building resilient systems with Spring
+- 📱 Flutter community contributor shipping cross-platform magic
 - 🤖 Exploring AI-powered dev workflows and autonomous agents
-- ⛓️ Web3 explorer across BTC, EVM, and Internet Computer
+- ⛓️ Web3 voyager navigating BTC, EVM, and Internet Computer
 - 🎮 Anime community builder — Mikan Project, DMHY, KissSub
 
 🎯 **What I Do**
 
-I build software across the full spectrum — from bare-metal speed to pixel-perfect interfaces:
+I design and ship software across the entire spectrum — from bare-metal performance to pixel-perfect interfaces:
 
-🏗️ **Backend** — Blazing-fast APIs with Axum (Rust) and Spring (Java/Kotlin), microservices architecture
-📱 **Mobile** — Cross-platform experiences with Flutter and native Android
-🌐 **Frontend** — Rich interactive UIs with React, Vue, and TypeScript
-🤖 **AI** — Intelligent dev workflows, code quality agents, AI-assisted tooling
-⛓️ **Web3** — On-chain logic across BTC, EVM, and Internet Computer ecosystems
+🏗️ **Backend** — Blazing-fast APIs with Axum (Rust) and Spring (Java/Kotlin), microservices architecture, event-driven systems
+📱 **Mobile** — Cross-platform experiences with Flutter and native Android that users genuinely enjoy
+🌐 **Frontend** — Rich interactive UIs with React, Vue, and TypeScript that feel alive
+🤖 **AI** — Intelligent dev workflows, code quality agents, AI-assisted tooling that amplifies human creativity
+⛓️ **Web3** — On-chain logic across BTC, EVM, and Internet Computer ecosystems, bridging decentralized worlds
 
 🛠️ **Tech Stack**
 
@@ -98,16 +98,16 @@ I build software across the full spectrum — from bare-metal speed to pixel-per
 
 🏆 **Highlights**
 
-🎯 Core contributor to **FlutterCandies** — powering one of the most active Flutter plugin ecosystems
-📱 Creator of **Mikan Flutter** — a community-loved anime resource client used by thousands
-🔧 Building developer tools that prioritize DX — because happy devs write better code
+🎯 Core contributor to **FlutterCandies** — powering one of the most vibrant Flutter plugin ecosystems
+📱 Creator of **Mikan Flutter** — a community-loved anime resource client trusted by thousands
+🔧 Building developer tools that prioritize DX — because happy devs ship better software
 ⚡ Bridging Rust's raw performance with Dart's elegance through seamless FFI bindings
-🌍 Active across the Web3 frontier — BTC, EVM chains, and Internet Computer
-🤖 Embracing AI-augmented development to ship faster without sacrificing quality
+🌍 Active across the Web3 frontier — exploring BTC, EVM chains, and Internet Computer
+🤖 Embracing AI-augmented development to ship faster without cutting corners
 
 💡 **Quote**
 
-> 🌊 *"谁是我们的敌人，谁是我们的朋友，这是革命的首要问题。"* —— 毛主席语录
+> 🌌 *"宇宙很大，生活更大，也许以后还有缘相见。"* —— 三体
 
 💭 **Philosophy**
 
