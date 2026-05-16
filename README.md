@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Hey, I'm **iota9star**
+# ✨ Hey, I'm **iota9star**
 
 **Full Stack Developer · Rust & Java Backend · Product Mindset**
 
@@ -13,7 +13,7 @@ Building digital experiences across the stack — from high-performance backends
 
 </div>
 
-👨‍💻 **About Me**
+## 👨‍💻 About Me
 
 I'm **iota9star** — a full stack developer who lives at the intersection of **performance engineering** and **delightful UX**. I write Rust because zero-cost abstractions feel like magic, craft Flutter apps because every pixel tells a story, and architect microservices because distributed systems are puzzles worth solving. 🧩
 
@@ -26,7 +26,7 @@ Beyond code, you'll find me exploring anime culture, tinkering with Web3 protoco
 - ⛓️ Web3 voyager navigating BTC, EVM, and Internet Computer
 - 🎮 Anime community builder — Mikan Project, DMHY, KissSub
 
-🎯 **What I Do**
+## 🎯 What I Do
 
 I design and ship software across the entire spectrum — from bare-metal performance to pixel-perfect interfaces:
 
@@ -36,7 +36,7 @@ I design and ship software across the entire spectrum — from bare-metal perfor
 🤖 **AI** — Intelligent dev workflows, code quality agents, AI-assisted tooling that amplifies human creativity
 ⛓️ **Web3** — On-chain logic across BTC, EVM, and Internet Computer ecosystems, bridging decentralized worlds
 
-🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 **Languages**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -55,7 +55,7 @@ I design and ship software across the entire spectrum — from bare-metal perfor
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="48%" alt="Stats" />
@@ -66,7 +66,7 @@ I design and ship software across the entire spectrum — from bare-metal perfor
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iota9star&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="95%" alt="Activity" />
 </div>
 
-🔥 **Featured Projects**
+## 🔥 Featured Projects
 
 <table>
 <tr>
@@ -96,7 +96,7 @@ I design and ship software across the entire spectrum — from bare-metal perfor
 </tr>
 </table>
 
-🏆 **Highlights**
+## 🏆 Highlights
 
 🎯 Core contributor to **FlutterCandies** — powering one of the most vibrant Flutter plugin ecosystems
 📱 Creator of **Mikan Flutter** — a community-loved anime resource client trusted by thousands
@@ -105,23 +105,23 @@ I design and ship software across the entire spectrum — from bare-metal perfor
 🌍 Active across the Web3 frontier — exploring BTC, EVM chains, and Internet Computer
 🤖 Embracing AI-augmented development to ship faster without cutting corners
 
-💡 **Quote**
+## 💡 Quote
 
-> 🌌 *"宇宙很大，生活更大，也许以后还有缘相见。"* —— 三体
+> 📖 *"有三样东西是无法隐瞒的，咳嗽、穷困和爱；你想隐瞒越欲盖弥彰。"* —— 洛丽塔
 
-💭 **Philosophy**
+## 💭 Philosophy
 
 I believe great software is **invisible** — it does exactly what you expect, instantly, without friction. Every line of code should earn its place. Every API should feel intuitive. Every pixel should serve a purpose. The craft is in making complexity feel simple. 🎯
 
 > 💡 _Make it work, make it right, make it fast — then make it beautiful._
 
-🌱 **Contribution Garden**
+## 🌱 Contribution Garden
 
 <div align="center">
   <img src="profile-3d-contrib/profile-season-animate.svg" width="95%" alt="3D Contributions" />
 </div>
 
-📧 **Connect With Me**
+## 📧 Connect With Me
 
 <div align="center">
   <a href="mailto:iota9star@gmail.com"><img src="https://img.shields.io/badge/Email-iota9star@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
