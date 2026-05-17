@@ -107,7 +107,7 @@ I design and ship software across the entire spectrum — from bare-metal perfor
 
 ## 💡 Quote
 
-> 📖 *"有三样东西是无法隐瞒的，咳嗽、穷困和爱；你想隐瞒越欲盖弥彰。"* —— 洛丽塔
+> 📖 *"我不知道将去何方，但我已在路上。"* —— 千与千寻
 
 ## 💭 Philosophy
 
