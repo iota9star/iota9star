@@ -15,26 +15,22 @@ Building digital experiences across the stack — from high-performance backends
 
 ## 👨‍💻 About Me
 
-I'm **iota9star** — a full stack developer who lives at the intersection of **performance engineering** and **delightful UX**. I write Rust because zero-cost abstractions feel like magic, craft Flutter apps because every pixel tells a story, and architect microservices because distributed systems are puzzles worth solving. 🧩
+I'm **iota9star** — a full stack developer who believes the best code is the kind you don't notice. I chase zero-cost abstractions in Rust 🦀, sculpt fluid UIs in Flutter 🎨, and wire distributed systems together like a digital architect 🏛️. When I'm not shipping features, I'm diving into anime culture, exploring Web3 protocols, or building tools that make other developers grin. The craft? Making complexity feel effortless. 🪄
 
-Beyond code, you'll find me exploring anime culture, tinkering with Web3 protocols, or building tools that make fellow developers smile. I believe the best software disappears — it does exactly what you expect, instantly, effortlessly. That's the craft I chase every day. 🪄
-
-- 🦀 Rust devotee crafting high-performance backends with Axum
-- ☕ Java & Kotlin artisan building resilient systems with Spring
-- 📱 Flutter community contributor shipping cross-platform magic
-- 🤖 Exploring AI-powered dev workflows and autonomous agents
-- ⛓️ Web3 voyager navigating BTC, EVM, and Internet Computer
-- 🎮 Anime community builder — Mikan Project, DMHY, KissSub
+- 🦀 Rust enthusiast — Axum backends that fly at wire speed
+- ☕ Java & Kotlin veteran — Spring-powered microservices that never sleep
+- 📱 Flutter community contributor — plugins and apps loved by thousands
+- 🤖 AI-augmented developer — agents, workflows, and smarter tooling
+- ⛓️ Web3 explorer — BTC, EVM, and Internet Computer under the hood
+- 🎮 Anime ecosystem builder — Mikan Project, DMHY, KissSub
 
 ## 🎯 What I Do
 
-I design and ship software across the entire spectrum — from bare-metal performance to pixel-perfect interfaces:
-
-🏗️ **Backend** — Blazing-fast APIs with Axum (Rust) and Spring (Java/Kotlin), microservices architecture, event-driven systems
-📱 **Mobile** — Cross-platform experiences with Flutter and native Android that users genuinely enjoy
-🌐 **Frontend** — Rich interactive UIs with React, Vue, and TypeScript that feel alive
-🤖 **AI** — Intelligent dev workflows, code quality agents, AI-assisted tooling that amplifies human creativity
-⛓️ **Web3** — On-chain logic across BTC, EVM, and Internet Computer ecosystems, bridging decentralized worlds
+🏗️ **Backend** — Blazing APIs with Axum and Spring, event-driven microservices, systems that scale
+📱 **Mobile** — Flutter cross-platform apps and native Android that users actually enjoy
+🌐 **Frontend** — React, Vue, and TypeScript interfaces that feel alive and responsive
+🤖 **AI** — Intelligent dev workflows, autonomous agents, code quality tooling that amplifies creativity
+⛓️ **Web3** — Smart contracts and on-chain logic across BTC, EVM, and Internet Computer
 
 ## 🛠️ Tech Stack
 
@@ -98,22 +94,22 @@ I design and ship software across the entire spectrum — from bare-metal perfor
 
 ## 🏆 Highlights
 
-🎯 Core contributor to **FlutterCandies** — powering one of the most vibrant Flutter plugin ecosystems
-📱 Creator of **Mikan Flutter** — a community-loved anime resource client trusted by thousands
+🎯 Core contributor to **FlutterCandies** — powering one of the most vibrant Flutter plugin ecosystems on GitHub
+📱 Creator of **Mikan Flutter** — a beloved anime resource client trusted by a passionate community
 🔧 Building developer tools that prioritize DX — because happy devs ship better software
 ⚡ Bridging Rust's raw performance with Dart's elegance through seamless FFI bindings
-🌍 Active across the Web3 frontier — exploring BTC, EVM chains, and Internet Computer
-🤖 Embracing AI-augmented development to ship faster without cutting corners
+🌍 Exploring the Web3 frontier — smart contracts on BTC, EVM chains, and Internet Computer
+🤖 Embracing AI-augmented development to ship faster, smarter, and with higher confidence
 
 ## 💡 Quote
 
-> 📖 *"我不知道将去何方，但我已在路上。"* —— 千与千寻
+> 📖 *"生命中所有的绚烂，原来终究，都要用寂寞来偿还。"* —— 加西亚·马尔克斯《百年孤独》
 
 ## 💭 Philosophy
 
-I believe great software is **invisible** — it does exactly what you expect, instantly, without friction. Every line of code should earn its place. Every API should feel intuitive. Every pixel should serve a purpose. The craft is in making complexity feel simple. 🎯
+Great software is **invisible** — it does exactly what you expect, instantly, without friction. Every line of code should earn its place. Every API should feel intuitive. Every pixel should serve a purpose. The art is making complexity feel simple. 🎯
 
-> 💡 _Make it work, make it right, make it fast — then make it beautiful._
+> 💡 _Make it work, make it right, make it fast — then make it disappear into the user's flow._
 
 ## 🌱 Contribution Garden
 
