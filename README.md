@@ -103,7 +103,7 @@ I'm **iota9star** — a full stack developer who believes the best code is the k
 
 ## 💡 Quote
 
-> 📖 *"生命中所有的绚烂，原来终究，都要用寂寞来偿还。"* —— 加西亚·马尔克斯《百年孤独》
+> 📖 *"因为荒谬，我才相信。"* —— 德尔图良
 
 ## 💭 Philosophy
 
