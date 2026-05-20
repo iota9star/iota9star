@@ -15,22 +15,23 @@ Building digital experiences across the stack — from high-performance backends
 
 ## 👨‍💻 About Me
 
-I'm **iota9star** — a full stack developer who believes the best code is the kind you don't notice. I chase zero-cost abstractions in Rust 🦀, sculpt fluid UIs in Flutter 🎨, and wire distributed systems together like a digital architect 🏛️. When I'm not shipping features, I'm diving into anime culture, exploring Web3 protocols, or building tools that make other developers grin. The craft? Making complexity feel effortless. 🪄
+I'm **iota9star** — a full stack developer who believes the best code is invisible. I chase zero-cost abstractions in Rust 🦀, craft fluid UIs in Flutter 🎨, and wire distributed systems that hum like well-tuned engines ⚙️. Off the keyboard, you'll find me deep in anime culture, tinkering with Web3 protocols, or building dev tools that make someone smile. My craft? Turning complexity into something effortless. 🪄
 
-- 🦀 Rust enthusiast — Axum backends that fly at wire speed
-- ☕ Java & Kotlin veteran — Spring-powered microservices that never sleep
-- 📱 Flutter community contributor — plugins and apps loved by thousands
-- 🤖 AI-augmented developer — agents, workflows, and smarter tooling
-- ⛓️ Web3 explorer — BTC, EVM, and Internet Computer under the hood
-- 🎮 Anime ecosystem builder — Mikan Project, DMHY, KissSub
+- 🦀 Rust obsessed — Axum backends that scream at wire speed
+- ☕ Java & Kotlin battle-tested — Spring microservices that never flinch
+- 📱 Flutter community champion — plugins and apps trusted by thousands
+- 🤖 AI-augmented builder — agents, smart workflows, quality-first tooling
+- ⛓️ Web3 voyager — BTC, EVM, and Internet Computer under the surface
+- 🎮 Anime ecosystem architect — Mikan Project, DMHY, KissSub and beyond
 
 ## 🎯 What I Do
 
-🏗️ **Backend** — Blazing APIs with Axum and Spring, event-driven microservices, systems that scale
-📱 **Mobile** — Flutter cross-platform apps and native Android that users actually enjoy
+🏗️ **Backend** — Blazing fast APIs with Axum and Spring, event-driven microservices, rock-solid distributed systems
+📱 **Mobile** — Flutter cross-platform apps and native Android that users genuinely enjoy
 🌐 **Frontend** — React, Vue, and TypeScript interfaces that feel alive and responsive
 🤖 **AI** — Intelligent dev workflows, autonomous agents, code quality tooling that amplifies creativity
 ⛓️ **Web3** — Smart contracts and on-chain logic across BTC, EVM, and Internet Computer
+🔧 **DX Tools** — Libraries and packages that make other developers more productive and happier
 
 ## 🛠️ Tech Stack
 
@@ -50,6 +51,12 @@ I'm **iota9star** — a full stack developer who believes the best code is the k
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Tools & Platforms**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -76,16 +83,16 @@ I'm **iota9star** — a full stack developer who believes the best code is the k
 <td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
-</tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
 </tr><tr>
-<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
@@ -100,14 +107,17 @@ I'm **iota9star** — a full stack developer who believes the best code is the k
 ⚡ Bridging Rust's raw performance with Dart's elegance through seamless FFI bindings
 🌍 Exploring the Web3 frontier — smart contracts on BTC, EVM chains, and Internet Computer
 🤖 Embracing AI-augmented development to ship faster, smarter, and with higher confidence
+🧩 Crafting reactive signal systems with **void_signals** — lightweight state management for Dart
 
 ## 💡 Quote
 
-> 📖 *"因为荒谬，我才相信。"* —— 德尔图良
+> 📖 *"像你这样的白痴是怎么活过来的？""因为我很自信。"* —— 海贼王
 
 ## 💭 Philosophy
 
 Great software is **invisible** — it does exactly what you expect, instantly, without friction. Every line of code should earn its place. Every API should feel intuitive. Every pixel should serve a purpose. The art is making complexity feel simple. 🎯
+
+I believe in building with **confidence** — trusting your instincts, validating with tests, and shipping with conviction. The best products come from developers who dare to simplify. 🚀
 
 > 💡 _Make it work, make it right, make it fast — then make it disappear into the user's flow._
 
