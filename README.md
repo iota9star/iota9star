@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ Hey, I'm **iota9star**
+# 🌌 Hey, I'm **iota9star**
 
-**Full Stack Developer · Rust & Java Backend · Product Mindset**
+**Full Stack Developer · Rust 🦀 & Java ☕ · Product-First Mindset**
 
 Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
@@ -15,23 +15,23 @@ Building digital experiences across the stack — from high-performance backends
 
 ## 👨‍💻 About Me
 
-I'm **iota9star** — a full stack developer who believes the best code is invisible. I chase zero-cost abstractions in Rust 🦀, craft fluid UIs in Flutter 🎨, and wire distributed systems that hum like well-tuned engines ⚙️. Off the keyboard, you'll find me deep in anime culture, tinkering with Web3 protocols, or building dev tools that make someone smile. My craft? Turning complexity into something effortless. 🪄
+I'm **iota9star** — a developer who believes great software should feel like magic. I chase zero-cost abstractions in Rust, sculpt fluid UIs in Flutter, and wire distributed systems that run like clockwork. Off the keyboard, I'm deep into anime culture, exploring Web3 protocols, and building tools that make fellow developers smile.
 
-- 🦀 Rust obsessed — Axum backends that scream at wire speed
-- ☕ Java & Kotlin battle-tested — Spring microservices that never flinch
-- 📱 Flutter community champion — plugins and apps trusted by thousands
-- 🤖 AI-augmented builder — agents, smart workflows, quality-first tooling
-- ⛓️ Web3 voyager — BTC, EVM, and Internet Computer under the surface
-- 🎮 Anime ecosystem architect — Mikan Project, DMHY, KissSub and beyond
+- 🦀 **Rust enthusiast** — Axum backends built for wire-speed performance
+- ☕ **Java & Kotlin veteran** — Spring microservices that never break a sweat
+- 📱 **Flutter community champion** — plugins and apps trusted by thousands
+- 🤖 **AI-augmented builder** — agents, smart workflows, quality-first tooling
+- ⛓️ **Web3 explorer** — BTC, EVM, and Internet Computer under the hood
+- 🎮 **Anime ecosystem architect** — Mikan Project, DMHY, KissSub and beyond
 
 ## 🎯 What I Do
 
-🏗️ **Backend** — Blazing fast APIs with Axum and Spring, event-driven microservices, rock-solid distributed systems
-📱 **Mobile** — Flutter cross-platform apps and native Android that users genuinely enjoy
+🏗️ **Backend** — Blazing fast APIs with Axum and Spring, event-driven microservices, battle-tested distributed architecture
+📱 **Mobile** — Flutter cross-platform apps and native Android experiences that users love
 🌐 **Frontend** — React, Vue, and TypeScript interfaces that feel alive and responsive
 🤖 **AI** — Intelligent dev workflows, autonomous agents, code quality tooling that amplifies creativity
 ⛓️ **Web3** — Smart contracts and on-chain logic across BTC, EVM, and Internet Computer
-🔧 **DX Tools** — Libraries and packages that make other developers more productive and happier
+🔧 **DX Tools** — Libraries and packages that make other developers faster and happier
 
 ## 🛠️ Tech Stack
 
@@ -111,7 +111,9 @@ I'm **iota9star** — a full stack developer who believes the best code is invis
 
 ## 💡 Quote
 
-> 📖 *"像你这样的白痴是怎么活过来的？""因为我很自信。"* —— 海贼王
+> 📖 *不溯往事，不念将来，如此，安好。*
+>
+> —— Rene
 
 ## 💭 Philosophy
 
