@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌌 Hey, I'm **iota9star**
+# ✨ Hey there, I'm **iota9star**
 
-**Full Stack Developer · Rust 🦀 & Java ☕ · Product-First Mindset**
+**Full Stack Developer · Rust 🦀 · Java ☕ · Product-First Thinking 🧠**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends.
+Crafting digital experiences that feel effortless — from warp-speed backends to buttery-smooth frontends.
 
 <img src="https://komarev.com/ghpvc/?username=iota9star&style=flat-square&color=58A6FF" alt="Views" />
 <img src="https://img.shields.io/badge/Focus-Rust_·_Java_·_Flutter-FF6B6B?style=flat-square" />
@@ -15,23 +15,23 @@ Building digital experiences across the stack — from high-performance backends
 
 ## 👨‍💻 About Me
 
-I'm **iota9star** — a developer who believes great software should feel like magic. I chase zero-cost abstractions in Rust, sculpt fluid UIs in Flutter, and wire distributed systems that run like clockwork. Off the keyboard, I'm deep into anime culture, exploring Web3 protocols, and building tools that make fellow developers smile.
+I'm **iota9star** — a developer obsessed with the craft of making complex things feel delightfully simple. I chase zero-cost abstractions in Rust, sculpt fluid cross-platform UIs in Flutter, and wire distributed systems that hum with reliability. When I'm not shipping code, you'll find me immersed in anime culture, tinkering with Web3 protocols, and building open-source tools that save fellow developers time and headaches. 🎌
 
-- 🦀 **Rust enthusiast** — Axum backends built for wire-speed performance
-- ☕ **Java & Kotlin veteran** — Spring microservices that never break a sweat
-- 📱 **Flutter community champion** — plugins and apps trusted by thousands
-- 🤖 **AI-augmented builder** — agents, smart workflows, quality-first tooling
-- ⛓️ **Web3 explorer** — BTC, EVM, and Internet Computer under the hood
-- 🎮 **Anime ecosystem architect** — Mikan Project, DMHY, KissSub and beyond
+🦀 **Rust zealot** — Axum backends engineered for raw wire-speed performance
+☕ **Java & Kotlin veteran** — Spring microservices that shoulder heavy loads without flinching
+📱 **Flutter ecosystem builder** — plugins and apps relied upon by thousands of developers worldwide
+🤖 **AI-augmented craftsman** — agents, smart workflows, and quality-first automation
+⛓️ **Web3 tinkerer** — exploring BTC, EVM, and Internet Computer protocols
+🎮 **Anime community contributor** — tools for Mikan Project, DMHY, KissSub and beyond
 
-## 🎯 What I Do
+## 🎯 What I Build
 
-🏗️ **Backend** — Blazing fast APIs with Axum and Spring, event-driven microservices, battle-tested distributed architecture
-📱 **Mobile** — Flutter cross-platform apps and native Android experiences that users love
-🌐 **Frontend** — React, Vue, and TypeScript interfaces that feel alive and responsive
-🤖 **AI** — Intelligent dev workflows, autonomous agents, code quality tooling that amplifies creativity
-⛓️ **Web3** — Smart contracts and on-chain logic across BTC, EVM, and Internet Computer
-🔧 **DX Tools** — Libraries and packages that make other developers faster and happier
+🏗️ **Backend Systems** — High-throughput APIs on Axum & Spring, event-driven microservices, distributed architectures that scale
+📱 **Mobile Experiences** — Flutter cross-platform apps and native Android experiences users genuinely enjoy
+🌐 **Frontend Interfaces** — React, Vue, and TypeScript SPAs that feel responsive and alive
+🤖 **AI Workflows** — Intelligent dev pipelines, autonomous agents, and code quality tools that amplify creativity
+⛓️ **Web3 Protocols** — Smart contracts and on-chain logic across BTC, EVM, and Internet Computer
+🔧 **Developer Tooling** — Open-source libraries and packages that make the whole ecosystem faster
 
 ## 🛠️ Tech Stack
 
@@ -101,27 +101,27 @@ I'm **iota9star** — a developer who believes great software should feel like m
 
 ## 🏆 Highlights
 
-🎯 Core contributor to **FlutterCandies** — powering one of the most vibrant Flutter plugin ecosystems on GitHub
-📱 Creator of **Mikan Flutter** — a beloved anime resource client trusted by a passionate community
-🔧 Building developer tools that prioritize DX — because happy devs ship better software
-⚡ Bridging Rust's raw performance with Dart's elegance through seamless FFI bindings
-🌍 Exploring the Web3 frontier — smart contracts on BTC, EVM chains, and Internet Computer
-🤖 Embracing AI-augmented development to ship faster, smarter, and with higher confidence
-🧩 Crafting reactive signal systems with **void_signals** — lightweight state management for Dart
+🎯 Core contributor to **FlutterCandies** — one of the most active Flutter plugin ecosystems on GitHub
+📱 Built **Mikan Flutter** — an anime resource client loved by a passionate community of users
+⚡ Bridging Rust's raw speed with Dart's elegance through seamless FFI bindings via **fjs**
+🧩 Designed **void_signals** — featherweight reactive state management that just works
+🔧 Committed to developer experience — because happy developers ship remarkable software
+🌍 Exploring the decentralized web — smart contracts across BTC, EVM, and Internet Computer
+🤖 Harnessing AI to build smarter, ship faster, and raise the bar on code quality every day
 
 ## 💡 Quote
 
-> 📖 *不溯往事，不念将来，如此，安好。*
+> 📖 *我们的夏天仍未结束。*
 >
-> —— Rene
+> —— 王牌投手
 
 ## 💭 Philosophy
 
-Great software is **invisible** — it does exactly what you expect, instantly, without friction. Every line of code should earn its place. Every API should feel intuitive. Every pixel should serve a purpose. The art is making complexity feel simple. 🎯
+The best software is **invisible** — it does exactly what you expect, at the moment you need it, with zero friction. Every function should justify its existence. Every API should feel like second nature. Every pixel should serve the user's intent. The real art is hiding complexity behind simplicity. 🎨
 
-I believe in building with **confidence** — trusting your instincts, validating with tests, and shipping with conviction. The best products come from developers who dare to simplify. 🚀
+I build with **conviction** — trust your instincts, back them up with tests, and ship with confidence. The most memorable products come from developers brave enough to subtract rather than add. 🚀
 
-> 💡 _Make it work, make it right, make it fast — then make it disappear into the user's flow._
+> 💡 _Make it work. Make it right. Make it fast. Then make it vanish into the user's flow._
 
 ## 🌱 Contribution Garden
 
@@ -143,5 +143,5 @@ I believe in building with **confidence** — trusting your instincts, validatin
 </div>
 
 <div align="center">
-  <em>Thanks for stopping by! ⭐ If anything here sparks your interest, a star would make my day.</em>
+  <em>Thanks for dropping by! ⭐ If anything here catches your eye, a star would absolutely make my day.</em>
 </div>
