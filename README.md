@@ -111,9 +111,9 @@ I'm **iota9star** — a developer who believes the best code is the kind you nev
 
 ## 💡 Quote
 
-> 📖 *不要太小看人类了！*
+> 📖 *只要微笑就可以了。*
 >
-> —— 加油大魔王
+> —— EVA
 
 ## 💭 Philosophy
 
