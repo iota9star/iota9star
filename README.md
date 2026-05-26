@@ -1,10 +1,10 @@
 <div align="center">
 
-# ✨ Hey there, I'm **iota9star**
+# 🌌 iota9star
 
-**Full Stack Developer · Rust 🦀 · Java ☕ · Product-First Mindset 🧠**
+**Full Stack Developer · Rust 🦀 · Java ☕ · Flutter 🎯 · Product-First Thinking**
 
-Building digital experiences that feel effortless — from warp-speed backends to buttery-smooth frontends.
+Building digital experiences that feel effortless — warp-speed backends, buttery-smooth frontends, and everything in between.
 
 <img src="https://komarev.com/ghpvc/?username=iota9star&style=flat-square&color=58A6FF" alt="Views" />
 <img src="https://img.shields.io/badge/Focus-Rust_·_Java_·_Flutter-FF6B6B?style=flat-square" />
@@ -15,10 +15,10 @@ Building digital experiences that feel effortless — from warp-speed backends t
 
 ## 👨‍💻 About Me
 
-I'm **iota9star** — a developer who believes the best code is the kind you never have to think about. I chase zero-cost abstractions in Rust, sculpt fluid cross-platform UIs in Flutter, and wire distributed systems that just hum. Beyond the terminal, I'm deep into anime culture, exploring Web3 protocols, and building open-source tools that give fellow developers their weekends back. 🎌
+I'm **iota9star** — a developer who believes the best code is the kind you never notice. I chase zero-cost abstractions in Rust, craft fluid cross-platform UIs in Flutter, and wire distributed systems that quietly hum along. When I'm not at the keyboard, I'm deep into anime culture, tinkering with Web3 protocols, and building open-source tools that give fellow developers their time back. 🎌
 
-🦀 **Rust purist** — Axum backends engineered for raw wire-speed performance and fearless concurrency
-☕ **Java & Kotlin veteran** — Spring microservices that shoulder serious traffic without breaking a sweat
+🦀 **Rust purist** — Axum backends engineered for raw wire-speed and fearless concurrency
+☕ **Java & Kotlin veteran** — Spring microservices that shoulder real traffic without breaking a sweat
 📱 **Flutter ecosystem builder** — plugins and apps trusted by thousands of developers worldwide
 🤖 **AI-augmented craftsman** — intelligent agents, smart workflows, and quality-first automation
 ⛓️ **Web3 explorer** — navigating BTC, EVM, and Internet Computer with curiosity and conviction
@@ -26,12 +26,12 @@ I'm **iota9star** — a developer who believes the best code is the kind you nev
 
 ## 🎯 What I Build
 
-🏗️ **Backend Systems** — High-throughput APIs on Axum & Spring, event-driven microservices, distributed architectures built to scale
-📱 **Mobile Experiences** — Flutter cross-platform apps and native Android experiences that users genuinely enjoy
+🏗️ **Backend Systems** — High-throughput APIs on Axum & Spring, event-driven microservices, architectures built to scale
+📱 **Mobile Experiences** — Flutter cross-platform apps and native Android UIs that users genuinely enjoy
 🌐 **Frontend Interfaces** — React, Vue, and TypeScript SPAs that feel responsive, alive, and delightful
-🤖 **AI Workflows** — Intelligent dev pipelines, autonomous agents, and code quality tools that amplify human creativity
+🤖 **AI Workflows** — Intelligent dev pipelines, autonomous agents, and quality tools that amplify creativity
 ⛓️ **Web3 Protocols** — Smart contracts and on-chain logic across BTC, EVM, and Internet Computer
-🔧 **Developer Tooling** — Open-source libraries and packages that make the entire ecosystem faster and more enjoyable
+🔧 **Developer Tooling** — Open-source libraries and packages that make the ecosystem faster and more enjoyable
 
 ## 🛠️ Tech Stack
 
@@ -111,9 +111,9 @@ I'm **iota9star** — a developer who believes the best code is the kind you nev
 
 ## 💡 Quote
 
-> 📖 *只要微笑就可以了。*
+> 📖 *这世界是个好地方，值得为它奋斗。后半句我同意。*
 >
-> —— EVA
+> —— 海明威
 
 ## 💭 Philosophy
 
