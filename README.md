@@ -1,17 +1,21 @@
-<div align="center">
+<h1 align="center">✨ iota9star</h1>
 
-# ✨ iota9star
+<p align="center">
+  <strong>Full Stack Engineer · Rust 🦀 · Java ☕ · Flutter 💙 · Building with Purpose</strong>
+</p>
 
-**Full Stack Engineer · Rust 🦀 · Java ☕ · Flutter 💙 · Building with Purpose**
+<p align="center">
+  Crafting high-performance backends and delightful frontends — from wire to wow.
+</p>
 
-Crafting high-performance backends and delightful frontends — from wire to wow.
-
-<img src="https://komarev.com/ghpvc/?username=iota9star&style=flat-square&color=58A6FF" alt="Views" />
-<img src="https://img.shields.io/badge/Focus-Rust_·_Java_·_Flutter-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/Mindset-Ship_It-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Passion-Open_Source-2EA043?style=flat-square" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iota9star&style=flat-square&color=58A6FF" alt="Views" />
+  <img src="https://img.shields.io/badge/Focus-Rust_·_Java_·_Flutter-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Ship_It-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Passion-Open_Source-2EA043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repos-100+-06B6D4?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-282-FB923C?style=flat-square&logo=github" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -111,9 +115,9 @@ Hey there! I'm **iota9star** — a developer obsessed with the craft of making c
 
 ## 💡 Quote
 
-> 📖 *莫叹明月笑多情，天涯尽头看流光飞去。*
+> 🎐 *飒爽英姿闯江湖，诗酒茶话莫孤独。*
 >
-> —— 相思引
+> —— 飒
 
 ## 💭 Philosophy
 
