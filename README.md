@@ -115,9 +115,9 @@ Hey there! I'm **iota9star** — a developer obsessed with the craft of making c
 
 ## 💡 Quote
 
-> 🎐 *飒爽英姿闯江湖，诗酒茶话莫孤独。*
+> 🎐 *不是别人，是我，承认了你的价值。*
 >
-> —— 飒
+> —— Fate/Zero
 
 ## 💭 Philosophy
 
