@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Crafting high-performance backends and delightful frontends — from wire to wow.
+  Crafting high-performance backends and delightful frontends — from wire to wow. 🚀
 </p>
 
 <p align="center">
@@ -19,23 +19,23 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a developer obsessed with the craft of making complex things feel simple. By day I wrangle distributed systems and build cross-platform apps; by night I contribute to open-source, tinker with Web3, and build tools for the anime community. I believe every line of code should earn its place, and every product should feel like it was built by someone who actually uses it. 🎌
+Hey there! I'm **iota9star** — a developer who believes the best code is the kind you never have to think about. I architect distributed systems and craft cross-platform apps by day, contribute to open-source and explore Web3 by night, and build tools for the anime community whenever inspiration strikes. 🎌
 
-🦀 **Rust enthusiast** — building Axum backends where zero-cost abstractions aren't just a slogan, they're a lifestyle
-☕ **Java & Kotlin craftsman** — Spring microservices forged under real production fire
-📱 **Flutter ecosystem builder** — plugins and apps used by thousands in the FlutterCandies collective
-🤖 **AI-powered developer** — agents, smart workflows, and code quality automation that actually help
-⛓️ **Web3 wanderer** — exploring BTC, EVM, and Internet Computer with curiosity and conviction
-🎌 **Anime tools creator** — Mikan, DMHY, KissSub apps built by a fan, for fans
+🦀 **Rust purist** — Axum backends where zero-cost abstractions are a way of life, not a marketing line
+☕ **Java & Kotlin veteran** — Spring microservices hardened by real production traffic
+📱 **Flutter ecosystem architect** — plugins and apps empowering thousands through FlutterCandies
+🤖 **AI-augmented builder** — agents, smart workflows, and automation that amplify creativity
+⛓️ **Web3 explorer** — navigating BTC, EVM, and Internet Computer with curiosity and conviction
+🎌 **Anime community advocate** — building Mikan, DMHY, and KissSub tools by a fan, for fans
 
 ## 🎯 What I Build
 
-🏗️ **Backend Systems** — Axum & Spring APIs that handle real traffic with grace and speed
-📱 **Mobile Apps** — Flutter cross-platform experiences that feel native and buttery smooth
-🌐 **Frontend Interfaces** — React, Vue, and TypeScript SPAs that are a joy to interact with
-🤖 **AI Workflows** — intelligent agents and dev pipelines that multiply creativity, not busywork
-⛓️ **Web3 Protocols** — smart contracts across BTC, EVM, and IC chains
-🔧 **Developer Tooling** — open-source packages that save fellow devs time and headaches
+🏗️ **Backend Systems** — Axum & Spring APIs designed for real-world scale and resilience
+📱 **Mobile Apps** — Flutter cross-platform experiences that feel buttery smooth and truly native
+🌐 **Frontend Interfaces** — React, Vue, and TypeScript SPAs that are intuitive and delightful
+🤖 **AI Workflows** — intelligent agents and dev pipelines that multiply output, not busywork
+⛓️ **Web3 Protocols** — smart contracts across BTC, EVM, and IC with pragmatic engineering
+🔧 **Developer Tooling** — open-source packages that eliminate friction for fellow developers
 
 ## 🛠️ Tech Stack
 
@@ -115,9 +115,9 @@ Hey there! I'm **iota9star** — a developer obsessed with the craft of making c
 
 ## 💡 Quote
 
-> 🎐 *不是别人，是我，承认了你的价值。*
+> 🌙 *人闲桂花落，夜静春山空。*
 >
-> —— Fate/Zero
+> —— 鸟鸣涧
 
 ## 💭 Philosophy
 
