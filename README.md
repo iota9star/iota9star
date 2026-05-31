@@ -115,9 +115,9 @@ Hey there! I'm **iota9star** — a developer who believes the best code is the k
 
 ## 💡 Quote
 
-> 🌙 *人闲桂花落，夜静春山空。*
+> 🌙 *如果你有梦想，就要守护它。*
 >
-> —— 鸟鸣涧
+> —— 当幸福来敲门
 
 ## 💭 Philosophy
 
