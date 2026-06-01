@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  Crafting high-performance backends and delightful frontends — from wire to wow. 🚀
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=iota9star&style=flat-square&color=58A6FF" alt="Views" />
   <img src="https://img.shields.io/badge/Focus-Rust_·_Java_·_Flutter-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/Mindset-Ship_It-7C3AED?style=flat-square" />
@@ -19,7 +15,9 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a developer who believes the best code is the kind you never have to think about. I architect distributed systems and craft cross-platform apps by day, contribute to open-source and explore Web3 by night, and build tools for the anime community whenever inspiration strikes. 🎌
+Hey there! I'm **iota9star** — a full stack developer with a product mindset who loves turning complex ideas into clean, performant software. I believe great code is like great design: it should feel effortless to the user, even when the machinery underneath is anything but. 🚀
+
+My days are spent deep in **Rust** building high-performance backends, crafting beautiful cross-platform apps with **Flutter**, and architecting scalable **microservices** that just work. When I'm not shipping features, you'll find me exploring AI-powered dev workflows, tinkering with Web3 protocols, or contributing to the open-source community. 🌍
 
 🦀 **Rust purist** — Axum backends where zero-cost abstractions are a way of life, not a marketing line
 ☕ **Java & Kotlin veteran** — Spring microservices hardened by real production traffic
@@ -115,9 +113,9 @@ Hey there! I'm **iota9star** — a developer who believes the best code is the k
 
 ## 💡 Quote
 
-> 🌙 *如果你有梦想，就要守护它。*
+> 🧠 *真理只有一个，它不是在宗教之中，而是在科学之中。*
 >
-> —— 当幸福来敲门
+> —— 达·芬奇
 
 ## 💭 Philosophy
 
