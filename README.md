@@ -10,21 +10,21 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a full stack developer with a deep love for building things that matter.
-I thrive at the intersection of **performance engineering** and **product design**, crafting digital experiences
-that are fast, elegant, and genuinely useful. Whether it's a high-throughput Rust microservice or a silky-smooth
-Flutter UI, I'm in my element when the code just *feels right*.
+Hey! I'm **iota9star** — a full stack engineer who lives where raw performance meets thoughtful design.
+I spend my days building everything from **blazing-fast Rust backends** to **buttery-smooth Flutter UIs**,
+and my evenings tinkering with **Web3 protocols** and **AI-powered workflows**.
 
-When I'm not shipping code, you'll find me exploring **Web3 protocols**, tinkering with **AI-powered workflows**,
-or diving into the anime subculture that inspires some of my most popular open source projects. 🎌
+I believe great software should feel effortless — like it was always supposed to exist.
+When I'm not coding, you'll catch me deep in anime culture 🎌, exploring decentralized networks,
+or pushing the boundaries of what developer tooling can do. ✨
 
 ## 🎯 What I Do
 
-- 🦀 **Rust & Java Backend** — High-performance services with Axum & Spring, designed for scale
-- 📱 **Cross-Platform Apps** — Flutter & Dart for beautiful mobile and desktop experiences
-- 🌐 **Web3 Explorer** — Building on BTC, EVM, and Internet Computer ecosystems
-- 🤖 **AI Augmented Dev** — Leveraging AI agents and code assistants to ship faster with higher quality
-- 🧩 **Open Source Contributor** — Maintaining packages in the FlutterCandies community
+🦀 **Rust & Java Backend** — High-throughput services with Axum & Spring, built to scale from day one
+📱 **Cross-Platform Apps** — Flutter & Dart apps that feel native on every platform
+🌐 **Web3 Builder** — Smart contracts & protocols on BTC, EVM, and Internet Computer
+🤖 **AI-Augmented Dev** — Agents, assistants, and workflows that amplify engineering quality
+🧩 **Open Source Advocate** — Maintaining and contributing to the FlutterCandies ecosystem
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +46,7 @@ or diving into the anime subculture that inspires some of my most popular open s
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Web3**
+**Web3 & Blockchain**
 ![Bitcoin](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![ICP](https://img.shields.io/badge/IC-29ABE2?style=flat-square&logo=internet-computer&logoColor=white)
@@ -90,27 +90,27 @@ or diving into the anime subculture that inspires some of my most popular open s
 
 ## 🏆 Highlights
 
-🎯 Core contributor to **FlutterCandies** — one of the most active Flutter plugin collectives on GitHub
-📱 Built **Mikan Flutter** — an anime resource client embraced by a passionate and growing community
+🎯 Core contributor to **FlutterCandies** — powering one of the most active Flutter plugin communities
+📱 Built **Mikan Flutter** — a beloved anime resource client with a passionate and growing user base
 ⚡ Bridging Rust's raw speed with Dart's elegance through seamless FFI bindings via **fjs**
-🧩 Designed **void_signals** — featherweight reactive state management that simply works
-🌍 Exploring the decentralized web — smart contracts across BTC, EVM, and Internet Computer
-🤖 Harnessing AI to build smarter, ship faster, and raise the quality bar every single day
+🧩 Designed **void_signals** — featherweight reactive state management that just works, no magic needed
+🌍 Exploring the decentralized frontier — smart contracts across BTC, EVM, and Internet Computer
+🤖 Harnessing AI every day to build smarter, ship faster, and never stop raising the quality bar
 
 ## 💡 Quote
 
-> 🧠 *The best way to predict the future is to invent it.*
+> 💫 *给你的努力一个交代，挥出已经紧握在双拳中的梦想。*
 >
-> —— Alan Kay
+> —— 柠檬盐
 
 ## 💭 Philosophy
 
-The best software is **invisible** — it does exactly what you expect, at the moment you need it, with zero friction.
-Every function should justify its existence. Every API should feel like second nature. Every pixel should serve
-the user's intent. The real craft is hiding complexity behind simplicity. 🎨
+The best software is **invisible** — it does exactly what you need, right when you need it, with zero friction.
+Every function earns its place. Every API feels intuitive. Every pixel serves the user's intent.
+The real art is hiding complexity behind elegant simplicity. 🎨
 
-I build with **conviction** — trust your instincts, back them up with tests, and ship with confidence.
-The most memorable products come from developers brave enough to subtract rather than add. 🚀
+I build with **conviction** — trust your instincts, validate with tests, and ship with confidence.
+The most impactful products come from developers brave enough to **subtract** rather than add. 🚀
 
 ## 🌱 Contribution Garden
 
@@ -128,5 +128,5 @@ The most memorable products come from developers brave enough to subtract rather
 </div>
 
 <div align="center">
-  <em>Thanks for dropping by! ⭐ If anything here catches your eye, a star would absolutely make my day.</em>
+  <em>Thanks for stopping by! ⭐ If anything here sparks your interest, a star would truly make my day.</em>
 </div>
