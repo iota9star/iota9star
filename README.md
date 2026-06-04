@@ -10,21 +10,22 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **iota9star** — a full stack engineer who lives where raw performance meets thoughtful design.
-I spend my days building everything from **blazing-fast Rust backends** to **buttery-smooth Flutter UIs**,
-and my evenings tinkering with **Web3 protocols** and **AI-powered workflows**.
+Hey there! I'm **iota9star** — a full stack engineer who thrives at the intersection of performance and polish.
+By day I architect **high-throughput Rust microservices** and **enterprise-grade Java backends**;
+by night I'm crafting **pixel-perfect Flutter experiences** and diving into **decentralized protocols**.
 
-I believe great software should feel effortless — like it was always supposed to exist.
-When I'm not coding, you'll catch me deep in anime culture 🎌, exploring decentralized networks,
-or pushing the boundaries of what developer tooling can do. ✨
+I'm driven by a simple obsession: software should feel like second nature to the people who use it.
+When the keyboard cools down, you'll find me exploring anime universes 🎌, studying blockchain consensus,
+or experimenting with AI agents that push the boundaries of what developer tools can do. 🧪
 
 ## 🎯 What I Do
 
-🦀 **Rust & Java Backend** — High-throughput services with Axum & Spring, built to scale from day one
-📱 **Cross-Platform Apps** — Flutter & Dart apps that feel native on every platform
-🌐 **Web3 Builder** — Smart contracts & protocols on BTC, EVM, and Internet Computer
-🤖 **AI-Augmented Dev** — Agents, assistants, and workflows that amplify engineering quality
-🧩 **Open Source Advocate** — Maintaining and contributing to the FlutterCandies ecosystem
+🦀 **Systems Programming** — High-performance backends in Rust with Axum, where zero-cost abstractions meet real-world throughput
+☕ **Enterprise Backends** — Scalable Spring microservices that handle millions of requests without breaking a sweat
+📱 **Cross-Platform Apps** — Flutter & Dart applications that feel truly native on every device and platform
+🌐 **Web3 Exploration** — Smart contracts and decentralized apps across BTC, EVM, and Internet Computer ecosystems
+🤖 **AI-Powered Workflows** — Building agents and assistants that amplify developer productivity and code quality
+🧩 **Open Source Libraries** — Maintaining and contributing to the FlutterCandies ecosystem and beyond
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +36,7 @@ or pushing the boundaries of what developer tooling can do. ✨
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend & Infra**
+**Backend & Infrastructure**
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -90,27 +91,28 @@ or pushing the boundaries of what developer tooling can do. ✨
 
 ## 🏆 Highlights
 
-🎯 Core contributor to **FlutterCandies** — powering one of the most active Flutter plugin communities
-📱 Built **Mikan Flutter** — a beloved anime resource client with a passionate and growing user base
-⚡ Bridging Rust's raw speed with Dart's elegance through seamless FFI bindings via **fjs**
-🧩 Designed **void_signals** — featherweight reactive state management that just works, no magic needed
-🌍 Exploring the decentralized frontier — smart contracts across BTC, EVM, and Internet Computer
-🤖 Harnessing AI every day to build smarter, ship faster, and never stop raising the quality bar
+🎯 Core contributor to **FlutterCandies** — powering one of the most active Flutter plugin ecosystems in the community
+📱 Creator of **Mikan Flutter** — an elegant anime resource client loved by a growing community of enthusiasts
+⚡ Bridging Rust's raw power with Dart's elegance through seamless FFI bindings in **fjs**
+🧩 Designed **void_signals** — a featherweight reactive state library that strips away complexity
+🌐 Pushing into the decentralized frontier with smart contracts on BTC, EVM, and Internet Computer
+🤖 Harnessing AI daily to ship smarter, iterate faster, and continuously raise the quality bar
 
 ## 💡 Quote
 
-> 💫 *给你的努力一个交代，挥出已经紧握在双拳中的梦想。*
+> 🍃 *就像那句狠话：有一天，我一定会后悔的。*
 >
-> —— 柠檬盐
+> —— 网易云
 
 ## 💭 Philosophy
 
-The best software is **invisible** — it does exactly what you need, right when you need it, with zero friction.
-Every function earns its place. Every API feels intuitive. Every pixel serves the user's intent.
-The real art is hiding complexity behind elegant simplicity. 🎨
+The best software is **invisible** — it does exactly what you need, right when you need it, without asking for attention.
+Every function earns its place. Every API tells a story. Every pixel serves a purpose.
+The art lies in hiding immense complexity behind deceptively simple interfaces. 🎨
 
 I build with **conviction** — trust your instincts, validate with tests, and ship with confidence.
 The most impactful products come from developers brave enough to **subtract** rather than add. 🚀
+Code is communication — write it for the human who reads it next, not just the machine that runs it.
 
 ## 🌱 Contribution Garden
 
