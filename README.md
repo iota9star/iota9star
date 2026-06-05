@@ -100,9 +100,9 @@ or experimenting with AI agents that push the boundaries of what developer tools
 
 ## 💡 Quote
 
-> 🍃 *就像那句狠话：有一天，我一定会后悔的。*
+> 🍃 *让时间再慢些啊，让笑容常驻啊，让你再近一点啊。*
 >
-> —— 网易云
+> —— 一言
 
 ## 💭 Philosophy
 
