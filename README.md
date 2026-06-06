@@ -10,20 +10,18 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **iota9star** — a full stack engineer who thrives at the intersection of performance and polish.
-By day I architect **high-throughput Rust microservices** and **enterprise-grade Java backends**;
-by night I'm crafting **pixel-perfect Flutter experiences** and diving into **decentralized protocols**.
+Hey! I'm **iota9star** — a full stack engineer who lives at the crossroads of raw performance and polished experience. ⚡
 
-I'm driven by a simple obsession: software should feel like second nature to the people who use it.
-When the keyboard cools down, you'll find me exploring anime universes 🎌, studying blockchain consensus,
-or experimenting with AI agents that push the boundaries of what developer tools can do. 🧪
+By day I architect **high-throughput Rust services** and **enterprise Java backends** that shoulder real-world traffic. By night I'm crafting **pixel-perfect Flutter apps**, tinkering with **decentralized protocols**, and training **AI agents** to be better coding companions. 🤖
+
+My north star: software should vanish into the background and just *work* — effortlessly, reliably, beautifully. When the IDE closes, you'll catch me lost in anime worlds 🎌, deep in blockchain whitepapers, or hunting for the perfect cup of pour-over coffee. ☕
 
 ## 🎯 What I Do
 
 🦀 **Systems Programming** — High-performance backends in Rust with Axum, where zero-cost abstractions meet real-world throughput
-☕ **Enterprise Backends** — Scalable Spring microservices that handle millions of requests without breaking a sweat
+☕ **Enterprise Backends** — Scalable Spring microservices handling millions of requests without breaking a sweat
 📱 **Cross-Platform Apps** — Flutter & Dart applications that feel truly native on every device and platform
-🌐 **Web3 Exploration** — Smart contracts and decentralized apps across BTC, EVM, and Internet Computer ecosystems
+🌐 **Web3 Exploration** — Smart contracts and dApps across BTC, EVM, and Internet Computer ecosystems
 🤖 **AI-Powered Workflows** — Building agents and assistants that amplify developer productivity and code quality
 🧩 **Open Source Libraries** — Maintaining and contributing to the FlutterCandies ecosystem and beyond
 
@@ -95,24 +93,21 @@ or experimenting with AI agents that push the boundaries of what developer tools
 📱 Creator of **Mikan Flutter** — an elegant anime resource client loved by a growing community of enthusiasts
 ⚡ Bridging Rust's raw power with Dart's elegance through seamless FFI bindings in **fjs**
 🧩 Designed **void_signals** — a featherweight reactive state library that strips away complexity
-🌐 Pushing into the decentralized frontier with smart contracts on BTC, EVM, and Internet Computer
+🌐 Exploring the decentralized frontier with smart contracts on BTC, EVM, and Internet Computer
 🤖 Harnessing AI daily to ship smarter, iterate faster, and continuously raise the quality bar
+🚀 Building tools that make developers' lives easier — from TV remote controls to JSON serialization
 
 ## 💡 Quote
 
-> 🍃 *让时间再慢些啊，让笑容常驻啊，让你再近一点啊。*
+> 🌸 *故人西辞黄鹤楼，烟花三月下扬州。*
 >
-> —— 一言
+> —— 李白《黄鹤楼送孟浩然之广陵》
 
 ## 💭 Philosophy
 
-The best software is **invisible** — it does exactly what you need, right when you need it, without asking for attention.
-Every function earns its place. Every API tells a story. Every pixel serves a purpose.
-The art lies in hiding immense complexity behind deceptively simple interfaces. 🎨
+The best software is **invisible** — it does exactly what you need, right when you need it, without asking for attention. Every function earns its place. Every API tells a story. Every pixel serves a purpose. The art lies in hiding immense complexity behind deceptively simple interfaces. 🎨
 
-I build with **conviction** — trust your instincts, validate with tests, and ship with confidence.
-The most impactful products come from developers brave enough to **subtract** rather than add. 🚀
-Code is communication — write it for the human who reads it next, not just the machine that runs it.
+I build with **conviction** — trust your instincts, validate with tests, and ship with confidence. The most impactful products come from developers brave enough to **subtract** rather than add. 🚀 Code is communication — write it for the human who reads it next, not just the machine that runs it.
 
 ## 🌱 Contribution Garden
 
