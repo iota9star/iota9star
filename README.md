@@ -1,33 +1,35 @@
 <h1 align="center">
   <a href="https://github.com/iota9star">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2600&pause=1000&color=6C63FF&center=true&vCenter=true&width=540&lines=Hey+%F0%9F%91%8B+I'm+iota9star;Full+Stack+Engineer;Rust+%E2%9D%A4%EF%B8%8F+Flutter+%E2%9D%A4%EF%B8%8F+Java;Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=F78166&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B+Hi+there%2C+I'm+iota9star;Rust+%E2%9A%99%EF%B8%8F+Flutter+%F0%9F%A6%8B+Java+%E2%98%95;Full+Stack+%E2%80%94+Backend+Heavy;Ship+%E2%9A%A1+Iterate+%F0%9F%94%84+Repeat" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iota9star&style=flat-square&color=6C63FF&label=Profile+Views" alt="views" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-6C63FF?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="OSS" />
-  <img src="https://img.shields.io/badge/Status-Online%20%E2%9C%A8-brightgreen?style=flat-square" alt="status" />
-  <img src="https://img.shields.io/badge/Repos-100%2B-FF6B6B?style=flat-square&logo=github&logoColor=white" alt="repos" />
+  <img src="https://komarev.com/ghpvc/?username=iota9star&style=flat-square&color=F78166&label=Profile+Views" alt="views" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-F78166?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="OSS" />
+  <img src="https://img.shields.io/badge/Status-Always%20Shipping%20%F0%9F%9A%80-brightgreen?style=flat-square" alt="status" />
+  <img src="https://img.shields.io/badge/Repos-100%2B-FFA657?style=flat-square&logo=github&logoColor=white" alt="repos" />
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://count.getloli.com/get/@iota9star?theme=rule34" alt="visitor counter" />
+</p>
 
-Hey there! I'm **iota9star** — a full stack engineer who thrives at the intersection of **raw performance** and **delightful UX**. My days revolve around crafting blazing-fast Rust services 🦀, battle-tested Java microservices ☕, and polished Flutter apps 📱 that people genuinely enjoy using.
+## 🧑‍💻 About Me
 
-I've been shipping code across **100+ public repositories** — from low-level FFI bindings and reactive state libraries to cross-platform anime clients and developer tooling. When I'm not pushing commits, you'll find me deep in anime marathons 🎬, exploring Web3 protocols ⛓️, or perfecting my espresso technique ☕.
+I'm **iota9star** — a full stack engineer who believes the best code is the code you never have to think about. 🎭 I split my time between crafting **blazing-fast Rust backends** 🦀, shipping **polished Flutter apps** 🦋, and building **enterprise-grade Java microservices** ☕ that actually scale.
 
-![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
+Over **100+ public repositories** strong — from FFI bridges and reactive state managers to cross-platform anime clients and developer tooling that saves real minutes. Off the keyboard, you'll catch me marathoning anime 🎬, diving into Web3 protocols ⛓️, or pulling the perfect espresso shot ☕.
 
-## 🎯 What I Do
+## 🎯 What I Build
 
-🦀 **Rust Backend Engineering** — High-throughput Axum services where memory safety meets zero-cost abstractions
-📱 **Flutter & Dart Ecosystem** — Core contributor to FlutterCandies, building plugins that power thousands of apps worldwide
-☕ **JVM Microservices** — Enterprise-grade Spring architectures designed to scale under real production pressure
-🌐 **Frontend Craft** — React and Vue applications that are responsive, accessible, and a joy to interact with
-🤖 **AI-Powered Workflows** — Leveraging AI agents and code assistants to ship smarter, not harder
-⛓️ **Web3 Explorer** — Active across BTC, EVM chains, and Internet Computer; decentralization is the future
-🧩 **Developer Tooling** — If it saves another developer five minutes, I want to build it
+🦀 **High-Performance Rust** — Axum services where zero-cost abstractions aren't just theory, they're production reality
+📱 **Flutter & Dart Ecosystem** — Core contributor to [FlutterCandies](https://github.com/fluttercandies), building plugins powering thousands of apps
+☕ **JVM Microservices** — Spring architectures that handle real traffic, not just demo loads
+🌐 **Frontend Craft** — React & Vue SPAs that feel native, responsive, and genuinely pleasant to use
+🤖 **AI-Augmented Development** — Code assistants and agent workflows to ship faster without sacrificing quality
+⛓️ **Web3 Tinkerer** — BTC, EVM chains, Internet Computer — decentralization is worth building toward
+🔧 **Developer Tooling** — If it shaves five minutes off someone's workflow, I want to make it
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +40,7 @@ I've been shipping code across **100+ public repositories** — from low-level F
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend & Infra**
+**Backend & Infrastructure**
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -49,16 +51,16 @@ I've been shipping code across **100+ public repositories** — from low-level F
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Web3**
+**Web3 & Blockchain**
 ![Bitcoin](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![ICP](https://img.shields.io/badge/IC-29ABE2?style=flat-square&logo=internet-computer&logoColor=white)
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iota9star&theme=radical&hide_border=true&background=0D1117&stroke=30363D&ring=6C63FF&fire=FF6B6B&currLabel=6C63FF" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F78166&icon_color=F78166&text_color=C9D1D9&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iota9star&theme=radical&hide_border=true&background=0D1117&stroke=30363D&ring=F78166&fire=FFA657&currLabel=F78166" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -95,31 +97,30 @@ I've been shipping code across **100+ public repositories** — from low-level F
 </tr>
 </table>
 
-## 🏆 Highlights & Achievements
+## 🏆 Highlights
 
-✨ **FlutterCandies Core Team** — maintaining one of the most beloved Flutter plugin ecosystems on the planet
-📱 **Mikan Flutter** — an elegant anime resource client with a passionate and growing community of fans
-⚡ **fjs** — bridging Rust's raw power with Dart's elegance through seamless FFI bindings
-🧩 **void_signals** — a minimalist reactive state library proving that less truly is more
-📺 **dpad** — a Flutter framework for building TV remote and D-pad navigation experiences
-⛓️ **Web3 Multichain** — active across BTC, EVM, and Internet Computer protocols
-🤖 **AI-Native Development** — daily AI agent integration for smarter, faster, higher-quality output
-🛠️ **100+ Repositories** — from JSON serializers to SVG optimizers, always shipping something useful
-🌱 **Open Source Advocate** — the best code is code everyone can learn from and improve together
+🌟 **FlutterCandies Core Team** — maintaining one of the most beloved Flutter plugin collections in the ecosystem
+📱 **Mikan Flutter** — an elegant, community-loved anime resource client built with Dart & Flutter
+⚡ **fjs** — Rust↔Dart FFI bridge that makes cross-language calls feel effortless
+🧩 **void_signals** — proving reactive state management can be both tiny and powerful
+📺 **dpad** — TV and D-pad navigation framework for Flutter on the big screen
+⛓️ **Multichain Web3** — building and exploring across BTC, EVM, and Internet Computer
+🤖 **AI-Native Workflow** — every day is an experiment in shipping smarter with AI agents
+🌱 **100+ Open Source Repos** — from JSON serializers to SVG optimizers, always building in public
 
-## 💬 Words to Build By
+## 💬 Random Thought
 
-> 🌸 *我们的学生会长，比高达还强。*
+> 🎲 *人生三大错觉：我能反杀，下一发能出金，她喜欢我。*
 >
-> —— 《旋风管家》春风千樱
+> —— 《现实》
 
 ## 💭 Engineering Philosophy
 
-I believe the most powerful code is the code you **never notice**. 🎭 Software should feel like magic to the user and read like poetry to the next developer. Every function justifies its existence, every API respects your time, every abstraction earns its weight.
+Build with **conviction**, ship with **humility**. 🧠
 
-Build with **conviction**, ship with **humility**. 🧠 The best products emerge when you're brave enough to **subtract** — remove the unnecessary until only the essential remains. Tests are your safety net 🔒, reviews are your mirror 🪞, and open source is your classroom 🎓.
+The most impactful software feels invisible — it respects your time, anticipates your needs, and gets out of your way. Every function should justify its existence, every API should feel intuitive, every abstraction should carry its weight in gold. ✨
 
-Write code your future self will thank you for, and that strangers can fall in love with. 💜
+I write code my future self will thank me for, and that strangers can fall in love with. Tests are my safety net 🔒, code reviews are my mirror 🪞, and open source is where I do my best learning 🎓. The best products emerge when you're brave enough to **subtract** — strip away the noise until only the signal remains. 🎯
 
 ## 🌱 Contribution Garden
 
@@ -137,5 +138,5 @@ Write code your future self will thank you for, and that strangers can fall in l
 </div>
 
 <div align="center">
-  <em>✨ Thanks for scrolling this far! If anything caught your eye, a ⭐ star would absolutely make my day.</em>
+  <em>🌸 Thanks for reading! If any project caught your eye, a ⭐ star would genuinely make my day.</em>
 </div>
