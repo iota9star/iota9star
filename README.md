@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/iota9star">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=F78166&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B+Hey%2C+I'm+iota9star;Rust+%E2%9A%99%EF%B8%8F+%7C+Flutter+%F0%9F%A6%8B+%7C+Java+%E2%98%95;Full+Stack+%C2%B7+Backend+Heavy+%C2%B7+OSS+First;Think+Deep+%F0%9F%A7%A0+%C2%B7+Ship+Fast+%E2%9A%A1+%C2%B7+Repeat+%F0%9F%94%84" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=600&color=F78166&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+iota9star;Rust+%F0%9F%A6%80+%7C+Flutter+%F0%9F%A6%8B+%7C+Java+%E2%98%95;Full+Stack+%C2%B7+OSS+First+%C2%B7+Build+in+Public;Think+Deep+%F0%9F%A7%A0+%C2%B7+Ship+Fast+%E2%9A%A1+%C2%B7+Repeat+%F0%9F%94%84" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -113,10 +113,10 @@ On GitHub since **2016** — still curious, still shipping 🚀.
 
 ## 💡 Random Thought
 
-> 🎲 *代码是诗，架构是哲学，部署是信仰。*
-> *Code is poetry, architecture is philosophy, deployment is faith.*
+> 🎲 *太阳遥不可及，少年一往无前。*
+> *The sun is out of reach, yet the youth presses forward without hesitation.*
 >
-> —— A Developer's Confession 📖
+> —— 放学等我
 
 ## 💭 Engineering Philosophy
 
