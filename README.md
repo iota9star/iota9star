@@ -7,11 +7,11 @@
 > *我心里危险的是 bug，浪漫的是把它修好的那一刻。* ✨
 > *"What's dangerous in my heart is the bug; what's romantic is the moment I fix it."*
 
-I build across the whole stack — from **high‑performance backends** that survive real traffic, to **frontends** people genuinely enjoy touching. I care about the gap between *"it works"* and *"it feels good"*, and I ship with a product mindset: every line of code should answer a real human need. 🎯
+I build across the whole stack — from **high‑performance backends** that survive real traffic, to **frontends** people genuinely enjoy touching. I'm obsessed with the gap between *"it works"* and *"it feels good"*, and I ship with a product mindset: every line of code should answer a real human need. 🎯
 
 ## 👨‍💻 About Me
 
-- 🧠 **Backend‑first thinker** — fluent in Rust, Java & Kotlin, equally happy out at the edge with Flutter, React & Vue.
+- 🧠 **Backend‑first thinker** — fluent in Rust, Java & Kotlin, equally at home out at the edge with Flutter, React & Vue.
 - 🦀 By day I wrangle **Rust microservices** that move at wire speed; by night I polish **Flutter UIs** that glide like butter. ☕
 - 🎮 Off the clock I'm a devoted **anime & gadget** enthusiast — a few repos exist purely to scratch that itch (yes, the `mikan` and `sakura` ones 😏).
 - 🤖 Convinced that **AI‑augmented development** is a craft, not a shortcut — I build agents and assistants that make code *better*, not just faster.
@@ -30,16 +30,16 @@ I build across the whole stack — from **high‑performance backends** that sur
 
 ## 🛠️ Tech Stack
 
-**Languages**  \
+**Languages**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend & Infrastructure**  \
+**Backend & Infrastructure**
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=cloudflare&logoColor=white)
 
-**Frontend & Mobile**  \
+**Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**AI & Web3**  \
+**AI & Web3**
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF4F8B?style=flat-square&logo=probot&logoColor=white) ![LLM Tooling](https://img.shields.io/badge/LLM%20Tooling-8A2BE2?style=flat-square&logo=openai&logoColor=white) ![BTC](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-627EEA?style=flat-square&logo=ethereum&logoColor=white) ![ICP](https://img.shields.io/badge/Internet_Computer-29ABFA?style=flat-square&logo=internetcomputer&logoColor=white)
 
 ## 📊 Quick Stats
@@ -51,8 +51,8 @@ I build across the whole stack — from **high‑performance backends** that sur
 
 **The numbers at a glance** 📈
 
-- 🗂️ **100+** public repositories — tools, apps & libraries
-- ⭐ **1,500+** stars earned across open‑source work
+- 🗂️ **100** public repositories — tools, apps & libraries
+- ⭐ **1,541** stars earned across open‑source work
 - 👥 **282** developers along for the ride, **49** inspiring me back
 - 🗓️ On GitHub since **2016** — almost a decade of commits and counting
 
@@ -92,21 +92,21 @@ A masonry of what I'm proudest of, sorted by ⭐ community love — click any ca
 
 ## 💡 A Thought
 
-> *行百里者半九十。*
-> *"Ninety miles is only half of a hundred‑mile journey."*
+> *我会不断地前进，即使我现在很不好。*
+> *"I will keep moving forward, even when things are not going well right now."*
 >
-> —— 《战国策》 · *Strategies of the Warring States*
+> —— 网易云评论区 · *NetEase Cloud Music comments*
 
-The last 10% — the polish, the edge cases, the patience — is where the real work lives. I try to remember that every time a project feels *"almost done."* 🌧️→🌈
+Some days the build is red, the design won't sit right, the deadline breathes down your neck. This is the reminder I keep pinned: **forward motion beats perfect conditions**. Ship the smallest honest step, then the next one. Progress compounds; momentum is a feature. 🌧️→🌈
 
 ## 🏆 Highlights
 
-- 🥇 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — a beloved Flutter client with **1.3k+ ⭐**, proving a niche tool done well can outshine a thousand generic ones.
+- 🥇 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — a beloved Flutter anime client with **1.3k+ ⭐**, proof that a niche tool done well can outshine a thousand generic ones.
 - 🤝 **Core contributor to [`FlutterCandies`](https://github.com/fluttercandies)** — a collective shipping battle‑tested packages used across the ecosystem.
 - ⚡ **[`fjs`](https://github.com/fluttercandies/fjs)** — a Rust↔Dart FFI bridge turning cross‑language interop from pain point into power tool.
 - 🧩 **[`void_signals`](https://github.com/void-signals/void_signals)** — lightweight reactive signals for Dart; state management that disappears into your architecture.
 - 📺 **[`dpad`](https://github.com/fluttercandies/dpad)** — TV & D‑pad navigation for Flutter, because big screens deserve great UX too.
-- 🌱 **100+ open‑source repos**, **1,500+ stars**, and a community of **282 followers** — grateful for every star and every interesting conversation.
+- 🌱 **100 open‑source repos**, **1,541 stars**, and a community of **282 followers** — grateful for every star and every interesting conversation.
 
 ## 💭 Philosophy
 
