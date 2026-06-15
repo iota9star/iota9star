@@ -1,4 +1,4 @@
-# 👋 Hey, I'm iota9star
+# 👋 Hey there, I'm iota9star
 
 **Full‑Stack Engineer · Rust & Java Backend · Product Mindset** 🚀
 
@@ -7,13 +7,13 @@
 > *我心里危险的是 bug，浪漫的是把它修好的那一刻。* ✨
 > *"What's dangerous in my heart is the bug; what's romantic is the moment I fix it."*
 
-I build across the whole stack — from **high‑performance backends** that survive real traffic, to **frontends** people genuinely enjoy touching. I'm obsessed with the gap between *"it works"* and *"it feels good"*, and I ship with a product mindset: every line of code should answer a real human need. 🎯
+I build across the whole stack — from **high‑performance backends** that survive real traffic, to **frontends** people genuinely enjoy touching. I live for the gap between *"it works"* and *"it feels good"*, and I ship with a product mindset: every line of code should answer a real human need. 🎯
 
 ## 👨‍💻 About Me
 
 - 🧠 **Backend‑first thinker** — fluent in Rust, Java & Kotlin, equally at home out at the edge with Flutter, React & Vue.
 - 🦀 By day I wrangle **Rust microservices** that move at wire speed; by night I polish **Flutter UIs** that glide like butter. ☕
-- 🎮 Off the clock I'm a devoted **anime & gadget** enthusiast — a few repos exist purely to scratch that itch (yes, the `mikan` and `sakura` ones 😏).
+- 🎮 Off the clock I'm a devoted **anime & gadget** nerd — a few repos exist purely to scratch that itch (yes, the `mikan` and `sakura` ones 😏).
 - 🤖 Convinced that **AI‑augmented development** is a craft, not a shortcut — I build agents and assistants that make code *better*, not just faster.
 - 🔗 Permanently curious about **Web3** primitives across BTC, EVM and the Internet Computer.
 - 🗓️ Building in public on GitHub since **August 2016** — nearly a decade, still shipping. 🌱
@@ -92,12 +92,12 @@ A masonry of what I'm proudest of, sorted by ⭐ community love — click any ca
 
 ## 💡 A Thought
 
-> *我会不断地前进，即使我现在很不好。*
-> *"I will keep moving forward, even when things are not going well right now."*
+> *美食之于他们是爱、是救赎、是一切美好及温暖的集合。*
+> *"To them, good food is love, is salvation — the sum of everything good and warm."*
 >
-> —— 网易云评论区 · *NetEase Cloud Music comments*
+> —— Bruce Jc
 
-Some days the build is red, the design won't sit right, the deadline breathes down your neck. This is the reminder I keep pinned: **forward motion beats perfect conditions**. Ship the smallest honest step, then the next one. Progress compounds; momentum is a feature. 🌧️→🌈
+I love this line because it could just as well be about **code well‑written**. A clean abstraction is its own kind of comfort food 🍜 — it nourishes the next person who reads it, warms a stressed teammate at 2am, and quietly redeems the mess it replaced. Build things that *feed* people: tools that save time, interfaces that spark joy, systems that hold up when it matters. Warmth is an engineering value. 🧡
 
 ## 🏆 Highlights
 
