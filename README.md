@@ -1,21 +1,21 @@
 # 👋 Hey, I'm iota9star
 
-**Full-Stack Engineer · Rust & Java Backend · Product Mindset** 🚀
+**Full-Stack Engineer · Rust + Java Backend · Product Mindset** 🚀
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-> *"我心里危险的东西"* — but the only thing truly dangerous around here is a deadline I haven't met. 😏
+> *I turn coffee ☕, deadlines ⏰, and the occasional 3 a.m. rabbit hole 🐇 into software people actually want to use.*
 
-I build across the whole stack — from **high-performance backends** that survive real traffic, to **frontends** people genuinely enjoy touching. I live for the gap between *"it works"* and *"it feels good"*, and I ship with a product mindset: every line of code should answer a real human need. 🎯
+I build across the whole stack — **high-performance backends** that hold up under real load, **frontends** that feel alive in your hands, and the quiet, invisible glue in between. My north star is simple: ship things that make someone's day a little faster, calmer, or more delightful. 🌟
 
 ## 👨‍💻 About Me
 
-- 🦀 **Rust-flavored backend thinker** by day — Axum services, zero-cost abstractions, the works — and a **Flutter tinkerer** by night.
-- ☕ Equally fluent in **Java, Kotlin, TypeScript & Dart**; comfortable from the system's edge out to the last pixel on screen.
-- 🌸 Unapologetic **anime & gadget** nerd — a few of my repos exist purely to scratch that itch (yes, the `mikan`, `sakura` and `kisssub` ones 😏).
-- 🤖 Convinced that **AI-augmented development** is a craft, not a shortcut — I build agents and assistants that make code *better*, not just faster.
+- 🦀 A **Rust** backend thinker by daylight — Axum services, zero-cost abstractions, async runtimes — and a **Flutter** tinkerer after the sun goes down.
+- ☕ Equally at home in **Java, Kotlin, TypeScript & Dart**; comfortable from the network edge to the very last pixel.
+- 🌸 Card-carrying **anime & gadget** nerd — yes, `mikan`, `sakura` and `kisssub` are exactly the passion projects they sound like 😏.
+- 🤖 Believe **AI-augmented development** is a craft, not a shortcut — I build agents and assistants that make code *genuinely better*.
 - ⛓️ Permanently curious about **Web3** primitives across BTC, EVM and the Internet Computer.
-- 🗓️ Building in public since **August 2016** — almost a decade of commits, still shipping. 🌱
+- 🗓️ Committing since **August 2016** — nearly a decade in, and still shipping 🌱.
 
 ## 🎯 What I Do
 
@@ -54,13 +54,13 @@ I build across the whole stack — from **high-performance backends** that survi
 - ⭐ **1.6k+** stars earned across open-source work
 - 👥 **282** developers along for the ride, **49** inspiring me back
 - 📝 **10** public gists — notes, snippets, late-night experiments
-- 🗓️ On GitHub since **August 2016** — almost a decade and counting
+- 🗓️ On GitHub since **August 2016** — nearly a decade and counting
 
 ![contrib](profile-3d-contrib/profile-season-animate.svg)
 
 ## 🔥 Featured Projects
 
-A masonry of what I'm proudest of, sorted by ⭐ community love — click any card to explore:
+A masonry of what I'm proudest of — sorted by ⭐ community love, each card is a doorway. Click any of them:
 
 <table>
 <tr>
@@ -90,27 +90,22 @@ A masonry of what I'm proudest of, sorted by ⭐ community love — click any ca
 </tr>
 </table>
 
-## 💡 A Line I Love
+## 💡 A Line I Keep Close
 
-> *"我发过誓，再也不装作没察觉，再也不逃避。"*
-> *"I swore I'd never again pretend not to notice — never again run away."*
->
-> —— 《文学少女》 *Book Girl*
+> *"Even the smallest light is enough, if you refuse to let it go out."* 🕯️
 
-I keep this one close because it's the whole job, really. Don't pretend the bug isn't there. Don't dodge the awkward refactor. Don't look away from the edge case that bites at 3am 🌙. Good engineering is just courage compiled into code — notice everything, flinch at nothing, and fix it anyway.
+It's the whole job, really. Don't pretend the bug isn't there. Don't dodge the awkward refactor. Don't look away from the edge case that bites at 3 a.m. 🌙 — good engineering is just stubbornness pointed at the right things. Notice everything, flinch at nothing, and fix it anyway.
 
 ## 🏆 Highlights
 
-- 🥇 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — a beloved Flutter anime client with **1.3k+ ⭐** and 60+ forks; proof that a niche tool done lovingly can outshine a thousand generic ones.
+- 🥇 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — a beloved Flutter anime client with **1.3k+ ⭐** and 60+ forks; proof a niche tool built with love can outshine a thousand generic ones.
 - ⚡ **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, built in Rust on QuickJS; cross-language interop as a superpower.
 - 📺 **[`dpad`](https://github.com/fluttercandies/dpad)** — TV & D-pad navigation for Flutter, because big screens deserve great UX too.
 - 🧩 **[`void_signals`](https://github.com/void-signals/void_signals)** — high-performance signal reactivity for Dart; state management that disappears into your architecture.
 - 🤝 **Core contributor to [`FlutterCandies`](https://github.com/fluttercandies)** — a collective shipping battle-tested packages across the Dart ecosystem.
-- 🌱 **100 repos, 1.6k+ stars, 282 followers** — grateful for every star and every interesting conversation.
+- 🌱 **100 repos · 1.6k+ stars · 282 followers** — grateful for every star and every interesting conversation.
 
-## 💭 Philosophy
-
-> *"我们，有些许相似。"* — *"We are, in some small way, alike."*
+## 💭 How I Build
 
 Great software is **empathy compiled into code** 🧠. The best systems are invisible — they respect your time, anticipate the edge case before it bites, and dissolve quietly into whatever someone is trying to accomplish ✨.
 
