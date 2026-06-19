@@ -1,21 +1,19 @@
-# 👋 Hey there, I'm iota9star
+# 👋 Hey, I'm iota9star — display name *The Dangers in My Heart* 💘
 
 **Full-Stack Engineer · Rust + Java Backend · Flutter by moonlight · Product Mindset** 🚀
 
-> *"我们，有些许相似"* — We are, in some small way, alike. 🌸
-
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-I build across the entire stack — **backends that hold their shape under real load**, **frontends that feel like they're reading your mind**, and the patient, invisible glue in between. My compass is simple: ship software that makes someone's day a little faster, a little calmer, or a little more delightful. ✨
+I build across the entire stack — **backends that hold their shape under real load**, **frontends that feel like they're reading your mind**, and the quiet, patient glue in between. My compass is simple: ship software that makes someone's day a little faster, a little calmer, or a little more delightful. ✨ (The only real danger in my heart is an unreviewed PR at 2 a.m. 🌙)
 
 ## 👨‍💻 About Me
 
-- 🧠 **Rust** thinker by daylight — Axum services, async runtimes, abstractions that cost nothing and survive production. After dark, a relentless **Flutter** tinkerer. 🌙
-- ☕ Equally fluent in **Java, Kotlin, TypeScript & Dart** — comfortable from the network edge down to the very last pixel. 🎨
-- 🌸 Unapologetic **anime & gadget** nerd. Yes, `mikan`, `sakura` and `kisssub` are exactly the passion projects they sound like — and my display name borrows from *The Dangers in My Heart* 💘.
-- 🤖 Convinced **AI-augmented development** is a craft, not a cheat code — I build agents and assistants that make code *genuinely* better, not just faster.
-- ⛓️ Permanently curious about **Web3** primitives across BTC, EVM and the Internet Computer.
-- 🗓️ Committing since **August 2016** — closing in on a decade, still shipping, still learning. 🌱
+🦀 **Rust** thinker by daylight — Axum services, async runtimes, abstractions that cost nothing and survive production. After dark, a relentless **Flutter** tinkerer. 🌙
+☕ Equally fluent across **Java · Kotlin · TypeScript · Dart** — comfortable from the network edge down to the very last pixel. 🎨
+🌸 Unapologetic **anime & gadget** nerd — yes, `mikan`, `sakura` and `kisssub` are exactly the passion projects they sound like, and my display name borrows from *The Dangers in My Heart*. 💘
+🤖 Convinced **AI-augmented development** is a craft, not a cheat code — I build agents and assistants that make code *genuinely* better, not just faster.
+⛓️ Permanently curious about **Web3** primitives across BTC, EVM and the Internet Computer.
+🗓️ Committing since **August 2016** — closing in on a decade, still shipping, still a beginner at heart. 🌱
 
 ## 🎯 What I Do
 
@@ -50,11 +48,11 @@ I build across the entire stack — **backends that hold their shape under real 
 
 **By the numbers** 📈
 
-- 🗂️ **100** public repositories — tools, apps & libraries
-- ⭐ **~1.7k** stars earned across flagship open-source work
-- 👥 **282** developers along for the ride, **49** inspiring me back
-- 📝 **10** public gists — notes, snippets and late-night experiments
-- 🗓️ On GitHub since **August 2016** — nearly a decade and counting
+🗂️ **100** public repositories — tools, apps & libraries
+⭐ **~1.7k** stars earned across open-source work
+👥 **282** developers along for the ride, **49** inspiring me back
+📝 **10** public gists — notes, snippets and late-night experiments
+🗓️ On GitHub since **August 2016** — nearly a decade and counting
 
 ![contrib](profile-3d-contrib/profile-season-animate.svg)
 
@@ -92,20 +90,21 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love, each ca
 
 ## 💡 A Line I Keep Close
 
-> *"遇酒且呵呵，人生能几何！"* — 韦庄 · *劝君今夜须沈醉*
-> *"When wine is before you, laugh and be merry — for how many such moments does a lifetime allow?"* 🍶
+> *"如果没有天赋，那就不断重复。"* — 如果没有天赋，那就不断重复
+> *"If there's no talent, then just keep repeating — repetition becomes its own kind of talent."* 🔁
 
-From [Hitokoto](https://v1.hitokoto.cn/). The whole job, really: don't pretend the bug isn't there, don't dodge the awkward refactor, don't look away from the edge case that bites at 3 a.m. 🌙 Good engineering is stubbornness pointed at the right things — notice everything, flinch at nothing, and fix it anyway.
+A line making the rounds online, via [Hitokoto](https://v1.hitokoto.cn/). It captures the whole job, really: don't pretend the bug isn't there, don't dodge the awkward refactor, don't look away from the edge case that bites at 3 a.m. 🌙 A decade on GitHub has taught me that good engineering is stubbornness pointed at the right things — notice everything, flinch at nothing, and show up to do it again tomorrow. 🌸
 
 ## 🏆 Highlights
 
-- 🥇 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — a beloved Flutter client for the 蜜柑计划 anime index, rocking **1.3k+ ⭐** and 60+ forks. Proof a niche tool built with love can outshine a thousand generic ones. 🌸
-- ⚡ **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, built in **Rust on QuickJS**. Cross-language interop as a superpower. 🦀
-- 📺 **[`dpad`](https://github.com/fluttercandies/dpad)** — TV & D-pad navigation for Flutter, *as simple as native Android development*. Big screens deserve great UX too.
-- 🧩 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, based on *alien-signals*. State management that disappears into your architecture. 🔮
-- 📅 **[`hora`](https://github.com/fluttercandies/hora)** — an immutable, type-safe date-time library for Dart, inspired by Day.js.
-- 🤝 **Core contributor to [`FlutterCandies`](https://github.com/fluttercandies)** — a collective shipping battle-tested packages across the Dart ecosystem.
-- 🌱 **100 repos · ~1.7k stars · 282 followers** — grateful for every star and every interesting conversation.
+🥇 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — a beloved Flutter client for the 蜜柑计划 anime index, rocking **1.3k+ ⭐** and 60+ forks. Proof a niche tool built with love can outshine a thousand generic ones. 🌸
+⚡ **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, built in **Rust on QuickJS**. Cross-language interop as a superpower. 🦀
+📺 **[`dpad`](https://github.com/fluttercandies/dpad)** — TV & D-pad navigation for Flutter, *as simple as native Android development*. Big screens deserve great UX too.
+🧩 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, based on *alien-signals*. State management that disappears into your architecture. 🔮
+☕ **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** & **[`kisssub`](https://github.com/iota9star/kisssub)** — anime-index clients in **Java** and **Kotlin**, the passion projects that started it all. 🎬
+📅 **[`hora`](https://github.com/fluttercandies/hora)** — an immutable, type-safe date-time library for Dart, inspired by Day.js.
+🤝 **Core contributor to [`FlutterCandies`](https://github.com/fluttercandies)** — a collective shipping battle-tested packages across the Dart ecosystem.
+🌱 **100 repos · ~1.7k stars · 282 followers** — grateful for every star and every interesting conversation.
 
 ## 💭 How I Build
 
@@ -117,10 +116,10 @@ The art is in the subtraction: strip away the noise until only the signal remain
 
 ## 📧 Let's Connect
 
-- 📬 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)
-- 🐦 **X / Twitter** — [@iota9star](https://x.com/iota9star)
-- ✍️ **Juejin Blog** — [iota9star on 掘金](https://juejin.cn/user/1591748568562829)
-- 🌐 **Website** — [bytex.space](https://bytex.space)
-- 🐙 **GitHub** — [github.com/iota9star](https://github.com/iota9star)
+📬 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)
+🐦 **X / Twitter** — [@iota9star](https://x.com/iota9star)
+✍️ **Juejin Blog** — [iota9star on 掘金](https://juejin.cn/user/1591748568562829)
+🌐 **Website** — [bytex.space](https://bytex.space)
+🐙 **GitHub** — [github.com/iota9star](https://github.com/iota9star)
 
 *Thanks for scrolling all the way down 🌸 — if anything here caught your eye, a ⭐ means the world, and an interesting conversation means even more. Now go build something worth noticing.* 🌟
