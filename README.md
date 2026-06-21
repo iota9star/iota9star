@@ -1,31 +1,31 @@
 # 👋 Hi, I'm iota9star — *我心里危险的东西* 🌸
 
-**Rust + Java backend · Flutter by night · Full-stack generalist · Product-minded engineer** 🛠️
+**Rust by daylight · Flutter by moonlight · Anime-index tools by heart** — a full-stack engineer who treats the whole stack like one continuous instrument, from the raw socket to the very last pixel. 🛠️
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-> *"我们，有些许相似"* — we are, a little alike. Pull up a chair. 🪑
+> *"我们，有些许相似。"* — We are, a little alike. Pull up a chair, there's room. 🪑
 
-I live somewhere between the **network edge and the last pixel** — wiring up Axum services that survive real load, polishing Flutter apps until they feel telepathic, and writing the quiet glue code that makes the loud parts sing. My north star is simple: ship software that makes someone's day a touch faster, calmer, or more delightful. ✨ The only genuine danger in my heart is an unreviewed PR at 2 a.m. 🌙
+I build for the in-between places: the Axum service that refuses to fall over at 3 a.m., the Flutter animation that lands exactly when your thumb expects it, the unglamorous glue that makes the glamorous parts possible. My north star never really changes — ship something that makes a stranger's day a beat lighter, faster, or a little more delightful. ✨ And the only thing *genuinely* dangerous in my heart is an unreviewed PR after midnight. 🌙
 
 ## 👨‍💻 About Me
 
-🦀 **Rust** is my daylight language — async runtimes, Axum handlers, zero-cost abstractions that pay rent in production. By moonlight I'm a restless **Flutter** tinkerer. 🌙
-☕ Equally at home in **Java · Kotlin · TypeScript · Dart** — comfortable from the socket layer to the final frame. 🎨
-🌸 Unapologetic **anime & gadget** obsessive — yes, `mikan`, `sakura` and `kisssub` are exactly the passion projects they sound like, and my display name tips its hat to *The Dangers in My Heart*. 💘
-🤖 I treat **AI-augmented development** as a craft, not a shortcut — the agents and assistants I build exist to make code *genuinely* better, not merely faster. 🧠
-⛓️ Permanently nosy about **Web3** primitives across BTC, EVM and the Internet Computer. 🔭
-🗓️ Committing since **August 2016** — almost a decade in, still shipping, still a curious beginner. 🌱
+🦀 **Rust** runs my daylight hours — async runtimes, Axum handlers, abstractions that earn every byte of overhead they don't have. By night the keyboard switches to **Dart** and Flutter. 🌙
+☕ Fluent across **Java · Kotlin · TypeScript · Dart** — equally at home two layers below the framework and two layers above it. 🎨
+🌸 Card-carrying **anime & gadget** obsessive — yes, `mikan`, `sakura` and `kisssub` are exactly the passion projects they sound like, and my handle tips its hat to *The Dangers in My Heart*. 💘
+🤖 I practice **AI-augmented development** as a discipline, not a shortcut — the agents and assistants I build exist to make code measurably better, never merely faster. 🧠
+⛓️ Endlessly nosy about **Web3** primitives — BTC, EVM and the Internet Computer each reward a different kind of thinking. 🔭
+🗓️ On GitHub since **August 2016** — a decade in, and somehow still the most excited beginner in the room. 🌱
 
 ## 🎯 What I Do
 
-⚙️ **Systems Rust** — Axum services where the whiteboard abstraction holds against real traffic
-📱 **Flutter & Dart ecosystem** — core contributor at [FlutterCandies](https://github.com/fluttercandies), shipping packages powering thousands of apps
-☕ **JVM at scale** — Spring microservices architected for genuine load, not conference demos
-🌐 **Frontend craft** — React & Vue SPAs that feel instant, accessible and quietly delightful
-🤖 **AI workflows** — agents, code assistants and quality gates that *amplify* human judgment
-⛓️ **Web3 exploration** — BTC, EVM chains and the Internet Computer; decentralization is a muscle worth exercising
-🔧 **Developer tooling** — if it saves someone five minutes a day, it deserves to exist
+⚙️ **Systems in Rust** — Axum services where the whiteboard design still holds up under real traffic
+📱 **Flutter & Dart ecosystem** — core contributor at [FlutterCandies](https://github.com/fluttercandies), shipping packages that power thousands of apps
+☕ **JVM at genuine scale** — Spring microservices architected for load, not for slide decks
+🌐 **Frontend craft** — React & Vue SPAs that feel instant, stay accessible, and quietly delight
+🤖 **AI workflows** — agents, code assistants and quality gates that *amplify* human judgment instead of replacing it
+⛓️ **Web3 exploration** — BTC, EVM chains and the Internet Computer; decentralization stays a muscle worth training
+🔧 **Developer tooling** — if it hands someone back five minutes a day, it deserves a repo
 
 ## 🛠️ Tech Stack
 
@@ -50,17 +50,17 @@ I live somewhere between the **network edge and the last pixel** — wiring up A
 
 **By the numbers** 📈
 
-🗂️ **100** public repositories — tools, apps & libraries
-⭐ **1.7k+** stars earned across open-source work (the featured set alone clears 1.6k)
-👥 **282** developers following along, **49** keeping me inspired back
-📝 **10** public gists — notes, snippets and late-night experiments
-🗓️ On GitHub since **August 2016** — nearly a decade and counting
+🗂️ **100** public repositories — tools, apps, libraries and the occasional 3 a.m. experiment
+⭐ **~1.7k** stars across open-source work (the featured wall alone tops 1.6k)
+👥 **282** developers following along, **49** keeping *me* honest in return
+📝 **10** public gists — scratchpads, snippets and half-formed ideas
+🗓️ On GitHub since **August 2016** — ten years and still counting
 
 ![contrib](profile-3d-contrib/profile-season-animate.svg)
 
 ## 🔥 Featured Projects
 
-A masonry of what I'm proudest of — auto-sorted by ⭐ community love, refreshed live. Each card is a doorway; click any of them 👇
+A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refreshed live. Each card is a doorway; walk through any of them 👇
 
 <table>
 <tr>
@@ -74,9 +74,9 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love, refresh
 <td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
-</tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
@@ -92,30 +92,30 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love, refresh
 
 ## 💡 A Line Worth Sitting With
 
-> *"——什么是孤独？——心里明明空荡荡的，却什么也装不下。"*
-> *"—— What is loneliness? —— The heart is plainly empty, yet nothing can fit inside."* 🌫️
-> — 网易云 (NetEase Cloud Music), via [Hitokoto](https://v1.hitokoto.cn/)
+> *"我最喜欢你的那一年，那将是我永远不会再有的十八岁。"*
+> *"The year I liked you best — that was the eighteen I would never get back."* 🕰️
+> — 互联网 (Internet), via [Hitokoto](https://v1.hitokoto.cn/)
 
-There's a kind of solitude that comes with deep work — the screen goes quiet, the inbox fades, and a strange empty-focus takes over where distraction can no longer find a foothold. That emptiness isn't absence; it's capacity. 🧘 The best ideas arrive when the mind is too still to be crowded. A decade of late-night commits has taught me to cherish that quiet: notice everything, flinch at nothing, and trust the silence to do its work. 🌙
+Every codebase has its own *eighteen* — a golden stretch you can feel in hindsight but can never quite rebuild, no matter how many times you try. The commits from that season outlive the moment that made them. I've learned to stop chasing the feeling and start trusting the muscle memory it left behind: notice everything, ship the small things beautifully, and let the good years keep doing their quiet work long after they're gone. 🌙
 
 ## 🏆 Highlights
 
-🥇 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, sitting at **1.3k+ ⭐** and 60+ forks. Proof a niche tool poured with love outshines a thousand generic ones. 🌸
-⚡ **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, forged in **Rust on QuickJS**. Cross-language interop as a superpower. 🦀
-📺 **[`dpad`](https://github.com/fluttercandies/dpad)** — TV & D-pad navigation for Flutter, *as effortless as native Android*. Big screens deserve great UX too. 🎮
-🧩 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, built on *alien-signals*. State management that dissolves into your architecture. 🔮
-☕ **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** & **[`kisssub`](https://github.com/iota9star/kisssub)** — anime-index clients in **Java** and **Kotlin**, the passion projects where it all began. 🎬
+🥇 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now at **1.3k+ ⭐** and counting. Proof that a niche tool poured full of love can outshine a thousand generic ones. 🌸
+⚡ **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, forged from **Rust on QuickJS**. Cross-language interop, treated as a superpower. 🦀
+📺 **[`dpad`](https://github.com/fluttercandies/dpad)** — TV & D-pad navigation for Flutter that feels *as fluid as native Android*. Big screens deserve great UX too. 🎮
+🧩 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, built atop *alien-signals*. State management that dissolves into your architecture. 🔮
+☕ **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** & **[`kisssub`](https://github.com/iota9star/kisssub)** — anime-index clients in **Java** and **Kotlin**, the passion projects where this whole story began. 🎬
 📅 **[`hora`](https://github.com/fluttercandies/hora)** — an immutable, type-safe date-time library for Dart, inspired by Day.js. ⏳
-🤝 **Core contributor to [`FlutterCandies`](https://github.com/fluttercandies)** — a collective shipping battle-tested packages across the Dart ecosystem. 🍬
-🌱 **100 repos · 1.7k+ stars · 282 followers** — grateful for every star and every interesting conversation. 💛
+🤝 **Core contributor at [`FlutterCandies`](https://github.com/fluttercandies)** — a collective shipping battle-tested packages across the Dart ecosystem. 🍬
+🌱 **100 repos · ~1.7k stars · 282 followers** — grateful for every star and every interesting conversation that came with it. 💛
 
 ## 💭 How I Build
 
-Great software is **empathy compiled into code** 🧠. The best systems are invisible — they respect your time, anticipate the edge case before it bites, and dissolve quietly into whatever someone is trying to accomplish ✨.
+Great software is **empathy, compiled** 🧠. The best systems are the invisible ones — they respect your time, quietly anticipate the edge case before it bites, and dissolve into whatever someone set out to accomplish ✨.
 
-Every function earns its place. Every API feels discoverable. Every abstraction carries its weight in **clarity, not cleverness** 🎯. I write code my future self will thank me for, and code that a stranger can fall in love with at first read. **Tests are my safety net** 🔒, **reviews are my mirror** 🪞, and **open source is my classroom** 🎓.
+Every function earns its keep. Every API feels discoverable. Every abstraction carries its weight in **clarity, not cleverness** 🎯. I write code my future self will thank me for, and code a total stranger could fall in love with on the first read. **Tests are the safety net** 🔒, **reviews are the mirror** 🪞, and **open source is the classroom** 🎓.
 
-The art is in the subtraction: strip away the noise until only the signal remains 📡. Build with conviction, ship with humility, and always leave the codebase a little warmer than you found it 🌸.
+The art is in the subtraction: strip the noise away until only the signal remains 📡. Build with conviction, ship with humility, and always leave the codebase a little warmer than you found it 🌸.
 
 ## 📧 Let's Connect
 
