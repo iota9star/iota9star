@@ -1,22 +1,21 @@
-# 👋 Hey, I'm **iota9star** — engineer by trade, romantic about craft by nature 🌸
+# 👋 Hey, I'm **iota9star** — a full-stack builder with a stubborn product mindset 🚀
 
-A full-stack builder with a stubborn **product mindset**: I live in the seam where rigorous Rust & Java backends meet buttery Flutter & web frontends — and I'm convinced the best code is the kind you never notice at all. 🚀
+I live in the seam where rigorous **Rust** & **Java** backends meet buttery **Flutter** & web frontends — and I'm convinced the very best code is the kind you never notice at all. 🌸 I build digital experiences across the whole stack: from high-performance services under real traffic to the small front-end details that make a stranger's day a beat lighter. ✨
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-> *"我们执着于寻找对方缺少的品质，真是太傻了。"*  — *How silly we are, fixating on the very qualities the other person lacks.* 🎞️
-> — 面纱 / *The Painted Veil*, via [Hitokoto](https://v1.hitokoto.cn/)
-
-I spend my days making the unglamorous pieces vanish — the Axum handler that refuses to buckle under real traffic, the Flutter gesture that lands exactly when your thumb expects it, the abstraction that earns every line of itself. My north star never really shifts: ship something that quietly makes a stranger's day a beat lighter, faster, or a little more delightful. ✨ And the only thing genuinely dangerous around here is an unreviewed PR after midnight. 🌙
+> *「落叶别树，飘零随风。客无所托，悲与此同。」*
+> *"Leaves leave the tree and drift on the wind; the wanderer has nothing to lean on — and this sorrow is the same as mine."* 🍂
+> — 李白 · 《独漉篇》, via [Hitokoto](https://v1.hitokoto.cn/)
 
 ## 👨‍💻 About Me
 
-🦀 **Rust** runs my daylight hours — async runtimes, Axum handlers, abstractions that justify every byte they don't spend. By night the keyboard quietly switches to **Dart** and Flutter. 🌙
-☕ Fluent across **Java · Kotlin · TypeScript · Dart** — as comfortable two layers below the framework as two layers above it. 🎨
+🦀 **Rust** owns my daylight hours — async runtimes, Axum handlers, abstractions that justify every byte they *don't* spend. After dark, the keyboard quietly switches to **Dart** and Flutter. 🌙
+☕ Fluent across **Java · Kotlin · TypeScript · Dart** — as comfortable two layers *below* the framework as two layers *above* it. 🎨
 🌸 Card-carrying **anime & gadget** obsessive — yes, `mikan`, `sakura` and `kisssub` are exactly the passion projects they sound like, and my handle tips its hat to *The Dangers in My Heart*. 💘
 🤖 I treat **AI-augmented development** as a discipline, not a shortcut — the agents and assistants I build exist to make code measurably *better*, never merely faster. 🧠
 ⛓️ Endlessly curious about **Web3** primitives — BTC, EVM and the Internet Computer each reward a different flavour of thinking. 🔭
-🗓️ On GitHub since **August 2016** — a decade in, and somehow still the most excited beginner in the room. 🌱
+🗓️ On GitHub since **August 2016** — a full decade in, and somehow still the most excited beginner in the room. 🌱
 
 ## 🎯 What I Do
 
@@ -51,9 +50,9 @@ I spend my days making the unglamorous pieces vanish — the Axum handler that r
 
 **By the numbers** 📈
 
-🗂️ **~100** public repositories — tools, apps, libraries and the occasional 3 a.m. experiment
-⭐ **~1.7k** stars across open-source work (the featured wall alone clears 1.6k)
-👥 **~280** developers following along, a few dozen keeping *me* honest in return
+🗂️ **100** public repositories — tools, apps, libraries and the occasional 3 a.m. experiment
+⭐ **1.7k+** stars across open-source work (the featured wall below clears 1,675 on its own)
+👥 **282** developers following along, with **49** keeping *me* on my toes in return
 📝 **10** public gists — scratchpads, snippets and half-formed ideas
 🗓️ On GitHub since **August 2016** — ten years and still counting
 
@@ -83,8 +82,8 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refr
 <td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
 </tr><tr>
-<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
@@ -93,23 +92,23 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refr
 
 ## 🏆 Highlights
 
-🥇 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now north of **1.3k ⭐** and climbing. Proof that a niche tool, poured full of love, can outshine a thousand generic ones. 🌸
-⚡ **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, forged from **Rust on QuickJS** (60⭐). Cross-language interop, treated as a superpower. 🦀
-📺 **[`dpad`](https://github.com/fluttercandies/dpad)** — Flutter TV & D-pad navigation that feels *as fluid as native Android development* (43⭐). Big screens deserve great UX too. 🎮
-🧩 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, built atop *alien-signals*. State management that dissolves into your architecture. 🔮
-🔧 **[`json_dart`](https://github.com/fluttercandies/json_dart)** — a template-supported tool for turning JSON into clean Dart code (24⭐). Boilerplate, retired. ✂️
-⚖️ **[`f_limit`](https://github.com/fluttercandies/f_limit)** — a Dart port of *p-limit* for taming the concurrency of async operations (17⭐). Futures, kept in line. 🎯
-📅 **[`hora`](https://github.com/fluttercandies/hora)** — a powerful, immutable, type-safe date-time library for Dart, inspired by Day.js (15⭐). ⏳
-☕ **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** & **[`kisssub`](https://github.com/iota9star/kisssub)** — anime-index clients in **Java** and **Kotlin**, the passion projects where this whole story began. 🎬
+🌸 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now past **1,300 ⭐** and still climbing. Proof that a niche tool, poured full of love, can outshine a thousand generic ones.
+🦀 **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, forged from **Rust on QuickJS** (97⭐). Cross-language interop, treated as a superpower.
+🎮 **[`dpad`](https://github.com/fluttercandies/dpad)** — Flutter TV & D-pad navigation that feels *as fluid as native Android* (55⭐). Big screens deserve great UX too.
+🎬 **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** & **[`kisssub`](https://github.com/iota9star/kisssub)** — anime-index clients in **Java** and **Kotlin**, the passion projects where this whole story began.
+✂️ **[`json_dart`](https://github.com/fluttercandies/json_dart)** — a template-supported tool for turning JSON into clean Dart code (24⭐). Boilerplate, retired.
+🔮 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, built atop *alien-signals*. State management that dissolves into your architecture.
+🎯 **[`f_limit`](https://github.com/fluttercandies/f_limit)** — a Dart port of *p-limit* for taming the concurrency of async operations (19⭐). Futures, kept in line.
+⏳ **[`hora`](https://github.com/fluttercandies/hora)** — a powerful, immutable, type-safe date-time library for Dart, inspired by Day.js (18⭐).
 🤝 **Core contributor at [`FlutterCandies`](https://github.com/fluttercandies)** — a collective shipping battle-tested packages across the Dart ecosystem. 🍬
 
 ## 💡 A Line Worth Sitting With
 
-> *"我们执着于寻找对方缺少的品质，真是太傻了。"*
-> *"How silly we are — obsessing over finding, in each other, the very qualities we ourselves lack."* 🎞️
-> — 面纱 / *The Painted Veil*, via [Hitokoto](https://v1.hitokoto.cn/)
+> *「落叶别树，飘零随风。客无所托，悲与此同。」*
+> *"Leaves leave the tree and drift on the wind; the wanderer has nothing to lean on — and this sorrow is the same as mine."* 🍂
+> — 李白 · 《独漉篇》, via [Hitokoto](https://v1.hitokoto.cn/)
 
-The same trap waits inside every codebase: we hunt for the missing piece, the perfect abstraction, the one dependency that will finally make us whole — and forget that the project in front of us was already enough to build something real. The line I keep is *enough, made better*: take the tools as they are, fill the gaps with care, and resist the romance of the feature you don't yet need. 🌙 Ship the whole, imperfect thing. Then refine the signal until only the signal remains. 📡
+The same restlessness waits inside every codebase: we drift toward the shiny framework, the perfect abstraction, the one dependency that will *finally* make us whole — and forget to plant anything deep. The line I keep is *roots, not reach*: choose a few tools, learn them down to the grain, and build something that outlasts the season. A leaf survives the wind only by holding tight to the branch it grew on. The art is staying rooted while everything else drifts. 🌳 Then refine the signal until only the signal remains. 📡
 
 ## 💭 How I Build
 
@@ -124,7 +123,6 @@ The art is in the subtraction: strip the noise away until only the signal remain
 📬 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)
 🐦 **X / Twitter** — [@iota9star](https://x.com/iota9star)
 ✍️ **Juejin Blog** — [iota9star on 掘金](https://juejin.cn/user/1591748568562829)
-🌐 **Website** — [bytex.space](https://bytex.space)
 🐙 **GitHub** — [github.com/iota9star](https://github.com/iota9star)
 
 *Thanks for scrolling all the way down 🌸 — if anything here caught your eye, a ⭐ means the world, and an interesting conversation means even more. Now go build something worth noticing.* 🌟

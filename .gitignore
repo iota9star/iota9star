@@ -41,3 +41,7 @@ Desktop.ini
 $RECYCLE.BIN/
 *.lnk
 temp/
+
+# Local scratch / data-collection helpers
+scripts/_stars.sh
+scripts/_fetch_stars.py
