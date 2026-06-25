@@ -4,9 +4,9 @@ I build across the whole stack: **Rust** & **Java** services that hold up under 
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-> *「行远自迩，登高自卑。」*
-> *"To journey far, you begin from what is near; to climb high, you start from what is low."* ⛰️
-> — 《礼记·中庸》, via [Hitokoto](https://v1.hitokoto.cn/)
+> *「江流天地外，山色有无中。」*
+> *"The river flows beyond the bounds of earth; the mountain colors shimmer between presence and absence."* 🏔️
+> — 王维《汉江临眺》, via [Hitokoto](https://v1.hitokoto.cn/)
 
 ## 👨‍💻 About Me
 
@@ -51,8 +51,8 @@ I build across the whole stack: **Rust** & **Java** services that hold up under 
 **By the numbers** 📈
 
 🗂️ **100** public repositories — tools, apps, libraries and the occasional 3 a.m. experiment
-⭐ **1,676** stars across the featured wall alone, and climbing every week
-👥 **282** developers following along, with **49** keeping *me* honest in return
+⭐ **1.6k+** stars across the featured wall alone, and climbing every week
+👥 **280+** developers following along, with a few dozen keeping *me* honest in return
 📝 **10** public gists — scratchpads, snippets and half-formed ideas
 🗓️ On GitHub since **August 2016** — almost ten years and still counting
 
@@ -60,7 +60,7 @@ I build across the whole stack: **Rust** & **Java** services that hold up under 
 
 ## 🔥 Featured Projects
 
-A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refreshed on every build. Each card is a doorway; walk through any of them 👇
+A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refreshed on every build. Each card pulls live star counts, so what you see is what the community feels right now. Walk through any of them 👇
 
 <table>
 <tr>
@@ -77,35 +77,40 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refr
 <td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
 </tr><tr>
-<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
-</tr><tr>
-<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
 </tr>
 </table>
 
 ## 🏆 Highlights
 
-🌸 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now past **1,305 ⭐** and still climbing. Proof that a niche tool, poured full of love, can outshine a thousand generic ones.
-🦀 **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, forged from **Rust on QuickJS** (97⭐). Cross-language interop, treated as a superpower.
-🎮 **[`dpad`](https://github.com/fluttercandies/dpad)** — Flutter TV & D-pad navigation that feels *as fluid as native Android* (55⭐). Big screens deserve great UX too.
+🌸 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now past **1,300 ⭐** and still climbing. Proof that a niche tool, poured full of love, can outshine a thousand generic ones.
+🦀 **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, forged from **Rust on QuickJS** (60⭐). Cross-language interop, treated as a superpower.
+🎮 **[`dpad`](https://github.com/fluttercandies/dpad)** — Flutter TV & D-pad navigation that feels *as fluid as native Android* (43⭐). Big screens deserve great UX too.
 🎬 **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** (37⭐) & **[`kisssub`](https://github.com/iota9star/kisssub)** (35⭐) — anime-index clients in **Java** and **Kotlin**, the passion projects where this whole story began.
 ✂️ **[`json_dart`](https://github.com/fluttercandies/json_dart)** — template-supported JSON→Dart codegen (24⭐). Boilerplate, retired.
 🔮 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, built atop *alien-signals* (23⭐). State management that dissolves into your architecture.
-🎯 **[`f_limit`](https://github.com/fluttercandies/f_limit)** — a Dart port of *p-limit* for taming async concurrency (19⭐). Futures, kept in line.
-⏳ **[`hora`](https://github.com/fluttercandies/hora)** — immutable, type-safe date-time for Dart, inspired by Day.js (18⭐).
-📐 **[`flexbox_layout`](https://github.com/fluttercandies/flexbox_layout)** — bring the web's flexbox mental model to Flutter layouts (17⭐).
+🎯 **[`f_limit`](https://github.com/fluttercandies/f_limit)** — a Dart port of *p-limit* for taming async concurrency (17⭐). Futures, kept in line.
+⏳ **[`hora`](https://github.com/fluttercandies/hora)** — immutable, type-safe date-time for Dart, inspired by Day.js (15⭐).
+⚙️ **[`env2dart`](https://github.com/fluttercandies/env2dart)** & **[`svgo`](https://github.com/fluttercandies/svgo)** — `.env`→Dart codegen and a Dart SVG optimizer, the small sharp tools that make a toolchain sing.
+📐 **[`flexbox_layout`](https://github.com/fluttercandies/flexbox_layout)** — bring the web's flexbox mental model to Flutter layouts (8⭐).
+✨ **[`dotrix`](https://github.com/fluttercandies/dotrix)** — a dot-matrix loading indicator with 28 ready-made effects (8⭐).
+🧭 **[`dash_router`](https://github.com/fluttercandies/dash_router)** — zero mental overhead, fully type-safe Flutter routing (7⭐).
+🛡️ **[`resx`](https://github.com/fluttercandies/resx)** — functional error handling for Dart: `Result`, `Option`, `Validation`, `AsyncResult` (5⭐).
+🪪 **[`vcard_dart`](https://github.com/fluttercandies/vcard_dart)** — complete vCard 2.1/3.0/4.0 parsing & generation, with jCard & xCard (3⭐).
 🤝 Core contributor at **[`FlutterCandies`](https://github.com/fluttercandies)** — a collective shipping battle-tested packages across the Dart ecosystem. 🍬
 
 ## 💭 How I Build
 
-「行远自迩，登高自卑」 — *to go far, start near; to climb high, start low.* It's the oldest piece of engineering advice there is, and it's still the truest. 🌱
+「江流天地外，山色有无中」 — *the river flows beyond the bounds of earth, the mountain colors shimmer between presence and absence.* Good engineering lives in that in-between: solid enough to trust, light enough to disappear. 🌱
 
 Great software is **empathy, compiled** 🧠. The best systems are the invisible ones — they respect your time, quietly anticipate the edge case before it bites, and dissolve into whatever someone set out to accomplish ✨. Every function earns its keep. Every API feels discoverable. Every abstraction carries its weight in **clarity, not cleverness** 🎯. I write code my future self will thank me for, and code a total stranger could fall in love with on the first read.
 
