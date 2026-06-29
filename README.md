@@ -1,37 +1,38 @@
-# 👋 Hey — I'm **iota9star**
+# 👋 Hey, I'm **iota9star**
 
-> `git commit -m "the boring magic no one ever notices ✨"`
+> *full-stack engineer · Rust by daylight, Dart after dark · anime-fueled builder* 🌸🦀
 
-A full-stack engineer who reaches for **Rust** before coffee and **Dart** after sunset. I build backends that hold up under real load, mobile apps that vanish into your thumb, and the unglamorous plumbing in between — the kind of tooling that quietly hands people their evenings back. My favourite code is the kind you never think about: it does its job, steps out of the frame, and lets the human on the other side get on with theirs. 🌸🦀
+I write the quiet kind of software — backends that stay standing when traffic spikes, mobile apps that vanish under your thumb, and the unglamorous plumbing that quietly hands people their evenings back. My favourite code is the kind you never think twice about: it does its job, steps out of frame, and lets the human on the other side get on with theirs. ✨
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 💡 A Line I Love
+## 💬 A Line I Live By
 
-> *「被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常。」* 🍵🌙
-> *"Spill no word to wake the spring sleep after wine; we wagered on poetry and let the tea's fragrance scatter — back then I thought it all perfectly ordinary."*
-> — 纳兰性德《浣溪沙·谁念西风独自凉》, via [Hitokoto](https://v1.hitokoto.cn/)
+> *「一个人的自身越是丰富，就越难以忍受世俗常规的安排。」* 🌙
+> *"The richer a person's inner world, the less they can stomach the arrangements of worldly convention."*
+> — **叔本华** ·《人生的智慧》, via [Hitokoto](https://v1.hitokoto.cn/)
 
-Nalan wrote this looking back at a quiet marriage that felt unremarkable right up until it was gone. I keep it close as a small reminder: the ordinary days — a clean diff, a passing test, a build that just *works* — are exactly the ones worth savouring before they slip into memory. 🌸
+I keep this one close as a small permission slip: build the niche thing, name the repo after an anime, pour love into the corners nobody is watching. Convention is the floor you stand on, not the ceiling above your head — and the most interesting code tends to live just past where the template runs out. 🌸
 
 ## 👨‍💻 About Me
 
-🦀 **Rust** is my daylight language — async runtimes, Axum handlers, abstractions that earn every byte they refuse to allocate. When the lamps come on, the keyboard flips to **Dart** and Flutter. 🌙
-☕ Equally fluent in **Java · Kotlin · TypeScript · Dart**, and just as content two layers *below* the framework as two layers *above* it. 🎛️
-🌸 My GitHub display name is **我心里危险的东西** — *The Dangers in My Heart* — so yes, the `mikan` / `sakura` / `kisssub` repos really are the anime passion projects they sound like. They're also the bedrock this whole career was poured on. 💘
-🤖 I treat **AI-augmented development** as a discipline, not a shortcut — the agents and assistants I build exist to make code measurably *better*, never merely faster. 🧠
-⛓️ Endlessly curious about **Web3** primitives — BTC, EVM and the Internet Computer each reward a different kind of thinking. 🔭
-🗓️ On GitHub since **August 2016** — almost a decade in, and somehow still the most eager novice in the room. 🌱
+🦀 **Rust** is my daylight language — async runtimes, Axum handlers, abstractions that earn every byte they refuse to allocate.  
+🌙 When the lamps come on, the keyboard flips to **Dart** and Flutter, and the side-projects wake up.  
+☕ Equally fluent in **Java · Kotlin · TypeScript · Dart**, and just as content two layers *below* the framework as two layers *above* it. 🎛️  
+🌸 My display name reads **我心里危险的东西** — *The Dangers in My Heart* — so yes, the `mikan` / `sakura` / `kisssub` repos really are the anime passion projects they sound like. They're also the bedrock this whole career got poured on. 💘  
+🤖 I treat **AI-augmented development** as a craft, not a shortcut — the agents and assistants I build exist to make code measurably *better*, never merely faster. 🧠  
+⛓️ Endlessly curious about **Web3** primitives — BTC, EVM and the Internet Computer each reward a different flavour of thinking. 🔭  
+🗓️ On GitHub since **August 2016** — nearly a decade in, and somehow still the most eager novice in any room I walk into. 🌱
 
-## 🎯 What I Do
+## 🎯 What I Build
 
-⚙️ **Resilient systems in Rust** — Axum services whose napkin design still survives contact with live traffic
-📱 **Flutter & the Dart ecosystem** — core contributor at [FlutterCandies](https://github.com/fluttercandies), shipping packages that quietly power thousands of apps
-☕ **JVM at genuine scale** — Spring microservices architected for load, not for slide decks
-🌐 **Frontend craft** — React & Vue SPAs that feel instant, stay accessible, and smuggle in a little delight
-🤖 **AI workflows** — agents, code assistants and quality gates that *amplify* human judgement rather than outsourcing it
-⛓️ **Web3 exploration** — BTC, EVM chains and the Internet Computer; decentralisation is a muscle worth keeping limber
-🔧 **Developer tooling** — if a tool gives someone back five minutes a day, it earns a repository of its own
+⚙️ **Resilient systems in Rust** — Axum services whose napkin sketch still survives contact with live traffic  
+📱 **Flutter & the Dart ecosystem** — core contributor at [FlutterCandies](https://github.com/fluttercandies), shipping packages that quietly power thousands of apps  
+☕ **JVM at genuine scale** — Spring microservices architected for real load, not for slide decks  
+🌐 **Frontend craft** — React & Vue SPAs that feel instant, stay accessible, and smuggle in a little delight  
+🤖 **AI workflows** — agents, code assistants and quality gates that *amplify* human judgement instead of outsourcing it  
+⛓️ **Web3 exploration** — BTC, EVM chains and the Internet Computer; decentralisation is a muscle worth keeping limber  
+🔧 **Developer tooling** — if a tool gives someone back five minutes a day, it earns a repository of its own  
 
 ## 🛠️ Tech Stack
 
@@ -47,20 +48,20 @@ Nalan wrote this looking back at a quiet marriage that felt unremarkable right u
 **AI & Web3** 🧠
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF4F8B?style=flat-square&logo=probot&logoColor=white) ![LLM Tooling](https://img.shields.io/badge/LLM%20Tooling-8A2BE2?style=flat-square&logo=openai&logoColor=white) ![BTC](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-627EEA?style=flat-square&logo=ethereum&logoColor=white) ![ICP](https://img.shields.io/badge/Internet_Computer-29ABFA?style=flat-square&logo=internetcomputer&logoColor=white)
 
-## 📊 Quick Stats
+## 📊 By the Numbers
 
-![stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical&hide_border=true)
 
-![streak](https://streak-stats.demolab.com/?user=iota9star&theme=tokyonight&hide_border=true)
+![streak](https://streak-stats.demolab.com/?user=iota9star&theme=radical&hide_border=true)
 
-**By the numbers** 📈
+**At a glance** 📈
 
-🗂️ **100** public repositories — tools, apps, libraries and the occasional 3 a.m. experiment
-⭐ **~1.7k** stars across the featured wall below, and a few more every week
-🌸 **1,307** on [`mikan_flutter`](https://github.com/iota9star/mikan_flutter) alone — the cornerstone that started it all
-👥 **282** developers following along, with **49** I'm quietly learning from in return
-📝 **10** public gists — scratchpads, snippets and half-formed ideas
+🗂️ **100** public repositories — tools, apps, libraries and the occasional 3 a.m. experiment  
+⭐ **~1.7k** stars across the wall below, with a few more drifting in every week  
+🌸 **1,307** of them live on [`mikan_flutter`](https://github.com/iota9star/mikan_flutter) — the cornerstone that started it all  
+👥 **282** developers following along, **49** of whom I'm quietly learning from in return  
+📝 **10** public gists — scratchpads, snippets and half-formed ideas  
 🗓️ On GitHub since **27 August 2016** — nearly ten years and still counting 🚀
 
 ![contrib](profile-3d-contrib/profile-season-animate.svg)
@@ -97,12 +98,12 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refr
 </tr>
 </table>
 
-## 🏆 Highlights
+## 🏆 Project Highlights
 
-🌸 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now at **1,307 ⭐** and still climbing. The cornerstone project — proof that a niche tool, poured full of love, can outshine a thousand generic ones. 🍊
+🌸 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now sitting at **1,307 ⭐** and still climbing. Proof that a niche tool, poured full of love, can outshine a thousand generic ones. 🍊
 🦀 **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, forged from **Rust on QuickJS** (97⭐). Cross-language interop, treated as a superpower. ⚡
 🎮 **[`dpad`](https://github.com/fluttercandies/dpad)** — Flutter TV & D-pad navigation that feels *as fluid as native Android* (55⭐). Big screens deserve great UX too. 📺
-🎬 **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** (37⭐, **Java**) & **[`kisssub`](https://github.com/iota9star/kisssub)** (35⭐, **Kotlin**) — anime-index clients, the passion projects where this whole story began. 🌸
+🎬 **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** (37⭐, **Java**) & **[`kisssub`](https://github.com/iota9star/kisssub)** (35⭐, **Kotlin**) — anime-index clients for dmhy & 爱恋BT, the passion projects where this whole story began. 🌸
 ✂️ **[`json_dart`](https://github.com/fluttercandies/json_dart)** — template-supported JSON→Dart codegen (24⭐). Boilerplate, honourably retired. 🧹
 🔮 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, built atop *alien-signals* (23⭐). State management that dissolves into your architecture. 🌌
 🎯 **[`f_limit`](https://github.com/fluttercandies/f_limit)** — a Dart port of *p-limit* for taming async concurrency (19⭐). Futures, kept neatly in line. 🔢
@@ -116,17 +117,18 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refr
 🪪 **[`vcard_dart`](https://github.com/fluttercandies/vcard_dart)** — complete vCard 2.1/3.0/4.0 parsing & generation, with jCard & xCard (3⭐). 📇
 🤝 Core contributor at **[`FlutterCandies`](https://github.com/fluttercandies)** — a collective shipping battle-tested packages across the Dart ecosystem. 🍬
 
-## 💭 How I Build
+## 💭 How I Work
 
-Great software is **empathy, compiled** 🧠. The best systems are the invisible ones — they respect your time, quietly anticipate the edge case before it bites, and dissolve into whatever someone set out to accomplish ✨. Every function earns its keep. Every API feels discoverable. Every abstraction pays its rent in **clarity, not cleverness** 🎯. I write code my future self will thank me for, and code a total stranger could fall for on the first read.
+Great software is **empathy, compiled** 🧠. The best systems are the invisible ones — they respect your time, quietly anticipate the edge case before it bites, and dissolve into whatever someone set out to accomplish ✨. Every function earns its keep. Every API feels discoverable on the first read. Every abstraction pays its rent in **clarity, not cleverness** 🎯. I write code my future self will thank me for, and code a complete stranger could fall for on a first pass.
 
 **Tests are the safety net** 🔒, **reviews are the mirror** 🪞, and **open source is the classroom** 🎓. The real art is subtraction: strip the noise away until only the signal remains 📡. Build with conviction, ship with humility, and always leave the codebase a little warmer than you found it 🌸.
 
-## 📧 Let's Connect
+## 📬 Let's Connect
 
-📬 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)
-🐦 **X / Twitter** — [@iota9star](https://x.com/iota9star)
-✍️ **Juejin Blog** — [iota9star on 掘金](https://juejin.cn/user/1591748568562829)
+📬 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)  
+🐦 **X / Twitter** — [@iota9star](https://x.com/iota9star)  
+✍️ **Juejin Blog** — [iota9star on 掘金](https://juejin.cn/user/1591748568562829)  
+🌐 **Homepage** — [bytex.space](https://bytex.space)  
 🐙 **GitHub** — [github.com/iota9star](https://github.com/iota9star)
 
 *Thanks for scrolling all the way down 🌸 — if anything here caught your eye, a ⭐ means the world, and an interesting conversation means even more. Now go build something worth noticing.* 🌟
