@@ -1,26 +1,26 @@
-# 👋 Hi, I'm **iota9star**
+# 👋 Hey, I'm **iota9star**
 
-> *full-stack engineer · 🦀 Rust by day, 🎯 Dart by night · anime-fueled builder*
+> *full-stack engineer · 🦀 Rust in the morning, 🎯 Dart after dark · anime-fueled builder*
 
-I write software that tries to **disappear** — backends sturdy enough to bore you, mobile apps that melt under your thumb, and the quiet plumbing that hands people their evenings back. The highest compliment my code can earn is a shrug and *“huh, it just worked.”* ✨
+I write software that tries to **disappear** — backends sturdy enough to bore you, mobile apps that melt under your thumb, and the quiet plumbing that hands people their evenings back. The highest praise my code ever earns is a shrug and *"huh, it just worked."* ✨
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 💬 Words I Work By
+## 💬 A Line I Keep Close
 
-> *「我们爱生活，并非我们习惯于生活，而是我们习惯于爱。」*
-> *"We love life — not because we are used to living, but because we are used to loving."*
-> — **尼采** ·《查拉图斯特拉如是说》, via [一言 Hitokoto](https://v1.hitokoto.cn/)
+> *「今后无论发生什么事也好，这个左手上的⋯⋯都是同伴的记号！」*
+> *"No matter what happens from here on, this mark on my left hand… is the sign of our comrades."*
+> — **尾田荣一郎** ·《海贼王 / One Piece》, via [一言 Hitokoto](https://v1.hitokoto.cn/)
 
-I keep this close as a small compass: it's the *love* poured into a thing that makes it matter, not the thing itself. The repos named after anime aren't a detour from the "real" work — they *are* the real work, built with the kind of attention love demands. 🌸
+The repos on this page aren't islands. Every one carries a little of the people who tested it, filed the bug, dropped a ⭐, or argued with me over an API. Open source is a crew — and the mark of a good crewmate is that you make everyone around you a little braver. 🏴‍☠️
 
 ## 👨‍💻 About Me
 
-🦀 My daylight language is **Rust** — async runtimes, Axum handlers, abstractions that justify every byte they keep.  
+🦀 Daylight means **Rust** — async runtimes, Axum handlers, abstractions that justify every byte they keep.  
 🌙 After dark the keyboard flips to **Dart** & Flutter, and the passion projects wake up.  
-☕ I move freely across **Java · Kotlin · TypeScript · Dart** — as content in the kernel-adjacent trenches as in the UI treetops. 🌳  
+☕ I roam freely across **Java · Kotlin · TypeScript · Dart** — as content in the kernel-adjacent trenches as in the UI treetops. 🌳  
 🌸 My display name reads **我心里危险东西** (*The Dangers in My Heart*) — so yes, `mikan_flutter`, `sakura-dmhy` and `kisssub` really are the anime projects they sound like. They're also the bedrock this whole career was poured on. 💘  
-🤖 **AI-assisted development** is a discipline to me, not a shortcut — the agents and assistants I build exist to make code measurably *better*, never merely faster. 🧠  
+🤖 **AI-assisted development** is a craft to me, not a shortcut — the agents and assistants I build exist to make code measurably *better*, never merely faster. 🧠  
 ⛓️ I stay curious about **Web3** primitives — BTC, EVM and the Internet Computer each bend your brain in a different, worthwhile direction. 🔭  
 🌱 On GitHub since **27 August 2016** — nearly a decade in, and somehow still the keenest beginner in every room I enter.
 
@@ -58,8 +58,8 @@ I keep this close as a small compass: it's the *love* poured into a thing that m
 **At a glance** 📈
 
 🗂️ **100** public repositories — tools, apps, libraries and the occasional 3 a.m. experiment  
-⭐ **~1.7k** stars across the wall below, with a steady trickle drifting in every week  
-🌸 **1,307** of them live on [`mikan_flutter`](https://github.com/iota9star/mikan_flutter) — the cornerstone that started it all  
+🔥 **~1.7k** stars across the featured wall below, with a steady trickle drifting in each week  
+🌸 **1,306** of them live on [`mikan_flutter`](https://github.com/iota9star/mikan_flutter) — the cornerstone that started it all  
 👥 **282** developers following along, **49** of whom I'm quietly learning from in return  
 📝 **10** public gists — scratchpads, snippets and half-formed ideas  
 🗓️ On GitHub since **27 August 2016** — nearly ten years and still counting 🚀
@@ -100,9 +100,9 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refr
 
 ## 🏆 Project Highlights
 
-🌸 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now at **1,307 ⭐** and still climbing. Proof that a niche tool, poured full of love, can outshine a thousand generic ones. 🍊  
+🌸 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now at **1,306 ⭐** and still climbing. Proof that a niche tool, poured full of love, can outshine a thousand generic ones. 🍊  
 🦀 **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, forged from **Rust on QuickJS** (97⭐). Cross-language interop, treated as a superpower. ⚡  
-🎮 **[`dpad`](https://github.com/fluttercandies/dpad)** — Flutter TV & D-pad navigation that feels *as fluid as native Android* (55⭐). Big screens deserve great UX too. 📺  
+🎮 **[`dpad`](https://github.com/fluttercandies/dpad)** — Flutter TV & D-pad navigation that feels *as fluid as native Android*, spanning Android TV, Apple TV and Fire TV (55⭐). Big screens deserve great UX too. 📺  
 🎬 **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** (37⭐, **Java**) & **[`kisssub`](https://github.com/iota9star/kisssub)** (35⭐, **Kotlin**) — anime-index clients for dmhy & 爱恋BT, the passion projects where this whole story began. 🌸  
 ✂️ **[`json_dart`](https://github.com/fluttercandies/json_dart)** — template-supported JSON→Dart codegen (24⭐). Boilerplate, honourably retired. 🧹  
 🔮 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, built atop *alien-signals* (23⭐). State management that dissolves into your architecture. 🌌  
