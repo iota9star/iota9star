@@ -1,37 +1,37 @@
 # 👋 Hey, I'm **iota9star**
 
-> *full-stack engineer · 🦀 Rust in the morning, 🎯 Dart after dark · anime-fueled builder*
+> *polyglot builder · 🦀 Rust to 🎯 Dart to ☕ JVM · quiet tools that disappear*
 
-I write software that tries to **disappear** — backends sturdy enough to bore you, mobile apps that melt under your thumb, and the quiet plumbing that hands people their evenings back. The highest praise my code ever earns is a shrug and *"huh, it just worked."* ✨
+My GitHub bio reads **我们，有些许相似** — *"we are, in some ways, alike."* I reckon that's the whole job: writing code that feels familiar to the next person who opens it, even if we've never met. I build the load-bearing stuff people never think about — and I take that invisibility as the highest compliment. 🤝
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 💬 A Line I Keep Close
+## 💡 A Line I Keep Close
 
-> *「今后无论发生什么事也好，这个左手上的⋯⋯都是同伴的记号！」*
-> *"No matter what happens from here on, this mark on my left hand… is the sign of our comrades."*
-> — **尾田荣一郎** ·《海贼王 / One Piece》, via [一言 Hitokoto](https://v1.hitokoto.cn/)
+> *「纵使一次也好，我也想在这个星球上尽情奔跑啊！」*
+> *"Even if it's just once, I want to run freely across this planet."*
+> — **诗音 / Sion** ·《Eden》, via [一言 Hitokoto](https://v1.hitokoto.cn/)
 
-The repos on this page aren't islands. Every one carries a little of the people who tested it, filed the bug, dropped a ⭐, or argued with me over an API. Open source is a crew — and the mark of a good crewmate is that you make everyone around you a little braver. 🏴‍☠️
+Software, to me, is a way of *running freely* — across languages, across ecosystems, across the gap between an idea at 2 a.m. and something a stranger actually wants to use. Every repo below is one small sprint on that same planet. 🌍
 
 ## 👨‍💻 About Me
 
-🦀 Daylight means **Rust** — async runtimes, Axum handlers, abstractions that justify every byte they keep.  
-🌙 After dark the keyboard flips to **Dart** & Flutter, and the passion projects wake up.  
-☕ I roam freely across **Java · Kotlin · TypeScript · Dart** — as content in the kernel-adjacent trenches as in the UI treetops. 🌳  
-🌸 My display name reads **我心里危险东西** (*The Dangers in My Heart*) — so yes, `mikan_flutter`, `sakura-dmhy` and `kisssub` really are the anime projects they sound like. They're also the bedrock this whole career was poured on. 💘  
-🤖 **AI-assisted development** is a craft to me, not a shortcut — the agents and assistants I build exist to make code measurably *better*, never merely faster. 🧠  
-⛓️ I stay curious about **Web3** primitives — BTC, EVM and the Internet Computer each bend your brain in a different, worthwhile direction. 🔭  
-🌱 On GitHub since **27 August 2016** — nearly a decade in, and somehow still the keenest beginner in every room I enter.
+🦀 By daylight I live in **Rust** — async runtimes, Axum handlers, zero-cost abstractions that earn every byte they hold.
+🌙 After dark the keyboard flips to **Dart** & Flutter, and the passion projects wake up.
+☕ I drift comfortably across **Java · Kotlin · TypeScript · Dart** — equally at home in kernel-adjacent trenches and UI treetops. 🌳
+🌸 My anime-coded projects — `mikan_flutter`, `sakura-dmhy`, `kisssub` — are exactly what they sound like, and they're also the bedrock this whole career was poured on. 💘
+🤖 **AI-assisted development** is a craft, not a shortcut — the agents and assistants I build exist to make code measurably *better*, never merely faster. 🧠
+⛓️ I stay curious about **Web3** primitives — BTC, EVM and the Internet Computer each bend your brain in a different, worthwhile direction. 🔭
+🌱 On GitHub since **27 August 2016** — nearly a decade in, and somehow still the keenest beginner in every room I walk into.
 
 ## 🎯 What I Build
 
-⚙️ **Load-bearing Rust** — Axum services whose napkin sketch survives real traffic, not just the demo  
-📱 **Flutter & the Dart ecosystem** — core contributor at [FlutterCandies](https://github.com/fluttercandies), shipping packages that quietly power thousands of apps  
-☕ **JVM at scale** — Spring microservices architected for production load, not for conference slides  
-🌐 **Frontend craft** — React & Vue SPAs that feel instant, stay accessible, and hide a little delight in the corners  
-🤖 **AI workflows** — agents, code assistants and quality gates that *amplify* human judgement instead of outsourcing it  
-⛓️ **Web3 tinkering** — BTC, EVM chains and the Internet Computer; decentralisation is a muscle worth keeping limber  
+⚙️ **Load-bearing Rust** — Axum services whose napkin sketch survives real traffic, not just the demo
+📱 **Flutter & the Dart ecosystem** — core contributor at [FlutterCandies](https://github.com/fluttercandies), shipping packages that quietly power thousands of apps
+☕ **JVM at scale** — Spring microservices architected for production load, not conference slides
+🌐 **Frontend craft** — React & Vue SPAs that feel instant, stay accessible, and hide a little delight in the corners
+🤖 **AI workflows** — agents, code assistants and quality gates that *amplify* human judgement instead of outsourcing it
+⛓️ **Web3 tinkering** — BTC, EVM chains and the Internet Computer; decentralisation is a muscle worth keeping limber
 🔧 **Developer tooling** — anything that hands a fellow dev back five minutes a day earns a repository of its own
 
 ## 🛠️ Tech Stack
@@ -50,18 +50,18 @@ The repos on this page aren't islands. Every one carries a little of the people 
 
 ## 📊 Quick Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true)
 
-![streak](https://streak-stats.demolab.com/?user=iota9star&theme=radical&hide_border=true)
+![streak](https://streak-stats.demolab.com/?user=iota9star&theme=tokyonight&hide_border=true)
 
 **At a glance** 📈
 
-🗂️ **100** public repositories — tools, apps, libraries and the occasional 3 a.m. experiment  
-🔥 **~1.7k** stars across the featured wall below, with a steady trickle drifting in each week  
-🌸 **1,306** of them live on [`mikan_flutter`](https://github.com/iota9star/mikan_flutter) — the cornerstone that started it all  
-👥 **282** developers following along, **49** of whom I'm quietly learning from in return  
-📝 **10** public gists — scratchpads, snippets and half-formed ideas  
+🗂️ **100** public repositories — tools, apps, libraries and the occasional 3 a.m. experiment
+⭐ **~1.7k** stars across the featured wall below, with a steady trickle drifting in each week
+🌸 **1,308** of them live on [`mikan_flutter`](https://github.com/iota9star/mikan_flutter) — the cornerstone that started it all
+👥 **282** developers following along, **49** of whom I'm quietly learning from in return
+🍬 Core contributor at [FlutterCandies](https://github.com/fluttercandies) — a **128**-repo collective followed by **1,900+** builders
 🗓️ On GitHub since **27 August 2016** — nearly ten years and still counting 🚀
 
 ![contrib](profile-3d-contrib/profile-season-animate.svg)
@@ -100,21 +100,21 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refr
 
 ## 🏆 Project Highlights
 
-🌸 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now at **1,306 ⭐** and still climbing. Proof that a niche tool, poured full of love, can outshine a thousand generic ones. 🍊  
-🦀 **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, forged from **Rust on QuickJS** (97⭐). Cross-language interop, treated as a superpower. ⚡  
-🎮 **[`dpad`](https://github.com/fluttercandies/dpad)** — Flutter TV & D-pad navigation that feels *as fluid as native Android*, spanning Android TV, Apple TV and Fire TV (55⭐). Big screens deserve great UX too. 📺  
-🎬 **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** (37⭐, **Java**) & **[`kisssub`](https://github.com/iota9star/kisssub)** (35⭐, **Kotlin**) — anime-index clients for dmhy & 爱恋BT, the passion projects where this whole story began. 🌸  
-✂️ **[`json_dart`](https://github.com/fluttercandies/json_dart)** — template-supported JSON→Dart codegen (24⭐). Boilerplate, honourably retired. 🧹  
-🔮 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, built atop *alien-signals* (23⭐). State management that dissolves into your architecture. 🌌  
-🎯 **[`f_limit`](https://github.com/fluttercandies/f_limit)** — a Dart port of *p-limit* for taming async concurrency (19⭐). Futures, kept neatly in line. 🔢  
-⏳ **[`hora`](https://github.com/fluttercandies/hora)** — immutable, type-safe date-time for Dart, inspired by Day.js (18⭐). 🕰️  
-📐 **[`flexbox_layout`](https://github.com/fluttercandies/flexbox_layout)** — bring the web's flexbox mental model into Flutter layouts (17⭐). 📦  
-⚙️ **[`env2dart`](https://github.com/fluttercandies/env2dart)** — turn a `.env` file into type-safe Dart code (11⭐). 🔐  
-✨ **[`svgo`](https://github.com/fluttercandies/svgo)** — a powerful SVG optimizer for Dart and Flutter (9⭐). 🖼️  
-🛡️ **[`resx`](https://github.com/fluttercandies/resx)** — a tiny-but-complete functional error-handling toolkit for Dart: `Result`, `Option`, `Validation`, `AsyncResult` (8⭐). 🧰  
-🟦 **[`dotrix`](https://github.com/fluttercandies/dotrix)** — a dot-matrix loading indicator with 28 ready-made effects (8⭐). 💠  
-🧭 **[`dash_router`](https://github.com/fluttercandies/dash_router)** — zero mental overhead, fully type-safe Flutter routing (7⭐). 🗺️  
-🪪 **[`vcard_dart`](https://github.com/fluttercandies/vcard_dart)** — complete vCard 2.1/3.0/4.0 parsing & generation, with jCard & xCard (3⭐). 📇  
+🌸 **[`mikan_flutter`](https://github.com/iota9star/mikan_flutter)** — the beloved Flutter client for the 蜜柑计划 anime index, now at **1,308 ⭐** and still climbing. Proof that a niche tool, poured full of love, can outshine a thousand generic ones. 🍊
+🦀 **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, forged from **Rust on QuickJS** (97⭐). Cross-language interop, treated as a superpower. ⚡
+🎮 **[`dpad`](https://github.com/fluttercandies/dpad)** — Flutter TV & D-pad navigation that feels *as fluid as native Android*, spanning Android TV, Apple TV and Fire TV (55⭐). Big screens deserve great UX too. 📺
+🎬 **[`sakura-dmhy`](https://github.com/iota9star/sakura-dmhy)** (37⭐, **Java**) & **[`kisssub`](https://github.com/iota9star/kisssub)** (35⭐, **Kotlin**) — anime-index clients for dmhy & 爱恋BT, the passion projects where this whole story began. 🌸
+✂️ **[`json_dart`](https://github.com/fluttercandies/json_dart)** — template-supported JSON→Dart codegen (24⭐). Boilerplate, honourably retired. 🧹
+🔮 **[`void_signals`](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart & Flutter, built atop *alien-signals* (23⭐). State management that dissolves into your architecture. 🌌
+🎯 **[`f_limit`](https://github.com/fluttercandies/f_limit)** — a Dart port of *p-limit* for taming async concurrency (19⭐). Futures, kept neatly in line. 🔢
+⏳ **[`hora`](https://github.com/fluttercandies/hora)** — immutable, type-safe date-time for Dart, inspired by Day.js (18⭐). 🕰️
+📐 **[`flexbox_layout`](https://github.com/fluttercandies/flexbox_layout)** — bring the web's flexbox mental model into Flutter layouts (17⭐). 📦
+⚙️ **[`env2dart`](https://github.com/fluttercandies/env2dart)** — turn a `.env` file into type-safe Dart code (11⭐). 🔐
+✨ **[`svgo`](https://github.com/fluttercandies/svgo)** — a powerful SVG optimizer for Dart and Flutter (9⭐). 🖼️
+🛡️ **[`resx`](https://github.com/fluttercandies/resx)** — a tiny-but-complete functional error-handling toolkit for Dart: `Result`, `Option`, `Validation`, `AsyncResult` (8⭐). 🧰
+🟦 **[`dotrix`](https://github.com/fluttercandies/dotrix)** — a dot-matrix loading indicator with 28 ready-made effects (8⭐). 💠
+🧭 **[`dash_router`](https://github.com/fluttercandies/dash_router)** — zero mental overhead, fully type-safe Flutter routing (7⭐). 🗺️
+🪪 **[`vcard_dart`](https://github.com/fluttercandies/vcard_dart)** — complete vCard 2.1/3.0/4.0 parsing & generation, with jCard & xCard (3⭐). 📇
 🤝 Core contributor at **[`FlutterCandies`](https://github.com/fluttercandies)** — a collective shipping battle-tested packages across the Dart ecosystem. 🍬
 
 ## 💭 How I Work
@@ -125,10 +125,10 @@ Great software is **empathy, compiled** 🧠. The best systems are the invisible
 
 ## 📬 Let's Connect
 
-📬 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)  
-🐦 **X / Twitter** — [@iota9star](https://x.com/iota9star)  
-✍️ **Juejin Blog** — [iota9star on 掘金](https://juejin.cn/user/1591748568562829)  
-🌐 **Homepage** — [bytex.space](https://bytex.space)  
+📬 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)
+🐦 **X / Twitter** — [@iota9star](https://x.com/iota9star)
+✍️ **Juejin Blog** — [iota9star on 掘金](https://juejin.cn/user/1591748568562829)
+🌐 **Homepage** — [bytex.space](https://bytex.space)
 🐙 **GitHub** — [github.com/iota9star](https://github.com/iota9star)
 
 *Thanks for scrolling all the way down 🌸 — if anything here caught your eye, a ⭐ means the world, and an interesting conversation means even more. Now go build something worth noticing.* 🌟
