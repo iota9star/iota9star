@@ -1,38 +1,38 @@
-# 👋 Hey, I'm **iota9star**
+# 👋 Hey — I'm **iota9star**
 
-> *polyglot builder · 🦀 Rust to 🎯 Dart to ☕ JVM · quiet tools that disappear*
+> *full-stack shape-shifter · 🦀 systems by day, 🎯 Flutter by night · "我们，有些许相似"*
 
-My GitHub bio reads **我们，有些许相似** — *"we are, in some ways, alike."* I reckon that's the whole job: writing code that feels familiar to the next person who opens it, even if we've never met. I build the load-bearing stuff people never think about — and I take that invisibility as the highest compliment. 🤝
+My GitHub display name reads **我心里危险的东西** — *The Dangers in My Heart* — because, yes, even the profile is anime-coded. 🎀 My bio, **我们，有些许相似** ("we are, in some ways, alike"), is the only spec I really follow: write code that feels familiar to whoever opens it next, stranger or future-self. The load-bearing, invisible kind — the stuff nobody notices until it's gone. 🤝
 
 ![views](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 💡 A Line I Keep Close
+## 🌿 A Line I Keep Close
 
-> *「纵使一次也好，我也想在这个星球上尽情奔跑啊！」*
-> *"Even if it's just once, I want to run freely across this planet."*
-> — **诗音 / Sion** ·《Eden》, via [一言 Hitokoto](https://v1.hitokoto.cn/)
+> *「云无心以出岫，鸟倦飞而知还。」*
+> *"Clouds drift from the peaks without a thought; birds, weary of flight, know the way home."*
+> — **陶渊明 ·《归去来兮辞》**, via [一言 Hitokoto](https://v1.hitokoto.cn/)
 
-Software, to me, is a way of *running freely* — across languages, across ecosystems, across the gap between an idea at 2 a.m. and something a stranger actually wants to use. Every repo below is one small sprint on that same planet. 🌍
+Two lessons, both mine: build like the clouds — *无心*, effortless, the right thing emerging on its own — and learn the bird's instinct for *知还*, knowing exactly when a piece is done and it's time to come home. 🍃 Every repo below is one small return journey on that same mountain. 🏔️
 
 ## 👨‍💻 About Me
 
-🦀 By daylight I live in **Rust** — async runtimes, Axum handlers, zero-cost abstractions that earn every byte they hold.
-🌙 After dark the keyboard flips to **Dart** & Flutter, and the passion projects wake up.
-☕ I drift comfortably across **Java · Kotlin · TypeScript · Dart** — equally at home in kernel-adjacent trenches and UI treetops. 🌳
-🌸 My anime-coded projects — `mikan_flutter`, `sakura-dmhy`, `kisssub` — are exactly what they sound like, and they're also the bedrock this whole career was poured on. 💘
-🤖 **AI-assisted development** is a craft, not a shortcut — the agents and assistants I build exist to make code measurably *better*, never merely faster. 🧠
-⛓️ I stay curious about **Web3** primitives — BTC, EVM and the Internet Computer each bend your brain in a different, worthwhile direction. 🔭
-🌱 On GitHub since **27 August 2016** — nearly a decade in, and somehow still the keenest beginner in every room I walk into.
+🦀 **Daylight belongs to Rust** — async runtimes, Axum handlers, zero-cost abstractions that justify every byte they keep around.
+🌙 **Night flips the keyboard to Dart & Flutter** — that's when the passion projects wake up and the fun starts.
+☕ **I drift fluently across the JVM** — Java · Kotlin — and feel equally at home in the kernel-adjacent trenches and the UI treetops. 🌳
+🌸 **Anime-coded by origin** — `mikan_flutter`, `sakura-dmhy`, `kisssub` are exactly what they sound like, and they're the bedrock this whole career was poured on. 💘
+🤖 **AI as craft, not shortcut** — the agents and assistants I build exist to make code measurably *better*, never merely faster. 🧠
+⛓️ **Web3 keeps the brain bendy** — BTC, EVM and the Internet Computer each warp your thinking in a worthwhile direction. 🔭
+🌱 **On GitHub since 27 August 2016** — nearly a decade in, and somehow still the keenest beginner in every room I walk into. 🚀
 
 ## 🎯 What I Build
 
-⚙️ **Load-bearing Rust** — Axum services whose napkin sketch survives real traffic, not just the demo
-📱 **Flutter & the Dart ecosystem** — core contributor at [FlutterCandies](https://github.com/fluttercandies), shipping packages that quietly power thousands of apps
-☕ **JVM at scale** — Spring microservices architected for production load, not conference slides
-🌐 **Frontend craft** — React & Vue SPAs that feel instant, stay accessible, and hide a little delight in the corners
-🤖 **AI workflows** — agents, code assistants and quality gates that *amplify* human judgement instead of outsourcing it
-⛓️ **Web3 tinkering** — BTC, EVM chains and the Internet Computer; decentralisation is a muscle worth keeping limber
-🔧 **Developer tooling** — anything that hands a fellow dev back five minutes a day earns a repository of its own
+⚙️ **Load-bearing Rust** — Axum services whose napkin sketch survives real traffic, not just the demo.
+📱 **Flutter & the Dart ecosystem** — core contributor at [FlutterCandies](https://github.com/fluttercandies), shipping packages that quietly power thousands of apps.
+☕ **JVM at scale** — Spring microservices architected for production load, not conference slides.
+🌐 **Frontend craft** — React & Vue SPAs that feel instant, stay accessible, and hide a little delight in the corners.
+🤖 **AI workflows** — agents, code assistants and quality gates that *amplify* human judgement instead of outsourcing it.
+⛓️ **Web3 tinkering** — BTC, EVM chains and the Internet Computer; decentralisation is a muscle worth keeping limber.
+🔧 **Developer tooling** — anything that hands a fellow dev back five minutes a day earns a repository of its own. ⏱️
 
 ## 🛠️ Tech Stack
 
@@ -121,7 +121,7 @@ A masonry of what I'm proudest of — auto-sorted by ⭐ community love and refr
 
 Great software is **empathy, compiled** 🧠. The best systems are the invisible ones — they respect your time, quietly anticipate the edge case before it bites, and dissolve into whatever someone set out to accomplish ✨. Every function earns its keep. Every API reads on the first pass. Every abstraction pays its rent in **clarity, not cleverness** 🎯. I write code my future self will thank me for, and code a complete stranger could fall for on day one.
 
-**Tests are the safety net** 🔒, **reviews are the mirror** 🪞, and **open source is the classroom** 🎓. The real art is subtraction: strip the noise away until only the signal remains 📡. Build with conviction, ship with humility, and always leave the codebase a little warmer than you found it 🌸.
+**Tests are the safety net** 🔒, **reviews are the mirror** 🪞, and **open source is the classroom** 🎓. The real art is subtraction: strip the noise away until only the signal remains 📡 — *鸟倦飞而知还*, knowing when to come home. Build with conviction, ship with humility, and always leave the codebase a little warmer than you found it 🌸.
 
 ## 📬 Let's Connect
 
