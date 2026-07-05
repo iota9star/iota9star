@@ -45,3 +45,5 @@ temp/
 # Local scratch / data-collection helpers
 scripts/_stars.sh
 scripts/_fetch_stars.py
+_star_*.json
+_stars/
