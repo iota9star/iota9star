@@ -1,22 +1,22 @@
 # 👋 Hey, I'm iota9star
 
-**Backend tinkerer, Flutter whisperer, and relentless bridge-builder between the two.** 🌉  
-*I write Rust 🦀 that serves millions and Dart 🎯 that feels instant — then I obsess over the millisecond where they meet, because that seam is where good software either lives or dies.* ⚡
+**Rust welder, Dart poet, and relentless bridge-builder between the two.** 🌉  
+*I forge backends that survive their worst day in Rust 🦀 and paint UIs that feel weightless in Dart 🎯 — then I live for the seam where they finally agree, because that's where good software either breathes or breaks.* ⚡
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
-![Visitors](https://komarev.com/ghpvc/?username=iota9star&label=Visitors&color=12b886&style=flat-square) ![Followers](https://img.shields.io/github/followers/iota9star?label=Followers&style=flat-square&color=fd7e14) ![Featured Stars](https://img.shields.io/badge/Featured_Stars-1.7k+-fd7e14?style=flat-square&logo=github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/iota9star/iota9star?label=Last%20Commit&style=flat-square&color=1c7ed6)
+![Visitors](https://komarev.com/ghpvc/?username=iota9star&label=Visitors&color=12b886&style=flat-square) ![Followers](https://img.shields.io/github/followers/iota9star?label=Followers&style=flat-square&color=fd7e14) ![Repos](https://img.shields.io/badge/Public_Repos-100-1c7ed6?style=flat-square&logo=github&logoColor=white) ![Featured Stars](https://img.shields.io/badge/Featured_Stars-1.7k+-fd7e14?style=flat-square&logo=github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/iota9star/iota9star?label=Last%20Commit&style=flat-square&color=40c057)
 
 ## 👨‍💻 About Me
 
-Hi, I'm **iota9star** 👋 — a full-stack engineer who genuinely enjoys the unglamorous parts: the latency budget nobody asked for, the API contract two teams forgot to write down, the animation curve that's *almost* right. 🎯
+Hi, I'm **iota9star** 👋 — a full-stack engineer who's strangely fond of the parts most people skip: the latency budget nobody wrote down, the API contract two teams forgot to sign, the easing curve that's *almost* imperceptibly off. 🎯
 
-By daylight I ship hardened **Rust** (Axum) and **Java** (Spring) services; after dark I tend a garden of **Flutter** apps and Dart packages that thousands of people tap every day. 🌙 The work I love most lives at the seam — where a fast service has to shake hands with a delightful UI, and neither side is allowed to blame the other. 🤝
+By day I harden **Rust (Axum)** and **Java (Spring)** services built to ride out their worst day; by night I tend a galaxy of **Flutter** apps and Dart packages that thousands of fingers tap every single day. 🌙 The work I love most lives at the seam — where a brutalist backend has to shake hands with a delightful UI, and neither side is allowed to point fingers. 🤝
 
-- 🔭 **Right now:** observable Rust/Axum services ⚙️ and fault-tolerant Java/Spring microservices that are built to survive their worst day. 🛡️
-- 🌱 **Curious about:** **AI agents** woven into real dev pipelines 🤖, the building blocks of **Web3** 🔗, and tooling that quietly deletes friction.
+- 🔭 **Shipping now:** observable Rust/Axum services ⚙️ and fault-tolerant Java/Spring microservices that bend without breaking. 🛡️
+- 🌱 **Curious about:** **AI agents** stitched into real dev loops 🤖, the load-bearing primitives of **Web3** 🔗, and small tools that quietly delete friction.
 - 🍡 **Off the clock:** lost in **anime seasons** 🎌 — a hobby that accidentally became my most-starred project.
 - 🎂 **Origin story:** `mikan_flutter` went live in **July 2020** — six years young and still my flagship. 🚀
-- ✉️ **Inbox policy:** always open. Systems talk, Flutter nerd-outs, or a wild side project — pull up a chair. 💬
+- ✉️ **Inbox policy:** always warm. Systems talk, Flutter deep-dives, or a wild side quest — pull up a chair. 💬
 
 ## 🎯 What I Do
 
@@ -49,10 +49,11 @@ By daylight I ship hardened **Rust** (Axum) and **Java** (Spring) services; afte
 | 📈 Metric | 🏆 Value |
 |:---:|:---:|
 | 📦 Featured repos | `16` and counting |
-| ⭐ Stars (featured set) | `1,700+` across the constellation |
-| 🌟 Top personal repo | `mikan_flutter` — 1.3k ⭐ |
+| ⭐ Stars (featured set) | `~1,695` across the constellation |
+| 🌟 Top personal repo | `mikan_flutter` — 1.3k+ ⭐ |
 | 🦀 Top FlutterCandies repo | `fjs` — a Rust-powered JS runtime for Flutter |
-| 🧩 Collective | FlutterCandies ✨ |
+| 👥 Followers | `284` builders along for the ride |
+| 📚 Public repos | `100` |
 | 💬 Day-to-day | Rust · Java · Kotlin · Dart · TS |
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
@@ -60,7 +61,7 @@ By daylight I ship hardened **Rust** (Axum) and **Java** (Spring) services; afte
 
 ## 🔥 Featured Projects
 
-Sorted by ⭐ popularity — from an anime-season tracker 🎌 to a Rust-powered JavaScript engine 🦀 and a whole galaxy of Flutter tooling. 🌌 The cards below pull **live** star counts, so tap any one to explore.
+Sorted by ⭐ popularity — from an anime-season tracker 🎌 to a Rust-powered JavaScript engine 🦀 and a whole galaxy of Flutter tooling. 🌌 Cards pull **live** star counts, so tap any one to explore.
 
 <table>
 <tr>
@@ -90,37 +91,33 @@ Sorted by ⭐ popularity — from an anime-season tracker 🎌 to a Rust-powered
 </tr>
 </table>
 
+## 💡 A Thought
+
+> 遇事不决，可问春风。  
+> — 《剑来》
+
+*“When you can't decide, ask the spring breeze.”* — a reminder that sometimes the right call is to step back, breathe, and let clarity arrive on its own. 🌿
+
 ## 🏆 Highlights
 
 - 🥇 **1.3k+ ⭐** on [`mikan_flutter`](https://github.com/iota9star/mikan_flutter) — a beloved third-party client for the Mikan Project anime index, six years and counting. 🎌
-- 🦀 Shipped **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance **JavaScript runtime for Flutter**, Rust sitting on top of QuickJS. ⚡
-- 🕹️ Built **[`dpad`](https://github.com/fluttercandies/dpad)** — D-pad navigation for Flutter TV apps that feels as simple as native Android. 📺
+- 🦀 Shipped **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance **JavaScript runtime for Flutter**, Rust on top of QuickJS. ⚡
+- 🕹️ Built **[`dpad`](https://github.com/fluttercandies/dpad)** — D-pad navigation for Flutter TV apps as simple as native Android. 📺
 - 🔄 Created **[`void_signals`](https://github.com/void-signals/void_signals)** — a blazing-fast signal reactivity library for Dart/Flutter, rooted in alien-signals. 🛸
-- 🧩 Curate a constellation of Dart/Flutter packages in **FlutterCandies** — routing, signals, layout, SVG, and date-time tooling that other devs actually reach for. ✨
+- 📅 Crafted **[`hora`](https://github.com/fluttercandies/hora)** — an immutable, type-safe date-time library for Dart, inspired by Day.js. ⏳
+- 🧩 Curate a constellation of **FlutterCandies** packages — routing, flexbox, SVG, concurrency & codegen that other devs actually reach for. ✨
 
-## 💡 Quote of the Moment
+## 📧 Connect
 
-> 📜 *"不管风吹浪打，胜似闲庭信步。"*  
-> *"Let the wind howl and the waves beat — I stroll through it like a calm courtyard walk."*  
-> — 毛泽东 ·《水调歌头·游泳》· Mao Zedong, *Swimming* 🌊  
-> 🧘 The on-call engineer's creed: stay composed, whatever the pager throws at you.
-
-![](profile-3d-contrib/profile-season-animate.svg)
-
-## 🌱 Currently
-
-🚧 Pushing the **Flutter + Rust** boundary 🦕, threading **AI agents** into real dev pipelines 🤖, and quietly chipping away at **Web3** primitives across BTC / EVM / IC 🔗. Always one experiment away from the next repo. 🧪
+- ✉️ **Email:** [iota9star@gmail.com](mailto:iota9star@gmail.com)
+- 🐦 **X (Twitter):** [@iota9star](https://x.com/iota9star)
+- 📝 **Juejin (掘金):** [Blog](https://juejin.cn/user/1591748568562829)
+- 🐙 **GitHub:** [@iota9star](https://github.com/iota9star)
 
 ## 💭 Philosophy
 
-> 💭 *"Build the API I'd want to call, and the UI I'd want to tap."*  
-> Clarity first, speed second, cleverness never. Code should read like prose 📖, ship like a rocket 🚀, and age like a good library. 🏛️
+> *我们，有些许相似* — “We are, in some ways, similar.” 🌌
 
-## 📧 Let's Connect
+**Build for the seam, not the sides.** The interfaces between systems, teams, and platforms are where most software quietly fails — and where I most like to work. I optimize for the exact moment a fast service meets a fluid UI and neither side flinches. If you also chase the millisecond between *good* and *great*, we'll get along just fine. 🤝
 
-📬 **Email:** [iota9star@gmail.com](mailto:iota9star@gmail.com)  
-🐦 **X (Twitter):** [@iota9star](https://x.com/iota9star)  
-📝 **Juejin Blog:** [iota9star on 掘金](https://juejin.cn/user/1591748568562829)  
-🐙 **GitHub:** [@iota9star](https://github.com/iota9star)
-
-*Thanks for scrolling all the way down — ⭐ a repo, open an issue, or just say hi. 💌*
+![](profile-3d-contrib/profile-season-animate.svg)
