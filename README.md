@@ -1,22 +1,22 @@
 # 👋 Hey, I'm iota9star
 
-**I write Rust that doesn't flinch and Dart that feels like silk — then I obsess over the handshake between them.** 🤝  
-*A full-stack engineer who genuinely enjoys the unglamorous seams: the latency budget no one documented, the API contract two teams forgot to sign, the easing curve that's off by a fraction nobody but me will notice.* 🎯
+**Rust that doesn't flinch. Dart that feels like silk. And an unhealthy love for the seam where they meet.** 🤝
+*A full-stack engineer who keeps volunteering for the unglamorous middle — the latency budget nobody wrote down, the API contract two teams forgot to sign, the easing curve that's off by a fraction only I seem to feel.* 🎯
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 ![Visitors](https://komarev.com/ghpvc/?username=iota9star&label=Visitors&color=12b886&style=flat-square) ![Followers](https://img.shields.io/github/followers/iota9star?label=Followers&style=flat-square&color=fd7e14) ![Repos](https://img.shields.io/badge/Public_Repos-100-1c7ed6?style=flat-square&logo=github&logoColor=white) ![Featured Stars](https://img.shields.io/badge/Featured_Stars-1.7k+-fd7e14&style=flat-square&logo=github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/iota9star/iota9star?label=Last%20Commit&style=flat-square&color=40c057)
 
 ## 👨‍💻 About Me
 
-Hi, I'm **iota9star** 👋 — equal parts backend pragmatist and frontend romantic, currently splitting my time between **Rust (Axum)** services that have to survive their worst day and a small universe of **Flutter** apps that thousands of people tap before breakfast. ☕
+Hi, I'm **iota9star** 👋 — half backend pragmatist, half frontend romantic. My weekdays are spent keeping **Rust (Axum)** services calm on their worst day, and my evenings belong to a little galaxy of **Flutter** apps that thousands of people tap before their first coffee. ☕
 
-I'm happiest at the boundary layer — that exact moment a hardened service has to shake hands with a delightful UI, and neither side is allowed to blame the other when things get weird. 🌉 That seam is where good software quietly breathes, and where it just as quietly breaks. I've made it my home.
+I live at the boundary layer — that electric moment when a hardened backend has to shake hands with a delightful UI, and neither side is allowed to point fingers when things get weird. 🌉 Good software quietly breathes in that seam; great software is born there. I've set up camp and I'm not leaving.
 
-- 🔭 **Shipping:** observable Rust/Axum backends ⚙️ alongside fault-tolerant Java/Spring microservices that bend instead of snapping. 🛡️
-- 🌱 **Exploring:** **AI agents** wired into real developer loops 🤖, the load-bearing primitives of **Web3** 🔗, and tiny tools that quietly delete friction.
-- 🍡 **Unwinding:** lost in **anime seasons** 🎌 — a side hobby that accidentally grew into my most-starred project.
-- 🎂 **Milestone:** `mikan_flutter` shipped in **July 2020** — six years old and still my flagship. 🚀
-- ✉️ **Inbox:** always open. Architecture rants, Flutter deep-dives, or a random side quest — come say hi. 💬
+- 🔭 **Currently shipping** observable Rust/Axum backends ⚙️ alongside fault-tolerant Java/Spring microservices that bend instead of breaking. 🛡️
+- 🌱 **Currently curious** about **AI agents** stitched into real dev loops 🤖, the load-bearing primitives of **Web3** 🔗, and small tools that silently delete friction.
+- 🍡 **Currently unwinding** in **anime seasons** 🎌 — a side hobby that accidentally became my most-starred project.
+- 🎂 **Flagship:** `mikan_flutter` first shipped in **July 2020** — six candles and still going strong. 🚀
+- ✉️ **Inbox:** genuinely open. Architecture rants, Flutter deep-dives, or a random side quest — pull up a chair. 💬
 
 ## 🎯 What I Do
 
@@ -24,7 +24,7 @@ I'm happiest at the boundary layer — that exact moment a hardened service has 
 - 📱 **Cross-platform apps** — native-feeling experiences in Flutter, Android, and the modern web. 🌐
 - 🤖 **AI workflows** — LLM agents & code assistants threaded into real pipelines, quality-first every single time. ✨
 - ⛓️ **Web3 primitives** — poking at **BTC**, **EVM**, and **IC**, one block at a time. 🧱
-- 🎨 **Open source** — tending a constellation of Dart/Flutter libraries in the **FlutterCandies** collective. 🌌
+- 🎨 **Open source** — tending a constellation of Dart/Flutter libraries inside the **FlutterCandies** collective. 🌌
 
 ## 🛠️ Tech Stack
 
@@ -49,10 +49,9 @@ I'm happiest at the boundary layer — that exact moment a hardened service has 
 | 📈 Metric | 🏆 Value |
 |:---:|:---:|
 | 📦 Featured repos | `16` and counting |
-| ⭐ Stars (featured set) | `~1,697` across the constellation |
+| ⭐ Stars (featured set) | `~1.7k` across the constellation |
 | 🌟 Top personal repo | `mikan_flutter` — 1.3k+ ⭐ |
 | 🦀 Top FlutterCandies repo | `fjs` — a Rust-powered JS runtime for Flutter |
-| 👥 Followers | `284` builders along for the ride |
 | 📚 Public repos | `100` |
 | 💬 Day-to-day | Rust · Java · Kotlin · Dart · TS |
 
@@ -91,21 +90,27 @@ Sorted by ⭐ popularity — from a six-year-old anime tracker 🎌 to a Rust-po
 </tr>
 </table>
 
-## 💡 A Thought
-
-> 太阳落山并不代表他输了，而是他来了。  
-> — 《安讯七旬》
-
-*"The sun going down doesn't mean he lost — it means he has arrived."* — a quiet reminder that an ending and a beginning are sometimes the same light, just viewed from a different hill. 🌅
-
 ## 🏆 Highlights
 
 - 🥇 **1.3k+ ⭐** on [`mikan_flutter`](https://github.com/iota9star/mikan_flutter) — a beloved third-party client for the Mikan Project anime index, six years and counting. 🎌
-- 🦀 Shipped **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance **JavaScript runtime for Flutter**, Rust on top of QuickJS. ⚡
-- 🕹️ Built **[`dpad`](https://github.com/fluttercandies/dpad)** — D-pad navigation for Flutter TV apps as simple as native Android. 📺
+- 🦀 Shipped **[`fjs`](https://github.com/fluttercandies/fjs)** — a high-performance **JavaScript runtime for Flutter**, Rust riding on top of QuickJS. ⚡
+- 🕹️ Built **[`dpad`](https://github.com/fluttercandies/dpad)** — D-pad navigation for Flutter TV apps as effortless as native Android. 📺
 - 🔄 Created **[`void_signals`](https://github.com/void-signals/void_signals)** — a blazing-fast signal reactivity library for Dart/Flutter, rooted in alien-signals. 🛸
 - 📅 Crafted **[`hora`](https://github.com/fluttercandies/hora)** — an immutable, type-safe date-time library for Dart, inspired by Day.js. ⏳
 - 🧩 Curate a constellation of **FlutterCandies** packages — routing, flexbox, SVG, concurrency & codegen that other devs actually reach for. ✨
+
+## 💡 A Thought
+
+> *太阳落山并不代表他输了，而是他来了。*
+> *The sun going down doesn't mean he lost — it means he has arrived.* 🌅
+
+A quiet reminder that an ending and a beginning are sometimes the same light, just admired from a different hill.
+
+## 💭 Philosophy
+
+> *我们，有些许相似* — "We are, in some ways, similar." 🌌
+
+**Build for the seam, not the sides.** The interfaces between systems, teams, and platforms are where most software quietly fails — and where I most like to work. I optimize for the exact moment a fast service meets a fluid UI and neither side flinches. If you also chase the millisecond between *good* and *great*, we'll get along just fine. 🤝
 
 ## 📧 Connect
 
@@ -113,11 +118,5 @@ Sorted by ⭐ popularity — from a six-year-old anime tracker 🎌 to a Rust-po
 - 🐦 **X (Twitter):** [@iota9star](https://x.com/iota9star)
 - 📝 **Juejin (掘金):** [Blog](https://juejin.cn/user/1591748568562829)
 - 🐙 **GitHub:** [@iota9star](https://github.com/iota9star)
-
-## 💭 Philosophy
-
-> *我们，有些许相似* — "We are, in some ways, similar." 🌌
-
-**Build for the seam, not the sides.** The interfaces between systems, teams, and platforms are where most software quietly fails — and where I most like to work. I optimize for the exact moment a fast service meets a fluid UI and neither side flinches. If you also chase the millisecond between *good* and *great*, we'll get along just fine. 🤝
 
 ![](profile-3d-contrib/profile-season-animate.svg)
