@@ -41,6 +41,7 @@ Desktop.ini
 $RECYCLE.BIN/
 *.lnk
 temp/
+__pycache__/
 
 # Local scratch / data-collection helpers
 scripts/_stars.sh

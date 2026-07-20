@@ -2,7 +2,18 @@ name: GitHub-Profile-Automation
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    # 策略: cron 每小时凭底触发 → 由脚本 --guard 门控决定是否真正消耗额度。
+    # 这样即使某次触发因 Actions 抖动/失败错过, 后续小时还能补上; 同时保证
+    # 只有"有效窗口起点"附近才会真正调用, 避免在高峰超预算时段浪费额度。
+    #
+    # 有效窗口起点 (北京, 即脚本 VALID_STARTS_BJ, 由 find_best_anchor() 求解):
+    #   01:00  [01,06] 全非高峰     ┐
+    #   06:00  [06,11] 全非高峰     │  严格每 5h 一个起点 (对齐套餐 5h 刷新)
+    #   11:00  [11,16] 高峰 14-16   │  高峰段 [14,18] 共 4h 被精确切为 2h+2h
+    #   16:00  [16,21] 高峰 16-18   │  两个高峰窗口各用满 2h 高峰预算, 零浪费
+    #   21:00  [21,02] 全非高峰     ┘  (21→01 为不可避免的 4h 缺口, 落在深夜)
+    # guard 容差 ±30 分钟, 抵消 Actions cron 的触发抖动。
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,7 +27,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Guard — 判断此刻是否在有效用量窗口
+        id: guard
+        continue-on-error: true
+        run: |
+          # 设置北京时区, 让脚本读到正确的当前时刻
+          export TZ="Asia/Shanghai"
+          # 退出码 0 = RUN (有效窗口), 2 = SKIP (非有效窗口)
+          if python scripts/verify_schedule.py --guard; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            echo "::notice::GUARD=RUN, 当前时刻命中有效用量窗口"
+          else
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::GUARD=SKIP, 当前时刻不在有效窗口, 跳过额度消耗步骤"
+          fi
+
       - name: Generate 3D Profile Contrib
+        if: steps.guard.outputs.should_run == 'true'
         uses: yoshi389111/github-profile-3d-contrib@v0.9.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -24,6 +51,7 @@ jobs:
           MAX_REPOS: 999
 
       - name: Generate README with Claude Code Action
+        if: steps.guard.outputs.should_run == 'true'
         uses: anthropics/claude-code-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -110,6 +138,7 @@ jobs:
           ANTHROPIC_REASONING_MODEL: ${{ secrets.CLAUDE_MODEL }}
 
       - name: Commit & Push All Changes
+        if: steps.guard.outputs.should_run == 'true'
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: 'Automated update of GitHub profile README.md'
