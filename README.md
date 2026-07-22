@@ -1,22 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm iota9star
+# 👋 Hi, I'm **iota9star**
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset 👨‍💻**
+**Full Stack Developer | Rust & Java Backend | Product Mindset ✨**
 
 Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 </div>
-
-## 🚀 About Me
-
-Hi! I'm a passionate developer who loves building things that live at the intersection of performance and user experience. With deep expertise in **Rust** and **Java** backends, complemented by modern frontend frameworks, I craft solutions that are both powerful and delightful to use.
-
-My journey has taken me through microservices architectures, real-time systems, and cutting-edge AI workflows. I believe in clean code, continuous learning, and the power of open source.
-
-When I'm not coding, you'll find me exploring new technologies, contributing to the Flutter ecosystem, or diving into the latest developments in Web3 and AI agents.
 
 ## 🎯 What I Do
 
@@ -36,27 +28,35 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 ### Languages
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Backend
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Axum](https://img.shields.io/badge/Axum-FF9900?style=for-the-badge&logo=tokio&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6600?style=for-the-badge&logo=microservices&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-FF9900?style=for-the-badge&logo=tokio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6600?style=for-the-badge&logo=microservices&logoColor=white)
 
 ### Frontend & Mobile
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Blockchain
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![IC](https://img.shields.io/badge/Internet_Computer-4A55A8?style=for-the-badge&logo=ICP&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![IC](https://img.shields.io/badge/Internet_Computer-4A55A8?style=for-the-badge&logo=ICP&logoColor=white)
 
 ## 📊 Quick Stats
 
-![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical)
 
@@ -99,7 +99,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 </tr>
 </table>
 
-## 💡 Quote
+## 💡 Quote of the Day
 
 > *"当我忘了你的时候，我就忘了我自己。"*
 >
@@ -107,9 +107,9 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 *"When I forget you, I forget myself."*
 
-A timeless reminder that our connections — to people, to code, to ideas — shape who we are. In software, as in life, we build upon foundations laid by others, and our work becomes part of something greater than ourselves.
+Our connections — to people, to code, to ideas — shape who we are. In software, as in life, we build upon foundations laid by others, and our work becomes part of something greater.
 
-## 🏆 Highlights
+## 🏆 Highlights & Achievements
 
 🎯 **Active Contributor**: Regular contributor to Flutter ecosystem and open-source projects
 
@@ -121,13 +121,11 @@ A timeless reminder that our connections — to people, to code, to ideas — sh
 
 🤝 **Community Member**: Part of fluttercandies organization, pushing Flutter forward
 
-## 📊 Contribution Activity
+📚 **Knowledge Sharer**: Writing technical articles and guides on Juejin
 
-![](profile-3d-contrib/profile-season-animate.svg)
+## 💭 Philosophy & Approach
 
-## 💭 Philosophy
-
-🌟 **Continuous Learning**: Technology evolves rapidly, and so do I. I stay curious and embrace new challenges.
+🌟 **Continuous Learning**: Technology evolves rapidly, and so do I. Staying curious and embracing new challenges.
 
 🎯 **Quality Over Quantity**: Building things that matter rather than chasing trends. Every line of code should serve a purpose.
 
@@ -137,7 +135,11 @@ A timeless reminder that our connections — to people, to code, to ideas — sh
 
 🔥 **Product Thinking**: User value drives every technical decision. Great technology serves human needs.
 
-## 📧 Connect
+## 📊 Contribution Activity
+
+![](profile-3d-contrib/profile-season-animate.svg)
+
+## 📧 Let's Connect
 
 Let's build something amazing together!
 
