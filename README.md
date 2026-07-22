@@ -101,13 +101,13 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 ## 💡 Quote
 
-> *"人间千百事，落得花间酒。不知礼乐坏，不得道德法。"*
+> *"当我忘了你的时候，我就忘了我自己。"*
 >
-> — 璃墨
+> — 呼啸山庄 (Wuthering Heights)
 
-*"Amidst a thousand worldly affairs, one finds solace in wine among flowers. Unaware that rituals and music decay, one misses the way of virtue and law."*
+*"When I forget you, I forget myself."*
 
-This poetic reflection captures my approach to development: finding beauty in complexity while staying true to fundamental principles. In code, as in life, balance between structure and creativity is key.
+A timeless reminder that our connections — to people, to code, to ideas — shape who we are. In software, as in life, we build upon foundations laid by others, and our work becomes part of something greater than ourselves.
 
 ## 🏆 Highlights
 
