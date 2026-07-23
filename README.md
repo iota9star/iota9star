@@ -1,162 +1,185 @@
-<div align="center">
+# 👋 Hi, I'm iota9star
 
-# 👋 Hi, I'm **iota9star**
+<p align="center">
+  <img src="https://count.getloli.com/get/@iota9star?theme=rule34" alt="Profile Views"/>
+</p>
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset ✨**
+## 👨‍💻 About Me
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends.
-
-![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
-
-</div>
+I'm a Full Stack Developer passionate about building digital experiences across the entire stack — from high-performance backends to elegant frontends. With a product mindset and deep expertise in Rust, Java, and modern web technologies, I transform complex ideas into polished, user-friendly applications.
 
 ## 🎯 What I Do
 
-🔧 **Backend Development**: High-performance services with Rust and Java, microservices architectures, real-time systems
+🔧 **Backend Development** — Crafting scalable, high-performance microservices and APIs
 
-💻 **Frontend Engineering**: React, Vue, Flutter mobile apps, responsive web applications
+🎨 **Frontend Engineering** — Building responsive, intuitive user interfaces
 
-🤖 **AI-Powered Workflows**: Building intelligent code assistants and development agents
+🤖 **AI Integration** — Leveraging AI-powered development workflows and code assistants
 
-⚡ **Performance Optimization**: Making things faster, more efficient, and scalable
+⛓️ **Web3 & Blockchain** — Developing decentralized applications on BTC, EVM, and IC
 
-🌐 **Web3 Integration**: Bitcoin, EVM, and Internet Computer blockchain development
-
-📱 **Mobile Development**: Native Android and cross-platform Flutter applications
+📱 **Mobile Development** — Creating cross-platform apps with Flutter and React Native
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+`Rust` `Java` `Kotlin` `TypeScript` `Dart` `Python` `Go`
 
 ### Backend
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-FF9900?style=for-the-badge&logo=tokio&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6600?style=for-the-badge&logo=microservices&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Axum](https://img.shields.io/badge/Axum-FF9900?style=flat-square&logo=tokio&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ### Blockchain
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![ICP](https://img.shields.io/badge/ICP-4A55A8?style=flat-square&logo=ICP&logoColor=white)
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![IC](https://img.shields.io/badge/Internet_Computer-4A55A8?style=for-the-badge&logo=ICP&logoColor=white)
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📊 Quick Stats
+## 📊 Contribution Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iota9star&theme=radical)
+<p align="center">
+  <img src="profile-3d-contrib/profile-season-animate.svg" alt="Contribution Graph"/>
+</p>
 
 ## 🔥 Featured Projects
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" alt="fluttercandies/fjs" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
+<td align="center">
+  <a href="https://github.com/fluttercandies/fjs">
+    <img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" alt="fluttercandies/fjs"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/fluttercandies/hora">
+    <img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora"/>
+  </a>
+</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
+<td align="center">
+  <a href="https://github.com/fluttercandies/json_dart">
+    <img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/fluttercandies/env2dart">
+    <img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart"/>
+  </a>
+</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
+<td align="center">
+  <a href="https://github.com/fluttercandies/flexbox_layout">
+    <img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/fluttercandies/dotrix">
+    <img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix"/>
+  </a>
+</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
+<td align="center">
+  <a href="https://github.com/fluttercandies/dash_router">
+    <img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/fluttercandies/vcard_dart">
+    <img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart"/>
+  </a>
+</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
+<td align="center">
+  <a href="https://github.com/fluttercandies/svgo">
+    <img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/fluttercandies/dpad">
+    <img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad"/>
+  </a>
+</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
+<td align="center">
+  <a href="https://github.com/void-signals/void_signals">
+    <img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/iota9star/mikan_flutter">
+    <img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" alt="iota9star/mikan_flutter"/>
+  </a>
+</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
-<td align="center"><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
-<td align="center"><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg" alt="iota9star/kisssub" /></a></td>
+<td align="center">
+  <a href="https://github.com/iota9star/sakura-dmhy">
+    <img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/iota9star/kisssub">
+    <img src="https://gh-card.dev/repos/iota9star/kisssub.svg" alt="iota9star/kisssub"/>
+  </a>
+</td>
 </tr>
 </table>
 
-## 💡 Quote of the Day
+## 💡 Quote
 
-> *"当我忘了你的时候，我就忘了我自己。"*
+> "牙白得斯内！"
 >
-> — 呼啸山庄 (Wuthering Heights)
+> — Princess Connect! Re:Dive
 
-*"When I forget you, I forget myself."*
+## 🏆 Highlights
 
-Our connections — to people, to code, to ideas — shape who we are. In software, as in life, we build upon foundations laid by others, and our work becomes part of something greater.
+🌟 **Active Contributor** — Regular contributor to the Flutter ecosystem through fluttercandies organization
 
-## 🏆 Highlights & Achievements
+🚀 **Tool Builder** — Creating development tools that streamline workflows for thousands of developers
 
-🎯 **Active Contributor**: Regular contributor to Flutter ecosystem and open-source projects
+💡 **AI Explorer** — Experimenting with AI-powered development workflows and intelligent code assistants
 
-🔧 **Tool Builder**: Created development tools that streamline workflows for thousands of developers
+🎯 **Product-Focused** — Building solutions that solve real-world problems, not just technology demos
 
-🌐 **Full-Stack Expertise**: Seamlessly bridge frontend and backend challenges
+🌐 **Full-Stack Expertise** — Seamlessly bridging frontend and backend challenges with modern tooling
 
-🚀 **Performance Advocate**: Obsessed with optimization and efficiency at every layer
+🤝 **Open Source Advocate** — Believing in the power of community-driven development
 
-🤝 **Community Member**: Part of fluttercandies organization, pushing Flutter forward
+## 💭 Philosophy
 
-📚 **Knowledge Sharer**: Writing technical articles and guides on Juejin
+I believe in the power of clean, maintainable code and the importance of continuous learning. Whether it's optimizing backend performance or crafting pixel-perfect UIs, I approach every project with curiosity, creativity, and a commitment to excellence. The best code is not just functional—it's elegant, testable, and a joy to work with.
 
-## 💭 Philosophy & Approach
+Technology is a means to an end: creating value for users. Every line of code should serve a purpose, every architectural decision should have clear rationale, and every project should leave the codebase better than it was found.
 
-🌟 **Continuous Learning**: Technology evolves rapidly, and so do I. Staying curious and embracing new challenges.
+## 📧 Connect
 
-🎯 **Quality Over Quantity**: Building things that matter rather than chasing trends. Every line of code should serve a purpose.
+<p align="center">
+  <a href="mailto:iota9star@gmail.com">
+    <img src="https://img.shields.io/badge/Email-iota9star@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/iota9star">
+    <img src="https://img.shields.io/badge/X-@iota9star-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://juejin.cn/user/1591748568562829">
+    <img src="https://img.shields.io/badge/Blog-Juejin-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="Blog"/>
+  </a>
+</p>
 
-🤝 **Open Source Collaboration**: Contributing to the community and learning from others. The best code is written together.
+<p align="center">
+  <i>⭐ If you like my work, consider giving it a star!</i>
+</p>
 
-💪 **Resilience**: Embracing challenges as opportunities for growth. Every bug fixed is a lesson learned.
+<p align="center">
+  Made with ❤️ by iota9star
+</p>
 
-🔥 **Product Thinking**: User value drives every technical decision. Great technology serves human needs.
-
-## 📊 Contribution Activity
-
-![](profile-3d-contrib/profile-season-animate.svg)
-
-## 📧 Let's Connect
-
-Let's build something amazing together!
-
-📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-
-🐦 **X**: [@iota9star](https://x.com/iota9star)
-
-📝 **Juejin**: [Blog](https://juejin.cn/user/1591748568562829)
-
-💼 **GitHub**: [iota9star](https://github.com/iota9star)
-
-<div align="center">
-
-**⭐ Star some repos if you find them useful!**
-
-Made with ❤️ by iota9star
-
-*⚡ Fueled by coffee and curiosity. Building the future, one commit at a time.*
-
-</div>
+<p align="center">
+  <i>⚡ Fueled by curiosity and continuous learning. Building the future, one commit at a time.</i>
+</p>
