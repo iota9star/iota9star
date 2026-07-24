@@ -8,7 +8,9 @@ Building digital experiences across the stack — from high-performance backends
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who loves crafting robust applications with a product mindset. My journey spans multiple domains and technologies, always focusing on both technical excellence and user experience. I believe in the power of clean, maintainable code and continuous learning.
+I'm a passionate developer who loves crafting robust applications with a product mindset. My journey spans multiple domains and technologies, always focusing on both technical excellence and user experience. 
+
+I believe in the power of clean, maintainable code and continuous learning. Every project is an opportunity to push boundaries, explore new technologies, and create solutions that make a real difference.
 
 ## 🎯 What I Do
 
@@ -79,11 +81,9 @@ I'm a passionate developer who loves crafting robust applications with a product
 </tr>
 </table>
 
-## 💡 Today's Quote
+## 💡 Quote
 
-> *"若你给我一丝希望，我便赠你十分勇敢。"*
-> 
-> *— If you give me a glimmer of hope, I will give you ten times the courage.*
+> *"Code is poetry written in logic, debugging is the art of finding beauty in chaos."*
 
 ## 🏆 Highlights
 
@@ -113,11 +113,7 @@ Let's connect and build something amazing together!
 🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)  
 📝 **Juejin Blog**: [Check out my articles](https://juejin.cn/user/1591748568562829)
 
----
-
 ![](profile-3d-contrib/profile-season-animate.svg)
-
----
 
 <p align="center">
   <i>⭐ If you like my work, consider giving it a star!</i>
