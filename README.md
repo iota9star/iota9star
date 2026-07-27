@@ -1,56 +1,62 @@
-# 👋 Hey there, I'm iota9star
+# 👋 Hey, I'm iota9star
 
 **Full-Stack Engineer · Rust & Java Backend · Flutter Ecosystem Builder · Product Mindset** 🚀
 
-I build digital experiences across the entire stack — from high-throughput Rust backends to buttery-smooth Flutter apps — with a relentless obsession for the people who actually use what I ship. 💛
+I build digital experiences across the entire stack — from high-throughput Rust services to buttery-smooth Flutter apps — with one north star: **make something people genuinely love to use.** 💛
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-🔭 **Currently** — squeezing latency out of Rust services, shipping Flutter packages for the community, and exploring AI agents that make great engineers move even faster.
+🔭 **Right now** — squeezing latency out of Rust backends, shipping Flutter packages for the community, and exploring AI agents that help great engineers move even faster.  
+🌱 **Always learning** — Web3 primitives, new languages, and whatever rewires how I think about a problem.  
+💬 **Motto** — Performance is a feature; craft is a habit.
 
 ## 👨‍💻 About Me
 
-I'm a developer who lives where **performance** meets **craftsmanship**. Hand me a critical hot path and I'll chase every wasted millisecond in Rust; hand me a fuzzy product idea and I'll shape it into something that feels effortless and obvious to use.
+I'm a developer who lives where **performance** meets **craftsmanship**.  🛠️
+Hand me a critical hot path and I'll chase every wasted millisecond in Rust; hand me a fuzzy product idea and I'll shape it into something that feels effortless and obvious.
 
-My day flows between backends in **Axum** and **Spring**, cross-platform apps in **Flutter**, and a steady drumbeat of open-source packages for the Flutter community through the **fluttercandies** collective. I treat code the way a woodworker treats joinery — readable, tested, and built to outlast its author. 🌱
+My days flow between backends in **Axum** and **Spring**, cross-platform apps in **Flutter**, and a steady drumbeat of open-source packages for the **fluttercandies** collective. I treat code the way a woodworker treats joinery — readable, tested, and built to outlast its author. 🌳
 
-When the laptop closes, I'm usually chasing the next edge: **AI-augmented workflows**, **Web3 primitives**, or a new language that rewires how I think about a problem. Curiosity is the only dependency that never goes stale. 🧠
+When the laptop closes, I'm usually chasing the next edge: **AI-augmented workflows**, **Web3 primitives**, or a new language that rewires how I think about a problem. Curiosity is the one dependency that never goes stale. 🧠
 
 ## 🎯 What I Do
 
-🦀 **Systems & Backend** — High-throughput microservices, RESTful + real-time APIs, and the low-level tuning that makes latency quietly disappear.
-
-📱 **Cross-Platform Apps** — Flutter apps that feel native everywhere: reactive UIs, TV/Android experiences, and pixel-obsessed animations.
-
-🤖 **AI-Augmented Development** — Designing code-agent workflows and assistants that multiply velocity without trading away quality or correctness.
-
+🦀 **Systems & Backend** — High-throughput microservices, RESTful + real-time APIs, and the low-level tuning that makes latency quietly disappear.  
+📱 **Cross-Platform Apps** — Flutter experiences that feel native everywhere: reactive UIs, TV/Android navigation, and pixel-obsessed motion.  
+🤖 **AI-Augmented Dev** — Designing code-agent workflows and assistants that multiply velocity without trading away quality.  
 ⛓️ **Web3 Tinkering** — Probing the primitives of **BTC**, **EVM**, and the **Internet Computer**.
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages**  ️
 🦀 Rust · ☕ Java · 🎯 Kotlin · 🔷 TypeScript · 🎯 Dart
 
 **Backend**
-⚡ Axum · 🌱 Spring · 🔄 Microservices · 🟢 Node.js
+⚡ Axum · 🌱 Spring · 🧩 Microservices · 🟢 Node.js
 
 **Frontend & Mobile**
 ⚛️ React · 💚 Vue · 🦋 Flutter · 🤖 Android
 
 **Frontier**
-🤖 AI dev workflows & agents · 🔗 BTC · 🔶 EVM · 🟣 Internet Computer
+🤖 AI agents & dev workflows · 🔗 BTC · 🔶 EVM · 🟣 Internet Computer
+
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 📊 By the Numbers
 
-📦 **16 open-source repos** shipped across the Flutter ecosystem and beyond
-⭐ **1,700+ stars** earned from developers around the world
-🍴 **90+ forks** out in the wild, powering other people's projects
-🌟 **1,326 stars** on **mikan_flutter** — my flagship Flutter app
+Live counts straight from GitHub ⭐:
+
+📦 **16 open-source repos** shipped across the Flutter ecosystem and beyond  
+⭐ **1,700+ stars** earned from developers around the world  
+🍴 **90+ forks** out in the wild, powering other people's projects  
+🌟 **1,327 stars** on **mikan_flutter** — my flagship Flutter app  
 🧩 **Core contributor** at **fluttercandies**, building tools thousands of apps depend on
+
+![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=00000000) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=transparent&hide_border=true&bg_color=00000000)
 
 ## 🔥 Featured Projects
 
-Ranked by what the community loves most ⭐ — live counts come straight from the cards:
+Ranked by what the community loves most ⭐ — live counts render straight from the cards:
 
 <table>
 <tr>
@@ -59,10 +65,10 @@ Ranked by what the community loves most ⭐ — live counts come straight from t
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
-<td align="center"><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg" alt="iota9star/kisssub" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg" alt="iota9star/kisssub" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
 </tr>
 <tr>
@@ -89,40 +95,36 @@ Ranked by what the community loves most ⭐ — live counts come straight from t
 
 ## 💡 A Thought to Carry
 
-> 🪷 *「一念愚即般若绝，一念智即般若生。」*
+> 🪷 *「宁为百夫长，胜作一书生。」*
 >
-> *One clouded thought and wisdom vanishes; one clear thought and wisdom is born.* — Zen saying
+> *I'd rather captain a hundred soldiers than idle as a scholar.* — 杨炯 · 《从军行》(Yang Jiong, *Song of the Army*)
 
-Every commit is a thought. The gap between forgettable software and something that lingers is rarely talent — it's the discipline to choose clarity over clutter, one decision at a time. That's the bar I try to clear.
+A line from 7th-century China that still cuts clean: **build, ship, lead — don't just theorize.** Every commit is a choice between the sidelines and the front line. I try to pick the front line. ⚔️
 
 ## 🏆 Highlights
 
-🌟 **Flagship App** — **mikan_flutter**, a beloved Flutter app with **1,300+ stars**, 60+ forks, and an active community.
-
-🧩 **Ecosystem Contributor** — Core member of **fluttercandies**, shipping essentials like **fjs** (a JS runtime for Flutter), **dpad** (TV navigation), **json_dart**, and more.
-
-⚡ **Rust Meets Flutter** — Bridging systems-grade performance with delightful UI — running engines like QuickJS inside Flutter via Rust.
-
-🎨 **Design-Driven** — Convinced that great software starts with great user experience, not just great architecture.
-
+🌟 **Flagship App** — **mikan_flutter**, a beloved Flutter app with **1,327 stars**, 61 forks, and an active community.  
+🧩 **Ecosystem Builder** — Core of **fluttercandies**, shipping essentials like **fjs** (a JS runtime for Flutter), **dpad** (TV navigation), and **json_dart**.  
+⚡ **Rust × Flutter** — Bridging systems-grade performance with delightful UI — running engines like QuickJS inside Flutter via Rust.  
+🎨 **Design-Driven** — Convinced great software starts with great UX, not just great architecture.  
 🌱 **Forever a Student** — Always exploring: Web3, AI agents, new languages, new ways of thinking.
 
 ## 💭 How I Build
 
-🎯 **Product-first** — Understand the human need before touching a keyboard.
-⚡ **Performance is a feature** — Optimize for speed, scale, and respect for the user's device.
-🧪 **Quality over quantity** — Clean, maintainable, well-tested code wins the long game.
-🔄 **Iterate relentlessly** — Ship, learn, refine, evolve.
+🎯 **Product-first** — Understand the human need before touching a keyboard.  
+⚡ **Performance is a feature** — Optimize for speed, scale, and respect for the user's device.  
+🧪 **Quality over quantity** — Clean, maintainable, well-tested code wins the long game.  
+🔄 **Iterate relentlessly** — Ship, learn, refine, evolve.  
 🤝 **Open by default** — Share the tools and the knowledge; we rise together.
 
 ## 📧 Let's Connect
 
 Building something interesting? Nursing a wild idea? Just want to talk shop? My inbox is open. 💌
 
-📧 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)
-🐦 **X (Twitter)** — [@iota9star](https://x.com/iota9star)
+📧 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)  
+🐦 **X (Twitter)** — [@iota9star](https://x.com/iota9star)  
 📝 **Juejin Blog** — [iota9star's posts](https://juejin.cn/user/1591748568562829)
 
-![](profile-3d-contrib/profile-season-animate.svg)
+![3D contribution graph](profile-3d-contrib/profile-season-animate.svg)
 
 *Thanks for scrolling all the way down — now let's go build something worth remembering.* 🚀✨
