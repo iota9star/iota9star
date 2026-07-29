@@ -1,94 +1,80 @@
-# 👋 Hey there! I'm **iota9star**
+# 👨‍💻 Hey, I'm **iota9star**!
 
-**Full Stack Developer crafting digital experiences from backend to frontend**
+**Full Stack Developer | Rust & Java Backend | Product Mindset 👋**
 
-![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
+![](https://count.getloli.com/get/@iota9star?theme=rule34)
 
----
+## 💫 Who Am I?
 
-## 💫 About Me
+I'm a developer who loves crafting digital experiences across the entire stack. From building high-performance backends in **Rust** and **Java** to creating elegant frontends with **React** and **Flutter**, I enjoy turning complex problems into simple, beautiful solutions.
 
-I'm a developer who believes in the power of clean code and elegant solutions. My journey spans across **Rust** systems programming, **Java** enterprise applications, **Flutter** mobile development, and **AI-powered** workflows.
+Building with a product mindset — I believe great software comes from understanding users deeply, writing clean maintainable code, and shipping features that make a real impact. When I'm not coding, you'll find me exploring emerging tech, contributing to open source, or sharing knowledge with the amazing developer community.
 
-What drives me? Building software that not only works flawlessly but also brings joy to users. I approach every project with a product mindset — understanding user needs, writing maintainable code, and shipping features that make a real impact.
+## 🎯 What I Do
 
-When I'm not coding, you'll find me exploring emerging technologies, contributing to open source, or sharing knowledge with the amazing developer community.
+### **Backend Architecture** 🚀
+Crafting scalable microservices and APIs with Rust (Axum) and Java (Spring) that handle production loads with ease. Performance isn't an afterthought — it's foundational.
 
-## 🎯 What I Build
+### **Frontend Development** 💻  
+Creating responsive, intuitive user interfaces with React, Vue, and Flutter that users love to interact with. Design matters, and I care about every pixel.
 
-### 🚀 High-Performance Backends
-Crafting scalable microservices and APIs with **Rust** and **Java** that handle production loads with ease. Performance isn't an afterthought — it's foundational.
-
-### 💻 Beautiful Frontends
-Creating responsive, intuitive user interfaces with **React**, **Vue**, and **Flutter** that users love to interact with. Design matters, and I care about every pixel.
-
-### 🤖 AI-Enhanced Workflows
+### **AI-Enhanced Workflows** 🤖
 Leveraging AI for smarter development — code assistants, intelligent agents, and quality-focused automation that help us build better software, faster.
 
-### ⛓️ Web3 & Blockchain
-Exploring the decentralized future across **Bitcoin**, **Ethereum**, and **Internet Computer** ecosystems. The blockchain revolution is just beginning.
+### **Web3 Exploration** ⛓️
+Exploring the decentralized future across Bitcoin, Ethereum, and Internet Computer ecosystems. The blockchain revolution is just beginning.
 
-### 🛠️ Developer Tools
-Building utilities that streamline development workflows. I create tools that make developers' lives easier and more productive.
+## 🛠️ Core Stack
 
-## 🛠️ Technology Arsenal
+**Languages**: 🦀 Rust | ☕ Java | 🎯 Kotlin | 🔷 TypeScript | 🎯 Dart
 
-### Core Languages
-🦀 **Rust** | ☕ **Java** | 🎯 **Kotlin** | 🔷 **TypeScript** | 🎯 **Dart**
+**Backend**: ⚡ Axum | 🌱 Spring | 🔄 Microservices | 🟢 Node.js
 
-### Backend Technologies
-⚡ **Axum** | 🌱 **Spring Boot** | 🔄 **Microservices** | 🟢 **Node.js** | 🦕 **Deno**
+**Frontend**: ⚛️ React | 💚 Vue | 🦋 Flutter | 🤖 Android
 
-### Frontend & Mobile
-⚛️ **React** | 💚 **Vue.js** | 🦋 **Flutter** | 🤖 **Android** | 🌐 **Web Development**
+**AI**: 🤖 AI Agents | 🧠 Code Assistants | ✅ Quality Automation
 
-### AI & Automation
-🤖 **AI Agents** | 🧠 **Code Assistants** | ✅ **Quality Automation** | 🔍 **Intelligent Testing**
+**Web3**: ₿ Bitcoin | 🔗 EVM | 🌐 Internet Computer
 
-### Blockchain & Web3
-₿ **Bitcoin** | 🔗 **EVM** | 🌐 **Internet Computer** | 💎 **Smart Contracts**
+## 📊 Quick Stats
 
-## 📈 By The Numbers
+📁 **16+ Projects** — Building tools that solve real problems
 
-📁 **16+ Active Projects** — Building tools that solve real problems
+⭐ **Global Impact** — Open source contributions used worldwide
 
-⭐ **Global Impact** — Open source contributions used by developers worldwide
-
-🔄 **Quality Obsessed** — Comprehensive testing and CI/CD for reliable software
+🔄 **Quality Obsessed** — Comprehensive testing and CI/CD
 
 ⚡ **Performance First** — Optimizing every layer from database to UI
 
 ## 🔥 Featured Projects
 
-From Flutter development tools to mobile applications, here's what I've been building:
-
 <table>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
+<td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" alt="fluttercandies/fjs" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
-</tr>
-<tr>
 <td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
 <td align="center"><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a></td>
 </tr>
 <tr>
@@ -99,10 +85,11 @@ From Flutter development tools to mobile applications, here's what I've been bui
 
 ## 💡 Philosophy
 
-> **"The best code is code that's easy to delete."**  
-> I strive for simplicity and maintainability. Complex solutions might impress, but simple solutions endure.
+> **"The best code is code that's easy to delete."**
 
-### What I Believe
+I strive for simplicity and maintainability. Complex solutions might impress, but simple solutions endure.
+
+**What I Believe**
 
 ✨ **Simplicity over Complexity** — The best solutions are elegant and easy to understand.
 
