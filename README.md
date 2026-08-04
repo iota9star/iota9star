@@ -1,120 +1,140 @@
-# 👨‍💻 Hi, I'm iota9star
+# 👨‍💻 Hi, I'm **iota9star**
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset 👋**
+**Full Stack Developer | Rust & Java Backend | Product Mindset** 👋
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating scalable solutions that make a real impact.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I craft software that combines technical excellence with user-centric design.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 👨‍💻 About Me
-
-🚀 **Full-stack developer** with a passion for building robust, production-ready applications that span from high-performance backend systems to polished frontend interfaces.
-
-💡 **Product-minded engineer** who believes that great code serves great user experiences. Every line I write aims to create real value.
-
-🌟 **Open source enthusiast** actively contributing to the Flutter ecosystem through fluttercandies and exploring the frontiers of AI-powered development workflows.
-
 ## 🎯 What I Do
 
-I specialize in crafting end-to-end solutions with a focus on performance, scalability, and user delight. My expertise spans backend architecture, frontend development, and everything in between.
+I'm passionate about creating software that makes a real difference. My work spans:
 
-🎯 **Backend Development**: Building microservices and high-performance APIs using Rust and Java  
-🎨 **Frontend Engineering**: Creating responsive, intuitive interfaces with React, Vue, and Flutter  
-🤖 **AI Integration**: Leveraging AI-powered development workflows and intelligent code assistants  
-⛓️ **Web3 & Blockchain**: Working with BTC, EVM, and Internet Computer technologies  
-📱 **Mobile Development**: Building native-quality apps with Flutter and Android  
+🔧 **Full-Stack Development**: From database schemas to pixel-perfect UIs, I build complete solutions that scale.
+
+⚡ **High-Performance Systems**: Specializing in Rust and Java backends that handle millions of requests with low latency.
+
+🤖 **AI-Powered Workflows**: Building intelligent code assistants and development agents that boost productivity.
+
+🌐 **Web3 & Blockchain**: Working with BTC, EVM, and Internet Computer to build decentralized applications.
+
+📱 **Cross-Platform Apps**: Creating beautiful Flutter applications that run seamlessly on mobile, web, and desktop.
 
 ## 🛠️ Tech Stack
 
-### **Languages**
+### Languages
 🦀 **Rust** | ☕ **Java** | 🎯 **Kotlin** | 📘 **TypeScript** | 🎯 **Dart** | 🐍 **Python** | 🌐 **JavaScript**
 
-### **Backend & Architecture**
+### Backend
 ⚡ **Axum** | 🌱 **Spring Boot** | 🔧 **Microservices** | 🟢 **Node.js** | 🐳 **Docker** | ☁️ **AWS** | 🔥 **PostgreSQL** | 🚀 **Redis**
 
-### **Frontend & Mobile**
+### Frontend  
 ⚛️ **React** | 💚 **Vue.js** | 🦋 **Flutter** | 🤖 **Android** | 🎨 **Tailwind CSS** | 📦 **Webpack** | 🎯 **Vite**
 
-### **AI & Automation**
-🤖 **AI-powered development workflows** | 🔧 **Code assistants** | ✅ **Quality-focused testing** | 🎯 **AI agents** | 📊 **Data-driven development**
+### Tools & Platforms
+🐳 **Docker** | 🔧 **Git** | 🔄 **GitHub Actions** | 🚀 **CI/CD** | ☁️ **AWS** | 🐧 **Linux**
 
-### **Web3 & Blockchain**
+### Blockchain
 ₿ **Bitcoin** | 🔗 **Ethereum (EVM)** | 🌐 **Internet Computer (IC)** | 🔐 **Smart contracts** | ⛓️ **Decentralized systems**
 
 ## 📊 Quick Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iota9star&theme=radical)
+🚀 **15+ Open Source Projects**  
+⭐ **Active contributor to Flutter ecosystem**  
+🌍 **Global collaboration via remote work**  
+💡 **Product-focused development mindset**
 
 ## 🔥 Featured Projects
 
-### Flutter & Mobile Development Tools
-[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
-[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
-[![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)
-[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
-[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
-[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
-[![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
-[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
-[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
-[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
-[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
-[![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
+<table>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" alt="fluttercandies/fjs" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg" alt="iota9star/kisssub" /></a></td>
+</tr>
+</table>
 
-### Personal Projects & Systems
-[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
-[![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
-[![](cards/iota9star_sakura-dmhy.svg)](https://github.com/iota9star/sakura-dmhy)
-[![](cards/iota9star_kisssub.svg)](https://github.com/iota9star/kisssub)
+## 🎯 Areas of Expertise
 
-## 💡 Daily Inspiration
+### 🎨 Flutter Ecosystem
+Active contributor to **fluttercandies**, building essential tools and packages that power thousands of apps worldwide. From JSON parsing to layout systems, I create developer-friendly solutions.
 
-> *"当我忘了你的时候，我就忘了我自己。"*
-> 
-> — 呼啸山庄
+### 🔧 Developer Tools  
+Building tools that make developers' lives easier. From code generation utilities to workflow automation, I focus on eliminating friction in the development process.
+
+### 🌐 Cross-Platform Solutions
+Creating applications that run everywhere without sacrificing performance or user experience. Flutter, React, and native mobile development.
+
+### ⛓️ Blockchain & Web3
+Exploring decentralized technologies and building the future of distributed applications on Bitcoin, Ethereum, and Internet Computer.
 
 ## 🏆 Highlights & Achievements
 
-✨ **Active Open Source Contributor** - Regularly contributing to fluttercandies ecosystem, improving Flutter development tools for the community  
+✨ **Open Source Enthusiast** - Actively contributing to the Flutter ecosystem and building tools used by developers worldwide
 
-🎯 **Full-Stack Expertise** - From designing microservices architecture to crafting pixel-perfect UIs, I handle the entire development lifecycle  
+🎯 **Product-Focused** - Combining technical expertise with product thinking to build solutions that users love
 
-🚀 **AI-Driven Development Pioneer** - Early adopter of AI-powered workflows, code assistants, and intelligent development agents  
+🌍 **Remote Collaboration** - Experienced in distributed development and global team collaboration
 
-💼 **Product-Focused Engineer** - Every technical decision driven by user value, business impact, and scalability requirements  
+🔄 **Continuous Learning** - Always exploring new technologies, from AI agents to blockchain innovations
 
-🌍 **Open Source Advocate** - Firm believer in collaborative innovation and knowledge sharing through open source  
-
-🏗️ **System Design Architect** - Experienced in building distributed systems, microservices, and high-performance backend solutions  
+🏗️ **System Design Architect** - Experienced in building distributed systems, microservices, and high-performance backend solutions
 
 ## 💭 Development Philosophy
 
-I believe in writing clean, maintainable code that scales gracefully. Every line of code should serve a clear purpose, every architecture decision should be well-justified, and every user interaction should be delightful.
+I believe in **building software that matters**. Every line of code should serve a purpose, every feature should solve a real problem, and every project should make users' lives better.
 
-💎 **Code Quality**: Clean code, thorough testing, and continuous refactoring  
-🎯 **User-Centric**: Technology serves users, not the other way around  
+💎 **Code Quality**: Clean code, thorough testing, and continuous refactoring
+
+🎯 **User-Centric**: Technology serves users, not the other way around
+
 📈 **Scalability**: Build for today, architect for tomorrow  
-🤝 **Collaboration**: Great products come from great teams  
-🚀 **Innovation**: Embrace new technologies while staying grounded in fundamentals  
 
-**Technology is a means to an end — creating value for users and solving real problems.**
+🤝 **Collaboration**: Great products come from great teams
 
-## 📧 Let's Connect!
+🚀 **Innovation**: Embrace new technologies while staying grounded in fundamentals
 
-I'm always excited to collaborate on interesting projects, discuss new ideas, or connect with fellow developers. Let's build something amazing together!
+**Quality over quantity**, but when you can deliver both with smart automation and efficient workflows, that's the sweet spot.
+
+## 📧 Let's Connect
+
+I'm always interested in collaborating on exciting projects, discussing new ideas, or just having a chat about technology and development.
 
 📧 **Email**: [iota9star](mailto:iota9star@gmail.com)  
-🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)  
+🐦 **Twitter**: [@iota9star](https://x.com/iota9star)  
 📝 **Blog**: [Juejin](https://juejin.cn/user/1591748568562829)  
 💼 **GitHub**: [iota9star](https://github.com/iota9star)
 
-![](profile-3d-contrib/profile-season-animate.svg)
+## 🎨 GitHub Activity
 
----
+![](profile-3d-contrib/profile-season-animate.svg)
 
 **⚡ Always learning, always building, always shipping.**
 
