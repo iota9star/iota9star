@@ -1,41 +1,58 @@
-# 👨‍💻 Hi, I'm **iota9star**
+<div align="center">
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset** 👋
+# 👋 Hi, I'm **iota9star**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I craft software that combines technical excellence with user-centric design.
+### 🚀 Full Stack Developer | Rust & Java Backend | Product Mindset
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
+*Building digital experiences across the stack — from high-performance backends to elegant frontends*
+
+[![](profile-3d-contrib/profile-season-animate.svg)]()
+
+</div>
+
+## 👨‍💻 About Me
+
+Hey there! I'm a passionate full-stack developer with deep expertise in **Rust** and **Java** backend development, complemented by strong frontend skills. I love building products that make a real difference.
+
+I believe in the power of **clean code**, **elegant architecture**, and **user-centric design**. Whether I'm optimizing database queries, crafting responsive UIs, or architecting microservices, I bring a product mindset to every line of code.
+
+When I'm not coding, you'll find me exploring **AI-powered development workflows**, contributing to open-source projects, or diving into the latest **Web3** technologies.
+
 ## 🎯 What I Do
 
-I'm passionate about creating software that makes a real difference. My work spans:
+💡 **Backend Architecture**  
+Designing scalable, high-performance systems using Rust and Java. From microservices to monoliths, I build backends that scale.
 
-🔧 **Full-Stack Development**: From database schemas to pixel-perfect UIs, I build complete solutions that scale.
+🎨 **Frontend Development**  
+Creating beautiful, responsive interfaces with React, Vue, and Flutter. I believe great UX is as important as clean code.
 
-⚡ **High-Performance Systems**: Specializing in Rust and Java backends that handle millions of requests with low latency.
+🤖 **AI & Automation**  
+Exploring the intersection of AI and development workflows. Building code assistants and agents that boost developer productivity.
 
-🤖 **AI-Powered Workflows**: Building intelligent code assistants and development agents that boost productivity.
-
-🌐 **Web3 & Blockchain**: Working with BTC, EVM, and Internet Computer to build decentralized applications.
-
-📱 **Cross-Platform Apps**: Creating beautiful Flutter applications that run seamlessly on mobile, web, and desktop.
+⛓️ **Web3 & Blockchain**  
+Working with BTC, EVM, and Internet Computer protocols to build the decentralized future.
 
 ## 🛠️ Tech Stack
 
 ### Languages
-🦀 **Rust** | ☕ **Java** | 🎯 **Kotlin** | 📘 **TypeScript** | 🎯 **Dart** | 🐍 **Python** | 🌐 **JavaScript**
+🦀 **Rust** · ☕ **Java** · 🎯 **Kotlin** · 💛 **JavaScript/TypeScript** · 🎯 **Dart** · 🐍 **Python** · 📝 **Go** · 🔷 **C#**
 
 ### Backend
-⚡ **Axum** | 🌱 **Spring Boot** | 🔧 **Microservices** | 🟢 **Node.js** | 🐳 **Docker** | ☁️ **AWS** | 🔥 **PostgreSQL** | 🚀 **Redis**
+⚙️ **Axum** · 🌱 **Spring Boot** · 🔄 **Microservices** · 🚀 **Node.js** · 🗄️ **PostgreSQL** · ⚡ **Redis** · 📊 **MongoDB**
 
 ### Frontend  
-⚛️ **React** | 💚 **Vue.js** | 🦋 **Flutter** | 🤖 **Android** | 🎨 **Tailwind CSS** | 📦 **Webpack** | 🎯 **Vite**
+⚛️ **React** · 💚 **Vue.js** · 🦋 **Flutter** · 🤖 **Android** · 🎨 **TailwindCSS** · 📦 **Webpack** · 🔧 **Vite**
 
-### Tools & Platforms
-🐳 **Docker** | 🔧 **Git** | 🔄 **GitHub Actions** | 🚀 **CI/CD** | ☁️ **AWS** | 🐧 **Linux**
+### DevOps & Tools
+🐳 **Docker** · ☸️ **Kubernetes** · 🔄 **CI/CD** · 📊 **GitHub Actions** · 🔧 **Git** · 🧪 **JUnit** · 📈 **Performance Testing**
+
+### AI & Innovation
+🤖 **AI Agents** · 💡 **Code Assistants** · 🔍 **LLM Integration** · 🧠 **Quality Engineering**
 
 ### Blockchain
-₿ **Bitcoin** | 🔗 **Ethereum (EVM)** | 🌐 **Internet Computer (IC)** | 🔐 **Smart contracts** | ⛓️ **Decentralized systems**
+₿ **Bitcoin** · 🦄 **Ethereum/EVM** · 🌐 **Internet Computer** · 🔗 **Smart Contracts**
 
 ## 📊 Quick Stats
 
@@ -127,15 +144,17 @@ I believe in **building software that matters**. Every line of code should serve
 
 I'm always interested in collaborating on exciting projects, discussing new ideas, or just having a chat about technology and development.
 
-📧 **Email**: [iota9star](mailto:iota9star@gmail.com)  
+📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)  
 🐦 **Twitter**: [@iota9star](https://x.com/iota9star)  
 📝 **Blog**: [Juejin](https://juejin.cn/user/1591748568562829)  
 💼 **GitHub**: [iota9star](https://github.com/iota9star)
 
-## 🎨 GitHub Activity
+<div align="center">
 
-![](profile-3d-contrib/profile-season-animate.svg)
+**⭐ If you find my work useful, consider giving it a star!**
+
+Made with ❤️ by iota9star
 
 **⚡ Always learning, always building, always shipping.**
 
-*Built with ❤️ and lots of ☕*
+</div>
