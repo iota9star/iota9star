@@ -1,62 +1,48 @@
-# 👋 Hey there! I'm **iota9star**
+# 👨‍💻 Hi, I'm **iota9star**
 
-**Full Stack Developer • Rustacean • Java Architect • Product Builder** 🚀
+**Full Stack Developer | Rust & Java Backend | Product Mindset** 🚀
 
-I craft digital experiences from the ground up — from high-performance backends that handle millions of requests to beautiful frontends that users love. Writing clean code isn't just a habit, it's my obsession.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating software that not only works beautifully but also delivers real value to users.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 💫 About Me
+## 🎯 What I Do
 
-Hi! I'm a passionate developer who loves building things that matter. Whether it's optimizing a Rust service for microsecond-level latency or crafting the perfect Flutter UI, I bring the same energy: **excellence, attention to detail, and a user-first mindset**.
+I specialize in building scalable, performant applications with a focus on:
+- **Backend Architecture**: High-performance systems using Rust and Java  
+- **Full-Stack Development**: End-to-end solutions from database to UI
+- **Mobile Development**: Cross-platform apps with Flutter and native Android
+- **AI Integration**: Leveraging AI for smarter development workflows
+- **Web3 & Blockchain**: Building the future of decentralized applications
 
-I believe the best code is code that's easy to understand, maintain, and extend. Every commit should tell a story of thoughtful design and purposeful implementation.
+## 🛠️ Tech Stack
 
-## 🎯 What Makes Me Tick
+### 🚀 Languages
+**Rust** | **Java** | **Kotlin** | **TypeScript** | **Dart** | **Go**
 
-🔥 **Performance Junkie** - I get excited about shaving milliseconds off response times and reducing memory footprints
-🎨 **Design Enthusiast** - Beautiful code AND beautiful UIs — why choose?
-🤖 **AI Explorer** - Building intelligent assistants that make developers' lives easier
-🌱 **Forever Learner** - If I'm not learning something new, I'm bored
-🤝 **Community Builder** - Open source isn't just code — it's people helping people
-
-## 🛠️ My Tech Playground
-
-### 💻 Languages I Speak
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### ⚙️ Backend Magic
-![Axum](https://img.shields.io/badge/Axum-FF6600?style=flat-square&logo=rust&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### 🔧 Backend Technologies  
+**Axum** | **Spring Boot** | **Microservices** | **Node.js** | **gRPC** | **PostgreSQL** | **Redis**
 
 ### 🎨 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+**React** | **Vue.js** | **Flutter** | **Android Native** | **HTML5/CSS3** | **Tailwind CSS**
 
-### 🤖 AI & Web3
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+### 🤖 AI & Automation
+AI-powered development workflows | Code assistants | Quality-focused agents | Intelligent tooling
 
-## 📊 By The Numbers
+### ⛓️ Web3 & Blockchain
+**BTC** | **EVM** | **Internet Computer** | Smart Contracts | DeFi protocols
 
-🏗️ **16+** open source projects and counting
-⭐ **Thousands** of stars across my repositories
-🤝 **Active** contributor to major Flutter ecosystem projects
-📝 **Technical writer** sharing knowledge with the community
-🔥 **Shipping** code that makes a difference
+## 📊 Quick Stats
 
-![](profile-3d-contrib/profile-season-animate.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
 
-## 🔥 Projects I'm Proud Of
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iota9star&theme=radical)
+
+## 🔥 Featured Projects
+
+<div align="center">
 
 [![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
 [![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)
@@ -75,44 +61,70 @@ I believe the best code is code that's easy to understand, maintain, and extend.
 [![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
 [![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
 
-## 💭 My Approach
+</div>
 
-> *"Great software is written by developers who care — about their users, their craft, and each other."*
+## 🏆 Highlights & Achievements
 
-### What I Believe In
+### 🌟 Open Source Contributions
+- Active contributor to **FlutterCandies** ecosystem - building powerful Flutter development tools
+- Creator of multiple specialized projects ranging from anime trackers to development utilities  
+- Focused on performance optimization and developer experience improvements
+- Collaborating on projects that impact thousands of developers worldwide
 
-✨ **Cllicity over cleverness** - Code should be easy to read, not just easy to write  
-🎯 **Users first, always** - Technical excellence means nothing if it doesn't serve real people  
-🔄 **Iterate and improve** - Done is better than perfect, but perfect worth striving for  
-🌱 **Growth mindset** - Every bug is a lesson, every review is an opportunity  
-🤝 **Community matters** - We're all in this together
+### 💡 Project Focus
+- **Performance**: Writing efficient, scalable code that makes the most of available resources
+- **Developer Experience**: Creating tools that make other developers' lives easier
+- **Innovation**: Exploring cutting-edge technologies from Web3 to AI-powered workflows
+- **Quality**: Building robust, tested, and maintainable software solutions
+
+## 💭 Philosophy & Approach
+
+I believe in the power of clean, well-architected code. My approach combines:
+
+- **Product Thinking**: Understanding user needs and building solutions that matter  
+- **Technical Excellence**: Writing maintainable, performant, and tested code
+- **Continuous Learning**: Staying current with emerging technologies and best practices  
+- **Community Contribution**: Sharing knowledge and giving back to open source
+
+### 💬 Daily Inspiration
+
+> *"当我忘了你的时候，我就忘了我自己。"*  
+> *"When I forget you, I forget myself."*  
+> — *Wuthering Heights*
+
+## 🎨 Development Style
 
 ### What Gets Me Excited
 
-🚀 Turning complex problems into elegant solutions
-💡 That moment when code just *clicks*
-🎨 Crafting UIs that make people smile
-⚡ Making slow systems fast
-📚 Teaching and learning from others
-🌟 Seeing my work help real people
+🚀 Turning complex problems into elegant solutions  
+💡 That moment when code just *clicks*  
+🎨 Crafting UIs that make people smile  
+⚡ Making slow systems fast  
+📚 Teaching and learning from others  
+🌟 Seeing my work help real people  
 
-## 🏆 Cool Things I've Done
+### What I Believe In
 
-💎 **Flutter Candies Maintainer** - Contributing to the Flutter ecosystem with tools developers use daily
-🔧 **Tool Builder** - Creating developer tools that save time and reduce frustration
-📝 **Technical Writer** - Sharing insights and lessons learned on Juejin
-⛓️ **Web3 Explorer** - Diving into blockchain and decentralized technologies
-🤖 **AI Tinkerer** - Building intelligent assistants that boost productivity
+✨ **Simplicity over cleverness** - Code should be easy to read, not just easy to write  
+🎯 **Users first, always** - Technical excellence means nothing if it doesn't serve real people  
+🔄 **Iterate and improve** - Done is better than perfect, but perfect is worth striving for  
+🌱 **Growth mindset** - Every bug is a lesson, every review is an opportunity  
+🤝 **Community matters** - We're all in this together
 
-## 📧 Let's Connect!
+## 📧 Connect With Me
 
-I'm always up for a good conversation about tech, open source, or interesting projects. Whether you want to collaborate, have a question, or just want to say hi — don't hesitate to reach out!
+Let's build something amazing together!
 
-📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)  
-📝 **Blog**: [Juejin](https://juejin.cn/user/1591748568562829)
-💼 **GitHub**: [@iota9star](https://github.com/iota9star)
+- 📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
+- 🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)  
+- 📝 **Blog**: [Juejin](https://juejin.cn/user/1591748568562829)
+- 💼 **GitHub**: [iota9star](https://github.com/iota9star)
+- 🌐 **Website**: [Coming Soon](#)
 
----
+<div align="center">
 
-*Thanks for stopping by! 🌟 Feel free to explore my work, and let's create something awesome together.*
+![](profile-3d-contrib/profile-season-animate.svg)
+
+**✨ Thanks for visiting! Let's connect and create something incredible.** ✨
+
+</div>
