@@ -1,14 +1,16 @@
-# 👨‍💻 Hi, I'm iota9star
+# 👨‍💻 Hey there, I'm iota9star!
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
+**Full Stack Developer | Rust & Java Backend | Product Mindset** 👋
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I craft software that combines technical excellence with user-centric design, always focused on creating real value.
+Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 🎯 What I Do
 
-🚀 **Backend Development** - Building scalable microservices and high-performance systems with Rust and Java, crafting APIs that power modern applications
+I'm passionate about creating robust, scalable software solutions that bridge the gap between complex backend systems and intuitive user experiences. My work spans multiple domains:
+
+🚀 **Backend Development** - Building scalable microservices and high-performance systems with Rust and Java
 
 🎨 **Frontend Engineering** - Creating responsive, intuitive interfaces with React, Vue, and Flutter that users love to interact with
 
@@ -21,19 +23,19 @@ Building digital experiences across the stack — from high-performance backends
 ## 🛠️ Tech Stack
 
 ### 🔧 Languages
-**Rust** - Systems programming with memory safety | **Java** - Enterprise-grade backend | **Kotlin** - Modern JVM development | **TypeScript** - Type-safe web development | **Dart** - Flutter & cross-platform | **Python** - Automation & scripting
+🦀 **Rust** - Systems programming with memory safety | ☕ **Java** - Enterprise-grade backend | 🎯 **Kotlin** - Modern JVM development | 📘 **TypeScript** - Type-safe web development | 🎯 **Dart** - Flutter & cross-platform
 
 ### ⚙️ Backend Frameworks
-**Axum** - Async web framework | **Spring Boot** - Enterprise Java | **Microservices** - Distributed architecture | **Node.js** - JavaScript runtime | **PostgreSQL** - Relational database | **Redis** - Caching & messaging
+⚡ **Axum** - Async web framework | 🌱 **Spring Boot** - Enterprise Java | 🔧 **Microservices** - Distributed architecture | 🚀 **Node.js** - JavaScript runtime
 
 ### 🎨 Frontend & Mobile
-**React** - Component-based UI | **Vue.js** - Progressive framework | **Flutter** - Cross-platform toolkit | **Android Native** - Mobile development | **Tailwind CSS** - Utility-first styling | **Material Design** - Design system
+⚛️ **React** - Component-based UI | 💚 **Vue.js** - Progressive framework | 🦋 **Flutter** - Cross-platform toolkit | 🤖 **Android Native** - Mobile development
 
-### 🤖 AI & Development Tools
-AI-powered development workflows | Code assistants & linters | Quality-focused agents | Intelligent automation | Developer experience tools
+### 🤖 AI & Automation  
+🤖 **AI-powered development workflows** | 🧠 **Code assistants** | ⚡ **Quality-focused agents** | 🛠️ **Developer experience tools**
 
 ### 🌐 Web3 Technologies
-**Bitcoin** - BTC protocol development | **EVM** - Ethereum-compatible chains | **Internet Computer** - Decentralized computing | Smart contracts | DeFi protocols
+₿ **Bitcoin** - BTC protocol development | 🌐 **EVM** - Ethereum-compatible chains | 🇮🇨 **Internet Computer** - Decentralized computing
 
 ## 📊 Quick Stats
 
@@ -47,37 +49,39 @@ AI-powered development workflows | Code assistants & linters | Quality-focused a
 
 ## 🔥 Featured Projects
 
+Here are some of my open-source contributions and personal projects:
+
 <table>
 <tr>
-<td align="center"><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" alt="fluttercandies/fjs" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" alt="fluttercandies/fjs" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
-<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
 <td align="center"><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg" alt="iota9star/kisssub" /></a></td>
 </tr>
 </table>
@@ -138,6 +142,10 @@ I believe in continuous reinvention and the courage to start fresh. Technology m
 
 ⚖️ **Balance pragmatism with ideals** - Perfect is the enemy of good, but good shouldn't mean messy
 
+## 📈 Contribution Activity
+
+![](profile-3d-contrib/profile-season-animate.svg)
+
 ## 📧 Let's Connect
 
 Always excited to collaborate on interesting projects or just chat about technology and development!
@@ -151,7 +159,5 @@ Always excited to collaborate on interesting projects or just chat about technol
 💼 **GitHub**: [iota9star](https://github.com/iota9star)
 
 🤝 **Open to collaboration** on open source, Web3 projects, and innovative tools
-
-![](profile-3d-contrib/profile-season-animate.svg)
 
 ⭐ **Thanks for visiting! Feel free to explore my projects and reach out if you'd like to collaborate or just chat about tech.**
