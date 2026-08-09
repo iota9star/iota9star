@@ -1,55 +1,51 @@
-# 👨‍💻 Hey there, I'm iota9star!
+# 👋 Hi, I'm iota9star
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset** 👋
+**Full Stack Developer | Rust & Java Backend | Product Mindset**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating robust, scalable systems that solve real problems.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 🎯 What I Do
 
-I'm passionate about creating robust, scalable software solutions that bridge the gap between complex backend systems and intuitive user experiences. My work spans multiple domains:
+🚀 **Full-Stack Development**
+Architecting and building end-to-end solutions with a focus on performance, scalability, and user experience. From concept to deployment, I love turning ideas into production-ready applications.
 
-🚀 **Backend Development** - Building scalable microservices and high-performance systems with Rust and Java
+🤖 **AI-Powered Development**
+Building AI agents and code assistants that enhance development workflows. I'm passionate about quality-focused engineering and leveraging artificial intelligence to write better code faster.
 
-🎨 **Frontend Engineering** - Creating responsive, intuitive interfaces with React, Vue, and Flutter that users love to interact with
+⛓️ **Web3 & Blockchain**
+Developing for the decentralized web across Bitcoin (BTC), EVM-compatible chains, and Internet Computer (IC) protocols. Building the infrastructure for Web3 applications.
 
-🤖 **AI-Powered Development** - Leveraging AI agents and code assistants to boost productivity, code quality, and development workflows
-
-⛓️ **Web3 & Blockchain** - Working with BTC, EVM, and Internet Computer protocols to build the decentralized future
-
-📱 **Mobile Development** - Native Android and cross-platform Flutter applications that reach users everywhere
+📱 **Cross-Platform Mobile**
+Creating seamless mobile experiences with Flutter and Android native development. One codebase, multiple platforms, beautiful experiences.
 
 ## 🛠️ Tech Stack
 
-### 🔧 Languages
-🦀 **Rust** - Systems programming with memory safety | ☕ **Java** - Enterprise-grade backend | 🎯 **Kotlin** - Modern JVM development | 📘 **TypeScript** - Type-safe web development | 🎯 **Dart** - Flutter & cross-platform
+### Core Languages
+🦀 **Rust** • ☕ **Java** • 🎯 **Kotlin** • 📘 **TypeScript** • 🎯 **Dart**
 
-### ⚙️ Backend Frameworks
-⚡ **Axum** - Async web framework | 🌱 **Spring Boot** - Enterprise Java | 🔧 **Microservices** - Distributed architecture | 🚀 **Node.js** - JavaScript runtime
+### Backend Architecture
+⚡ **Axum** • 🌱 **Spring** • 🔄 **Microservices** • 🟢 **Node.js** • 🏗️ **System Design**
 
-### 🎨 Frontend & Mobile
-⚛️ **React** - Component-based UI | 💚 **Vue.js** - Progressive framework | 🦋 **Flutter** - Cross-platform toolkit | 🤖 **Android Native** - Mobile development
+### Frontend & Mobile
+⚛️ **React** • 💚 **Vue.js** • 🐦 **Flutter** • 🤖 **Android** • 🌐 **Web Development**
 
-### 🤖 AI & Automation  
-🤖 **AI-powered development workflows** | 🧠 **Code assistants** | ⚡ **Quality-focused agents** | 🛠️ **Developer experience tools**
+### Development Philosophy
+🤖 **AI-Assisted Development** • 🔍 **Code Quality Focus** • 🧠 **Agent-Based Solutions** • 📈 **Performance Optimization**
 
-### 🌐 Web3 Technologies
-₿ **Bitcoin** - BTC protocol development | 🌐 **EVM** - Ethereum-compatible chains | 🇮🇨 **Internet Computer** - Decentralized computing
+### Blockchain & Web3
+₿ **Bitcoin** • 🌐 **EVM** • 🇮🇨 **Internet Computer** • ⛓️ **DeFi** • 🌐 **DApps**
 
 ## 📊 Quick Stats
 
-📁 **16+ Featured Projects** across Flutter ecosystem and personal tools
-
-🌟 **Active Contributor** to open-source Flutter community with tools used by thousands of developers
-
-💡 **Full-Stack Expertise** from mobile apps to backend systems to Web3 protocols
-
-🔄 **Continuous Learner** exploring AI, Rust, and emerging technologies to stay ahead
+🏢 **16+ Featured Projects**
+⭐ **Active Open Source Contributor**
+🔥 **Flutter Community Builder**
+💡 **Product-Minded Developer**
+🌟 **Full-Stack Expertise**
 
 ## 🔥 Featured Projects
-
-Here are some of my open-source contributions and personal projects:
 
 <table>
 <tr>
@@ -88,19 +84,23 @@ Here are some of my open-source contributions and personal projects:
 
 ## 🏆 Highlights & Achievements
 
-🌟 **Open Source Contributor** - Active contributor to FlutterCandies ecosystem, building development tools used by thousands of developers worldwide
+🌟 **Flutter Community Builder**
+Creating development tools and libraries used by thousands of developers worldwide through the FlutterCandies ecosystem.
 
-🔧 **Tools Builder** - Creating specialized development tools that make life easier for developers, from JSON parsers to layout systems
+🎯 **Full-Stack Expertise**
+Comfortable working across the entire development stack from mobile apps to backend systems to Web3 protocols.
 
-🎯 **Product-First Mindset** - Balancing technical excellence with user needs, always asking "does this solve a real problem?"
+🤖 **AI Integration Pioneer**
+Leveraging artificial intelligence to enhance development workflows and code quality.
 
-📚 **Continuous Learning** - Always exploring new technologies and methodologies, from AI agents to Web3 protocols
+⛓️ **Blockchain Developer**
+Building the decentralized future with Bitcoin, EVM, and Internet Computer development.
 
-## 💭 Philosophy & Approach
+## 💡 Philosophy
 
-> "如果可以的话，我想从头来过。" — 互联网
+**"Code is poetry written for machines to execute and humans to maintain."**
 
-I believe in continuous reinvention and the courage to start fresh. Technology moves fast, and staying curious keeps us relevant and innovative.
+I believe in writing clean, maintainable code that not only solves today's problems but anticipates tomorrow's challenges. Quality engineering is about balancing technical excellence with practical business value.
 
 ### Core Principles
 
@@ -119,45 +119,37 @@ I believe in continuous reinvention and the courage to start fresh. Technology m
 ### What Gets Me Excited
 
 🚀 Turning complex problems into elegant solutions
-
 💡 That moment when code just *clicks* and everything makes sense
-
 🎨 Crafting UIs that make people smile when they use them
-
 ⚡ Making slow systems fast through optimization
-
 📚 Teaching and learning from other developers
-
 🌟 Seeing my work help real people solve real problems
 
-### What I Believe In
+### Development Approach
 
 🔍 **Understanding before coding** - Take time to really understand the problem
-
 🧪 **Test-driven approach** - Write tests that give confidence to refactor
-
 📖 **Documentation matters** - Good code explains itself, great code has docs
-
 🎭 **Empathy-driven development** - Build for users, not just for developers
-
 ⚖️ **Balance pragmatism with ideals** - Perfect is the enemy of good, but good shouldn't mean messy
 
 ## 📈 Contribution Activity
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-## 📧 Let's Connect
+## 📧 Connect
 
-Always excited to collaborate on interesting projects or just chat about technology and development!
+Let's connect and collaborate on exciting projects!
 
-💬 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-
+📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
 🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
-
-📝 **Blog (Juejin)**: [Technical Articles](https://juejin.cn/user/1591748568562829)
-
+📝 **Juejin Blog**: [技术文章](https://juejin.cn/user/1591748568562829)
 💼 **GitHub**: [iota9star](https://github.com/iota9star)
 
-🤝 **Open to collaboration** on open source, Web3 projects, and innovative tools
+## 🙏 Acknowledgments
 
-⭐ **Thanks for visiting! Feel free to explore my projects and reach out if you'd like to collaborate or just chat about tech.**
+Thanks to all the contributors and maintainers of the amazing open-source projects I use and contribute to. The power of community-driven development continues to inspire me every day.
+
+---
+
+🌟 **Let's build something amazing together!** 🚀
