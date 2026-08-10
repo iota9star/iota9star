@@ -1,92 +1,101 @@
-👋 **Hi, I'm iota9star**
+# 👨‍💻 Hi, I'm iota9star
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
-
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating robust, scalable systems that users love.
+Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm a Full Stack Developer with a passion for Rust & Java backend development and a product mindset that drives user-centric solutions.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 👨‍💻 About Me
-
-I'm a full-stack developer with a deep passion for building digital products that make a difference. My journey in software development has taken me from crafting high-performance backend systems in Rust and Java to creating beautiful, responsive user interfaces with modern frontend frameworks.
-
-What drives me? The challenge of solving complex problems and the joy of seeing users engage with products I've helped build. I believe in writing clean, maintainable code and embracing new technologies while staying grounded in solid engineering principles.
-
 ## 🎯 What I Do
 
-**Backend Development**: Building scalable microservices and RESTful APIs with Rust's Axum framework and Spring Boot. I focus on performance, security, and maintainability.
-
-**Frontend Engineering**: Creating responsive, accessible interfaces with React, Vue, and Flutter. I care deeply about user experience and performance optimization.
-
-**Mobile Development**: Crafting native Android apps and cross-platform solutions with Flutter, delivering seamless experiences across devices.
-
-**AI Integration**: Exploring AI-powered development workflows, code assistants, and intelligent agents that enhance productivity and code quality.
-
-**Web3 Exploration**: Diving into blockchain technologies across BTC, EVM, and Internet Computer ecosystems.
+I specialize in crafting robust, scalable systems that solve real-world problems. My expertise spans the full development lifecycle, from architectural design to deployment and optimization. I focus on building performant backends, intuitive frontends, and integrating cutting-edge AI technologies into development workflows.
 
 ## 🛠️ Tech Stack
 
-**Languages**: 🦀 Rust · ☕ Java · 🎯 Kotlin · 📘 TypeScript · 🎯 Dart  
-**Backend**: 🚀 Axum · 🌱 Spring · ⚡ Microservices · 🟢 Node.js  
-**Frontend**: ⚛️ React · 🖖 Vue · 🦋 Flutter · 🤖 Android  
-**Tools**: 🐙 Git · 🐳 Docker · 🔧 VS Code · 🤖 Claude Code  
-**AI/ML**: 🧠 AI Workflows · 🤖 Code Assistants · 🔍 Quality-focused Agents  
-**Web3**: ₿ BTC · 🔗 EVM · 🌐 IC
+**Languages**: 🦀 Rust · ☕ Java · 🎯 Kotlin · 📘 TypeScript · 🎯 Dart
+
+**Backend**: ⚡ Axum · 🌱 Spring · 🔧 Microservices · 🟢 Node.js
+
+**Frontend**: ⚛️ React · 🖖 Vue · 🦋 Flutter · 🤖 Android
+
+**AI**: 🤖 AI-powered development workflows · 👨‍💻 Code assistants · 🎯 Quality-focused · 🔮 Agents
+
+**Web3**: 💎 BTC · ⛽ EVM · 🌐 IC
 
 ## 📊 Quick Stats
 
-![](profile-3d-contrib/profile-season-animate.svg)
+![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 🔥 Featured Projects
 
-Here are some of my notable contributions and open source projects:
-
-[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
-[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
+[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
 [![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)
+
 [![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
-[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
-[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
-[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
-[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
-[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
 [![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
+
+[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
+[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
+
 [![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
 [![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
-[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
+
+[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
+[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
+
+[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
+[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
+
+[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
+
 [![](cards/iota9star_sakura-dmhy.svg)](https://github.com/iota9star/sakura-dmhy)
 [![](cards/iota9star_kisssub.svg)](https://github.com/iota9star/kisssub)
 
-## 💡 Quote
+## 💡 Philosophy
 
-> "When I forget you, I forget myself."  
-> — *Wuthering Heights*
+I believe in writing clean, maintainable code that stands the test of time. Quality isn't just about functionality—it's about creating software that's a joy to work with and easy to evolve. Every line of code should serve a purpose and contribute to the bigger picture.
 
-## 🏆 Highlights & Achievements
+## 🏆 Highlights
 
-🌟 **Open Source Contributor**: Active contributor to the FlutterCandies ecosystem, helping developers build better Flutter apps with powerful tools and libraries.
+🚀 **Full Stack Expertise**: From database design to frontend polish, I handle it all
 
-🚀 **Full-Stack Projects**: Successfully delivered multiple full-stack applications combining modern frontend frameworks with robust backend services.
+⚡ **Performance-Driven**: Optimized systems that scale with your needs
 
-🔧 **Tool Development**: Created development tools that streamline workflows and improve developer productivity.
+🎯 **Product Mindset**: Building features that users actually love
 
-📱 **Mobile Expertise**: Built and maintained several mobile applications with focus on performance and user experience.
+🤖 **AI Integration**: Leveraging cutting-edge AI to supercharge development
 
-## 💭 Philosophy & Approach
+🌐 **Web3 Ready**: Experience with blockchain technologies across multiple ecosystems
 
-I believe in the power of continuous learning and adaptation. Technology evolves rapidly, and staying curious helps me grow as a developer and as a person.
+## 💭 Approach
 
-**Quality over quantity**: I'd rather write 100 lines of clean, tested code than 1000 lines of spaghetti. **User-centric design**: Every technical decision should ultimately serve the user experience. **Collaborative spirit**: The best software is built by teams that communicate well and support each other.
+**Quality over quantity**: I'd rather write 100 lines of clean, tested code than 1000 lines of spaghetti
+
+**User-centric design**: Every technical decision should ultimately serve the user experience
+
+**Continuous learning**: Technology evolves rapidly, and staying curious helps me grow as a developer
+
+**Collaborative spirit**: The best software is built by teams that communicate well and support each other
 
 ## 📧 Connect
 
-Let's connect! I'm always interested in discussing technology, sharing ideas, or collaborating on interesting projects.
+Let's build something amazing together!
 
-📧 Email: [iota9star](mailto:iota9star@gmail.com)  
-🐦 Twitter: [@iota9star](https://x.com/iota9star)  
-📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)  
+📧 Email: [iota9star](mailto:iota9star@gmail.com)
+🐦 Twitter/X: [@iota9star](https://x.com/iota9star)
+📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
+
+![](profile-3d-contrib/profile-season-animate.svg)
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.* ✨
+*"The only way to do great work is to love what you do."* - Steve Jobs
+
+---
+
+🎯 **Current Focus**: Building scalable backend systems and exploring the intersection of AI and software development. Always learning, always building.
+
+🚀 **Let's Connect**: Whether you're interested in collaboration, have a question, or just want to chat about tech, feel free to reach out!
+
+⭐ **Star some repos** if you find them useful! Every contribution helps build better tools for everyone.
+
+🌟 **Thanks for visiting**! Don't forget to check out my projects above and give them a try.
