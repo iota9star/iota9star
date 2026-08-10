@@ -26,25 +26,25 @@ I specialize in crafting robust, scalable systems that solve real-world problems
 
 ## 🔥 Featured Projects
 
-[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
+[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
 [![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)
 
-[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
-[![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
+[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
+[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
 
 [![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
-[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
+[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
 
-[![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
-[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
-
-[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
-[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
-
-[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
+[![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
 [![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
 
-[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
+[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
+[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
+
+[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
+[![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
+
+[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 
 [![](cards/iota9star_sakura-dmhy.svg)](https://github.com/iota9star/sakura-dmhy)
@@ -86,11 +86,7 @@ Let's build something amazing together!
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
----
-
 *"The only way to do great work is to love what you do."* - Steve Jobs
-
----
 
 🎯 **Current Focus**: Building scalable backend systems and exploring the intersection of AI and software development. Always learning, always building.
 
