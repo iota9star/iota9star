@@ -1,86 +1,109 @@
-# 👋 Hi, I'm iota9star
+# Hi, I'm iota9star! 👋
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
+Full Stack Developer | Rust & Java Backend | Product Mindset
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating products that users love, backed by clean, maintainable code.
+Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-I'm a developer who cares deeply about both technical excellence and user experience. With expertise spanning multiple languages and frameworks, I bring a product mindset to every project — ensuring that what we build not only works well but solves real problems for real people.
+Hi there! I'm a passionate developer who loves crafting robust and scalable solutions. With a product mindset, I focus on creating meaningful digital experiences that make a difference.
 
-My journey has taken me from backend systems architecture to frontend polish, with stops in mobile development, Web3, and AI-powered workflows along the way. I believe the best solutions come from understanding the full stack and the full picture.
+My journey spans across multiple domains — from low-level systems programming in Rust to enterprise-grade Spring backends, from reactive frontends to mobile apps. I believe in clean code, continuous learning, and sharing knowledge with the community.
 
 ## 🎯 What I Do
 
-- **Backend Development**: High-performance systems in Rust and Java
-- **Frontend Engineering**: React, Vue, and modern web frameworks  
-- **Mobile Apps**: Flutter applications for iOS and Android
-- **AI Integration**: Building intelligent assistants and code agents
-- **Web3 Solutions**: Smart contracts and decentralized applications
-- **Product Development**: Full-lifecycle software with user-centric focus
+🔧 **Backend Architecture**: Designing scalable microservices and high-performance APIs
+🌐 **Full-Stack Development**: Building end-to-end solutions from database to UI
+📱 **Mobile Development**: Creating cross-platform apps with Flutter
+🤖 **AI-Enhanced Workflows**: Leveraging AI tools for smarter development
+🧪 **Open Source**: Contributing to projects that empower developers
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-- 🔧 **Backend**: Rust • Java • Kotlin • Node.js
-- 🎨 **Frontend**: React • Vue • TypeScript • Dart
-- 📱 **Mobile**: Flutter • Android Native
-- 🔗 **Web3**: BTC • EVM • Internet Computer
+### Languages
+🦀 **Rust** | ☕ **Java** | 🎯 **Kotlin** | 💎 **TypeScript** | 🎯 **Dart**
 
-**Core Technologies**
-- ⚡ **Frameworks**: Axum • Spring • Microservices
-- 🤖 **AI**: Code assistants • Quality agents • Workflow automation
-- 🛠️ **Tools**: Git • CI/CD • Cloud platforms
+### Backend
+⚡ **Axum** | 🌱 **Spring** | 🔄 **Microservices** | 🟢 **Node.js**
+
+### Frontend & Mobile
+⚛️ **React** | 💚 **Vue** | 🦋 **Flutter** | 🤖 **Android**
+
+### Web3 & Blockchain
+₿ **BTC** | 🔗 **EVM** | 🌐 **Internet Computer**
+
+### AI & Tools
+🤖 **AI-powered workflows** | 🛠️ **Code assistants** | ✨ **Quality-focused development**
 
 ## 📊 Quick Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical)
+🏢 **Organizations**: fluttercandies, void-signals  
+💫 **Contributions**: Active open source contributor  
+⭐ **Focus**: Developer tools, mobile frameworks, backend systems
 
 ## 🔥 Featured Projects
 
-Here are some of my open source contributions:
-
-[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
-[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
-[![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)
-[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
-[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
-[![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
-[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
-[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
-[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
-[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
-[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
-[![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
-[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
-[![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
-[![](cards/iota9star_sakura-dmhy.svg)](https://github.com/iota9star/sakura-dmhy)
-[![](cards/iota9star_kisssub.svg)](https://github.com/iota9star/kisssub)
-
-## 💡 Philosophy
-
-> "Code is poetry, but products are stories. I write both with care."
-
-I believe that great software is built at the intersection of technical excellence and human understanding. Every line of code should serve a purpose, every feature should solve a real need, and every product should make someone's life a little better.
+<table>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" alt="fluttercandies/fjs" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg" alt="iota9star/kisssub" /></a></td>
+</tr>
+</table>
 
 ## 🏆 Highlights
 
-- 🌟 Contributed to multiple Flutter ecosystem packages
-- 🔥 Built AI-powered development tools and workflows  
-- 🚀 Shipped production applications across web, mobile, and blockchain
-- 💡 Open source enthusiast and community contributor
+✨ **Flutter Expertise**: Active contributor to the Flutter ecosystem through fluttercandies  
+🔧 **Developer Tools**: Building tools that make developers' lives easier  
+📦 **Open Source Advocate**: Believer in the power of community-driven development  
+🎨 **Full-Stack Vision**: Understanding the complete picture from infrastructure to UX
+
+## 💡 Philosophy
+
+> "Code is not just about solving problems — it's about crafting solutions that are elegant, maintainable, and delightful to work with."
+
+I believe in:
+- 🔄 **Continuous Improvement**: Always learning, always evolving
+- 🤝 **Community First**: Sharing knowledge and lifting others up
+- 💎 **Quality Matters**: Taking pride in every line of code
+- 🎯 **User-Centric**: Building with empathy and purpose
 
 ## 📧 Connect
 
 Let's connect and build something amazing together!
 
-- 📧 **Email**: [iota9star](mailto:iota9star@gmail.com)
-- 🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
-- 📝 **Juejin Blog**: [Articles & Tutorials](https://juejin.cn/user/1591748568562829)
-- 💼 **GitHub**: [iota9star](https://github.com/iota9star)
+📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)  
+🐦 **X**: [@iota9star](https://x.com/iota9star)  
+📝 **Juejin**: [Blog](https://juejin.cn/user/1591748568562829)
 
 ---
 
@@ -88,6 +111,4 @@ Let's connect and build something amazing together!
 
 ---
 
-*"The best way to predict the future is to invent it."*
-
-⭐ **Thanks for visiting! If you like my work, consider giving it a star!** ⭐
+⭐ **If you find value in my work, consider starring the projects you like!** 🚀
