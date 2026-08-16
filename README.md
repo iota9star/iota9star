@@ -1,61 +1,57 @@
-# 👋 Hi, I'm **iota9star**
+# 👋 Hi, I'm iota9star
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**  
+**Full Stack Developer | Rust & Java Backend | Product Mindset**
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating tools that developers love to use and solving complex problems with elegant solutions.
+Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 🎯 What I Do
 
-🚀 **Backend Development** - Crafting scalable, high-performance systems with Rust and Java  
-💻 **Frontend Engineering** - Building beautiful, responsive interfaces with React, Vue, and Flutter  
-🤖 **AI-Powered Workflows** - Leveraging AI assistants and intelligent agents for development productivity  
-⛓️ **Web3 & Blockchain** - Exploring decentralized technologies across BTC, EVM, and Internet Computer  
-🛠️ **Open Source** - Contributing to projects that make a difference in the developer ecosystem
+I'm a full-stack developer with a passion for building products that matter. My work spans the entire development lifecycle, from system architecture to user experience.
+
+- **Backend Development**: High-performance systems using Rust and Java
+- **Frontend Engineering**: Modern web and mobile applications  
+- **AI Integration**: Building AI-powered development workflows and code assistants
+- **Web3 & Blockchain**: Working with BTC, EVM, and Internet Computer ecosystems
+- **Product Thinking**: Always focused on user value and business impact
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+**Rust** | **Java** | **Kotlin** | **TypeScript** | **Dart** | **Python** | **Go**
 
-### Backend & Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-FF9900?style=flat-square&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6600?style=flat-square&logo=awesome-lists&logoColor=white)
+### Backend
+**Axum** | **Spring Boot** | **Microservices** | **Node.js** | **PostgreSQL** | **Redis** | **MongoDB**
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+### Frontend
+**React** | **Vue.js** | **Flutter** | **Android Native** | **HTML/CSS** | **Tailwind CSS**
 
-## 📊 Quick Stats
+### Tools & Platforms
+**Git** | **Docker** | **Kubernetes** | **AWS** | **GitHub Actions** | **Linux** | **VS Code**
 
-📈 **15+ Repositories** • ⭐ **Open Source Contributor** • 🔄 **Active Developer**  
-Consistently pushing code, exploring new technologies, and sharing knowledge with the community.
+### AI & Automation
+**Code Assistants** | **Quality-Focused Workflows** | **AI Agents** | **Development Automation**
+
+### Blockchain
+**Bitcoin** | **Ethereum/EVM** | **Internet Computer (IC)** | **Smart Contracts**
 
 ## 🔥 Featured Projects
 
-Check out some of my work across Flutter ecosystem, backend tools, and innovative applications:
+Here are some of my open source contributions and personal projects:
 
-[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
+[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
 [![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
+[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
+[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
 [![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)
 [![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
-[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
-[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
 [![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
-[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
-[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
-[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
-[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
 [![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
+[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
+[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
+[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
+[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
 [![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 [![](cards/iota9star_sakura-dmhy.svg)](https://github.com/iota9star/sakura-dmhy)
@@ -63,29 +59,29 @@ Check out some of my work across Flutter ecosystem, backend tools, and innovativ
 
 ## 💡 Philosophy
 
-💭 **"Code is poetry written for machines to execute and humans to understand."**  
+I believe in writing clean, maintainable code that scales. My approach combines technical excellence with product thinking — every line of code should serve a purpose and deliver value to users.
 
-I believe in writing clean, maintainable code that tells a story. Every line should have purpose, every function should have clarity, and every project should solve real problems. Great software is a balance of technical excellence and user-centric design.
+**Core principles:**
+- **Quality over quantity**: Better to do fewer things well
+- **User-centric design**: Start with user problems, not solutions  
+- **Continuous learning**: Technology evolves, so do I
+- **Open source**: Giving back to the community
 
-## 🏆 Highlights
+## 📈 Quick Stats
 
-🌟 **Flutter Ecosystem Contributions** - Active contributor to fluttercandies, building tools that empower developers worldwide  
-🔧 **Full-Stack Expertise** - Comfortable navigating from database schemas to pixel-perfect UIs  
-🎓 **Continuous Learning** - Always exploring new technologies, from Rust's safety guarantees to Web3's decentralized future  
-🤝 **Collaborative Spirit** - Believe in the power of open source and community-driven development
-
-## 📧 Connect
-
-Let's connect and build something amazing together!
-
-📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)  
-🐦 **X**: [@iota9star](https://x.com/iota9star)  
-📝 **Juejin**: [Blog](https://juejin.cn/user/1591748568562829)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true&theme=default)
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-*"The best way to predict the future is to invent it."* - Alan Kay
+## 📧 Connect
 
-🚀 **Let's code the future together!**
+Let's connect! I'm always interested in discussing technology, products, and opportunities.
+
+**Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)  
+**X (Twitter)**: [@iota9star](https://x.com/iota9star)  
+**Juejin Blog**: [技术博客](https://juejin.cn/user/1591748568562829)
+
+---
+
+**Thanks for visiting!** Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about technology.
