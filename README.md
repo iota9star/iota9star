@@ -1,43 +1,36 @@
 # 👋 Hi, I'm **iota9star**
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
-
-Building digital experiences across the stack — from high-performance backends to elegant frontends. I'm passionate about creating products that users love, with a focus on performance, scalability, and delightful user experiences.
+Full Stack Developer specializing in **Rust & Java Backend** with a product mindset. Building digital experiences across the stack — from high-performance backends to elegant frontends.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 🎯 What I Do
 
-I specialize in building full-stack applications with a strong foundation in backend development. My work spans across multiple domains:
+I bridge the gap between robust backend systems and delightful user experiences. My passion lies in creating performant, scalable solutions that make a real impact.
 
-- **Backend Systems**: High-performance services using Rust, Java, and Kotlin with microservices architecture
-- **Frontend Development**: Cross-platform apps with React, Vue, Flutter, and native Android
-- **AI-Powered Tools**: Building intelligent code assistants and development workflows
-- **Web3 & Blockchain**: Working with BTC, EVM, and Internet Computer protocols
+🔥 **Backend Engineering**: Crafting high-performance microservices and distributed systems  
+💻 **Frontend Development**: Building responsive, intuitive user interfaces  
+🤖 **AI-Powered Workflows**: Leveraging code assistants and agents for quality-focused development  
+🌐 **Web3 Integration**: Working with BTC, EVM, and Internet Computer protocols  
+📱 **Mobile Development**: Creating native Android and cross-platform Flutter apps  
 
 ## 🛠️ Tech Stack
 
-### Languages & Runtimes
-🦀 **Rust** | ☕ **Java** | 🧩 **Kotlin** | 📘 **TypeScript** | 🎯 **Dart** | 🟨 **JavaScript** | 🐍 **Python**
+### Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Backend Frameworks
-🚀 **Axum** | 🌱 **Spring** | ⚡ **Microservices** | 🔄 **Node.js** | 🔧 **GraphQL**
+### Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-00979D?style=flat-square&logo=micronaut&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Axum](https://img.shields.io/badge/Axum-FF6B6B?style=flat-square&logo=rust&logoColor=white)
 
-### Frontend & Mobile
-⚛️ **React** | 💚 **Vue.js** | 🦋 **Flutter** | 🤖 **Android Native** | 🎨 **CSS/Tailwind**
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### Tools & Platforms
-🐳 **Docker** | ☁️ **AWS** | 🔥 **GitHub Actions** | 🧪 **Testing** | 📊 **Monitoring**
-
-### Blockchain & Web3
-₿ **Bitcoin** | 💎 **EVM** | 🌐 **Internet Computer** | 🔗 **Smart Contracts**
+### Web3
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![IC](https://img.shields.io/badge/Internet_Computer-1A1A1A?style=flat-square&logo=icp&logoColor=white)
 
 ## 📊 Quick Stats
 
-- 🏗️ **16+ Featured Projects** across diverse technologies
-- ⭐ **Contributing** to open-source ecosystem
-- 🔥 **Building** products that matter
-- 💡 **Innovation-driven** development approach
+![](profile-3d-contrib/profile-season-animate.svg)
 
 ## 🔥 Featured Projects
 
@@ -60,48 +53,32 @@ I specialize in building full-stack applications with a strong foundation in bac
 
 ## 💡 Philosophy
 
-> Code is poetry, products are stories. Every line should serve a purpose, every feature should tell a story.
+> **"Code is poetry written for machines to execute and humans to maintain."**
 
-I believe in:
-- 🎯 **User-Centric Design**: Building products that solve real problems
-- ⚡ **Performance First**: Optimizing for speed and efficiency
-- 🔧 **Clean Architecture**: Maintainable and scalable codebases
-- 🤝 **Open Source**: Contributing to and learning from the community
-- 🚀 **Continuous Learning**: Embracing new technologies and methodologies
+I believe in writing clean, maintainable code that not only solves problems efficiently but also tells a story of craftsmanship. Every line of code is an opportunity to make something better.
 
 ## 🏆 Highlights
 
-### Open Source Contributions
-- Active contributor to the **FlutterCandies** ecosystem
-- Building tools that enhance developer productivity
-- Creating libraries used by developers worldwide
+🚀 **Performance Obsessed**: Optimizing systems for speed and efficiency  
+🎨 **Design Conscious**: Creating interfaces that users love to interact with  
+🧪 **Quality Driven**: Implementing comprehensive testing and code quality practices  
+🤝 **Open Source Contributor**: Actively contributing to the developer community  
 
-### Technical Expertise
-- **Systems Programming**: Rust-based high-performance solutions
-- **Cross-Platform Development**: Flutter apps for iOS, Android, Web
-- **Microservices Architecture**: Scalable distributed systems
-- **AI Integration**: Building intelligent development tools
+## 💡 Approach
 
-### Product Focus
-- User experience driven development
-- Data-driven decision making
-- Agile methodologies and rapid iteration
-- Quality assurance and testing excellence
+My development philosophy centers on three pillars:
+- **Simplicity**: Complex problems deserve elegant solutions
+- **Performance**: Every millisecond counts in user experience
+- **Maintainability**: Code is read more than it's written
 
 ## 📧 Connect
 
-Let's connect and collaborate on exciting projects!
+Let's collaborate on something amazing! Feel free to reach out:
 
-📧 **Email**: [iota9star](mailto:iota9star@gmail.com)
-🐦 **Twitter**: [@iota9star](https://x.com/iota9star)
-📝 **Blog**: [Juejin](https://juejin.cn/user/1591748568562829)
-
-💬 **Feel free to reach out for collaborations, technical discussions, or just to say hi!**
+- 📧 Email: [iota9star](mailto:iota9star@gmail.com)
+- 🐦 Twitter: [@iota9star](https://x.com/iota9star)
+- 📝 Blog: [Juejin](https://juejin.cn/user/1591748568562829)
 
 ---
 
-![](profile-3d-contrib/profile-season-animate.svg)
-
----
-
-🌟 **Thanks for visiting!** Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions.
+**Thanks for visiting!** If you like my work, consider giving a ⭐ to any of my repositories that interest you.
