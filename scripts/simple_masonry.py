@@ -1,43 +1,77 @@
 #!/usr/bin/env python3
 """
-Simple GitHub Profile Masonry Layout Generator
-Generates HTML table with project cards using gh-card.dev URLs.
-No gh CLI needed - uses direct URLs.
+GitHub Profile Masonry Layout Generator - Simple Version
+
+Generates Markdown with local SVG card files without requiring gh CLI.
+Downloads SVG files from gh-card.dev to cards/ directory.
+
+Usage:
+    python scripts/simple_masonry.py owner/repo1 owner/repo2 ...
+
+Output:
+    Markdown with local SVG references
 """
 
 import sys
+import urllib.request
+import os
+from typing import List
 
-def generate_simple_masonry(repos):
-    """Generate HTML table with gh-card.dev URLs (no star sorting)."""
-    cards_html = []
+
+def download_svg(repo: str, cards_dir: str) -> str:
+    """Download SVG card from gh-card.dev and save locally."""
+    card_url = f"https://gh-card.dev/repos/{repo}.svg"
+    local_filename = f"{repo.replace('/', '_')}.svg"
+    local_path = os.path.join(cards_dir, local_filename)
+
+    try:
+        urllib.request.urlretrieve(card_url, local_path)
+        print(f"Downloaded: {local_filename}")
+        return local_filename
+    except Exception as e:
+        print(f"Failed to download {repo}: {e}")
+        return None
+
+
+def generate_masonry_markdown(repos: List[str]) -> str:
+    """
+    Generate Markdown with local SVG card references.
+
+    Returns Markdown with local file references.
+    """
+    # Create cards directory if it doesn't exist
+    cards_dir = "cards"
+    os.makedirs(cards_dir, exist_ok=True)
+
+    # Generate Markdown with local SVG references
+    markdown_lines = []
     for repo in repos:
-        card_url = f"https://gh-card.dev/repos/{repo}.svg"
-        repo_link = f"https://github.com/{repo}"
-        cards_html.append(f'<a href="{repo_link}"><img src="{card_url}" alt="{repo}" /></a>')
+        # Download SVG file
+        local_svg = download_svg(repo, cards_dir)
 
-    # Create 2-column table layout
-    lines = ['<table>', '<tr>']
-    for i, html in enumerate(cards_html):
-        if i > 0 and i % 2 == 0:
-            lines.append('</tr><tr>')
-        lines.append(f'<td align="center">{html}</td>')
-    lines.append('</tr>')
+        if local_svg:
+            repo_link = f"https://github.com/{repo}"
+            # Generate Markdown: [![](cards/owner_repo.svg)](repo_link)
+            markdown_lines.append(f'[![](cards/{local_svg})]({repo_link})')
 
-    # Handle odd number of cards
-    if len(cards_html) % 2 != 0:
-        lines.insert(-1, '<td></td>')
+    return '\n'.join(markdown_lines)
 
-    lines.append('</table>')
-    return '\n'.join(lines)
 
 def main():
+    """Main entry point - CLI mode."""
     if len(sys.argv) < 2:
         print("Usage: python simple_masonry.py owner/repo1 owner/repo2 ...", file=sys.stderr)
+        print("\nOutput: Markdown with local SVG references", file=sys.stderr)
+        print("\nFeatures:", file=sys.stderr)
+        print("  - No gh CLI required", file=sys.stderr)
+        print("  - Downloads SVG files to cards/ directory", file=sys.stderr)
+        print("  - Generates Markdown with local references", file=sys.stderr)
         sys.exit(1)
 
     repos = sys.argv[1:]
-    html = generate_simple_masonry(repos)
-    print(html)
+    markdown = generate_masonry_markdown(repos)
+    print(markdown)
+
 
 if __name__ == "__main__":
     main()
