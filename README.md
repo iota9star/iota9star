@@ -1,153 +1,86 @@
-# 👨‍💻 Hi, I'm iota9star
+# 👨‍💻 About Me
 
-**Full Stack Developer | Rust & Java Backend | Product Mindset**
-
-Building digital experiences across the stack — from high-performance backends to elegant frontends.
+Hi, I'm **iota9star** — a Full Stack Developer passionate about building digital experiences across the entire stack, from high-performance backends to elegant frontends.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 🎯 What I Do
+# 🎯 What I Do
 
-I'm passionate about creating robust, scalable solutions that bridge the gap between complex technical challenges and user-friendly experiences. My work spans multiple domains:
+🚀 **Backend Development** — Crafting scalable microservices and high-performance APIs using Rust and Java
+💻 **Frontend Engineering** — Building responsive and intuitive user interfaces with React, Vue, and Flutter
+🤖 **AI-Powered Workflows** — Leveraging code assistants and AI agents to enhance development productivity
+⛓️ **Web3 Development** — Exploring blockchain technologies across BTC, EVM, and Internet Computer ecosystems
 
-- **🔧 Backend Architecture**: Designing and implementing high-performance microservices using Rust and Java
-- **🎨 Frontend Development**: Building responsive, intuitive interfaces with React, Vue, and Flutter
-- **🤖 AI-Powered Workflows**: Leveraging AI assistants and code agents to enhance development productivity
-- **⛓️ Web3 Integration**: Working with blockchain technologies across BTC, EVM, and Internet Computer
-- **🚀 Product Development**: Bringing ideas from concept to production with a focus on quality and user experience
+# 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+**Languages**
+🦀 Rust · ☕ Java · 🎯 Kotlin · 📘 TypeScript · 🎯 Dart
 
-### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**Backend**
+⚡ Axum · 🌱 Spring · 🔄 Microservices · 🚀 Node.js
 
-### Backend & Frameworks
-![Axum](https://img.shields.io/badge/Axum-FF9900?style=for-the-badge&logo=tokio&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+**Frontend**  
+⚛️ React · 🎨 Vue · 📱 Flutter · 🤖 Android
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+**Web3**
+₿ BTC · 🦃 EVM · 🌐 IC
 
-### Blockchain & Web3
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![ICP](https://img.shields.io/badge/Internet_Computer-4A4A4A?style=for-the-badge&logo=internetcomputer&logoColor=white)
+**AI & Tools**
+🤖 AI-powered workflows · 🧩 Code assistants · ✨ Quality-focused development
 
-## 📊 Quick Stats
+# 📊 Quick Stats
 
-![](profile-3d-contrib/profile-season-animate.svg)
+🔥 **Featured Repositories** — 16+ open source projects
+🌟 **Community Contributions** — Active open source contributor
+📈 **Stack Diversity** — Full-stack across multiple ecosystems
 
-## 🔥 Featured Projects
+# 🔥 Featured Projects
 
-Here are some of my most popular and actively maintained projects. Click on any card to explore the repository!
+[![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)
+[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
+[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
+[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
+[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
+[![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
+[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
+[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
+[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
+[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
+[![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
+[![](cards/fluttercandies_f_limit.svg)](https://github.com/f_limit)
+[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
+[![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
+[![](cards/iota9star_sakura-dmhy.svg)](https://github.com/iota9star/sakura-dmhy)
+[![](cards/iota9star_kisssub.svg)](https://github.com/iota9star/kisssub)
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/void-signals_void_signals.svg" alt="void-signals/void_signals" /></a>
-</td>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_dpad.svg" alt="fluttercandies/dpad" /></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_fjs.svg" alt="fluttercandies/fjs" /></a>
-</td>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_json_dart.svg" alt="fluttercandies/json_dart" /></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_env2dart.svg" alt="fluttercandies/env2dart" /></a>
-</td>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_resx.svg" alt="fluttercandies/resx" /></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_svgo.svg" alt="fluttercandies/svgo" /></a>
-</td>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_hora.svg" alt="fluttercandies/hora" /></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a>
-</td>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_dotrix.svg" alt="fluttercandies/dotrix" /></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_dash_router.svg" alt="fluttercandies/dash_router" /></a>
-</td>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_f_limit.svg" alt="fluttercandies/f_limit" /></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/fluttercandies/fluttercandies"><img src="cards/fluttercandies_vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a>
-</td>
-<td align="center">
-<a href="https://github.com/iota9star/iota9star"><img src="cards/iota9star_mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/iota9star/iota9star"><img src="cards/iota9star_sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a>
-</td>
-<td align="center">
-<a href="https://github.com/iota9star/iota9star"><img src="cards/iota9star_kisssub.svg" alt="iota9star/kisssub" /></a>
-</td>
-</tr>
-</table>
+# 💡 Philosophy
 
-## 🏆 Highlights
+💭 "Code is poetry written in logic, crafting experiences that bridge human intent with machine execution."
 
-### 🌟 Flutter Ecosystem Contributions
-Active contributor to the FlutterCandies ecosystem, building powerful tools and utilities that help developers create better Flutter apps. My focus has been on developer productivity and app performance optimization.
+✨ I believe in:
+- **Quality over quantity** — Well-crafted solutions over quick fixes
+- **Continuous learning** — Staying curious and embracing new technologies  
+- **Community collaboration** — Contributing to and learning from the open source ecosystem
+- **Product mindset** — Building solutions that solve real user problems
 
-### 🚀 Mobile Development
-Created several popular Flutter applications focusing on Japanese media content, helping users access and manage their favorite anime and resources through beautiful, intuitive interfaces.
+# 🏆 Highlights
 
-### 🔧 Backend Excellence
-Experience building scalable microservices architectures using Rust and Java, with a focus on performance, security, and maintainability.
+🌟 **Flutter Enthusiast** — Active contributor to the Flutter Candies ecosystem, creating tools and libraries for the Flutter community
+🎯 **Full-Stack Versatility** — Comfortable working across the entire development stack
+🚀 **Performance Focus** — Passionate about building efficient, scalable systems
+🤝 **Open Source Advocate** — Strong believer in the power of community-driven development
 
-### 🤖 AI Integration
-Early adopter of AI-powered development workflows, incorporating code assistants and agents into daily development practices to enhance productivity and code quality.
+# 📧 Connect
 
-## 💡 Philosophy
-
-I believe in writing clean, maintainable code that not only solves today's problems but also anticipates tomorrow's challenges. My approach combines technical excellence with product thinking, ensuring that every line of code serves both the user experience and business goals.
-
-**"Quality is not an act, it is a habit."** — Aristotle
-
-## 📧 Connect
-
-Let's connect and discuss technology, development, or potential collaborations!
-
-- 📧 **Email**: [iota9star@gmail.com](mailto:iota9star@gmail.com)
-- 🐦 **Twitter**: [@iota9star](https://x.com/iota9star)
-- 📝 **Blog**: [Juejin](https://juejin.cn/user/1591748568562829)
+📧 **Email**: [iota9star](mailto:iota9star@gmail.com)
+🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
+📝 **Blog**: [Juejin](https://juejin.cn/user/1591748568562829)
 
 ---
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-**💬 "The best way to predict the future is to create it."** — Peter Drucker
+---
 
-*Thanks for visiting my profile! Let's build something amazing together.*
+⭐ **If you find my work valuable, consider giving it a star!**  
+🤝 Let's collaborate and build something amazing together!
