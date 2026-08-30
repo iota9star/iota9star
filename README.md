@@ -1,79 +1,80 @@
-# 👨‍💻 About Me
+# 👨‍💻 Hey there, I'm **iota9star**!
 
-Hi, I'm **iota9star** — a Full Stack Developer passionate about building digital experiences across the entire stack, from high-performance backends to elegant frontends.
+## About Me
+
+Hi! I'm a passionate **Full Stack Developer** with a product mindset, building digital experiences across the entire stack — from high-performance backends to elegant frontends. I love turning complex problems into simple, beautiful solutions that users enjoy.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-# 🎯 What I Do
+## 🎯 What I Do
 
-🚀 **Backend Development** — Crafting scalable microservices and high-performance APIs using Rust and Java
-💻 **Frontend Engineering** — Building responsive and intuitive user interfaces with React, Vue, and Flutter
-🤖 **AI-Powered Workflows** — Leveraging code assistants and AI agents to enhance development productivity
-⛓️ **Web3 Development** — Exploring blockchain technologies across BTC, EVM, and Internet Computer ecosystems
+I specialize in crafting robust applications that combine performance with great user experiences. My work spans backend systems, frontend interfaces, mobile apps, and emerging technologies like AI and Web3. I believe in writing clean, maintainable code that scales.
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-🦀 Rust · ☕ Java · 🎯 Kotlin · 📘 TypeScript · 🎯 Dart
+### Languages
+🦀 **Rust** | ☕ **Java** | 🎯 **Kotlin** | 📘 **TypeScript** | 🎨 **Dart**
 
-**Backend**
-⚡ Axum · 🌱 Spring · 🔄 Microservices · 🚀 Node.js
+### Backend
+⚡ **Axum** | 🌱 **Spring** | 🔗 **Microservices** | 🚀 **Node.js**
 
-**Frontend**  
-⚛️ React · 🎨 Vue · 📱 Flutter · 🤖 Android
+### Frontend  
+⚛️ **React** | 💚 **Vue** | 🦋 **Flutter** | 🤖 **Android**
 
-**Web3**
-₿ BTC · 🦃 EVM · 🌐 IC
+### AI & Automation
+🤖 **AI-powered development workflows** | 💡 **Code assistants** | ✅ **Quality-focused** | 🔧 **Agents**
 
-**AI & Tools**
-🤖 AI-powered workflows · 🧩 Code assistants · ✨ Quality-focused development
+### Web3
+₿ **BTC** | 🔗 **EVM** | 🌐 **IC**
 
-# 📊 Quick Stats
+## 📊 Quick Stats
 
-🔥 **Featured Repositories** — 16+ open source projects
-🌟 **Community Contributions** — Active open source contributor
-📈 **Stack Diversity** — Full-stack across multiple ecosystems
+🚀 Building innovative solutions
+⭐ Contributing to open source
+🎯 Focused on product excellence
+💡 Always learning, always improving
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
-[![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)
-[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
-[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
-[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
-[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
-[![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
-[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
-[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
-[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
-[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
-[![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
-[![](cards/fluttercandies_f_limit.svg)](https://github.com/f_limit)
-[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
-[![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
-[![](cards/iota9star_sakura-dmhy.svg)](https://github.com/iota9star/sakura-dmhy)
-[![](cards/iota9star_kisssub.svg)](https://github.com/iota9star/kisssub)
+### Flutter & Mobile Development 🎨
 
-# 💡 Philosophy
+[**fluttercandies/fjs**](https://github.com/fluttercandies/fjs) - A powerful Flutter JavaScript bridge
+[**fluttercandies/hora**](https://github.com/fluttercandies/hora) - High-performance database solution
+[**fluttercandies/dpad**](https://github.com/fluttercandies/dpad) - D-pad navigation widget for Flutter
+[**fluttercandies/resx**](https://github.com/fluttercandies/resx) - Resource management made easy
 
-💭 "Code is poetry written in logic, crafting experiences that bridge human intent with machine execution."
+### Tools & Utilities 🛠️
 
-✨ I believe in:
-- **Quality over quantity** — Well-crafted solutions over quick fixes
-- **Continuous learning** — Staying curious and embracing new technologies  
-- **Community collaboration** — Contributing to and learning from the open source ecosystem
-- **Product mindset** — Building solutions that solve real user problems
+[**fluttercandies/json_dart**](https://github.comandies/json_dart) - JSON to Dart code generation
+[**fluttercandies/env2dart**](https://github.com/fluttercandies/env2dart) - Environment to Dart type-safe config
+[**fluttercandies/flexbox_layout**](https://github.com/fluttercandies/flexbox_layout) - Flexbox layout for Flutter
+[**fluttercandies/svgo**](https://github.com/fluttercandies/svgo) - SVG optimization for Flutter
 
-# 🏆 Highlights
+### Personal Projects 🌟
 
-🌟 **Flutter Enthusiast** — Active contributor to the Flutter Candies ecosystem, creating tools and libraries for the Flutter community
-🎯 **Full-Stack Versatility** — Comfortable working across the entire development stack
-🚀 **Performance Focus** — Passionate about building efficient, scalable systems
-🤝 **Open Source Advocate** — Strong believer in the power of community-driven development
+[**mikan_flutter**](https://github.com/iota9star/mikan_flutter) - My Flutter project
+[**sakura-dmhy**](https://github.com/iota9star/sakura-dmhy) - Sakura themed application
+[**kisssub**](https://github.com/iota9star/kisssub) - Subtitle management tool
 
-# 📧 Connect
+## 💡 Philosophy
 
-📧 **Email**: [iota9star](mailto:iota9star@gmail.com)
-🐦 **X (Twitter)**: [@iota9star](https://x.com/iota9star)
+> "Code is poetry written for machines to execute and humans to understand."
+> 
+> *Crafting quality software is an art that balances technical excellence with user empathy.*
+
+## 🏆 Highlights
+
+✨ **Open Source Contributor** - Active in Flutter ecosystem and beyond
+🎨 **UI/UX Enthusiast** - Creating beautiful, intuitive interfaces  
+⚡ **Performance Advocate** - Writing efficient, scalable code
+🌱 **Continuous Learner** - Always exploring new technologies and methodologies
+
+## 📧 Connect With Me
+
+Let's build something amazing together!
+
+📧 **Email**: [iota9star](mailto:iota9star@gmail.com)  
+🐦 **X**: [@iota9star](https://x.com/iota9star)  
 📝 **Blog**: [Juejin](https://juejin.cn/user/1591748568562829)
 
 ---
@@ -82,5 +83,4 @@ Hi, I'm **iota9star** — a Full Stack Developer passionate about building digit
 
 ---
 
-⭐ **If you find my work valuable, consider giving it a star!**  
-🤝 Let's collaborate and build something amazing together!
+*✨ Crafting digital experiences with passion and precision* ✨
