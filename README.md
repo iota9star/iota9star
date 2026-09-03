@@ -2,31 +2,31 @@
 
 ### 🚀 Full Stack Developer · Rust & Java Backend · Product Mindset
 
-*Building digital experiences across the stack — from high-performance backends to elegant frontends.*
+*Building digital experiences across the stack — from high-performance backends to interfaces that feel instant.*  
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-I'm a developer who refuses to pick a side of the stack. 🧭 By day I'm deep in Rust and Java, chasing milliseconds and architecting microservices that stay calm under load. By the next day I'm in Flutter and React, obsessing over the 16 milliseconds that decide whether an interface feels instant or sluggish.
+I'm a developer who never picked a side of the stack, because both sides are interesting. 🧭 One day I'm in Rust and Java chasing milliseconds and designing microservices that stay boring under pressure. The next I'm in Flutter and React, obsessing over the 16 milliseconds that decide whether a UI feels alive or broken.
 
-What drives me isn't the technology — it's the *product*. 🎯 I care about the person on the other side of the screen, so I treat every API response, every animation curve, and every error message as part of the experience. A feature that works but feels wrong is, to me, unfinished.
+The thing that actually pulls me through a hard bug isn't the technology — it's the *product* on the other end. 🎯 I treat every API response, animation curve, and error message as part of one continuous experience. A feature that works but feels wrong is, to me, still unfinished.
 
-I'm also a firm believer that the tools we build shape how we think. That's why much of my energy goes into open source developer tooling — the kind of quiet libraries that make thousands of other projects faster, safer, and more pleasant to write. 🛠️
+Most of my open source energy goes into quiet developer tooling: 🛠️ the kind of small, type-safe libraries that nobody notices until they're gone, and that a few thousand projects quietly depend on. If a library can remove an entire class of bug from someone else's codebase, that's a good week.
 
 ## 🎯 What I Do
 
-**🦀 Rust & Systems Programming** — Fast, fearless backends with Axum. I reach for Rust whenever correctness and throughput both matter, like embedding a whole JavaScript runtime inside Flutter.
+**🦀 Rust & Systems Programming** — Fearless backends with Axum, and the fun stuff: like embedding a full JavaScript runtime *inside* a Flutter app.
 
-**☕ Java & Microservices** — Spring-based services designed to be boring in the best way: observable, testable, and easy to reason about at 3am.
+**☕ Java & Microservices** — Spring services designed to be boring in the best possible way: observable, testable, and easy to reason about at 3am.
 
-**💙 Flutter Ecosystem** — A long-running contributor to [fluttercandies](https://github.com/fluttercandies), shipping packages used by the wider Dart and Flutter community.
+**💙 Flutter Ecosystem** — A long-running contributor to [fluttercandies](https://github.com/fluttercandies), shipping twelve packages the wider Dart and Flutter community builds on.
 
-**🤖 AI-Powered Workflows** — Agents, code assistants, and quality-focused automation woven into real development loops, not just demos.
+**🤖 AI-Powered Workflows** — Agents and code assistants wired into real development loops, with quality gates — not just demos for a screenshot.
 
 **🌐 Web3** — Building across BTC, EVM, and the Internet Computer.
 
-**📱 Mobile & Cross-Platform** — Android, Flutter, and the messy realities of making one codebase feel native everywhere.
+**📱 Mobile & Cross-Platform** — Android, Flutter, and the honest mess of making one codebase feel native everywhere.
 
 ## 🛠️ Tech Stack
 
@@ -52,16 +52,16 @@ I'm also a firm believer that the tools we build shape how we think. That's why 
 
 ## 📊 Quick Stats
 
-📦 **16** featured open source projects
-⭐ **1.6k+** stars across my work
-🏆 **1.3k** stars on [mikan_flutter](https://github.com/iota9star/mikan_flutter) alone
-🤝 **12** packages contributed to the fluttercandies ecosystem
-🌍 **3** blockchain ecosystems explored — BTC, EVM, IC
-🧠 **5** languages in active rotation — Rust, Java, Kotlin, TypeScript, Dart
+📦 **16** featured open source projects · **101** public repos on GitHub  
+⭐ **1.7k+** stars across my work — **1.3k+** of them on [mikan_flutter](https://github.com/iota9star/mikan_flutter)  
+🤝 **12** packages contributed to the fluttercandies ecosystem  
+🌍 **3** blockchain ecosystems explored — BTC, EVM, Internet Computer  
+🧠 **5** languages in active rotation — Rust, Java, Kotlin, TypeScript, Dart  
+🗓️ Building in public since **2016** · **284** followers · 📝 writing at [bytex.space](https://bytex.space)
 
 ## 🔥 Featured Projects
 
-Sorted by stars. ⭐ The Flutter packages are live on pub.dev and used in production apps.
+Sorted by stars ⭐ — the Flutter packages are live on pub.dev and running in production apps.
 
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 [![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
@@ -82,38 +82,40 @@ Sorted by stars. ⭐ The Flutter packages are live on pub.dev and used in produc
 
 ## 💡 Quote
 
-> *"To struggle against the heavens — boundless joy! To struggle against the earth — boundless joy! To struggle against people — boundless joy!"*
-> 📖 奋斗自勉 — 毛泽东
+> *"慎终如始，则无败事。"*  
+> Be as careful at the end as you were at the beginning, and nothing you do will fail.  
+> 📖 *Tao Te Ching* — 老子
 
 ## 🏆 Highlights & Achievements
 
-🌟 **Top project:** [mikan_flutter](https://github.com/iota9star/mikan_flutter) — a third-party client for the Mikan anime tracker with **1.3k+ stars** and a devoted user base.
-⚡ **[fjs](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, built on **Rust and QuickJS**. Embedding one language inside another is my favourite kind of engineering puzzle.
-📺 **[dpad](https://github.com/fluttercandies/dpad)** — brings TV D-pad navigation to Flutter with the simplicity of native Android development.
-🔁 **[void_signals](https://github.com/void-signals/void_signals)** — a high-performance signal reactivity library for Dart, based on `alien-signals`.
-🧩 **Ecosystem contributor** — a dozen Dart/Flutter packages covering routing, date-time handling, error handling, concurrency limits, codegen, and more.
-🎓 **Perpetual learner** — always one unfamiliar paradigm away from starting a new side project.
+🌟 **Flagship:** [mikan_flutter](https://github.com/iota9star/mikan_flutter) — a third-party client for the Mikan anime tracker, **1.3k+ stars**, 62 forks, and a user base that keeps it honest.  
+⚡ **[fjs](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter built on **Rust and QuickJS**. One language living inside another is my favourite kind of engineering puzzle.  
+📺 **[dpad](https://github.com/fluttercandies/dpad)** — TV D-pad navigation for Flutter, with the simplicity of native Android development.  
+🔁 **[void_signals](https://github.com/void-signals/void_signals)** — a high-performance signal reactivity library for Dart, based on `alien-signals`.  
+🧩 **Ecosystem contributor** — a dozen Dart/Flutter packages spanning routing, date-time handling, resource management, concurrency limits, codegen, and more.  
+🎓 **Perpetual learner** — permanently one unfamiliar paradigm away from starting another side project.
 
 ## 💭 Philosophy & Approach
 
-Code is a means, not the end. ✨ The end is a person accomplishing something they cared about — the code just has to get out of the way.
+Code is a means, not the end. ✨ The end is a person accomplishing something they actually cared about — the code just has to get out of the way.
 
 **How I work:**
 
-🎯 **Product first** — Every technical choice is judged by what it does for the user, not by how elegant it looks in a PR.
-🪨 **Type safety by default** — If the compiler can catch it, the compiler should catch it. My libraries lean hard on immutable, type-safe APIs.
-⚡ **Performance is a feature** — Fast software feels respectful. Slow software feels like it's wasting your life.
-🔁 **Ship, then sharpen** — A working 80% in users' hands beats a perfect 100% in a branch.
-🧹 **Leave it cleaner** — Refactoring isn't overhead; it's how a codebase stays alive.
+🎯 **Product first** — Every technical choice is judged by what it does for the user, not how elegant it looks in a PR.  
+🪨 **Type safety by default** — If the compiler can catch it, the compiler should catch it. My libraries lean hard on immutable, type-safe APIs.  
+⚡ **Performance is a feature** — Fast software feels respectful. Slow software feels like it's spending your life for you.  
+🔁 **Ship, then sharpen** — A working 80% in users' hands beats a perfect 100% stuck in a branch.  
+🧹 **Leave it cleaner** — Refactoring isn't overhead; it's how a codebase stays alive.  
 🤝 **Open by default** — The best bugs are found by someone who isn't you.
 
 ## 📧 Connect
 
-Always happy to talk shop — whether it's Rust, Flutter internals, Web3, or a half-formed idea that needs a sounding board. 🗨️
+Always happy to talk shop — Rust, Flutter internals, Web3, or a half-formed idea that needs a sounding board. 🗨️
 
-📧 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)
-🐦 **X / Twitter** — [@iota9star](https://x.com/iota9star)
-📝 **Juejin Blog** — [Technical articles](https://juejin.cn/user/1591748568562829)
+📧 **Email** — [iota9star@gmail.com](mailto:iota9star@gmail.com)  
+🐦 **X / Twitter** — [@iota9star](https://x.com/iota9star)  
+📝 **Juejin** — [Technical articles](https://juejin.cn/user/1591748568562829)  
+🌐 **Blog** — [bytex.space](https://bytex.space)  
 🐙 **GitHub** — You're already here. ⭐
 
 ![](profile-3d-contrib/profile-season-animate.svg)
