@@ -1,6 +1,6 @@
-# 🌠 Hello, I'm **iota9star**
+# 🌌 Hey there, I'm **iota9star**
 
-### 🧑‍💻 Full-Stack Developer · 🦀 Rust & ☕ Java Backend · 🎨 Flutter Craftsman · 🎯 Product Mindset
+### 🧑‍💻 Full-Stack Developer · 🦀 Rust · ☕ Java · 🎨 Flutter Craftsman · 🧠 AI Workflows · 🎯 Product Mindset
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -13,26 +13,26 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Web3](https://img.shields.io/badge/Web3-BTC·EVM·IC-12100E?style=flat-square&logo=web3dotjs&logoColor=F16822)
 
-*One person, both ends of the stack — I write the backend that stays calm at 3am and the interface that makes people forget it's software.* ✨
+*I write the backend that stays calm at 3am and the interface that makes people forget it's software.* ✨
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-I'm the kind of developer who refuses to choose a favourite layer. 🪢 The same week I might be tuning a Rust service to squeeze out another millisecond, and then turn around and fuss over an animation curve in Flutter — because to the person using the product, those two things are *the same thing*. There's no "backend experience" and "frontend experience"; there's just the experience.
+I've never believed in picking a side of the stack. 🪢 In the same week I can be profiling a Rust service down to the millisecond and obsessing over an animation curve in Flutter — because to whoever ends up using the thing, it's all one experience. Latency is UX. A crash log is UX. So is the little spring in a button press.
 
-My centre of gravity is **Rust and Java** on the server: Axum services, Spring microservices, the unglamorous plumbing that has to be observable, testable, and boring under pressure. 🏗️ But I've always believed an engineer who can't feel the UI is only half an engineer, so I keep one foot firmly in **Flutter, React, and Android**.
+My home base is **Rust and Java** on the server: Axum services, Spring microservices, queues, observability — all the plumbing that has to stay boring under pressure. 🏗️ But an engineer who can't feel the interface is only half an engineer, so I keep a foot planted in **Flutter, React, Vue, and Android** too.
 
-Most of my open source energy goes somewhere quiet: 🤫 small, type-safe, dependency-friendly libraries — the sort of code nobody notices until it's gone. A dozen of them live in [fluttercandies](https://github.com/fluttercandies), and together with my own projects they've collected **1,700+ stars** from people I've never met. That still surprises me in the best way.
+Where most of my open-source hours actually go is quieter: 🤫 small, type-safe, dependency-lean packages — the kind of code nobody thinks about until it isn't there. Twelve of them live in [fluttercandies](https://github.com/fluttercandies), and together with my own projects they've gathered **1,700+ stars** from strangers I'll never meet. Still the best kind of surprise. 🌟
 
 ## 🎯 What I Do
 
-- 🦀 **Rust & Systems** — Axum backends, and the delightfully strange: a full JavaScript runtime, written on Rust + QuickJS, embedded *inside* Flutter apps.
-- ☕ **Java & Microservices** — Spring services built to be trusted: clean boundaries, good logs, no surprises during an incident.
-- 💙 **Flutter Ecosystem** — Long-term contributor at [fluttercandies](https://github.com/fluttercandies), shipping twelve packages the wider Dart community builds on.
-- 🤖 **AI-Powered Development** — Agents and code assistants wired into real workflows with real quality gates — not demos that fall over the second you touch them.
-- 🌐 **Web3** — Building across three ecosystems: **BTC**, **EVM**, and the **Internet Computer**.
-- 📱 **Cross-Platform Craft** — Android, Flutter, TV interfaces — making one codebase feel native on every screen it lands on.
+- 🦀 **Rust & Systems** — Axum backends, plus the gloriously weird: a full JavaScript runtime built on **Rust + QuickJS** that runs *inside* Flutter apps.
+- ☕ **Java & Microservices** — Spring services designed to be trusted: clean boundaries, honest logs, zero surprises mid-incident.
+- 💙 **Flutter Ecosystem** — long-term contributor at [fluttercandies](https://github.com/fluttercandies), shipping twelve packages the wider Dart community builds on.
+- 🤖 **AI-Powered Development** — agents and code assistants wired into real workflows with real quality gates — not demos that fold at the first edge case.
+- 🌐 **Web3** — building across three ecosystems: **BTC**, **EVM**, and the **Internet Computer**.
+- 📺 **Cross-Platform Craft** — Android, Flutter, and TV: one codebase that still feels native on every screen it lands on.
 
 ## 🛠️ Tech Stack
 
@@ -82,11 +82,11 @@ Sorted by stars ⭐ — the Flutter packages are live on pub.dev and running ins
 
 ## 🏆 Highlights
 
-🌟 **Flagship** — [mikan_flutter](https://github.com/iota9star/mikan_flutter): a third-party client for the Mikan anime tracker with **1.3k+ stars**, 63 forks, and a real user base that keeps the bar high.  
-⚡ **[fjs](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter built on **Rust + QuickJS**. One language living inside another is my favourite kind of engineering puzzle.  
-📺 **[dpad](https://github.com/fluttercandies/dpad)** — TV D-pad navigation for Flutter, with the simplicity of native Android development.  
+🌟 **Flagship** — [mikan_flutter](https://github.com/iota9star/mikan_flutter): a third-party client for the Mikan anime tracker with **1.3k+ stars**, 63 forks, and a user base that keeps the bar high.  
+⚡ **[fjs](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter on **Rust + QuickJS**. One language living inside another is my favourite kind of puzzle.  
+📺 **[dpad](https://github.com/fluttercandies/dpad)** — TV D-pad navigation for Flutter, as simple as native Android development.  
 🔁 **[void_signals](https://github.com/void-signals/void_signals)** — a high-performance signal reactivity library for Dart, based on `alien-signals`.  
-🎨 **[dotrix](https://github.com/fluttercandies/dotrix)** — a dot-matrix animation indicator library with **28 built-in effects**.  
+🎨 **[dotrix](https://github.com/fluttercandies/dotrix)** — a dot-matrix animation indicator with **28 built-in effects**.  
 🧩 **Ecosystem contributor** — a dozen Dart/Flutter packages spanning routing, date-time handling, resource management, concurrency limits, and codegen.  
 🎓 **Perpetual learner** — permanently one unfamiliar paradigm away from starting another side project.
 
@@ -109,9 +109,9 @@ Code is a means, not the end. ✨ The end is a person getting something they act
 
 ## 💡 Quote of the Moment
 
-> *"在某种意义上说，即令这世界全不存在，音乐却还存在。"*  
-> In a certain sense, even if the whole world ceased to exist, music would still remain.  
-> 📖 *The World as Will and Representation* — Schopenhauer · via [hitokoto](https://hitokoto.cn)
+> *"游心于淡，合气于漠，顺物自然而无容私焉。"*  
+> *Let the mind wander in plainness, blend the spirit with the vast stillness, follow things as they naturally are — and leave no room for ego.*  
+> 📖 *Zhuangzi · Equanimité* — via [hitokoto](https://hitokoto.cn)
 
 ## 📮 Connect
 
