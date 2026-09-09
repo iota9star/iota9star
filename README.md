@@ -1,6 +1,6 @@
-# ✨ Hi, I'm **iota9star**
+# 🌟 Hi, I'm **iota9star** — from *iota* to *star*
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7EE787&center=true&vCenter=true&width=820&lines=Full-Stack+Developer;Rust+%2B+Java+on+the+server;Flutter+packages+%26+dev+tooling;AI+agents+in+real+workflows;Web3%3A+BTC+%C2%B7+EVM+%C2%B7+Internet+Computer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%F0%9F%9B%A0%EF%B8%8F;Rust+%26+Java+on+the+server+%E2%98%95;Flutter+packages+%26+dev+tooling+%F0%9F%92%99;AI+agents+in+real+workflows+%F0%9F%A4%96;Web3%3A+BTC+%C2%B7+EVM+%C2%B7+IC+%E2%9B%93%EF%B8%8F)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -11,30 +11,30 @@
 ![Axum](https://img.shields.io/badge/Axum-0C0D0F?style=flat-square&logo=rust&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Web3](https://img.shields.io/badge/BTC·EVM·IC-12100E?style=flat-square&logo=web3dotjs&logoColor=F16822)
 
-Backend engineer by trade, product person by instinct, package maintainer by compulsion. 🧲 If it compiles, it ships — and if it ships, it gets polished until strangers star it. ⭐
+I build the machinery so well nobody notices it, and the pixels so well nobody forgets them. 🎬 Backend engineer by trade, package maintainer by compulsion, product person by instinct.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-My handle is a roadmap. 🌟 *Iota* is the smallest unit there is; *star* is where small things end up when nobody stops polishing them. Everything I've shipped started tiny — one helper function, one missing package, one itch — and grew because I refused to leave it half-done.
+My handle is a life cycle. 🌱 *Iota* is the smallest thing in the alphabet; *star* is what small things become when nobody talks you out of polishing them. Every project below started as one tiny itch — a missing helper, an awkward API, a client that didn't exist — and grew because I kept showing up. 🔁
 
-By day I build the machinery: **Rust and Java** services with Axum and Spring, microservices, queues, dashboards — the unglamorous parts that earn attention only by never being noticed. 🏗️ But software is judged at the pixel, not the endpoint, so I stay fluent in **Flutter, React, Vue, and Android** too. A blazing p99 means nothing to someone who tapped a button that felt dead. ⚡
+The day job is the machinery: **Rust and Java** services with Axum and Spring, microservices that hold their breath at the edges so users never notice. 🏗️ But software is judged at the tap of a button, not the tail of a log line, so I stay fluent across **Flutter, React, Vue, Android, and TV** too. A great p99 can't save a button that feels dead. ⚡
 
-My open-source hours go to the quiet stuff: 🤫 small, type-safe, dependency-lean Dart packages — routing, date-time math, concurrency limits, functional error handling, codegen — the code nobody thinks about until it isn't there. A dozen of them live under [fluttercandies](https://github.com/fluttercandies), and together with my own projects they've gathered **1.7k+ ⭐** from people I'll never meet. Best kind of surprise, every time. 🎁
+Most of my open-source hours go to [fluttercandies](https://github.com/fluttercandies), shipping small, type-safe, dependency-lean Dart packages — routing, date-time math, concurrency limits, functional error handling, codegen. 🧩 The quiet code nobody thinks about until it isn't there. Together with my own apps, they've collected **1.7k+ ⭐** from strangers I'll never meet — the best kind of surprise, every single time. 🎁
 
 ## 🎯 What I Do
 
-- 🦀 **Rust & systems** — Axum backends, plus the gloriously weird: a JavaScript runtime on **Rust + QuickJS** living *inside* Flutter apps.
-- ☕ **Java & microservices** — Spring services built to be trusted at 3am: clean boundaries, honest logs, no mid-incident surprises.
-- 💙 **Flutter ecosystem** — long-term contributor at [fluttercandies](https://github.com/fluttercandies), shipping packages the wider Dart community builds on.
-- 🤖 **AI-powered development** — agents and assistants wired into real workflows with real quality gates, not demos that fold at the first edge case.
+- 🦀 **Rust & systems** — Axum backends, plus the wonderfully strange: a JavaScript engine (QuickJS) living *inside* Flutter apps, bridged through Rust.
+- ☕ **Java & microservices** — Spring services built to be trusted at 3 a.m.: clean boundaries, honest logs, zero mid-incident surprises. 🌙
+- 💙 **Flutter ecosystem** — long-term contributor at [fluttercandies](https://github.com/fluttercandies), maintaining a dozen packages the wider Dart community builds on.
+- 🤖 **AI-powered engineering** — agents and assistants wired into real workflows with real quality gates; not demos that fold at the first edge case. 🚦
 - ⛓️ **Web3** — building across three ecosystems at once: **BTC**, **EVM**, and the **Internet Computer**.
-- 📺 **Every screen** — Android, Flutter, and TV: D-pad navigation that finally feels as natural as native.
+- 📺 **Every screen** — Android, Flutter, and TV: D-pad navigation that finally feels as natural as touching a touchscreen. 🎮
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +45,7 @@ My open-source hours go to the quiet stuff: 🤫 small, type-safe, dependency-le
 | 🎨 **Frontend & Mobile** | `Flutter` · `React` · `Vue` · `Android` · `TV / D-pad UX` |
 | 🤖 **AI** | `Agents` · `Code assistants` · `AI workflows` · `Quality gates` |
 | ⛓️ **Web3** | `BTC` · `EVM` · `Internet Computer` |
-| 🧱 **Foundations** | `QuickJS` · `Reactive signals` · `Functional error handling` · `Codegen` |
+| 🧱 **Foundations** | `QuickJS` · `Signal reactivity` · `Functional error handling` · `Codegen` |
 | 🛠️ **Daily drivers** | `Cargo` · `Gradle` · `Docker` · `GitHub Actions` · `Linux` · `IntelliJ IDEA` · `VS Code` |
 
 ## 📊 Quick Stats
@@ -56,11 +56,11 @@ My open-source hours go to the quiet stuff: 🤫 small, type-safe, dependency-le
 
 ![Streak stats](https://streak-stats.demolab.com?user=iota9star&hide_border=true&theme=radical&short_numbers=true)
 
-- 📦 **16** featured projects below · **1.7k+ ⭐** between them
-- 🍬 **12** packages published under [fluttercandies](https://github.com/fluttercandies)
+- 📦 **16** featured projects · **1,732 ⭐** combined and counting
+- 🍬 **12** packages maintained under [fluttercandies](https://github.com/fluttercandies)
 - 🏆 Flagship: [mikan_flutter](https://github.com/iota9star/mikan_flutter) at **1,350 ⭐**
-- 🌍 **3** chains · 🧠 **5** languages in regular rotation
-- 🗺️ Full contribution landscape rendered in 3D below
+- ⛓️ **3** Web3 ecosystems · 🧠 **5** languages in regular rotation
+- 🗺️ My contribution year in 3D, right below ⤵️
 
 ## 🗺️ Contribution Landscape
 
@@ -82,8 +82,8 @@ Sorted by stars ⭐ — the Dart/Flutter packages are live on pub.dev and runnin
 [![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
 [![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
 [![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
-[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
 [![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
+[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
 [![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
 [![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
 
@@ -91,29 +91,32 @@ Sorted by stars ⭐ — the Dart/Flutter packages are live on pub.dev and runnin
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=iota9star&theme=radical&no-frame=true&row=1&column=6)
 
-🌟 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** — **1,350 ⭐** · third-party client for the Mikan anime tracker, kept sharp by a user base that never hesitates to file an issue.  
-⚡ **[fjs](https://github.com/fluttercandies/fjs)** — **105 ⭐** · a high-performance JavaScript runtime for Flutter on **Rust + QuickJS**. One language living inside another is my favourite kind of puzzle.  
-📺 **[dpad](https://github.com/fluttercandies/dpad)** — **56 ⭐** · TV D-pad navigation for Flutter as simple as native Android development.  
-🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** · **[kisssub](https://github.com/iota9star/kisssub)** — scratch-your-own-itch clients that strangers adopted as daily drivers.  
+🌟 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** — **1,350 ⭐** · a third-party client for the Mikan anime tracker, kept sharp by a user base that files issues faster than I can refresh the page. 🍥  
+⚡ **[fjs](https://github.com/fluttercandies/fjs)** — **105 ⭐** · a high-performance JavaScript runtime for Flutter, built on **Rust + QuickJS**. One language living inside another is my favourite kind of puzzle.  
+📺 **[dpad](https://github.com/fluttercandies/dpad)** — **56 ⭐** · TV D-pad navigation for Flutter, as simple as native Android development.  
+🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** · **[kisssub](https://github.com/iota9star/kisssub)** — scratch-your-own-itch clients that strangers turned into daily drivers.  
+🗓️ **[hora](https://github.com/fluttercandies/hora)** — immutable, type-safe date-time for Dart, inspired by Day.js: no more 3 a.m. timezone ambushes. ⏰  
 🔁 **[void_signals](https://github.com/void-signals/void_signals)** — high-performance signal reactivity for Dart, built on `alien-signals`.  
-🧩 **[resx](https://github.com/fluttercandies/resx)** — a tiny-but-complete functional toolkit: `Result`, `Option`, `Validation`, `AsyncResult`, and a minimal `Loadable`.  
-🌈 **[dotrix](https://github.com/fluttercandies/dotrix)** — a dot-matrix animation indicator with **28 built-in effects**.
+🧵 **[f_limit](https://github.com/fluttercandies/f_limit)** — a Dart port of `p-limit`: async concurrency control in a few honest lines.  
+🧩 **[resx](https://github.com/fluttercandies/resx)** — a tiny-yet-complete functional toolkit: `Result`, `Option`, `Validation`, `AsyncResult`, and a minimal `Loadable`.  
+🌈 **[dotrix](https://github.com/fluttercandies/dotrix)** — a dot-matrix animation indicator with **28 built-in effects**.  
+📇 **[vcard_dart](https://github.com/fluttercandies/vcard_dart)** — full vCard 2.1 / 3.0 / 4.0 parsing and generation, jCard and xCard included.
 
 ## 💡 Quote of the Moment
 
-> *"愿你有一天能与你最重要的人重逢。"*
-> *"May you one day be reunited with the person who matters most to you."*
-> 📖 — *Plastic Memories* · via [hitokoto](https://hitokoto.cn)
+> *"生活不止眼前的苟且，还有百思不得姐。"*
+> *"Life is more than the drudgery right in front of you — there are also the riddles you'll never crack."*
+> 🎲 — via [hitokoto](https://hitokoto.cn) · a pun on *"poetry and distant places"*, swapped for *"a mystery pondered a hundred times without answer"*
 
-A line from an anime, on the profile of someone whose most-starred repo is an anime tracker client — of course it landed. 🍥 It works for code too: write the kind of thing you'll be glad to be reunited with a year later. 🕰️
+Perfect for a developer, honestly. 🐛 The grind — standups, reviews, red CI — is the 苟且; the bug you can't reproduce is the 百思不得其解. Both pass. The trick is to keep a sense of humor about one and healthy stubbornness about the other. 😄
 
 ## 🧭 How I Build
 
 - 🎯 **Product first** — software exists so a person can finish something they cared about; everything else is plumbing.
 - 🪨 **Push invariants into types** — human memory is fallible; the compiler is not.
 - ⚡ **Latency is a feeling** — users can't read your p99, but they can feel your 100 ms.
-- 🔁 **Small batches, real users** — the feedback loop is the feature.
 - 🧹 **Boring on purpose** — the best dependency is the one you forget you installed.
+- 🔁 **Small batches, real users** — the feedback loop *is* the feature.
 - 🔓 **Default to open** — strangers find the bugs you never would.
 
 ## 🌱 Off the Clock
@@ -131,4 +134,4 @@ Happy to talk shop — Rust internals, Flutter package design, Web3, or a half-f
 📝 **Juejin** — [Technical articles](https://juejin.cn/user/1591748568562829)  
 🐙 **GitHub** — You're already here. ⭐
 
-**Thanks for stopping by — go build something you're proud of.** 🚀
+**Thanks for scrolling this far — now go build something you're proud of.** 🚀
