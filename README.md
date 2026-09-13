@@ -1,56 +1,55 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hi%2C%20I%27m%20iota9star&fontSize=52&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Rust%20%26%20Java%20Backend%20%7C%20Product%20Mindset&descSize=16&descAlignY=66&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&customColorList=2,8,17&text=iota9star&fontSize=54&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Rust%20%26%20Java%20Backend%20%C2%B7%20Product%20Mindset&descSize=15&descAlignY=64&animation=twinkling)
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+across+the+whole+stack;Rust+%E2%9A%99%EF%B8%8F+%2B+Java+%E2%98%95+Backends;Flutter+%F0%9F%92%99+Packages+%26+Apps;AI-Augmented+Development+%F0%9F%A7%A0;Web3+Explorer+%E2%9B%93%EF%B8%8F)
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2DD4BF&center=true&vCenter=true&width=620&lines=Full+stack%2C+full+send+%F0%9F%9A%80;Rust+%F0%9F%A6%80+backends+that+fly;Java+%E2%98%95+microservices+at+scale;Flutter+%F0%9F%92%99+packages+%26+apps;AI-augmented+everything+%F0%9F%A7%A0;Web3+on+the+side+%E2%9B%93%EF%B8%8F)
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
-## 👨‍💻 About Me
+## 🧑‍🚀 About Me
 
-Hi, I'm **iota9star** 👋 — a full stack developer who enjoys living on both ends of the wire:  
-tuning high-performance backends in **Rust** 🦀 and **Java** ☕ by day,  
-polishing pixel-perfect **Flutter** 💙 apps by night.  
-I care about products, not just code — clean APIs, honest performance numbers, and tools people actually ship with.  
-Off the clock you'll find me maintaining open-source packages, chasing new anime seasons 🍥, or poking at Web3 rails ⛓️.
+Hi, I'm **iota9star** 👋  
+I build digital experiences at every layer of the stack — one day I'm squeezing milliseconds out of a **Rust** 🦀 service, the next I'm fine-tuning the feel of a **Flutter** 💙 gesture, and somehow it's all the same job.  
+I believe great software is a **product** decision wrapped inside an **engineering** decision, so I obsess over both: clean APIs, honest benchmarks, and UX that never needs a manual.
 
-- 🌍 Based on the internet, shipping worldwide
-- 🧭 Product mindset first: solve the user's problem, then make it fast
-- 🦀 Performance nerd — if it can be faster, it should be
-- 📦 Open-source builder with the [fluttercandies](https://github.com/fluttercandies) collective
-- 🤖 Serious about AI-augmented workflows: assistants, agents, quality gates
+- 🌐 Full stack, genuinely — from Axum handlers to Android views
+- 🦀 Performance is a feature, not an afterthought
+- 📦 Builder & maintainer in the [fluttercandies](https://github.com/fluttercandies) collective
+- 🤖 Ships faster with AI: assistants, agents, and strict quality gates
+- ⛓️ Curious about decentralized rails — BTC, EVM, Internet Computer
+- 🍥 Powered by seasonal anime and strong opinions about latency
 
-## 🎯 What I Do
+## 🔭 What I Do
 
-- 🏗️ **Backend Engineering** — Axum, Spring, and microservices that stay fast under pressure
-- 📱 **Cross-Platform Apps** — Flutter and Android, with the occasional web detour
-- 📦 **OSS Packages** — a growing toolkit of Dart/Flutter libraries used by the community
-- 🧠 **AI-Augmented Development** — code assistants and quality-focused agent workflows
-- ⛓️ **Web3 Exploration** — BTC, EVM, and Internet Computer (IC)
-- ✍️ **Writing** — sharing engineering notes on [Juejin](https://juejin.cn/user/1591748568562829)
+- ⚙️ **Backend systems** — Axum & Spring microservices built for throughput and boring on-call dashboards
+- 📱 **Cross-platform products** — Flutter apps and Android experiences people actually keep installed
+- 🧱 **Developer tooling** — Dart/Flutter packages that delete whole categories of boilerplate
+- 🧠 **AI-augmented engineering** — agentic workflows with quality checks, not vibes
+- ⛓️ **Web3 experiments** — wallets, chains, and the occasional smart-contract rabbit hole
+- ✍️ **Technical writing** — production field notes on [Juejin](https://juejin.cn/user/1591748568562829)
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-**Languages** 🗣️  
-🦀 Rust · ☕ Java · 💙 Dart · 🟦 TypeScript · 🤖 Kotlin
+**🗣️ Languages**  
+🦀 Rust · ☕ Java · 🎯 Kotlin · 🟦 TypeScript · 💙 Dart
 
-**Backend** ⚙️  
-🌱 Spring · ⚡ Axum · 🧩 Microservices · 🟢 Node.js
+**⚙️ Backend**  
+⚡ Axum · 🌱 Spring · 🧩 Microservices · 🟢 Node.js
 
-**Frontend & Mobile** 🎨  
+**🎨 Frontend & Mobile**  
 ⚛️ React · 💚 Vue · 🐦 Flutter · 🤖 Android
 
-**AI & Web3** 🚀  
-🧠 AI workflows · 🤝 Code assistants · 🤖 Agents · ₿ BTC · ⟠ EVM · 🌀 IC
+**🚀 AI & Web3**  
+🧠 AI workflows · 🤝 Code assistants · 🛡️ Quality-focused agents · ₿ BTC · ⟠ EVM · 🌀 IC
 
 ## 📊 Quick Stats
 
-![Repos](https://img.shields.io/badge/Featured_Repos-16-3C873A?style=flat-square&logo=github) ![Stars](https://img.shields.io/badge/Total_Stars-1.7k%2B-F7D336?style=flat-square&logo=github) ![Top Repo](https://img.shields.io/badge/Top_Repo-mikan_flutter_1.4k%E2%AD%90-9B5CFF?style=flat-square) ![Core](https://img.shields.io/badge/Core-Rust_%C2%B7_Java_%C2%B7_Dart-0FA3B1?style=flat-square)
+![Repos](https://img.shields.io/badge/Featured_Repos-16-8A2BE2?style=for-the-badge&logo=github&logoColor=white) ![Stars](https://img.shields.io/badge/Total_Stars-1.7k%2B-FFB300?style=for-the-badge&logo=github&logoColor=white) ![Top](https://img.shields.io/badge/Top-mikan_flutter_1.3k%E2%AD%90-E91E63?style=for-the-badge) ![Core](https://img.shields.io/badge/Core-Rust_%C2%B7_Java_%C2%B7_Dart-00B8A9?style=for-the-badge)
 
-- 🌟 **1,351 ⭐** on [mikan_flutter](https://github.com/iota9star/mikan_flutter) — the flagship 🏅
-- 📦 **12 packages** shipped with the [fluttercandies](https://github.com/fluttercandies) collective
-- 🔥 **1,733+ ⭐** combined across featured repositories
-- 🦀 **Rust × Flutter** — shipping a QuickJS-powered JS runtime into the Flutter ecosystem
+- 🌟 [mikan_flutter](https://github.com/iota9star/mikan_flutter) leads the fleet with **1.3k+ ⭐** 🏅
+- 📦 **12 open-source packages** shipped with the [fluttercandies](https://github.com/fluttercandies) collective
+- 🔥 **1,700+ ⭐** combined across the featured repos below
+- 🦀➕🐦 Rust × Flutter — bringing a QuickJS-powered JS runtime to the Flutter ecosystem
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 [![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
@@ -69,21 +68,28 @@ Off the clock you'll find me maintaining open-source packages, chasing new anime
 [![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
 [![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
 
-## 🏆 Highlights
+## 🏅 Highlights
 
-- 🥇 **mikan_flutter** — a beloved Bangumi anime client that crossed **1.3k+ ⭐** 🍥
-- ⚡ **fjs** — a high-performance JavaScript runtime for Flutter, built with Rust + QuickJS
-- 📺 **dpad** — TV navigation for Flutter, as simple as native Android development
-- 🔄 **void_signals** — bringing alien-signals-style fine-grained reactivity to Dart
-- 🧰 **Toolbox maintainer** — date-time ⏰, concurrency 🚦, error handling 🛡️, codegen 🏗️, SVG ✂️, routing 🧭
+- 🥇 **mikan_flutter** — a Bangumi anime client the community embraced at **1.3k+ ⭐** 🍥
+- ⚡ **fjs** — a high-performance JavaScript runtime for Flutter, Rust + QuickJS under the hood
+- 📺 **dpad** — TV navigation for Flutter, as intuitive as native Android development
+- 🔄 **void_signals** — alien-signals-style fine-grained reactivity, ported to Dart
+- 🧰 **Toolbox keeper** — date-time ⏰ · concurrency 🚦 · resources 📦 · codegen 🏗️ · SVG ✂️ · routing 🧭
 
-## 💭 Philosophy
+## 🧭 How I Work
 
-> Build small, sharp tools. 🗡️  
-> Make the happy path fast, the sad path honest, and the API boring — in the best way.  
-> If a library needs a novel to explain itself, the library isn't done yet. ✍️
+- 🗡️ Small, sharp tools beat big, dull ones
+- 📖 An API should read like a good sentence — short, obvious, hard to misread
+- 📏 Measure first, optimize second, brag never
+- 🔁 Boring technology on the inside, delightful product on the outside
 
-## 💡 Quote
+## 🍥 Beyond the Code
+
+- 📺 Seasonal anime marathoner — mikan, sakura, kisssub… if you know, you know 😉
+- ⛓️ Weekend Web3 tinkerer, reading the whitepapers so you don't have to
+- ☕ Fueled by coffee, curiosity, and thorough code reviews
+
+## 💡 Quote of the Moment
 
 > 「酒调动着我们自身的温度，我们却糊涂的感谢世界的温暖。」  
 > *"Wine stirs the warmth within us, yet we foolishly thank the world for its warmth."*  
@@ -98,6 +104,6 @@ Off the clock you'll find me maintaining open-source packages, chasing new anime
 - 📧 Email: [iota9star@gmail.com](mailto:iota9star@gmail.com)
 - 🐦 X: [@iota9star](https://x.com/iota9star)
 - ⛏️ Juejin Blog: [iota9star](https://juejin.cn/user/1591748568562829)
-- 🐙 GitHub: [iota9star](https://github.com/iota9star)
+- 🐙 GitHub: [@iota9star](https://github.com/iota9star)
 
-Thanks for stopping by! ⭐ Star something if it saves you a weekend. 🚀
+Thanks for scrolling this far! ⭐ Drop a star if anything here saves you a weekend. 🚀
