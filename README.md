@@ -1,28 +1,28 @@
-# ✨ Hey there, I'm iota9star 🌟
+# ✨ Hi, I'm iota9star — small letter, big orbits 🌌
 
 ![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=for-the-badge) ![Rust × Java](https://img.shields.io/badge/Rust_×_Java_Backend-EA580C?style=for-the-badge) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-8B5CF6?style=for-the-badge)
 
-Named after the smallest Greek letter **ι** but always aiming for the stars 🌟 — I build digital experiences across the entire stack, from high-performance backends to pixel-perfect frontends.  
-Obsessed with the tiny details that make software feel effortless.
+**ι (iota)** is the smallest letter of the Greek alphabet — I named myself after it as a daily reminder that tiny things matter 🪸. One character can flip the meaning of an equation; one commit can flip the fate of a codebase.
+I build digital experiences across the whole stack — high-performance backends at the core, elegant frontends on the surface, and product thinking holding it all together 🧲.
 
 ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-I'm a polyglot engineer who treats the whole stack as one canvas 🎨. **Rust** when every millisecond matters, **Java & Kotlin** when systems need to scale, **Dart & Flutter** when craft has to land on every screen, and **TypeScript** when the web is the stage.
+I'm a polyglot engineer who refuses to pick a side of the stack 🎨. **Rust** when every microsecond counts, **Java & Kotlin** when systems need to scale gracefully, **Dart & Flutter** when the same craft has to land on every screen, and **TypeScript** when the browser is the stage.
 
-By day I design microservices, ship cross-platform apps, and weave AI into real development workflows 🤖 — as a genuine quality multiplier, never a gimmick. By night I maintain open-source packages with the [FlutterCandies](https://github.com/fluttercandies) community 🍬 and explore the Web3 frontier ⛓️.
+Daylight hours go to microservices, cross-platform apps, and weaving AI into real engineering workflows 🤖 — as a genuine quality multiplier, never a gimmick. After hours I maintain open-source packages with the [FlutterCandies](https://github.com/fluttercandies) community 🍬, chase signal-based reactivity experiments, and explore where Web3 is actually useful ⛓️.
 
-💡 **Currently into:** signal-based reactivity, JavaScript runtimes written in Rust, TV-friendly Flutter navigation, and type-safe everything.
+🔬 **Right now I'm deep into:** JavaScript engines written in Rust, fine-grained reactivity, TV-friendly Flutter navigation, and making the type system do the debugging.
 
 ## 🎯 What I Do
 
-- ⚙️ **High-Performance Backends** — Axum (Rust) & Spring (Java), microservices that stay fast under pressure
-- 📱 **Cross-Platform Apps** — Flutter & Android experiences that feel native everywhere
-- 🌐 **Modern Frontends** — React & Vue interfaces built with real product sense
-- 🤖 **AI-Powered Engineering** — agents, code assistants & quality-first AI workflows
-- ⛓️ **Web3 Exploration** — BTC, EVM & Internet Computer
-- 📦 **Open Source Packages** — a dozen published Dart/Flutter libraries 🍬
+- ⚙️ **High-Performance Backends** — Axum (Rust) & Spring (Java); microservices that stay calm under load
+- 📱 **Cross-Platform Apps** — Flutter & Android experiences that feel native everywhere they run
+- 🌐 **Modern Frontends** — React & Vue interfaces shaped by real product sense, not just specs
+- 🤖 **AI-Powered Engineering** — agents, code assistants & quality-first workflows that compound
+- ⛓️ **Web3 Exploration** — BTC, EVM & Internet Computer, beyond the hype cycle
+- 📦 **Open Source Packages** — a shelf of published Dart/Flutter libraries 🍬
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +32,7 @@ By day I design microservices, ship cross-platform apps, and weave AI into real 
 
 **🖥️ Frontend** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=black)
 
-**🤖 AI** ![AI Agents](https://img.shields.io/badge/AI_Agents-8E44AD?style=flat) ![Code Assistants](https://img.shields.io/badge/Code_Assistants-9B59B6?style=flat) ![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-B96BF0?style=flat)
+**🤖 AI** ![AI Agents](https://img.shields.io/badge/AI_Agents-8E44AD?style=flat) ![Code Assistants](https://img.shields.io/badge/Code_Assistants-9B59B6?style=flat) ![Quality Workflows](https://img.shields.io/badge/Quality_Workflows-B96BF0?style=flat)
 
 **⛓️ Web3** ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat&logo=ethereum&logoColor=white) ![Internet Computer](https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat&logo=internetcomputer&logoColor=white)
 
@@ -40,16 +40,16 @@ By day I design microservices, ship cross-platform apps, and weave AI into real 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
-- 📦 **100+** public repositories — 16 featured below
-- ⭐ **1,700+** combined stars, with the flagship alone carrying 1.3k 🥇
+- 📦 **101** public repositories — 16 favorites featured below
+- ⭐ **1,700+** combined stars on featured projects, flagship carrying 1.3k 🥇
 - 🧩 **12** packages published under the FlutterCandies umbrella 🍬
-- 👥 **280+** followers watching the journey unfold
+- 👥 **282** followers along for the ride — and counting
 - 🦀 **Rust × Flutter × QuickJS** — native-speed JavaScript living inside Flutter
-- 👀 You're visitor ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34) — thanks for stopping by!
+- 👀 You're visitor number ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34) — glad you stopped in!
 
 ## 🔥 Featured Projects
 
-Sorted by stars ⭐ — click any card to explore the code 👇
+Sorted by stars ⭐ — click any card to jump into the code 👇
 
 <table>
 <tr>
@@ -81,28 +81,28 @@ Sorted by stars ⭐ — click any card to explore the code 👇
 
 ## 🏆 Highlights
 
-- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1.3k+ — a polished third-party Flutter client for the Mikan Project (mikanani.me), still evolving 🚧
-- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 100+ — high-performance JavaScript runtime for Flutter, built in Rust on QuickJS
-- 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 50+ — TV D-pad navigation for Flutter, as simple as native Android
-- 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** & **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 70+ — third-party clients for anime torrent communities
-- 📡 **[void_signals](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart/Flutter, based on alien-signals
+- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1.3k+ — a polished third-party Flutter client for the Mikan Project (mikanani.me), lovingly maintained 🚧
+- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 100+ — high-performance JavaScript runtime for Flutter, Rust-powered on QuickJS
+- 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 50+ — D-pad navigation for Flutter on TV, as easy as native Android
+- 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 & **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — anime torrent community clients with matching aesthetics
+- 📡 **[void_signals](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart/Flutter, born from alien-signals
 - ⏳ **[hora](https://github.com/fluttercandies/hora)** — immutable, type-safe date-time for Dart, inspired by Day.js
-- 🧯 **[resx](https://github.com/fluttercandies/resx)** — functional error handling for Dart: Result, Option, AsyncResult & streams
+- 🧯 **[resx](https://github.com/fluttercandies/resx)** — functional error handling in Dart: Result, Option, AsyncResult & streams
 
-## 💡 Quote
+## 💡 Quote of the Moment
 
-> 💬 *"学而不厌，诲人不倦。"*  
-> 🌏 *"Learn tirelessly; teach without weariness."*
+> 💬 *"等到功成名就的一天，日月山川都来祝贺。"*  
+> 🌏 *"One day, when success arrives, the sun, moon, mountains and rivers will all come to celebrate."*
 >
-> 📜 — 孔子 · Confucius, 《论语·述而》 · via [hitokoto](https://hitokoto.cn)
+> 📜 — 佚名 · Anonymous, via [hitokoto](https://hitokoto.cn)
 
 ## 💭 Philosophy
 
-- 🪶 Small, sharp tools beat big, blunt ones.
-- 🛡️ Type safety is a feature — bugs the compiler catches are bugs users never see.
-- ⚡ Write performance users can feel and code reviewers can read.
+- 🪶 Small, sharp tools beat big, blunt ones — in languages, libraries, and life.
+- 🛡️ Type safety is a feature: bugs the compiler catches are bugs users never meet.
+- ⚡ Write performance users can feel and code reviewers can actually read.
 - 🔁 Ship, measure, refine — always with the product in mind 🧭.
-- 🌱 Open source is how one developer says thanks to thousands.
+- 🌱 Open source is how one developer says thank you to thousands.
 
 ## 📧 Connect
 
@@ -114,4 +114,4 @@ Sorted by stars ⭐ — click any card to explore the code 👇
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-⭐️ Crafted with care by [iota9star](https://github.com/iota9star)
+⭐️ From [iota9star](https://github.com/iota9star) — small letter, big orbits 🌌
