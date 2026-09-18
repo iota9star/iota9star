@@ -1,23 +1,26 @@
-# ✨ Hi, I'm iota9star 🌟
+# ✨ Hey there, I'm iota9star 🌟
 
-🚀 **Full Stack Developer** · ⚙️ **Rust & Java Backend** · 🧭 **Product Mindset**
+![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=for-the-badge) ![Rust × Java](https://img.shields.io/badge/Rust_×_Java_Backend-EA580C?style=for-the-badge) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-8B5CF6?style=for-the-badge)
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends. From the smallest Greek letter (ι) to the stars 🌟: I care about the tiny details that make software feel effortless.
+Named after the smallest Greek letter **ι** but always aiming for the stars 🌟 — I build digital experiences across the entire stack, from high-performance backends to pixel-perfect frontends.  
+Obsessed with the tiny details that make software feel effortless.
+
+![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-I'm a polyglot engineer who treats the whole stack as one canvas 🎨. I write **Rust** when performance is non-negotiable, **Java & Kotlin** when systems need to scale, **Dart & Flutter** when craft has to land on every screen, and **TypeScript** when the web is the target.
+I'm a polyglot engineer who treats the whole stack as one canvas 🎨. **Rust** when every millisecond matters, **Java & Kotlin** when systems need to scale, **Dart & Flutter** when craft has to land on every screen, and **TypeScript** when the web is the stage.
 
-By day I design microservices, ship mobile apps, and weave AI into real development workflows 🤖 — not as a gimmick, but as a genuine quality multiplier. By night I maintain open-source packages with the [FlutterCandies](https://github.com/fluttercandies) community 🍬 and explore the Web3 frontier ⛓️.
+By day I design microservices, ship cross-platform apps, and weave AI into real development workflows 🤖 — as a genuine quality multiplier, never a gimmick. By night I maintain open-source packages with the [FlutterCandies](https://github.com/fluttercandies) community 🍬 and explore the Web3 frontier ⛓️.
 
-💡 **Currently into:** signal-based reactivity, JS runtimes written in Rust, TV-friendly Flutter navigation, and type-safe everything.
+💡 **Currently into:** signal-based reactivity, JavaScript runtimes written in Rust, TV-friendly Flutter navigation, and type-safe everything.
 
 ## 🎯 What I Do
 
 - ⚙️ **High-Performance Backends** — Axum (Rust) & Spring (Java), microservices that stay fast under pressure
 - 📱 **Cross-Platform Apps** — Flutter & Android experiences that feel native everywhere
 - 🌐 **Modern Frontends** — React & Vue interfaces built with real product sense
-- 🤖 **AI-Powered Engineering** — code assistants, agents & quality-first AI workflows
+- 🤖 **AI-Powered Engineering** — agents, code assistants & quality-first AI workflows
 - ⛓️ **Web3 Exploration** — BTC, EVM & Internet Computer
 - 📦 **Open Source Packages** — a dozen published Dart/Flutter libraries 🍬
 
@@ -35,12 +38,14 @@ By day I design microservices, ship mobile apps, and weave AI into real developm
 
 ## 📊 Quick Stats
 
-- 📦 **16** open-source projects in the spotlight
-- ⭐ **1,700+** combined stars — flagship alone carries 1.3k 🥇
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+
+- 📦 **100+** public repositories — 16 featured below
+- ⭐ **1,700+** combined stars, with the flagship alone carrying 1.3k 🥇
 - 🧩 **12** packages published under the FlutterCandies umbrella 🍬
+- 👥 **280+** followers watching the journey unfold
 - 🦀 **Rust × Flutter × QuickJS** — native-speed JavaScript living inside Flutter
-- 🌏 **Open source, worldwide** — built in public, used across timezones
-- 👀 You're visitor number ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34) — thanks for stopping by!
+- 👀 You're visitor ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34) — thanks for stopping by!
 
 ## 🔥 Featured Projects
 
@@ -77,18 +82,19 @@ Sorted by stars ⭐ — click any card to explore the code 👇
 ## 🏆 Highlights
 
 - 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1.3k+ — a polished third-party Flutter client for the Mikan Project (mikanani.me), still evolving 🚧
-- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 100+ — a high-performance JavaScript runtime for Flutter, built in Rust and powered by QuickJS
+- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 100+ — high-performance JavaScript runtime for Flutter, built in Rust on QuickJS
 - 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 50+ — TV D-pad navigation for Flutter, as simple as native Android
-- ⏳ **[hora](https://github.com/fluttercandies/hora)** — immutable, type-safe date-time for Dart, inspired by Day.js
-- 🧯 **[resx](https://github.com/fluttercandies/resx)** — functional error handling for Dart: Result, Option, AsyncResult, streams & more
+- 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** & **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 70+ — third-party clients for anime torrent communities
 - 📡 **[void_signals](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart/Flutter, based on alien-signals
-- 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** & **[kisssub](https://github.com/iota9star/kisssub)** — third-party clients for anime torrent communities
+- ⏳ **[hora](https://github.com/fluttercandies/hora)** — immutable, type-safe date-time for Dart, inspired by Day.js
+- 🧯 **[resx](https://github.com/fluttercandies/resx)** — functional error handling for Dart: Result, Option, AsyncResult & streams
 
 ## 💡 Quote
 
-> 💬 *"Every second counts."* — **每秒都很重要。**
+> 💬 *"学而不厌，诲人不倦。"*  
+> 🌏 *"Learn tirelessly; teach without weariness."*
 >
-> 🎮 — 命运2 · Destiny 2 · via [hitokoto](https://hitokoto.cn)
+> 📜 — 孔子 · Confucius, 《论语·述而》 · via [hitokoto](https://hitokoto.cn)
 
 ## 💭 Philosophy
 
