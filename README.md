@@ -1,9 +1,9 @@
-# ✨ Hi, I'm iota9star — small letter, big orbits 🌌
+# ✨ ιota9star — the smallest letter, the largest orbits 🌌
 
 ![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=for-the-badge) ![Rust × Java](https://img.shields.io/badge/Rust_×_Java_Backend-EA580C?style=for-the-badge) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-8B5CF6?style=for-the-badge)
 
-**ι (iota)** is the smallest letter of the Greek alphabet — I named myself after it as a daily reminder that tiny things matter 🪸. One character can flip the meaning of an equation; one commit can flip the fate of a codebase.
-I build digital experiences across the whole stack — high-performance backends at the core, elegant frontends on the surface, and product thinking holding it all together 🧲.
+**ι (iota)** is the tiniest letter of the Greek alphabet — and my daily reminder that small things decide big outcomes 🎯. One symbol flips an equation; one commit can flip the fate of a codebase.
+I build digital experiences across the whole stack: high-performance engines underneath, elegant surfaces on top, and product thinking gluing it all together 🧲.
 
 ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -11,18 +11,18 @@ I build digital experiences across the whole stack — high-performance backends
 
 I'm a polyglot engineer who refuses to pick a side of the stack 🎨. **Rust** when every microsecond counts, **Java & Kotlin** when systems need to scale gracefully, **Dart & Flutter** when the same craft has to land on every screen, and **TypeScript** when the browser is the stage.
 
-Daylight hours go to microservices, cross-platform apps, and weaving AI into real engineering workflows 🤖 — as a genuine quality multiplier, never a gimmick. After hours I maintain open-source packages with the [FlutterCandies](https://github.com/fluttercandies) community 🍬, chase signal-based reactivity experiments, and explore where Web3 is actually useful ⛓️.
+Daylight hours go to microservices, cross-platform apps, and weaving AI into real engineering workflows 🤖 — as a genuine quality multiplier, never a gimmick. After hours I maintain open-source packages with the [FlutterCandies](https://github.com/fluttercandies) community 🍬, experiment with signal-based reactivity, and poke at where Web3 is actually useful ⛓️.
 
-🔬 **Right now I'm deep into:** JavaScript engines written in Rust, fine-grained reactivity, TV-friendly Flutter navigation, and making the type system do the debugging.
+🔬 **Currently obsessed with:** JavaScript engines written in Rust, fine-grained reactivity, TV-friendly Flutter navigation, and making the type system do the debugging.
 
 ## 🎯 What I Do
 
 - ⚙️ **High-Performance Backends** — Axum (Rust) & Spring (Java); microservices that stay calm under load
-- 📱 **Cross-Platform Apps** — Flutter & Android experiences that feel native everywhere they run
+- 📱 **Cross-Platform Apps** — Flutter & Android experiences that feel native wherever they run
 - 🌐 **Modern Frontends** — React & Vue interfaces shaped by real product sense, not just specs
 - 🤖 **AI-Powered Engineering** — agents, code assistants & quality-first workflows that compound
 - ⛓️ **Web3 Exploration** — BTC, EVM & Internet Computer, beyond the hype cycle
-- 📦 **Open Source Packages** — a shelf of published Dart/Flutter libraries 🍬
+- 📦 **Open Source Packages** — a whole shelf of published Dart/Flutter libraries 🍬
 
 ## 🛠️ Tech Stack
 
@@ -40,68 +40,63 @@ Daylight hours go to microservices, cross-platform apps, and weaving AI into rea
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
-- 📦 **101** public repositories — 16 favorites featured below
-- ⭐ **1,741** combined stars on featured projects, flagship carrying 1.3k 🥇
+- 📦 **101** public repositories — the 16 favorites below are hand-picked
+- ⭐ **1.7k+** combined stars across featured projects, flagship carrying 1.4k 🥇
 - 🧩 **12** packages published under the FlutterCandies umbrella 🍬
 - 👥 **282** followers along for the ride — and counting
-- 🦀 **Rust × Flutter × QuickJS** — native-speed JavaScript living inside Flutter
+- 🎂 A decade of shipping on GitHub — building since August 2016
 - 👀 You're visitor number ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34) — glad you stopped in!
 
 ## 🔥 Featured Projects
 
 Sorted by stars ⭐ — click any card to jump into the code 👇
 
-<table>
-<tr>
-<td align="center"><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" alt="fluttercandies/fjs" /></a></td>
-</tr><tr>
-<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
-<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
-</tr><tr>
-<td align="center"><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg" alt="iota9star/kisssub" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
-</tr><tr>
-<td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
-</tr><tr>
-<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
-</tr><tr>
-<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
-</tr><tr>
-<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
-</tr><tr>
-<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
-</tr>
-</table>
+[![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
+[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
+[![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)
+[![](cards/iota9star_sakura-dmhy.svg)](https://github.com/iota9star/sakura-dmhy)
+[![](cards/iota9star_kisssub.svg)](https://github.com/iota9star/kisssub)
+[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
+[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
+[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
+[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
+[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
+[![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
+[![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
+[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
+[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
+[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
+[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
 
 ## 🏆 Highlights
 
-- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,358 — a polished third-party Flutter client for the Mikan Project (mikanani.me), lovingly maintained 🚧
-- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 106 — high-performance JavaScript runtime for Flutter, Rust-powered on QuickJS
-- 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 56 — D-pad navigation for Flutter on TV, as easy as native Android
-- 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 & **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — anime torrent community clients with matching aesthetics
-- 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — dynamic JSON handling for Dart without the codegen ceremony
-- 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 23 — blazing-fast signal reactivity for Dart/Flutter, born from alien-signals
-- ⏳ **[hora](https://github.com/fluttercandies/hora)** ⭐ 19 & 🚦 **[f_limit](https://github.com/fluttercandies/f_limit)** ⭐ 19 — immutable date-time and adaptive rate limiting for Dart
-- 🧯 **[resx](https://github.com/fluttercandies/resx)** — functional error handling in Dart: Result, Option, AsyncResult & streams
+- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1.4k — polished third-party Flutter client for the Mikan Project (mikanani.me), lovingly maintained 🚧
+- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 105 — high-performance JavaScript runtime for Flutter, Rust-powered on QuickJS
+- 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 56 — D-pad navigation for Flutter on TV, as simple as native Android
+- 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 & 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — anime torrent community clients with matching aesthetics
+- 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — JSON → Dart via templates, no codegen ceremony
+- 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 23 — blazing-fast signal reactivity for Dart/Flutter
+- ⏳ **[hora](https://github.com/fluttercandies/hora)** ⭐ 19 & 🚦 **[f_limit](https://github.com/fluttercandies/f_limit)** ⭐ 19 — immutable date-time and p-limit-style concurrency control
+- 🎛️ **[flexbox_layout](https://github.com/fluttercandies/flexbox_layout)** ⭐ 18 — CSS Flexbox semantics, natively in Flutter
+- 🪄 **[env2dart](https://github.com/fluttercandies/env2dart)** ⭐ 11 — turn any `.env` file into type-safe Dart
+- 🎨 **[svgo](https://github.com/fluttercandies/svgo)** ⭐ 9 — SVG optimization for Dart & Flutter
+- 🧯 **[resx](https://github.com/fluttercandies/resx)** ⭐ 8 — functional error handling: `Result`, `Option`, `AsyncResult` & streams
+- 🟦 **[dotrix](https://github.com/fluttercandies/dotrix)** ⭐ 8 — dot-matrix animation indicators with 28 built-in styles
+- 🚀 **[dash_router](https://github.com/fluttercandies/dash_router)** ⭐ 7 — zero mental overhead, fully type-safe routing
+- 🗂️ **[vcard_dart](https://github.com/fluttercandies/vcard_dart)** ⭐ 3 — comprehensive vCard parsing & generation
 
 ## 💡 Quote of the Moment
 
-> 💬 *"不管是怎样的回忆，都是我们活过的人生。"*  
-> 🌏 *"Whatever kind of memories they are, they're all part of the life we've lived."*
+> 💬 *"墙外行人，墙里佳人笑。"*  
+> 🌏 *"Beyond the wall a traveler passes; within, a fair one laughs."*
 >
-> 📜 — via [hitokoto](https://hitokoto.cn)
+> 📜 — 苏轼 (Su Shi), 《蝶恋花·春景》 · via [hitokoto](https://hitokoto.cn)
 
 ## 💭 Philosophy
 
 - 🪶 Small, sharp tools beat big, blunt ones — in languages, libraries, and life.
 - 🛡️ Type safety is a feature: bugs the compiler catches are bugs users never meet.
-- ⚡ Write performance users can feel and code reviewers can actually read.
+- ⚡ Write performance users can feel, and code reviewers can actually read.
 - 🔁 Ship, measure, refine — always with the product in mind 🧭.
 - 🌱 Open source is how one developer says thank you to thousands.
 
@@ -110,9 +105,10 @@ Sorted by stars ⭐ — click any card to jump into the code 👇
 - 📮 Email — [iota9star@gmail.com](mailto:iota9star@gmail.com)
 - 🐦 X (Twitter) — [@iota9star](https://x.com/iota9star)
 - ⛏️ Juejin — [Blog](https://juejin.cn/user/1591748568562829)
+- 🌐 Web — [bytex.space](https://bytex.space)
 
 ## 🧊 My Year in 3D
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-⭐️ From [iota9star](https://github.com/iota9star) — small letter, big orbits 🌌
+⭐️ From [iota9star](https://github.com/iota9star) — 我们，有些许相似 · we're somewhat alike, you and this profile 😉
