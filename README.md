@@ -41,7 +41,7 @@ Daylight hours go to microservices, cross-platform apps, and weaving AI into rea
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
 - 📦 **101** public repositories — 16 favorites featured below
-- ⭐ **1,700+** combined stars on featured projects, flagship carrying 1.3k 🥇
+- ⭐ **1,741** combined stars on featured projects, flagship carrying 1.3k 🥇
 - 🧩 **12** packages published under the FlutterCandies umbrella 🍬
 - 👥 **282** followers along for the ride — and counting
 - 🦀 **Rust × Flutter × QuickJS** — native-speed JavaScript living inside Flutter
@@ -81,20 +81,21 @@ Sorted by stars ⭐ — click any card to jump into the code 👇
 
 ## 🏆 Highlights
 
-- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1.3k+ — a polished third-party Flutter client for the Mikan Project (mikanani.me), lovingly maintained 🚧
-- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 100+ — high-performance JavaScript runtime for Flutter, Rust-powered on QuickJS
-- 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 50+ — D-pad navigation for Flutter on TV, as easy as native Android
+- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,358 — a polished third-party Flutter client for the Mikan Project (mikanani.me), lovingly maintained 🚧
+- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 106 — high-performance JavaScript runtime for Flutter, Rust-powered on QuickJS
+- 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 56 — D-pad navigation for Flutter on TV, as easy as native Android
 - 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 & **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — anime torrent community clients with matching aesthetics
-- 📡 **[void_signals](https://github.com/void-signals/void_signals)** — blazing-fast signal reactivity for Dart/Flutter, born from alien-signals
-- ⏳ **[hora](https://github.com/fluttercandies/hora)** — immutable, type-safe date-time for Dart, inspired by Day.js
+- 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — dynamic JSON handling for Dart without the codegen ceremony
+- 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 23 — blazing-fast signal reactivity for Dart/Flutter, born from alien-signals
+- ⏳ **[hora](https://github.com/fluttercandies/hora)** ⭐ 19 & 🚦 **[f_limit](https://github.com/fluttercandies/f_limit)** ⭐ 19 — immutable date-time and adaptive rate limiting for Dart
 - 🧯 **[resx](https://github.com/fluttercandies/resx)** — functional error handling in Dart: Result, Option, AsyncResult & streams
 
 ## 💡 Quote of the Moment
 
-> 💬 *"等到功成名就的一天，日月山川都来祝贺。"*  
-> 🌏 *"One day, when success arrives, the sun, moon, mountains and rivers will all come to celebrate."*
+> 💬 *"不管是怎样的回忆，都是我们活过的人生。"*  
+> 🌏 *"Whatever kind of memories they are, they're all part of the life we've lived."*
 >
-> 📜 — 佚名 · Anonymous, via [hitokoto](https://hitokoto.cn)
+> 📜 — via [hitokoto](https://hitokoto.cn)
 
 ## 💭 Philosophy
 
