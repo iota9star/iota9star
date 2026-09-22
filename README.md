@@ -1,28 +1,28 @@
-# ✨ ιota9star — the smallest letter, the largest orbits 🌌
+# 🌸 ιota9star — full-stack engineer, open-source gardener 🌿
 
-![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=for-the-badge) ![Rust × Java](https://img.shields.io/badge/Rust_×_Java_Backend-EA580C?style=for-the-badge) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-8B5CF6?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=flat-square) ![Rust & Java](https://img.shields.io/badge/Rust_%26_Java_Backend-EA580C?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-8B5CF6?style=flat-square) ![OSS Maintainer](https://img.shields.io/badge/OSS_Maintainer-10B981?style=flat-square)
 
-**ι (iota)** is the tiniest letter of the Greek alphabet — and my daily reminder that small things decide big outcomes 🎯. One symbol flips an equation; one commit can flip the fate of a codebase.
-I build digital experiences across the whole stack: high-performance engines underneath, elegant surfaces on top, and product thinking gluing it all together 🧲.
+**ι (iota)** — the smallest letter in the Greek alphabet, and proof that tiny things tip big scales ⚖️. That's the whole philosophy: one sharp function, one well-named type, one careful commit — that's where great software starts.
+I build across the entire stack: fast engines underneath, clean surfaces on top, and product sense holding it together 🧲.
 
 ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-I'm a polyglot engineer who refuses to pick a side of the stack 🎨. **Rust** when every microsecond counts, **Java & Kotlin** when systems need to scale gracefully, **Dart & Flutter** when the same craft has to land on every screen, and **TypeScript** when the browser is the stage.
+Hi, I'm **iota9star** 👋 — a polyglot engineer who never picked a favorite layer of the stack, because they're all fun. **Rust** when performance is the product, **Java & Kotlin** when systems need to grow up gracefully, **Dart & Flutter** when one codebase must bloom on every screen 📱, and **TypeScript** when the browser is the stage 🎭.
 
-Daylight hours go to microservices, cross-platform apps, and weaving AI into real engineering workflows 🤖 — as a genuine quality multiplier, never a gimmick. After hours I maintain open-source packages with the [FlutterCandies](https://github.com/fluttercandies) community 🍬, experiment with signal-based reactivity, and poke at where Web3 is actually useful ⛓️.
+By day: microservices, cross-platform apps, and AI woven into real engineering workflows 🤖 — as a genuine quality multiplier, never a gimmick. After hours I tend an open-source garden with the [FlutterCandies](https://github.com/fluttercandies) community 🍬 — a dozen published packages and counting — plus experiments in fine-grained reactivity and the occasional Web3 rabbit hole ⛓️.
 
-🔬 **Currently obsessed with:** JavaScript engines written in Rust, fine-grained reactivity, TV-friendly Flutter navigation, and making the type system do the debugging.
+🔬 **Currently obsessed with:** JavaScript engines written in Rust, signal-based reactivity, TV-friendly Flutter navigation, and making the type system do the debugging.
 
 ## 🎯 What I Do
 
-- ⚙️ **High-Performance Backends** — Axum (Rust) & Spring (Java); microservices that stay calm under load
-- 📱 **Cross-Platform Apps** — Flutter & Android experiences that feel native wherever they run
-- 🌐 **Modern Frontends** — React & Vue interfaces shaped by real product sense, not just specs
-- 🤖 **AI-Powered Engineering** — agents, code assistants & quality-first workflows that compound
-- ⛓️ **Web3 Exploration** — BTC, EVM & Internet Computer, beyond the hype cycle
-- 📦 **Open Source Packages** — a whole shelf of published Dart/Flutter libraries 🍬
+- ⚙️ **High-Performance Backends** — Axum (Rust) & Spring (Java); microservices that stay calm under pressure
+- 📱 **Cross-Platform Apps** — Flutter & Android experiences that feel at home on every device
+- 🌐 **Modern Frontends** — React & Vue interfaces shaped by product thinking, not just tickets
+- 🤖 **AI-Powered Engineering** — agents, assistants & quality-first workflows that compound over time
+- ⛓️ **Web3 Exploration** — BTC, EVM & Internet Computer, past the hype cycle
+- 📦 **Open Source Packages** — publishing small, sharp Dart/Flutter libraries 🍬
 
 ## 🛠️ Tech Stack
 
@@ -36,20 +36,9 @@ Daylight hours go to microservices, cross-platform apps, and weaving AI into rea
 
 **⛓️ Web3** ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat&logo=ethereum&logoColor=white) ![Internet Computer](https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat&logo=internetcomputer&logoColor=white)
 
-## 📊 Quick Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-
-- 📦 **101** public repositories — the 16 favorites below are hand-picked
-- ⭐ **1.7k+** combined stars across featured projects, flagship carrying 1.4k 🥇
-- 🧩 **12** packages published under the FlutterCandies umbrella 🍬
-- 👥 **282** followers along for the ride — and counting
-- 🎂 A decade of shipping on GitHub — building since August 2016
-- 👀 You're visitor number ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34) — glad you stopped in!
-
 ## 🔥 Featured Projects
 
-Sorted by stars ⭐ — click any card to jump into the code 👇
+Hand-picked and sorted by stars ⭐ — click any card to explore the code 👇
 
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 [![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
@@ -58,8 +47,8 @@ Sorted by stars ⭐ — click any card to jump into the code 👇
 [![](cards/iota9star_kisssub.svg)](https://github.com/iota9star/kisssub)
 [![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
 [![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
-[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
 [![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
+[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
 [![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
 [![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
 [![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
@@ -70,27 +59,38 @@ Sorted by stars ⭐ — click any card to jump into the code 👇
 
 ## 🏆 Highlights
 
-- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1.4k — polished third-party Flutter client for the Mikan Project (mikanani.me), lovingly maintained 🚧
-- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 105 — high-performance JavaScript runtime for Flutter, Rust-powered on QuickJS
+- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1.4k — a polished third-party Flutter client for the Mikan Project (mikanani.me), still lovingly maintained 🚧
+- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 107 — high-performance JavaScript runtime for Flutter, Rust-powered on QuickJS
 - 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 56 — D-pad navigation for Flutter on TV, as simple as native Android
 - 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 & 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — anime torrent community clients with matching aesthetics
-- 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — JSON → Dart via templates, no codegen ceremony
-- 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 23 — blazing-fast signal reactivity for Dart/Flutter
+- 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — JSON → Dart models via templates, zero codegen ceremony
+- 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 23 — blazing-fast signal reactivity for Dart & Flutter, based on alien-signals
 - ⏳ **[hora](https://github.com/fluttercandies/hora)** ⭐ 19 & 🚦 **[f_limit](https://github.com/fluttercandies/f_limit)** ⭐ 19 — immutable date-time and p-limit-style concurrency control
 - 🎛️ **[flexbox_layout](https://github.com/fluttercandies/flexbox_layout)** ⭐ 18 — CSS Flexbox semantics, natively in Flutter
 - 🪄 **[env2dart](https://github.com/fluttercandies/env2dart)** ⭐ 11 — turn any `.env` file into type-safe Dart
-- 🎨 **[svgo](https://github.com/fluttercandies/svgo)** ⭐ 9 — SVG optimization for Dart & Flutter
+- 🎨 **[svgo](https://github.com/fluttercandies/svgo)** ⭐ 10 — SVG optimization for Dart & Flutter
 - 🧯 **[resx](https://github.com/fluttercandies/resx)** ⭐ 8 — functional error handling: `Result`, `Option`, `AsyncResult` & streams
 - 🟦 **[dotrix](https://github.com/fluttercandies/dotrix)** ⭐ 8 — dot-matrix animation indicators with 28 built-in styles
-- 🚀 **[dash_router](https://github.com/fluttercandies/dash_router)** ⭐ 7 — zero mental overhead, fully type-safe routing
+- 🚀 **[dash_router](https://github.com/fluttercandies/dash_router)** ⭐ 7 — type-safe routing with zero mental overhead
 - 🗂️ **[vcard_dart](https://github.com/fluttercandies/vcard_dart)** ⭐ 3 — comprehensive vCard parsing & generation
+
+## 📊 By the Numbers
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+
+- 📦 **101** public repositories — the 16 favorites above are hand-picked
+- ⭐ **1.7k+** combined stars across featured projects; the flagship alone carries 1.4k 🥇
+- 🍬 **12** packages published under the FlutterCandies umbrella
+- 👥 **283** followers along for the ride — and counting
+- 🎂 Building in the open since August 2016 — a decade of commits
+- 👀 You're visitor number ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34) — thanks for stopping by!
 
 ## 💡 Quote of the Moment
 
-> 💬 *"墙外行人，墙里佳人笑。"*  
-> 🌏 *"Beyond the wall a traveler passes; within, a fair one laughs."*
+> 💬 *"李思是和平的象征，800元可买到和平。"*  
+> 🌏 *"Li Si is a symbol of peace — 800 yuan can buy peace."*
 >
-> 📜 — 苏轼 (Su Shi), 《蝶恋花·春景》 · via [hitokoto](https://hitokoto.cn)
+> 📜 — via [hitokoto](https://hitokoto.cn) · straight from the depths of the internet 🛸
 
 ## 💭 Philosophy
 
@@ -105,7 +105,6 @@ Sorted by stars ⭐ — click any card to jump into the code 👇
 - 📮 Email — [iota9star@gmail.com](mailto:iota9star@gmail.com)
 - 🐦 X (Twitter) — [@iota9star](https://x.com/iota9star)
 - ⛏️ Juejin — [Blog](https://juejin.cn/user/1591748568562829)
-- 🌐 Web — [bytex.space](https://bytex.space)
 
 ## 🧊 My Year in 3D
 
