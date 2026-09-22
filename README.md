@@ -1,28 +1,28 @@
-# 🌸 ιota9star — full-stack engineer, open-source gardener 🌿
+# 🚀 iota9star — every layer of the stack, one iota at a time ⚛️
 
 ![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=flat-square) ![Rust & Java](https://img.shields.io/badge/Rust_%26_Java_Backend-EA580C?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-8B5CF6?style=flat-square) ![OSS Maintainer](https://img.shields.io/badge/OSS_Maintainer-10B981?style=flat-square)
 
-**ι (iota)** — the smallest letter in the Greek alphabet, and proof that tiny things tip big scales ⚖️. That's the whole philosophy: one sharp function, one well-named type, one careful commit — that's where great software starts.
-I build across the entire stack: fast engines underneath, clean surfaces on top, and product sense holding it together 🧲.
+**ι (iota)** is the smallest letter in the Greek alphabet — and the smallest things are exactly where big software gets won or lost ⚖️. One sharp function, one honest type, one commit that says what it does: stack enough of those and you get systems people actually enjoy using.
+I build the fast parts underneath 🦀, the friendly parts on top 🖥️, and the product glue that makes them feel like one thing 🧲.
 
 ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-Hi, I'm **iota9star** 👋 — a polyglot engineer who never picked a favorite layer of the stack, because they're all fun. **Rust** when performance is the product, **Java & Kotlin** when systems need to grow up gracefully, **Dart & Flutter** when one codebase must bloom on every screen 📱, and **TypeScript** when the browser is the stage 🎭.
+Hi, I'm **iota9star** 👋 — a full-stack engineer who refuses to pick a favorite layer, because every layer is someone's favorite. **Rust** when speed is the feature 🦀, **Java & Kotlin** when systems need to scale without drama ☕, **Dart & Flutter** when one codebase has to bloom on phones, desktops and TVs 📱, and **TypeScript** when the browser is the stage 🎭.
 
-By day: microservices, cross-platform apps, and AI woven into real engineering workflows 🤖 — as a genuine quality multiplier, never a gimmick. After hours I tend an open-source garden with the [FlutterCandies](https://github.com/fluttercandies) community 🍬 — a dozen published packages and counting — plus experiments in fine-grained reactivity and the occasional Web3 rabbit hole ⛓️.
+Daytime me ships microservices, cross-platform apps, and AI woven into real workflows 🤖 — as a genuine quality multiplier, never a party trick. After-hours me tends an open-source garden with the [FlutterCandies](https://github.com/fluttercandies) community 🍬: a shelf of published Dart/Flutter packages, a fine-grained signals experiment, and the occasional Web3 detour ⛓️.
 
-🔬 **Currently obsessed with:** JavaScript engines written in Rust, signal-based reactivity, TV-friendly Flutter navigation, and making the type system do the debugging.
+🔬 **Currently obsessed with:** Rust-powered JavaScript engines, signal-based reactivity, D-pad-first TV navigation, and convincing the type system to do my debugging for me.
 
 ## 🎯 What I Do
 
-- ⚙️ **High-Performance Backends** — Axum (Rust) & Spring (Java); microservices that stay calm under pressure
-- 📱 **Cross-Platform Apps** — Flutter & Android experiences that feel at home on every device
-- 🌐 **Modern Frontends** — React & Vue interfaces shaped by product thinking, not just tickets
-- 🤖 **AI-Powered Engineering** — agents, assistants & quality-first workflows that compound over time
-- ⛓️ **Web3 Exploration** — BTC, EVM & Internet Computer, past the hype cycle
-- 📦 **Open Source Packages** — publishing small, sharp Dart/Flutter libraries 🍬
+- ⚙️ **High-Performance Backends** — Axum (Rust) & Spring (Java); microservices that stay boring under load, which is a compliment
+- 📱 **Cross-Platform Apps** — Flutter & Android experiences that feel native wherever they land
+- 🌐 **Modern Frontends** — React & Vue surfaces shaped by product thinking, not just ticket queues
+- 🤖 **AI-Powered Engineering** — agents, assistants & quality-first workflows that compound every sprint
+- ⛓️ **Web3 Exploration** — BTC, EVM & Internet Computer, past the hype and into the primitives
+- 📦 **Open Source Packages** — publishing small, sharp Dart/Flutter libraries into the wild 🍬
 
 ## 🛠️ Tech Stack
 
@@ -36,9 +36,20 @@ By day: microservices, cross-platform apps, and AI woven into real engineering w
 
 **⛓️ Web3** ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat&logo=ethereum&logoColor=white) ![Internet Computer](https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat&logo=internetcomputer&logoColor=white)
 
+## 📊 Quick Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+
+- 📦 **101** public repositories — the 16 below are the ones I'd grab in a fire 🧯
+- ⭐ **1.7k+** combined stars across featured projects; the flagship alone carries 1.4k 🥇
+- 🍬 **12** packages published under the FlutterCandies umbrella
+- 👥 **283** followers watching the garden grow 🌿
+- 🎂 Building in the open since August 2016 — a decade of commits and counting
+- 👀 You're visitor number ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34) — glad you stopped by!
+
 ## 🔥 Featured Projects
 
-Hand-picked and sorted by stars ⭐ — click any card to explore the code 👇
+Sorted by stars ⭐ — every card is clickable, every repo is real 👇
 
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 [![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
@@ -74,23 +85,10 @@ Hand-picked and sorted by stars ⭐ — click any card to explore the code 👇
 - 🚀 **[dash_router](https://github.com/fluttercandies/dash_router)** ⭐ 7 — type-safe routing with zero mental overhead
 - 🗂️ **[vcard_dart](https://github.com/fluttercandies/vcard_dart)** ⭐ 3 — comprehensive vCard parsing & generation
 
-## 📊 By the Numbers
+## 💡 Quote
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-
-- 📦 **101** public repositories — the 16 favorites above are hand-picked
-- ⭐ **1.7k+** combined stars across featured projects; the flagship alone carries 1.4k 🥇
-- 🍬 **12** packages published under the FlutterCandies umbrella
-- 👥 **283** followers along for the ride — and counting
-- 🎂 Building in the open since August 2016 — a decade of commits
-- 👀 You're visitor number ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34) — thanks for stopping by!
-
-## 💡 Quote of the Moment
-
-> 💬 *"李思是和平的象征，800元可买到和平。"*  
-> 🌏 *"Li Si is a symbol of peace — 800 yuan can buy peace."*
->
-> 📜 — via [hitokoto](https://hitokoto.cn) · straight from the depths of the internet 🛸
+> 💬 *"The best way to predict the future is to invent it."*
+> 🧭 — Alan Kay · words I ship by
 
 ## 💭 Philosophy
 
