@@ -1,25 +1,24 @@
-# ✨ iota9star · full-stack engineer, package gardener, detail obsessive
+# 🍊 iota9star · full-stack builder, package gardener, product heart
 
 ![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=flat-square) ![Rust & Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-F59E0B?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-8B5CF6?style=flat-square) ![OSS Maintainer](https://img.shields.io/badge/OSS_Maintainer-22C55E?style=flat-square)
 
 Hi, I'm **iota9star** 👋 — I build digital experiences across the whole stack, from high-performance backends to elegant frontends.  
-My conviction: software quality is decided in the *iotas* — the tiny units most people round down. I refuse to round them down 🔬.
+Peel me like a mandarin 🍊 and every layer holds the same promise: small, sharp pieces that compose into something sweeter than the sum of their segments.
 
 ![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-I'm the kind of engineer who reads compiler errors like poetry and treats a slow endpoint as a personal offense ⚡.  
-Half my brain lives in **Rust** and **Java**, designing services that stay calm under pressure; the other half lives in **Flutter** and **React**, making sure the pixels those services feed feel inevitable 🎨.
+Ten years on GitHub taught me where good software actually comes from: not the grand architecture doc, but the *iotas* — the tiny units most people round down 🔬.
+I don't round them down. By day I design **Axum** and **Spring** services that stay calm under pressure; by night I make sure the **Flutter** and **React** screens those services feed feel inevitable 🎨.
 
-- 🦀 **Rust** — when milliseconds matter and the borrow checker is my strictest, fairest reviewer
-- ☕ **Java & Kotlin** — when systems must run for years, quietly, without drama
-- 🎯 **Dart & Flutter** — when one codebase has to shine on phones, desktops and TVs
-- 🌐 **TypeScript** — when the browser is the stage and React or Vue is the cast
-- 🤖 **AI-powered workflows** — agents and assistants that compound quality, not just speed
-- ⛓️ **Web3** — BTC, EVM & Internet Computer: past the hype, into the mechanics
+- 🏗️ **Architect** — microservices that scale horizontally and nap quietly at 3 a.m.
+- 🧑‍🎨 **Craftsman** — pixels, motion and typography tuned until the UI feels obvious
+- 📦 **Package author** — every library below was born from a real project's itch, then shared
+- 🤖 **AI-augmented** — coding agents in the loop, human taste as the final reviewer
+- ⛓️ **Web3 builder** — BTC, EVM & Internet Computer; I read the whitepapers so the abstractions stay honest
 
-🔬 **Currently exploring:** Rust-powered JavaScript runtimes, fine-grained signal reactivity, TV-first D-pad navigation, and every way a compiler can catch my bugs before my users do 🧠.
+🔬 **Now exploring:** embedding JavaScript in Flutter at native speed 🦀, signals-based reactivity for Dart 📡, and D-pad-perfect TV navigation 📺.
 
 ## 🎯 What I Do
 
@@ -27,7 +26,7 @@ Half my brain lives in **Rust** and **Java**, designing services that stay calm 
 - 📱 **Cross-Platform Apps** — Flutter & Android products that feel born on whichever screen they land on
 - 🌐 **Frontend Craft** — React & Vue interfaces shaped by product thinking, not ticket queues
 - 📦 **OSS Package Design** — small, sharp Dart/Flutter libraries with strict types and honest READMEs
-- 🤖 **AI-Powered Development** — code assistants and quality-first agent workflows woven into real shipping
+- 🤖 **AI-Powered Development** — assistants and quality-first agent workflows woven into real shipping
 - ⛓️ **Web3 Primitives** — wallets, contracts and canisters, built to be understood
 
 ## 🛠️ Tech Stack
@@ -44,13 +43,13 @@ Half my brain lives in **Rust** and **Java**, designing services that stay calm 
 
 ## 📊 Quick Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=radix&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true&theme=radix)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=tokyonight&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true&theme=tokyonight)
 
-- 📦 **16** featured repositories charted below — the ones I'd carry out of a fire 🔥
-- ⭐ **1,753** combined stars across those projects, the flagship alone carrying 1.4k 🥇
-- 🍬 **12** packages published under the [FlutterCandies](https://github.com/fluttercandies) umbrella
-- 🦀 **Rust × Flutter bridges** — a JS runtime and a signals library, both built for speed
-- 🌸 **Anime-tech trilogy** — three community clients for Bangumi resource sites
+- 🗓️ **10 years** on GitHub — building since August 2016, **102** public repos, **282** followers 🙏
+- ⭐ **1,755 combined stars** across the 16 projects charted below — the flagship alone carrying 1.4k 🥇
+- 🍬 **12 packages** published under the [FlutterCandies](https://github.com/fluttercandies) umbrella
+- 🦀 **2 Rust × Flutter bridges** — a JavaScript runtime and a signals library, both built for speed
+- 🌸 **3 anime-community clients** — written in three different languages, serving one shared fandom
 
 ## 🔥 Featured Projects
 
@@ -75,10 +74,10 @@ Sorted by stars ⭐ — every card is a door into the workshop, click through �
 
 ## 🏆 Highlights
 
-- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,362 — a polished third-party Flutter client for the Mikan Project (mikanani.me), still blooming under active development 🌸
-- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 111 — a high-performance JavaScript runtime inside Flutter: Rust & QuickJS under the hood 🦀
-- 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 58 — TV D-pad focus navigation as simple as native Android
-- 🌷 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — a deliberately simple companion for the anime community, and 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — a client for Ailian BT
+- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,363 · 🍴 64 — a polished third-party client for the Mikan Project (mikanani.me), still blooming under active development 🌸
+- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 112 · 🍴 16 — a high-performance JavaScript runtime inside Flutter: Rust & QuickJS under the hood 🦀
+- 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 58 — TV D-pad focus navigation as simple as native Android development
+- 🌷 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — a deliberately simple Java companion for the anime resource community, and 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — a Kotlin client for Ailian BT
 - 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — template-driven JSON → Dart code generation, zero ceremony
 - 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 23 — fine-grained signal reactivity for Dart & Flutter, grown from alien-signals
 - ⏳ **[hora](https://github.com/fluttercandies/hora)** ⭐ 19 — immutable, type-safe date-time in the spirit of Day.js, and 🚦 **[f_limit](https://github.com/fluttercandies/f_limit)** ⭐ 19 — p-limit-style concurrency control for async Dart
@@ -92,20 +91,20 @@ Sorted by stars ⭐ — every card is a door into the workshop, click through �
 
 ## 💡 Quote
 
-> 🌸 *"芝兰生于深林，不以无人而不芳；君子修道立德，不为穷困而改节。"*  
-> — *Orchids grow in deep forests, fragrant even where no one walks; a person of character keeps cultivating virtue, unbent by hardship.*  
-> — 孔子 (Confucius), *孔子家语 · 在厄* · via [hitokoto](https://hitokoto.cn)  
-> 🤖 Craft the work the same way: quality isn't an audience reaction, it's a standing decision. Ship excellent things even when the stars are quiet ⭐.
+> 🎋 *"但行好事，莫问前程。"*  
+> — *"Do good deeds, and ask not what lies ahead."*  
+> — 《增广贤文》 *Zengguang Xianwen*, via [hitokoto](https://hitokoto.cn)  
+> 🤖 The maintainer's version: tend the issues, answer the strangers, write the fix at midnight — the stars were never the goal, but they keep showing up anyway ⭐.
 
 ## 💭 Philosophy
 
-- 🌱 Plant many small seeds, prune ruthlessly — libraries should be easy to delete, not easy to defend
-- 🛡️ Types are documentation that can't rot: bugs the compiler catches are bugs users never meet
-- ⚡ Write performance users can feel and code reviewers can actually read
-- 🧭 The last 5% *is* the product — ship the polish, not just the feature
-- 🔁 Ship, measure, refine — let the product argue, not the ego
-- 🌸 Be the orchid: build well whether or anyone's watching
-- 🌍 Open source is how one developer says thank you to thousands
+- 🧱 Build small, sharp pieces — a library that does one thing well outlives a framework that does everything badly
+- 🛡️ Let the compiler carry the documentation: types that can't rot beat comments that will
+- 🎨 Polish is a feature — the last 5% is the part people actually remember
+- 🔍 Read the error message, then read it again; it is usually telling the truth
+- 🚢 Ship, measure honestly, refactor without mercy
+- 🤝 Every issue is a person who cared enough to write in — answer like it
+- 🌙 但行好事，莫问前程 — do the work well, and the reputation follows quietly
 
 ## 📧 Connect
 
@@ -117,4 +116,4 @@ Sorted by stars ⭐ — every card is a door into the workshop, click through �
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-⭐️ From [iota9star](https://github.com/iota9star) — get the iotas right and the stars take care of themselves ✨
+⭐️ From [iota9star](https://github.com/iota9star) — do good work, and the stars take care of themselves ✨
