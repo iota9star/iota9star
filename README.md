@@ -1,29 +1,29 @@
-# 🌌 iota9star · charting the full stack, one star at a time
+# 🌠 iota9star · ninth star, steady burn
 
 ![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=flat-square) ![Rust & Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-F59E0B?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-8B5CF6?style=flat-square) ![OSS Maintainer](https://img.shields.io/badge/OSS_Maintainer-22C55E?style=flat-square)
 
-Hi, I'm **iota9star** 👋 — the name is an astronomer's joke: *iota*, the ninth-marked star in a catalogue, tiny on the chart yet still burning 🌠. That's how I treat software — build the small, sharp pieces with real heat, and the map fills itself in.  
-A decade across the stack: high-performance backends at one end, pixel-honest frontends at the other, product thinking holding both in orbit 🛰️.
+Hi, I'm **iota9star** 👋 — crack open any star catalogue and you'll find *iota* (ι) marking the ninth-brightest point of a constellation: easy to scroll past, stubbornly still shining 🌟. That's my whole approach to software.  
+I build the small, sharp pieces with real heat — and let the constellation assemble itself across the full stack 🛰️.
 
-![Visitors](https://count.getloli.com/get/@iota9star?theme=rule34)
+![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-Ten years on GitHub taught me where good software actually comes from — not the grand architecture document, but the small units most people round down. I don't round them down 🔬.
+A decade of shipping taught me where good software actually comes from — rarely the grand architecture deck, almost always the tiny units everyone else rounds down. I don't round them down 🔬.
 
-- 🏗️ **Backend by trade** — Axum & Spring microservices designed to be boring at 3 a.m., which is the entire point
-- 📱 **Flutter by obsession** — a dozen published packages under the [FlutterCandies](https://github.com/fluttercandies) banner, each one born from a real project's itch
+- 🏗️ **Backend by trade** — Axum & Spring microservices engineered to be boring at 3 a.m., which is exactly the compliment
+- 📱 **Flutter by obsession** — a dozen published packages under the [FlutterCandies](https://github.com/fluttercandies) banner, each born from a real project's itch
 - 🧑‍🎨 **Frontend by taste** — React, Vue and Android screens tuned until the interface feels inevitable
-- 🤖 **AI-augmented by default** — agents draft, I direct; the quality gates stay human
+- 🤖 **AI-augmented by default** — agents draft, I direct; the quality gates stay human ✅
 - ⛓️ **Web3 by curiosity** — BTC, EVM & Internet Computer; whitepapers read before abstractions are trusted
 
-🔭 **Currently in the observatory:** embedding JavaScript in Flutter at native speed 🦀, signals-based reactivity for Dart 📡, and D-pad-perfect TV navigation 📺.
+🔭 **Now in the observatory:** embedding JavaScript in Flutter at native speed 🦀, signals-based reactivity for Dart 📡, and D-pad-perfect TV navigation 📺.
 
 ## 🎯 What I Do
 
-- ⚙️ **Backend Engineering** — Axum & Spring microservices that stay calm under load, the highest compliment infrastructure can earn
-- 📱 **Cross-Platform Apps** — Flutter & Android products that feel born on whichever screen they land on
-- 🌐 **Frontend Craft** — React & Vue interfaces shaped by product thinking, not ticket queues
+- ⚙️ **Backend Engineering** — Axum & Spring microservices that stay calm under load
+- 📱 **Cross-Platform Apps** — Flutter & Android products that feel native on whichever screen they land
+- 🌐 **Frontend Craft** — React & Vue shaped by product thinking, not ticket queues
 - 📦 **Package Design** — small, sharp Dart/Flutter libraries with strict types and honest READMEs
 - 🤖 **AI-Powered Workflows** — assistants and agents woven into real shipping, quality first
 - ⛓️ **Web3 Primitives** — wallets, contracts and canisters, built to be understood
@@ -44,11 +44,11 @@ Ten years on GitHub taught me where good software actually comes from — not th
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=radical&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true&theme=radical)
 
-- 🗓️ **10 years** on GitHub — building since August 2016 · **102** public repos · **282** followers 🙏
-- ⭐ **1,755 combined stars** across the 16 projects charted below — the flagship carrying 1.4k on its own 🥇
+- 🗓️ **10 years** on GitHub, building since August 2016 · **102** public repos · **282** followers 🙏
+- ⭐ **1,755 combined stars** across the 16 projects charted below — the flagship hauling 1.4k of them solo 🥇
 - 🍬 **12 packages** published under the [FlutterCandies](https://github.com/fluttercandies) umbrella
 - 🦀 **2 Rust × Flutter bridges** — a JavaScript runtime and a signals library, both built for speed
-- 🌸 **3 anime-community clients** — written in three different languages, serving one shared fandom
+- 🌸 **3 anime-community clients**, written in three different languages, serving one shared fandom
 
 ## 🔥 Featured Projects
 
@@ -71,12 +71,12 @@ Sorted by magnitude ⭐ — brightest first. Click any star to land on its patch
 [![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
 [![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
 
-## 🏆 Star Catalogue
+## 🏆 Highlights
 
 - 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,363 · 🍴 64 — a polished third-party client for the Mikan Project (mikanani.me), still blooming under active development 🌸
-- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 112 · 🍴 16 — a high-performance JavaScript runtime inside Flutter: Rust & QuickJS under the hood 🦀
+- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 112 · 🍴 16 — a high-performance JavaScript runtime inside Flutter, Rust & QuickJS under the hood 🦀
 - 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 58 — TV D-pad focus navigation as simple as native Android development
-- 🌷 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — a deliberately simple Java companion for the anime resource scene, and 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — a Kotlin client for Ailian BT
+- 🌷 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — a deliberately simple Java companion for the anime resource scene, alongside 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — a Kotlin client for Ailian BT
 - 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — template-driven JSON → Dart code generation, zero ceremony
 - 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 23 — fine-grained signal reactivity for Dart & Flutter, grown from alien-signals
 - ⏳ **[hora](https://github.com/fluttercandies/hora)** ⭐ 19 — immutable, type-safe date-time in the spirit of Day.js, and 🚦 **[f_limit](https://github.com/fluttercandies/f_limit)** ⭐ 19 — p-limit-style concurrency control for async Dart
@@ -89,14 +89,14 @@ Sorted by magnitude ⭐ — brightest first. Click any star to land on its patch
 
 ## 💡 Quote
 
-> 🕯️ *"人的精神思想方面的优势越大，给无聊留下的空间就越小。"*  
-> — *"The richer a person's inner life, the smaller the space boredom has left."*  
-> — 叔本华《人生的智慧》 *Schopenhauer, The Wisdom of Life*, via [hitokoto](https://hitokoto.cn)  
-> 🛠️ The engineer's corollary: the deeper your types, the smaller the space bugs have left to hide 🐛.
+> 🌌 *"我站在你左侧，却像隔着银河。"*  
+> *"I stand at your left side, yet a whole galaxy lies between us."*  
+> — 五月天 *Mayday*, 《你不是真正的快乐》 · via [hitokoto](https://hitokoto.cn)  
+> 🔧 The engineer's footnote: distance is just an unsolved protocol — build the right bridge, and even a galaxy is one hop away 🛰️.
 
 ## 💭 Philosophy
 
-- 🧱 Build small, sharp pieces — a library that does one thing well outlives a framework that does everything badly
+- 🧩 Small, sharp pieces win — a library that does one thing well outlives a framework that does everything badly
 - 🛡️ Let the compiler carry the documentation: types that can't rot beat comments that will
 - 🎨 Polish is a feature — the last 5% is the part people actually remember
 - 🔍 Read the error message, then read it again; it is usually telling the truth
@@ -110,7 +110,7 @@ Sorted by magnitude ⭐ — brightest first. Click any star to land on its patch
 - 🐦 X (Twitter) — [@iota9star](https://x.com/iota9star)
 - ⛏️ Juejin — [Blog](https://juejin.cn/user/1591748568562829)
 
-## 🌌 The Year, Rendered in 3D
+## 🌌 One Year of Commits, in 3D
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
