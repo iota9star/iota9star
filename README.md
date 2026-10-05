@@ -1,32 +1,32 @@
-# 🌠 iota9star · ninth star, steady burn
+# 🛰️ iota9star · mission control for small, sharp software
 
 ![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-0EA5E9?style=flat-square) ![Rust & Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-F59E0B?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-8B5CF6?style=flat-square) ![OSS Maintainer](https://img.shields.io/badge/OSS_Maintainer-22C55E?style=flat-square)
 
-Hi, I'm **iota9star** 👋 — crack open any star catalogue and you'll find *iota* (ι) marking the ninth-brightest point of a constellation: easy to scroll past, stubbornly still shining 🌟. That's my whole approach to software.  
-I build the small, sharp pieces with real heat — and let the constellation assemble itself across the full stack 🛰️.
+Hi, I'm **iota9star** 👋 — *iota* (ι) is the ninth-brightest star in any constellation: never the headline, always on the chart 🌟. That's the engineering philosophy — skip the spotlight, keep the payload in orbit.
+From high-performance backends to elegant frontends, I build the quiet machinery that makes digital experiences feel weightless 🚀.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-A decade of shipping taught me where good software actually comes from — rarely the grand architecture deck, almost always the tiny units everyone else rounds down. I don't round them down 🔬.
+Ten years of launches have taught me one thing: missions don't fail on the big rockets, they fail on the tiny valves nobody inspected 🔬. So I inspect the tiny valves.
 
-- 🏗️ **Backend by trade** — Axum & Spring microservices engineered to be boring at 3 a.m., which is exactly the compliment
-- 📱 **Flutter by obsession** — a dozen published packages under the [FlutterCandies](https://github.com/fluttercandies) banner, each born from a real project's itch
-- 🧑‍🎨 **Frontend by taste** — React, Vue and Android screens tuned until the interface feels inevitable
-- 🤖 **AI-augmented by default** — agents draft, I direct; the quality gates stay human ✅
-- ⛓️ **Web3 by curiosity** — BTC, EVM & Internet Computer; whitepapers read before abstractions are trusted
+- 🏗️ **Backend by trade** — Axum & Spring microservices built for the 3 a.m. pager: boring logs, zero drama, steady telemetry 📉
+- 📱 **Flutter by obsession** — a dozen published packages flying under the [FlutterCandies](https://github.com/fluttercandies) banner, each one scrubbed from a real project's launch pad
+- 🧑‍🎨 **Frontend by taste** — React, Vue and Android interfaces tuned until clicking them feels like gravity 🪐
+- 🤖 **AI-augmented by default** — agents on the stick, hands on the throttle; every quality gate stays human-reviewed ✅
+- ⛓️ **Web3 by curiosity** — BTC, EVM & Internet Computer; I read the whitepaper before I trust the abstraction 📜
 
-🔭 **Now in the observatory:** embedding JavaScript in Flutter at native speed 🦀, signals-based reactivity for Dart 📡, and D-pad-perfect TV navigation 📺.
+🔭 **Current mission patch:** a JavaScript engine burning Rust inside Flutter 🦀, fine-grained signals for Dart 📡, and D-pad navigation precise enough for the living-room couch 📺.
 
 ## 🎯 What I Do
 
-- ⚙️ **Backend Engineering** — Axum & Spring microservices that stay calm under load
-- 📱 **Cross-Platform Apps** — Flutter & Android products that feel native on whichever screen they land
-- 🌐 **Frontend Craft** — React & Vue shaped by product thinking, not ticket queues
-- 📦 **Package Design** — small, sharp Dart/Flutter libraries with strict types and honest READMEs
-- 🤖 **AI-Powered Workflows** — assistants and agents woven into real shipping, quality first
-- ⛓️ **Web3 Primitives** — wallets, contracts and canisters, built to be understood
+- ⚙️ **Backend Engineering** — Axum & Spring microservices that stay level-headed under load spikes
+- 📱 **Cross-Platform Apps** — Flutter & Android products that feel at home on whatever screen they dock with
+- 🌐 **Frontend Craft** — React & Vue guided by product thinking, not ticket conveyor belts
+- 📦 **Package Design** — small, sharp Dart/Flutter libraries: strict types, honest docs, zero filler
+- 🤖 **AI-Powered Workflows** — assistants and agents woven into real shipping, quality first, always
+- ⛓️ **Web3 Primitives** — wallets, contracts and canisters built to be understood, not just deployed
 
 ## 🛠️ Tech Stack
 
@@ -44,15 +44,15 @@ A decade of shipping taught me where good software actually comes from — rarel
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=radical&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true&theme=radical)
 
-- 🗓️ **10 years** on GitHub, building since August 2016 · **102** public repos · **282** followers 🙏
-- ⭐ **1,755 combined stars** across the 16 projects charted below — the flagship hauling 1.4k of them solo 🥇
+- 🗓️ **10 years** in orbit — on GitHub since August 2016 · **102** public repos · **282** followers 🙏
+- ⭐ **1,760 combined stars** across the 16 payloads charted below — the flagship carries 1.4k of them solo 🥇
 - 🍬 **12 packages** published under the [FlutterCandies](https://github.com/fluttercandies) umbrella
-- 🦀 **2 Rust × Flutter bridges** — a JavaScript runtime and a signals library, both built for speed
+- 🦀 **2 Rust × Flutter bridges** — a JavaScript runtime and a signals library, both tuned for raw speed
 - 🌸 **3 anime-community clients**, written in three different languages, serving one shared fandom
 
 ## 🔥 Featured Projects
 
-Sorted by magnitude ⭐ — brightest first. Click any star to land on its patch of sky 👇
+Sorted by magnitude ⭐ — brightest payloads first. Click any capsule to visit its launch record 👇
 
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 [![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
@@ -73,26 +73,26 @@ Sorted by magnitude ⭐ — brightest first. Click any star to land on its patch
 
 ## 🏆 Highlights
 
-- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,363 · 🍴 64 — a polished third-party client for the Mikan Project (mikanani.me), still blooming under active development 🌸
-- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 112 · 🍴 16 — a high-performance JavaScript runtime inside Flutter, Rust & QuickJS under the hood 🦀
+- 🥇 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,368 — a polished third-party client for the Mikan Project (mikanani.me), still blooming under active development 🌸
+- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 112 — a high-performance JavaScript engine inside Flutter, Rust & QuickJS under the fairing 🦀
 - 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 58 — TV D-pad focus navigation as simple as native Android development
-- 🌷 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — a deliberately simple Java companion for the anime resource scene, alongside 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — a Kotlin client for Ailian BT
+- 🌷 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — a deliberately simple Java companion for the anime resource scene, flying in formation with 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — a Kotlin client for Ailian BT
 - 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — template-driven JSON → Dart code generation, zero ceremony
 - 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 23 — fine-grained signal reactivity for Dart & Flutter, grown from alien-signals
-- ⏳ **[hora](https://github.com/fluttercandies/hora)** ⭐ 19 — immutable, type-safe date-time in the spirit of Day.js, and 🚦 **[f_limit](https://github.com/fluttercandies/f_limit)** ⭐ 19 — p-limit-style concurrency control for async Dart
+- ⏳ **[hora](https://github.com/fluttercandies/hora)** ⭐ 19 — immutable, type-safe date-time in the spirit of Day.js, paired with 🚦 **[f_limit](https://github.com/fluttercandies/f_limit)** ⭐ 19 — p-limit-style concurrency control for async Dart
 - 🎛️ **[flexbox_layout](https://github.com/fluttercandies/flexbox_layout)** ⭐ 18 — CSS Flexbox layout, natively in Flutter
 - 🪄 **[env2dart](https://github.com/fluttercandies/env2dart)** ⭐ 11 — turn any `.env` file into type-safe Dart code
 - 🎨 **[svgo](https://github.com/fluttercandies/svgo)** ⭐ 10 — a powerful SVG optimization tool for Dart & Flutter
-- 🧯 **[resx](https://github.com/fluttercandies/resx)** ⭐ 8 — tiny-yet-complete functional error handling: `Result`, `Option`, `Validation`, `AsyncResult` and stream helpers, and 🟦 **[dotrix](https://github.com/fluttercandies/dotrix)** ⭐ 8 — dot-matrix animation indicators with 28 effects
+- 🧯 **[resx](https://github.com/fluttercandies/resx)** ⭐ 8 — tiny-yet-complete functional error handling: `Result`, `Option`, `Validation`, `AsyncResult` and stream helpers, alongside 🟦 **[dotrix](https://github.com/fluttercandies/dotrix)** ⭐ 8 — dot-matrix animation indicators with 28 effects
 - 🚀 **[dash_router](https://github.com/fluttercandies/dash_router)** ⭐ 7 — fully type-safe Flutter routing with zero mental overhead
 - 🗂️ **[vcard_dart](https://github.com/fluttercandies/vcard_dart)** ⭐ 3 — comprehensive vCard parsing & generation: 2.1, 3.0, 4.0, jCard & xCard
 
 ## 💡 Quote
 
-> 🌌 *"我站在你左侧，却像隔着银河。"*  
-> *"I stand at your left side, yet a whole galaxy lies between us."*  
-> — 五月天 *Mayday*, 《你不是真正的快乐》 · via [hitokoto](https://hitokoto.cn)  
-> 🔧 The engineer's footnote: distance is just an unsolved protocol — build the right bridge, and even a galaxy is one hop away 🛰️.
+> 🎶 *"那些听不见音乐的人认为那些跳舞的人疯了。"*  
+> *"Those who hear not the music think the dancers are mad."*  
+> — 亨利·柏格森 *Henri Bergson*, 《笑：论滑稽的意义》 · via [hitokoto](https://hitokoto.cn)  
+> 🔧 The engineer's footnote: if your architecture looks like madness to the room, check whether they simply can't hear the music — then ship the rhythm anyway 💃.
 
 ## 💭 Philosophy
 
@@ -114,4 +114,4 @@ Sorted by magnitude ⭐ — brightest first. Click any star to land on its patch
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-⭐️ From [iota9star](https://github.com/iota9star) — build the small stars well, and the constellation takes care of itself ✨
+⭐️ From [iota9star](https://github.com/iota9star) — keep the small thrusters honest, and the orbit holds itself ✨
