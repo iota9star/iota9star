@@ -1,30 +1,30 @@
-# 🔧 iota9star — a workshop of small, sharp tools
+# ✨ iota9star — small light, wide sky
 
-![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-0F766E?style=flat-square) ![Rust & Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-9A3412?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-6D28D9?style=flat-square) ![12 Packages Published](https://img.shields.io/badge/12_Packages_Published-E11D48?style=flat-square) ![1.7k Stars Earned](https://img.shields.io/badge/1.7k_Stars_Earned-F59E0B?style=flat-square)
+![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-4338CA?style=flat-square) ![Rust % Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-B45309?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-7C3AED?style=flat-square) ![12 Packages Published](https://img.shields.io/badge/12_Packages_Published-DB2777?style=flat-square) ![1.7k Stars Bright](https://img.shields.io/badge/1.7k_Stars_Bright-D97706?style=flat-square)
 
-Hi, I'm **iota9star** 👋 Every project on this page began the same way: I hit an annoyance, refused to make peace with it, and forged a fix small enough to hold in one hand 🔨. Ten years in, the one-off repairs have become a real *workshop* — a dozen published packages, a JavaScript engine living inside Flutter, and a fan-made app with a community of its own.  
-Look around, borrow whatever's useful, and leave the dust where it falls 🪵.
+Hi, I'm **iota9star** 👋 In the sky's naming scheme, *iota* sits far down the brightness list — small, easy to overlook, and absolutely there on every clear night 🌌. That's my whole theory of software: build small, sharp things that actually ship, and let them add up into something people can navigate by.  
+I work the full stack — Rust & Java backends that stay calm under load, Flutter & React frontends that feel inevitable in the hand — and I sand every rough edge until the thing seems like it was always obvious 🔭.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer with a product mindset 🧠 — I care about the *feel* of software as much as the architecture underneath it. My favorite moment is when a gnarly production problem cools down into a clean little library anyone can `pub add` 📦.
+I'm a full-stack developer with a product mindset 🧠: architecture matters, but so does the half-second after someone taps the button. My favorite transformation is a scratchy production problem cooling down into a small library strangers can adopt with one `pub add` 📦.
 
-- ⚙️ **Backend calm-keeper** — Rust (Axum) and Java (Spring) services tuned for the unsung virtues: steady p99s, honest errors, logs that still make sense at 3 a.m. 🌙
-- 🍬 **FlutterCandies regular** — 12 packages born from real production friction, from TV remotes to type-safe routing
-- 🦀 **Rust in unlikely places** — a QuickJS-powered JavaScript runtime embedded in Flutter, and alien-signals reactivity ported to Dart ⚡
-- 🌸 **Fan first, engineer second** — I built clients for the anime communities I actually belong to (Mikan Project, DMHY, Ailian BT), in three languages, across a decade 📺
-- 🤖 **AI-native workflow** — agents draft, I direct; quality gates stay on and human judgment signs every merge ✅
-- ⛓️ **Web3 with receipts** — BTC, EVM and Internet Computer; I read the protocol source before trusting the whitepaper 🔑
+- ⚙️ **Backend steady-hand** — Rust (Axum) and Java (Spring) microservices tuned for the quiet virtues: flat p99 curves, errors that tell the truth, logs that still parse at 3 a.m. 🌙
+- 🍬 **FlutterCandies regular** — 12 packages, each one born from a real production scrape: TV remotes, type-safe routing, immutable time
+- 🦀 **Rust in unexpected rooms** — a QuickJS-powered JavaScript runtime living inside Flutter, and alien-signals reactivity carried over to Dart ⚡
+- 🌸 **Fan first, engineer close second** — I wrote clients for the anime communities I actually belong to (Mikan Project, DMHY, Ailian BT): three apps, three languages, one decade 📺
+- 🤖 **AI-native builder** — agents do the drafting, I do the directing; the quality gates stay shut until a human signs ✅
+- ⛓️ **Web3 with the source open** — BTC, EVM and Internet Computer; I read protocol code before I believe a whitepaper 🔑
 
-🔭 **On the bench right now:** making the Flutter-embedded JS runtime even faster, tuning signal-based reactivity toward bare-metal speed, and keeping a D-pad smooth enough to drive a TV from the couch 🛋️.
+🔭 **In the eyepiece right now:** pushing the Flutter-embedded JS runtime harder, tuning signal-based reactivity toward bare-metal speed, and keeping a D-pad smooth enough to run a living room from the couch 🛋️.
 
 ## 🎯 What I Do
 
-- ⚙️ **Backend Architecture** — microservices that stay boring when the traffic graph gets exciting
-- 📱 **Cross-Platform Products** — Flutter & Android apps that feel native everywhere they land
-- 🌐 **Frontend Craft** — React & Vue interfaces shaped by product thinking, not ticket factories
+- ⚙️ **Backend Architecture** — microservices engineered to stay boring while the traffic graph does something exciting
+- 📱 **Cross-Platform Products** — Flutter & Android apps that feel at home on every screen they land on
+- 🌐 **Frontend Craft** — React & Vue interfaces shaped by product thinking, never ticket factories
 - 📦 **Package Design** — small, sharp Dart/Flutter libraries: strict types, honest docs, zero filler
 - 🤖 **AI-Powered Development** — assistants woven into real shipping, guardrails always on
 - ⛓️ **Web3 Primitives** — wallets, contracts & canisters built to be understood, not just deployed
@@ -37,7 +37,7 @@ I'm a full-stack developer with a product mindset 🧠 — I care about the *fee
 
 **🖥️ Frontend** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=black)
 
-**🤖 AI & Workflows** ![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat) ![Code Assistants](https://img.shields.io/badge/Code_Assistants-A78BFA?style=flat) ![Quality-First Shipping](https://img.shields.io/badge/Quality_First_Shipping-C4B5FD?style=flat)
+**🤖 AI & Workflow** ![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat) ![Code Assistants](https://img.shields.io/badge/Code_Assistants-A78BFA?style=flat) ![Quality-First Shipping](https://img.shields.io/badge/Quality_First_Shipping-C4B5FD?style=flat)
 
 **⛓️ Web3** ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat&logo=ethereum&logoColor=white) ![Internet Computer](https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat&logo=internetcomputer&logoColor=white)
 
@@ -45,16 +45,16 @@ I'm a full-stack developer with a product mindset 🧠 — I care about the *fee
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=transparent&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true&theme=transparent)
 
-- 🗓️ **Forging since August 2016** — **102** public repos · **282** followers 🙏
-- ⭐ **1,759 combined stars** across the 16 tools displayed below — and counting
+- 🗓️ **Charting the sky since August 2016** — **102** public repos · **282** fellow stargazers 🙏
+- ⭐ **1,759 stars** combined across the 16 lights displayed below — and the sky keeps brightening
 - 🍬 **12 packages** published under the [FlutterCandies](https://github.com/fluttercandies) banner
-- 🦀 **2 Rust × Dart bridges** — a JavaScript runtime and a signals library, both tuned for raw speed
+- 🦀 **2 Rust × Dart bridges** — an embedded JavaScript runtime and a signals library, both tuned for raw speed
 - 🌸 **3 anime-community clients** — Flutter, Java and Kotlin, one shared fandom
-- 🔱 **103 forks** of these tools at work in other people's projects
+- 🔱 **103 forks** of these tools at work inside other people's projects
 
 ## 🔥 Featured Projects
 
-Sorted by brightness ⭐ — sharpest tools first. Click any card to open its workshop 👇
+Sorted by brightness ⭐ — the brightest lights first. Click any star to visit its own patch of sky 👇
 
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 [![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
@@ -73,9 +73,9 @@ Sorted by brightness ⭐ — sharpest tools first. Click any card to open its wo
 [![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
 [![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
 
-## 🏆 The Bench — Top Tools
+## 🏆 The Bright End — Top Lights
 
-- 🌟 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,367 · 64 forks — the flagship: a polished third-party client for the Mikan Project (mikanani.me), still under active development 🚧
+- 🌟 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,367 · 64 forks — the brightest light in this sky: a polished third-party client for the Mikan Project (mikanani.me), still under active development 🚧
 - ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 112 — a high-performance JavaScript runtime inside Flutter; Rust and QuickJS pulling in the same harness 🦀
 - 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 58 — TV D-pad focus navigation as simple as writing native Android
 - 🌷 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — deliberately simple anime-resource tooling in Java, orbited by 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — a Kotlin client for Ailian BT
@@ -91,14 +91,14 @@ Sorted by brightness ⭐ — sharpest tools first. Click any card to open its wo
 
 ## 💡 Quote
 
-> 🍵 *"这是傻瓜的血脉使然啊。"*
-> *"That's just the foolish bloodline showing itself."*
-> — 《有顶天家族》 *The Eccentric Family* · via [hitokoto](https://hitokoto.cn)
-> 🔧 The maintainer's footnote: open source runs on exactly that blood — building what nobody assigned, polishing what nobody demanded, shipping at 2 a.m. because the thing deserves to exist. Plead guilty 🦝.
+> 🔥 *"一个人若是没有热情，他将一事无成，而热情的基点正是责任心。"*
+> *"Without passion, a person accomplishes nothing — and the bedrock of passion is a sense of responsibility."*
+> — Leo Tolstoy · via [hitokoto](https://hitokoto.cn)
+> 🔭 The maintainer's reading: open source is passion with a pager — you build what nobody assigned, then answer every issue as if you promised. Because you did 🤝.
 
 ## 💭 Philosophy
 
-- 🔧 Build the tool, then get out of its way — an API is finished when there's nothing left to explain
+- 🔧 An API is finished when there's nothing left to explain
 - 🧪 If the compiler can check it, don't make a human remember it
 - 🐌 Latency is a UX feature; so is an honest error message
 - 🚢 A shipped 80% beats a perfect branch that never merged
@@ -116,4 +116,4 @@ Sorted by brightness ⭐ — sharpest tools first. Click any card to open its wo
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-✨ From [iota9star](https://github.com/iota9star) — hit an annoyance, forge a tool, move on 🔨
+✨ From [iota9star](https://github.com/iota9star) — keep the light small, sharp, and always on 🌟
