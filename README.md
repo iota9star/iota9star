@@ -1,21 +1,21 @@
-# ✨ iota9star · the smallest unit, the longest orbit
+# ⭐ iota9star · tiny letter, giant furnace
 
-![Full-Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-4F46E5?style=flat-square) ![Rust %26 Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-0E7490?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-7C3AED?style=flat-square) ![12 Packages Published](https://img.shields.io/badge/12_Packages_Published-DB2777?style=flat-square) ![1.7k%2B Stars Earned](https://img.shields.io/badge/1.7k%2B_Stars_Earned-EA580C?style=flat-square)
+![Full-Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-4F46E5?style=flat-square) ![Rust %26 Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-0E7490?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-7C3AED?style=flat-square) ![12 FlutterCandies Packages](https://img.shields.io/badge/12_FlutterCandies_Packages-DB2777?style=flat-square) ![1.7k%2B Stars](https://img.shields.io/badge/1.7k%2B_Stars-EA580C?style=flat-square)
 
-Hi, I'm **iota9star** 👋 The name is the mission: *iota* — the tiniest letter Greek has — welded to a nine-pointed **star** 🌟. Sweat the smallest units, aim for the longest orbit.  
-I build digital experiences across the whole stack: Rust and Java keeping the engine room steady under load, Flutter and React making the front of house feel weightless 🛠️.
+Hi, I'm **iota9star** 👋 — *iota*, the smallest letter the Greek alphabet has to offer, bolted onto a nine-pointed **star** 🌟. The name is the whole philosophy: write the small, load-bearing parts that keep big things burning.  
+Full-stack by trade — Rust and Java hold the engine room steady, Flutter / React / Vue run the front of house, and AI agents do the rough drafting while I keep the quality gates locked 🔒.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer with a product mindset 🧠 — equally at home designing a microservice boundary and asking whether the button is in the right place. My favorite loop: catch a scratchy production problem, machine it down into a small library a stranger can adopt with one command 📦.
+I'm a full-stack developer with a product mindset 🧠 — as comfortable carving a microservice boundary as asking whether the button is in the right place. My favorite loop: hit a scratchy problem in production, machine it down into a small library a stranger can adopt with one command 📦.
 
-- ⚙️ **Engine-room calm** — Rust (Axum) and Java (Spring) microservices tuned for the unglamorous wins: flat p99 curves, errors that tell the truth, logs that still parse at 3 a.m. 🌙
-- 🍬 **FlutterCandies regular** — 12 published packages, every one cut from a real production scrape: TV remotes, type-safe routing, immutable time, honest error types
+- ⚙️ **Calm under load** — Rust (Axum) and Java (Spring) services tuned for the unglamorous wins: flat p99 curves, errors that tell the truth, logs that still parse at 3 a.m. 🌙
+- 🍬 **FlutterCandies regular** — 12 published packages, each one cut from a real production scrape: TV remotes, type-safe routing, immutable time, honest error types
 - 🦀 **Rust where you least expect it** — a QuickJS-powered JavaScript runtime living inside Flutter, and alien-signals reactivity ported to Dart at bare-metal speed ⚡
-- 🌸 **Fan first, engineer close second** — I built clients for the anime communities I actually belong to (Mikan Project, DMHY, Ailian BT): three apps, three languages, one decade of fandom 📺
-- 🤖 **AI-native builder** — agents do the drafting, I do the directing; the quality gates stay shut until a human signs ✅
+- 📺 **Fan first, engineer close second** — three apps for the anime communities I actually belong to (Mikan Project, DMHY, Ailian BT); three languages, one decade of fandom
+- 🤖 **AI-native builder** — agents draft, I direct; the gates stay shut until a human signs off ✅
 - ⛓️ **Web3 with the covers off** — BTC, EVM and Internet Computer; I read the protocol source before I believe any whitepaper 🔑
 
 🔭 **Currently in orbit:** pushing the Flutter-embedded JS runtime harder, tuning signal-based reactivity toward zero-cost updates, and keeping a D-pad responsive enough to run a living room from the couch 🛋️.
@@ -23,10 +23,10 @@ I'm a full-stack developer with a product mindset 🧠 — equally at home desig
 ## 🎯 What I Do
 
 - ⚙️ **Backend Architecture** — microservices engineered to stay boring while the traffic graph does something exciting
-- 📱 **Cross-Platform Products** — Flutter & Android apps that feel at home on whatever screen they land on
+- 📱 **Cross-Platform Products** — Flutter & Android apps that feel native on whatever screen they land on
 - 🌐 **Frontend Craft** — React & Vue interfaces shaped by product thinking, not ticket factories
 - 📦 **Package Design** — small, sharp Dart/Flutter libraries: strict types, honest docs, zero filler
-- 🤖 **AI-Powered Workflows** — code assistants woven into real shipping, guardrails always on
+- 🤖 **AI-Powered Workflows** — assistants woven into real shipping, guardrails always on
 - ⛓️ **Web3 Primitives** — wallets, contracts & canisters built to be understood, not just deployed
 
 ## 🛠️ Tech Stack
@@ -37,7 +37,7 @@ I'm a full-stack developer with a product mindset 🧠 — equally at home desig
 
 **🖥️ Frontend** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=black)
 
-**🤖 AI & Workflow** ![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat) ![Code Assistants](https://img.shields.io/badge/Code_Assistants-A78BFA?style=flat) ![Quality-First Shipping](https://img.shields.io/badge/Quality_First_Shipping-C4B5FD?style=flat)
+**🤖 AI & Workflow** ![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat) ![Code Assistants](https://img.shields.io/badge/Code_Assistants-A78BFA?style=flat) ![Quality_Gates](https://img.shields.io/badge/Quality_Gates-C4B5FD?style=flat)
 
 **⛓️ Web3** ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat&logo=ethereum&logoColor=white) ![Internet Computer](https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat&logo=internetcomputer&logoColor=white)
 
@@ -45,16 +45,16 @@ I'm a full-stack developer with a product mindset 🧠 — equally at home desig
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=transparent&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true&theme=transparent)
 
-- 🗓️ **Orbiting GitHub since August 2016** — **102** public repos on the shelf · **282** followers 👋
-- ⭐ **1,763 stars** across the 16 tools displayed below — and the bench stays busy
+- 🗓️ **Burning since August 2016** — **102** public repos on the shelf · **282** followers waving 👋
+- ⭐ **1,765 stars** and **104 forks** across the 16 tools displayed below — and the bench stays busy
 - 🍬 **12 packages** published under the [FlutterCandies](https://github.com/fluttercandies) banner
 - 🦀 **2 Rust × Dart bridges** — an embedded JavaScript runtime and a signals library, both tuned for raw speed
-- 🌸 **3 anime-community clients** — Flutter, Java and Kotlin, one shared fandom
-- 🔱 **103 forks** of these parts already installed inside other people's machines
+- 📺 **3 anime-community clients** — Flutter, Java and Kotlin; one shared fandom
+- 🧊 Fun with numbers: **61%** of those stars sit in a single repo, and it's about anime torrents 💜
 
 ## 🔥 Featured Projects
 
-Arranged by popularity ⭐ — the heaviest-duty tools first. Click any card to inspect the tooling 👇
+Sorted by popularity ⭐ — heaviest orbit first. Click any card to inspect the tooling 👇
 
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 [![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
@@ -75,8 +75,8 @@ Arranged by popularity ⭐ — the heaviest-duty tools first. Click any card to 
 
 ## 🏆 The Brightest Orbits
 
-- 🍊 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,370 · 64 forks — the flagship: a polished third-party client for the Mikan Project (mikanani.me), still under active development 🚧
-- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 113 · 16 forks — a high-performance JavaScript runtime embedded in Flutter; Rust and QuickJS pulling in the same harness 🦀
+- 🍊 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,371 · 64 forks — the flagship: a polished third-party client for the Mikan Project (mikanani.me), still under active development 🚧
+- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 114 · 16 forks — a high-performance JavaScript runtime embedded in Flutter; Rust and QuickJS pulling in the same harness 🦀
 - 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 58 · 12 forks — TV D-pad focus navigation as simple as writing native Android
 - 🌷 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — deliberately simple anime-resource tooling in Java · shelved beside 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 · 7 forks — a Kotlin client for Ailian BT
 - 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — template-powered JSON → Dart code generation, zero ceremony
@@ -91,12 +91,12 @@ Arranged by popularity ⭐ — the heaviest-duty tools first. Click any card to 
 
 ## 💡 Quote
 
-> 🕊️ *"世界以痛吻我，要我报之以歌。"*
-> *"The world has kissed my soul with its pain, asking for its return in songs."*
-> — Rabindranath Tagore · 《飞鸟集》 Stray Birds · via [hitokoto](https://hitokoto.cn)
-> ✨ The builder's footnote: pain lands as an issue report; the song you send back is the fix.
+> 🕊️ *"7日不见如隔一周。"*
+> *"Seven days without seeing you — it felt like a whole week."*
+> — via [hitokoto](https://hitokoto.cn) · from the internet, where all honest poetry lives 🌐
+> ✨ The builder's footnote: the funniest joke about time is also the best estimating advice — seven days of work takes seven days; say so, ship it, and nobody resents the calendar 📅.
 
-## 💭 Philosophy
+## 💭 How I Work
 
 - 🔧 An API is finished when there's nothing left to explain
 - 🧪 If the compiler can check it, don't make a human remember it
@@ -116,4 +116,4 @@ Arranged by popularity ⭐ — the heaviest-duty tools first. Click any card to 
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-✨ From [iota9star](https://github.com/iota9star) — keep the units small, the orbit long, and the star quietly burning 🌟
+✨ From [iota9star](https://github.com/iota9star) — keep the units small, the burn long, and the star quietly shining 🌟
