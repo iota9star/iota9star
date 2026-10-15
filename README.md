@@ -1,21 +1,21 @@
-# ✦ iota9star · a constellation drawn one small star at a time
+# 🌠 iota9star · from tiny iotas, bright constellations
 
 ![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-4F46E5?style=flat-square) ![Rust %26 Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-0E7490?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-7C3AED?style=flat-square) ![12 FlutterCandies Packages](https://img.shields.io/badge/12_FlutterCandies_Packages-DB2777?style=flat-square) ![1.7k%2B Stars](https://img.shields.io/badge/1.7k%2B_Stars-EA580C?style=flat-square)
 
-Hi, I'm **iota9star** 👋 — **iota** (ι), the smallest letter in the Greek alphabet, fused with a nine-pointed **star** ✨. That's the whole mission statement: the sky looks immense, but it's drawn star by star — and I'd rather place the small, load-bearing ones than admire the ceiling.
-By day a full-stack engineer: Rust and Java keeping the engine room honest 🦀☕, Flutter / React / Vue running the front of house 🎭, and AI agents handling the rough drafts while I hold the quality gate 🚧.
+Hi, I'm **iota9star** 👋 — **iota** (ι) is the smallest letter the Greek alphabet has to offer, and I bolted a nine-pointed **star** ✨ onto it. That pairing is the whole engineering philosophy: grand skies are built from humble parts, so I'd rather carve one small, load-bearing piece until it gleams than admire a ceiling I didn't draw.
+Day job: full-stack builder — Rust 🦀 and Java ☕ holding the engine room to flat p99s, Flutter / React / Vue running the front of house 🎭, and AI agents drafting the tedious parts while I keep the quality gate shut until things are actually good 🚧.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-Full-stack developer, product brain 🧠, chronic extractor of libraries — if a problem bites me twice in production, I machine it into a package small enough for a stranger to adopt with one `pub add` 📦.
+Full-stack developer with a product brain 🧠 and a chronic habit of turning production scars into libraries — if a problem bites me twice, it comes out the other end as a package small enough for a stranger to adopt with a single `pub add` 📦.
 
-- ⚙️ **Boring services, on purpose** — Rust (Axum) and Java (Spring) tuned for flat p99s, errors that tell the truth, and logs that still parse at 3 a.m. 🌙
-- 🍬 **FlutterCandies regular** — 12 published packages, every one cut from a real production scrape: TV remotes, type-safe routing, immutable time, honest error types
+- ⚙️ **Boring by design** — Rust (Axum) and Java (Spring) services tuned for predictable latency, errors that tell the truth, and logs that still make sense at 3 a.m. 🌙
+- 🍬 **FlutterCandies regular** — 12 published packages, each one extracted from a real app that needed it: TV remotes, type-safe routing, immutable clocks, honest error types
 - 🦀 **Rust where you least expect it** — a QuickJS-powered JavaScript runtime living inside Flutter, and alien-signals reactivity ported to Dart at bare-metal speed ⚡
-- 📺 **Fan first, engineer close second** — three apps for the anime communities I actually belong to (Mikan Project, DMHY, Ailian BT); three languages, one decade of fandom
-- 🤖 **AI-native builder** — agents draft, I direct; nothing ships until a human signs off ✅
+- 📺 **Fan first, engineer a close second** — three clients for the anime communities I actually belong to (Mikan Project, DMHY, Ailian BT); three languages, one decade of fandom 💜
+- 🤖 **AI-native builder** — agents write the first drafts, I direct the edit; nothing ships until a human signs off ✅
 - ⛓️ **Web3 with the covers off** — BTC, EVM and Internet Computer; I read the protocol source before I believe any whitepaper 🔑
 
 🔭 **Currently in orbit:** pushing the Flutter-embedded JS runtime harder, tuning signal-based reactivity toward zero-cost updates, and keeping a D-pad responsive enough to run a living room from the couch 🛋️.
@@ -75,12 +75,12 @@ Sorted by brightness ⭐, heaviest star first. Click any chart to zoom in 👇
 
 ## 🏆 The Brightest Stars
 
-- 🍊 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,371 · 64 forks — the first-magnitude anchor of the constellation: a polished third-party client for the Mikan Project (mikanani.me), still under active development 🚧
+- 🍊 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,371 · 64 forks — the first-magnitude anchor: a polished third-party client for the Mikan Project (mikanani.me), still under active development 🚧
 - ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 114 · 16 forks — a high-performance JavaScript runtime embedded in Flutter; Rust and QuickJS pulling in the same harness 🦀
 - 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 58 · 12 forks — TV D-pad focus navigation as simple as writing native Android
-- 🌷 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — deliberately simple anime-resource tooling in Java · shelved beside 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 · 7 forks — a Kotlin client for Ailian BT
-- 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — template-powered JSON → Dart code generation, zero ceremony
-- 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 23 — high-performance signal reactivity for Dart & Flutter, built on alien-signals
+- 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 · 1 fork — deliberately simple anime-resource tooling in Java · shelved beside 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 · 7 forks — a Kotlin client for Ailian BT
+- 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 · 1 fork — template-powered JSON → Dart code generation, zero ceremony
+- 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 23 · 1 fork — high-performance signal reactivity for Dart & Flutter, built on alien-signals
 - ⏳ **[hora](https://github.com/fluttercandies/hora)** ⭐ 19 — immutable, type-safe date-time in the spirit of Day.js · paired with 🚦 **[f_limit](https://github.com/fluttercandies/f_limit)** ⭐ 19 — p-limit-style concurrency control for async Dart
 - 🎛️ **[flexbox_layout](https://github.com/fluttercandies/flexbox_layout)** ⭐ 18 — CSS Flexbox layout, native in Flutter
 - 🪄 **[env2dart](https://github.com/fluttercandies/env2dart)** ⭐ 11 — turn any `.env` file into type-safe Dart code
@@ -91,9 +91,10 @@ Sorted by brightness ⭐, heaviest star first. Click any chart to zoom in 👇
 
 ## 💡 Quote
 
-> 🛠️ *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
-> — Antoine de Saint-Exupéry ✂️
-> ✨ The builder's footnote: every package in the sky above started as something bigger — the release was the moment I stopped carving 🔪.
+> 💌 *"不敢打开信封啊。因为，打开了就结束了啊。"*
+> 🌸 *"I never dare open the envelope — because once it's open, it's over."*
+> — 三千院凪 Sanzen'in Nagi, *Hayate the Combat Butler* 📬
+> ✨ The engineer's footnote: endings are exactly why I ship — an unopened envelope protects nothing, and a finished release is the only version anyone can hold ✉️.
 
 ## 💭 How I Work
 
