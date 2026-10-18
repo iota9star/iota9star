@@ -3,7 +3,7 @@
 ![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-4F46E5?style=flat-square) ![Rust %26 Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-0E7490?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-7C3AED?style=flat-square) ![12 FlutterCandies Packages](https://img.shields.io/badge/12_FlutterCandies_Packages-DB2777?style=flat-square) ![1.7k%2B Stars](https://img.shields.io/badge/1.7k%2B_Stars-EA580C?style=flat-square)
 
 Hi, I'm **iota9star** 👋 — the handle is a small manifesto: **iota** (ι), the littlest letter the Greek alphabet has to offer, wearing a nine-pointed **star** ✨. Everything luminous is assembled from small parts, so I'd rather carve one tiny piece until it gleams than admire a ceiling I didn't draw 🎨.  
-By day I build across the whole stack — Rust 🦀 and Java ☕ keeping the engine room calm at p99, Flutter / React / Vue running the front of house 🎭, AI agents drafting the tedious parts while I hold the quality gate shut until things are actually good 🚧.
+By day I build across the whole stack — Rust 🦀 and Java ☕ keeping the engine room calm at p99, Flutter / React / Vue running the front of house 🎭, and AI agents drafting the tedious parts while I hold the quality gate shut until things are actually good 🚧.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -46,12 +46,12 @@ Full-stack developer with a product brain 🧠 and a mild hoarding problem for p
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=transparent&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true&theme=transparent)
 
-- 🗓️ **Orbiting GitHub since August 2016** — **101** public repos on the shelf · **282** fellow travelers along for the ride 👋
-- ⭐ **1,699 stars** · **100+ forks** across the 16 repos charted below — numbers measured fresh from the live API 🛰️
+- 🗓️ **Orbiting GitHub since August 2016** — **102** public repos on the shelf · **282** fellow travelers along for the ride 👋
+- ⭐ **1,767 stars** · **106 forks** across the 16 repos charted below — numbers measured fresh from the live API 🛰️
 - 🍬 **12 packages** shipped under the [FlutterCandies](https://github.com/fluttercandies) banner
 - 🦀 **2 Rust × Dart bridges** — an embedded JavaScript runtime and a signals library, both speed-obsessed ⚡
 - 📺 **3 anime-community clients** — Flutter, Java and Kotlin; one shared fandom 💜
-- 🧊 Party trick: about **three-quarters** of the stars above orbit a single repo, and it's about anime torrents 🍊
+- 🧊 Party trick: **over three-quarters** of those stars orbit a single repo, and it's about anime torrents 🍊
 
 ## 🔥 Featured Projects — The Constellation
 
@@ -76,7 +76,7 @@ Sorted by brightness ⭐, heaviest star first. Click any chart to zoom in 👇
 
 ## 🏆 The Brightest Stars
 
-- 🍊 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,304 — the first-magnitude anchor: a polished third-party client for the Mikan Project (mikanani.me), still under active development 🚧
+- 🍊 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,372 — the first-magnitude anchor: a polished third-party client for the Mikan Project (mikanani.me), still under active development and still climbing 🚧
 - ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 114 — a high-performance JavaScript runtime embedded in Flutter; Rust and QuickJS pulling in the same harness 🦀
 - 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 58 — TV D-pad focus navigation as simple as writing native Android
 - 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — deliberately simple anime-resource tooling in Java · shelved beside 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 — a Kotlin client for Ailian BT
@@ -89,10 +89,10 @@ Sorted by brightness ⭐, heaviest star first. Click any chart to zoom in 👇
 
 ## 💡 Quote
 
-> 💌 *"我站在你左侧，却像隔着银河。"*
-> 🌌 *"I stand at your left side, yet a whole galaxy lies between us."*
-> — 五月天 Mayday, *你不是真正的快乐 (You're Not Truly Happy)* 🎸
-> ✨ The engineer's footnote: distance is mostly a rendering artifact — keep shipping, and the constellations connect themselves 🛰️.
+> 📜 *"千古兴亡多少事？悠悠。不尽长江滚滚流。"*
+> 🌊 *"How many ages of rise and fall? Long, long they flow — the endless Yangtze rolls on."*
+> — 辛弃疾 Xin Qiji, *南乡子·登京口北固亭有怀*
+> ✨ The engineer's footnote: every codebase is a river — commits roll past and releases roll on; what survives is whatever keeps flowing 🛶.
 
 ## 💭 How I Work
 
@@ -109,7 +109,6 @@ Sorted by brightness ⭐, heaviest star first. Click any chart to zoom in 👇
 - 📮 Email — [iota9star@gmail.com](mailto:iota9star@gmail.com)
 - 🐦 X (Twitter) — [@iota9star](https://x.com/iota9star)
 - ⛏️ Juejin — [Blog](https://juejin.cn/user/1591748568562829)
-- 🌐 Homepage — [bytex.space](https://bytex.space)
 
 ## 🌌 One Year of Commits, in 3D
 
