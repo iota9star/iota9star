@@ -1,31 +1,30 @@
-# 🧩 iota9star · small pieces, bright stars
+# 🧷 iota9star · tiny parts, bright stars
 
-![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-4F46E5?style=flat-square) ![Rust %26 Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-0E7490?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-7C3AED?style=flat-square) ![12 FlutterCandies Packages](https://img.shields.io/badge/12_FlutterCandies_Packages-DB2777?style=flat-square) ![1.8k%2B Stars](https://img.shields.io/badge/1.8k%2B_Stars-EA580C?style=flat-square)
+![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-4F46E5?style=flat-square) ![Rust %26 Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-0E7490?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-7C3AED?style=flat-square) ![Open Source Maintainer](https://img.shields.io/badge/Open_Source_Maintainer-DB2777?style=flat-square) ![1.7k%2B Stars](https://img.shields.io/badge/1.7k%2B_Stars-EA580C?style=flat-square)
 
-Hi, I'm **iota9star** 👋 — the name is a tiny manifesto: **iota** (ι), smallest letter in the Greek alphabet, times nine, pointed at a **star** ⭐. Anything bright is just small things assembled carefully, so that's the whole method — carve one sharp piece, polish it until it gleams, ship it, repeat 🔁.  
-Full-stack by trade: Rust 🦀 and Java ☕ below the waterline, Flutter 📱 / React ⚛️ / Vue 💚 above it, AI agents 🤖 drafting in the background, Web3 ⛓️ when the hood needs to come off. Product mindset throughout — code exists for the person on the other side of the screen 🎯.
+Hi, I'm **iota9star** 👋 — **iota** (ι), the smallest Greek letter, times nine, reaching for a **star** ⭐. The name doubles as the method: brightness is just small things assembled with care, so I carve one sharp piece at a time, polish it until it gleams, ship it, repeat 🔁.  
+Below the waterline it's **Rust** 🦀 and **Java** ☕; above it, **Flutter** 📱, **React** ⚛️ and **Vue** 💚; in the background, **AI agents** 🤖 draft while quality gates keep watch, and **Web3** ⛓️ whenever the hood comes off. Product mindset all the way down — code exists for the person on the other side of the screen 🎯.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-A full-stack developer with an extraction habit: any problem that bites me in two codebases gets turned into a package with docs, tests, and a semver promise 📦.
+A full-stack developer with a packing habit: any problem that bites me twice gets wrapped into a package with docs, tests, and a semver promise 📦 — then handed to the world.
 
-- 🏗️ **Boring where it counts** — Axum and Spring services tuned until the latency graphs run flat and the pager sleeps; the drama belongs in the product, not the infra 😴
-- 🍬 **12 packages under the [FlutterCandies](https://github.com/fluttercandies) banner** — TV D-pads, immutable clocks, concurrency limits, honest error types; every one escaped from a real app that needed it 🚪
-- 🦀 **Rust × Dart bridge-builder** — a QuickJS-powered JavaScript runtime living inside Flutter, plus alien-signals reactivity ported to Dart; two languages, one friendship 🤝
-- 📺 **Fan first, engineer a close second** — three clients for the anime communities I actually use (Mikan Project, DMHY, Ailian BT), in three languages across a decade of fandom 💜
-- 🤖 **AI-native builder** — agents draft, humans direct; the merge button only moves when quality gates say so ✅
+- 🧊 **Calm infrastructure, lively product** — Axum and Spring services tuned until the latency graphs run flat; the excitement belongs in the UX, not the pager 😴
+- 🍬 **12 packages under the [FlutterCandies](https://github.com/fluttercandies) umbrella** — TV D-pads, immutable clocks, concurrency limits, honest error types; each one escaped from a real app that needed it 🚪
+- 🌉 **Rust × Dart bridge-builder** — a QuickJS-powered JavaScript runtime living inside Flutter, plus alien-signals reactivity ported to Dart; two languages, one handshake 🤝
+- 💜 **Fan first, engineer a close second** — three clients for the anime communities I actually use (Mikan Project, DMHY, Ailian BT), three languages, one decade of fandom
+- 🤖 **AI-native builder** — agents draft, humans direct; the merge button only moves when the checks say so ✅
 - ⛓️ **Web3 with the covers off** — BTC, EVM and Internet Computer; I read the protocol source before trusting any whitepaper 🔍
 
-🔭 **Right now:** pushing the Flutter-embedded JS runtime harder, tuning signal-based reactivity toward zero-cost updates, and keeping a D-pad snappy enough to run a living room from the couch 🛋️.  
-🤝 Profile bio says 我们，有些许相似 — *"we're somewhat alike."* If that lands, we'll get along.
+🔭 **Right now:** pushing the Flutter-embedded JS runtime harder, tuning signal-based reactivity toward zero-cost updates, and keeping a D-pad snappy enough to run a living room from the couch 🛋️.
 
 ## 🎯 What I Do
 
-- ⚙️ **Backend Architecture** — microservices that stay calm at p99, so the on-call phone stays dark
+- ⚙️ **Backend Architecture** — microservices that stay calm at p99 so the on-call phone stays dark
 - 📱 **Cross-Platform Products** — Flutter & Android apps that feel native on whatever screen they land on
-- 🌐 **Frontend Craft** — React & Vue interfaces shaped around the person using them, not the ticket queue
+- 🌐 **Frontend Craft** — React & Vue interfaces shaped around people, not ticket queues
 - 📦 **Package Design** — tiny, sharp Dart/Flutter libraries: strict types, honest errors, docs that respect your time
 - 🤖 **AI-Powered Workflows** — assistants embedded in real shipping loops, quality gates always latched
 - ⛓️ **Web3 Primitives** — BTC, EVM & IC experiments where source code outranks whitepapers
@@ -46,33 +45,44 @@ A full-stack developer with an extraction habit: any problem that bites me in tw
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=transparent&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true&theme=transparent)
 
-- 🗓️ **Circling GitHub since August 2016** — **102** public repos on the shelf, **282** fellow travelers along for the ride 👋
-- ⭐ **1,770 stars** · **104 forks** across the 16 repos charted below — numbers measured fresh from the live API 🛰️
-- 🍬 **12 packages** published under the [FlutterCandies](https://github.com/fluttercandies) banner
-- 🦀 **2 Rust × Dart bridges** — an embedded JavaScript runtime and a signals library, both speed-obsessed ⚡
+- 🗓️ **Orbiting GitHub since August 2016** — **102** public repos on the shelf, **282** fellow travelers along for the ride 👋
+- ⭐ **1,770 stars** · **107 forks** across the 16 repos charted below — counted fresh from the live API 🛰️
+- 🍬 **12 packages** published under the [FlutterCandies](https://github.com/fluttercandies) umbrella
+- 🌉 **2 Rust × Dart bridges** — an embedded JavaScript runtime and a signals library, both speed-obsessed ⚡
 - 📺 **3 anime-community clients** — Flutter, Java and Kotlin; one shared fandom 💜
-- 🧊 Party trick: **~78%** of those stars orbit a single repo — and it's about anime torrents 🍊
+- 🎈 Party trick: **~78%** of those stars orbit a single repo — and it's about anime torrents 🍊
 
 ## 🔥 Featured Projects
 
-Sorted by brightness ⭐ — the heaviest star first. Click any card to beam over to the repo 🛸
+Sorted by brightness ⭐ — the heaviest star leads. Click any card to beam over to its repo 🛸
 
-[![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
-[![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
-[![](cards/fluttercandies_dpad.svg)](https://github.com/fluttercandies/dpad)
-[![](cards/iota9star_sakura-dmhy.svg)](https://github.com/iota9star/sakura-dmhy)
-[![](cards/iota9star_kisssub.svg)](https://github.com/iota9star/kisssub)
-[![](cards/fluttercandies_json_dart.svg)](https://github.com/fluttercandies/json_dart)
-[![](cards/void-signals_void_signals.svg)](https://github.com/void-signals/void_signals)
-[![](cards/fluttercandies_hora.svg)](https://github.com/fluttercandies/hora)
-[![](cards/fluttercandies_f_limit.svg)](https://github.com/fluttercandies/f_limit)
-[![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
-[![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
-[![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
-[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
-[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
-[![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
-[![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
+<table>
+<tr>
+<td align="center"><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" alt="fluttercandies/fjs" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg" alt="iota9star/kisssub" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
+</tr>
+</table>
 
 ## 🏆 Highlights
 
@@ -89,10 +99,9 @@ Sorted by brightness ⭐ — the heaviest star first. Click any card to beam ove
 
 ## 💡 Quote
 
-> 🎬 *"あなたは敵だけど悪くない。"*
-> 🕊️ *"You are my enemy, but you're not a bad person."*
-> — 水门 Minato Namikaze, 《火影忍者》 *Naruto*
-> ✨ The engineer's footnote: review the code, not the coder — you can reject a pull request and still respect the person who opened it 🤝.
+> 🌱 *你选择我的时候，我也选择了你。*
+> 🕊️ *"The moment you chose me, I chose you too."*
+> ✨ The engineer's footnote: choosing a tool is mutual — it shapes your habits while you shape it into your project 🔧.
 
 ## 💭 How I Work
 
@@ -114,4 +123,4 @@ Sorted by brightness ⭐ — the heaviest star first. Click any card to beam ove
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-✨ Assembled from small pieces by [iota9star](https://github.com/iota9star) — keep the pieces small, the stars bright, and the reviews kind 🕊️
+✨ Assembled from small pieces by [iota9star](https://github.com/iota9star) — keep the pieces tiny, the stars bright, and the reviews kind 🕊️
