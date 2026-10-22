@@ -66,7 +66,7 @@
   "releases_url": "https://api.github.com/repos/fluttercandies/fjs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fluttercandies/fjs/deployments",
   "created_at": "2025-02-14T08:40:29Z",
-  "updated_at": "2026-09-30T14:11:13Z",
+  "updated_at": "2026-10-12T03:10:54Z",
   "pushed_at": "2026-09-30T15:01:01Z",
   "git_url": "git://github.com/fluttercandies/fjs.git",
   "ssh_url": "git@github.com:fluttercandies/fjs.git",
@@ -74,8 +74,8 @@
   "svn_url": "https://github.com/fluttercandies/fjs",
   "homepage": "https://pub.dev/packages/fjs",
   "size": 4341,
-  "stargazers_count": 112,
-  "watchers_count": 112,
+  "stargazers_count": 114,
+  "watchers_count": 114,
   "language": "Dart",
   "has_issues": true,
   "has_projects": true,
@@ -83,11 +83,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 16,
+  "forks_count": 18,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 0,
+  "open_issues_count": 1,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -109,9 +109,9 @@
     "rust"
   ],
   "visibility": "public",
-  "forks": 16,
-  "open_issues": 0,
-  "watchers": 112,
+  "forks": 18,
+  "open_issues": 1,
+  "watchers": 114,
   "default_branch": "main",
   "temp_clone_token": null,
   "custom_properties": {
@@ -138,6 +138,6 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "network_count": 16,
+  "network_count": 18,
   "subscribers_count": 2
 }

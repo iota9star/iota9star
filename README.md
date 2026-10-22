@@ -1,32 +1,32 @@
-# 🌟 iota9star · the smallest letter, aimed at the sky
+# ι→⭐ **iota9star** — the smallest letter, aimed at the stars
 
 ![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-4F46E5?style=flat-square) ![Rust %26 Java Backend](https://img.shields.io/badge/Rust_%26_Java_Backend-0E7490?style=flat-square) ![Product Mindset](https://img.shields.io/badge/Product_Mindset-7C3AED?style=flat-square) ![Open Source Maintainer](https://img.shields.io/badge/Open_Source_Maintainer-DB2777?style=flat-square) ![1.7k%2B Stars](https://img.shields.io/badge/1.7k%2B_Stars-EA580C?style=flat-square)
 
-Hi, I'm **iota9star** 👋 — named after **iota** (ι), the tiniest letter in the Greek alphabet, multiplied by nine and aimed at a **star** ⭐. The name is the whole method: anything bright is just small things assembled with patience 🧱. Below the waterline it's **Rust** 🦀 and **Java** ☕; above it, **Flutter** 📱, **React** ⚛️ and **Vue** 💚; in the background, **AI agents** 🤖 draft while quality gates keep watch, and **Web3** ⛓️ whenever the hood comes off. Product mindset all the way down — every line of code answers to the person on the other side of the screen 🎯.
+Hi, I'm **iota9star** 👋 — **iota** (ι) is the tiniest letter the Greek alphabet ever shipped, and this username is my whole engineering method: multiply small things by nine, point them at a star, and never believe that size decides brightness ✨. Below the waterline, **Rust** 🦀 and **Java** ☕ engines hum; above it, **Flutter** 📱, **React** ⚛️ and **Vue** 💚 screens keep humans happy; in the background, **AI agents** 🤖 draft while quality gates hold the line, and **Web3** ⛓️ gets explored with the source code open. Product mindset all the way down — every line of code answers to somebody on the other side of the screen 🎯.
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-A full-stack developer with a packing habit: any problem that bites me twice gets wrapped into a package with docs, tests, and a semver promise 📦 — then handed to the world.
+A full-stack developer who treats every recurring annoyance as a library proposal 📦 — if a problem bites me twice, it gets docs, tests, a semver promise, and a public release.
 
-- 🍬 **Serial packager** — **12 packages** live under the [FlutterCandies](https://github.com/fluttercandies) umbrella: TV D-pads, immutable clocks, concurrency limits, honest error types; each one escaped from a real app that needed it 🚪
-- 🦀 **Rust × Dart translator** — a QuickJS-powered JavaScript runtime inside Flutter, plus alien-signals reactivity ported to Dart; two ecosystems, one handshake 🤝
-- 🛋️ **Living-room engineer** — TV focus navigation so smooth the couch feels like the native platform; D-pad physics are a serious discipline 📺
-- 💜 **Fan first, engineer a close second** — three clients for the anime communities I actually use (Mikan Project, DMHY, Ailian BT), three languages, one decade of fandom 🍊
-- 🤖 **AI-native builder** — agents draft, humans direct; the merge button only moves when the checks say so ✅
-- ⛓️ **Web3 with the covers off** — BTC, EVM and Internet Computer; I read the protocol source before trusting any whitepaper 🔍
+- 🍬 **Twelve packages and counting** — everything published under the [FlutterCandies](https://github.com/fluttercandies) umbrella started as a scratch-my-own-itch utility inside a real app: TV D-pads, immutable clocks, concurrency limits, honest error types 🚪
+- 🦀 **Fluent in two ecosystems** — I port alien ideas across language borders: a QuickJS-powered JavaScript runtime for Flutter, and alien-signals reactivity rewritten in Dart 🤝
+- 🛋️ **Serious about the couch** — TV focus navigation and D-pad physics treated as a first-class discipline, because the living room is the hardest platform to please 📺
+- 💜 **Fan first, engineer close behind** — three clients for three anime communities I genuinely use (Mikan Project, DMHY, Ailian BT), written in three languages across one decade of fandom 🍊
+- 🤖 **AI-native, quality-gated** — agents write the first draft, humans direct the review, and the merge button only moves when the checks agree ✅
+- ⛓️ **Trust protocols, not whitepapers** — BTC, EVM and Internet Computer experiments that begin with reading the source 🔍
 
-🔭 **Right now:** pushing the Flutter-embedded JS runtime harder, tuning signal-based reactivity toward zero-cost updates, and keeping a D-pad snappy enough to run a living room 🎮.
+🔭 **Right now:** squeezing more performance out of the Flutter-embedded JS runtime, pushing signal-based reactivity toward zero-cost updates, and keeping a D-pad snappy enough to run a living room 🎮.
 
 ## 🎯 What I Do
 
-- ⚙️ **Backend Architecture** — Axum & Spring microservices tuned until the latency graphs run flat and the on-call phone stays dark
-- 📱 **Cross-Platform Products** — Flutter & Android apps that feel at home on whatever screen they land on
-- 🌐 **Frontend Craft** — React & Vue interfaces shaped around people, not ticket queues
+- ⚙️ **Backend Architecture** — Axum & Spring microservices tuned until the latency graphs run flat and the on-call phone sleeps through the night
+- 📱 **Cross-Platform Products** — Flutter & Android apps that feel native on whichever screen they land on
+- 🌐 **Frontend Craft** — React & Vue interfaces designed around people, not ticket queues
 - 📦 **Package Design** — tiny, sharp Dart/Flutter libraries: strict types, honest errors, docs that respect your time
-- 🤖 **AI-Powered Workflows** — assistants embedded in real shipping loops, quality gates always latched
-- ⛓️ **Web3 Primitives** — BTC, EVM & IC experiments where source code outranks whitepapers
+- 🤖 **AI-Powered Workflows** — assistants embedded in real shipping loops, with quality gates always latched
+- ⛓️ **Web3 Primitives** — BTC, EVM & IC experiments where the source code outranks the whitepaper
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +45,7 @@ A full-stack developer with a packing habit: any problem that bites me twice get
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&theme=transparent&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true&theme=transparent)
 
 - 🗓️ **Orbiting GitHub since August 2016** — **102** public repos on the shelf, **282** fellow travelers along for the ride 👋
-- ⭐ **1,770 stars** · **107 forks** across the 16 repos charted below — last synced from the live API 🛰️
+- ⭐ **1,771 stars** · **108 forks** across the 16 repos charted below — synced live from the GitHub API 🛰️
 - 🍬 **12 packages** published under the [FlutterCandies](https://github.com/fluttercandies) umbrella
 - 🌉 **2 Rust × Dart bridges** — an embedded JavaScript runtime and a signals library, both speed-obsessed ⚡
 - 📺 **3 anime-community clients** — Flutter, Java and Kotlin; one shared fandom 💜
@@ -53,7 +53,7 @@ A full-stack developer with a packing habit: any problem that bites me twice get
 
 ## 🔥 Featured Projects
 
-Sorted by brightness ⭐ — the heaviest star leads. Click any card to warp to its repo 🛸
+Sorted by brightness ⭐ — the brightest star leads. Click any card to warp to its repo 🛸
 
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)  
 [![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)  
@@ -74,14 +74,14 @@ Sorted by brightness ⭐ — the heaviest star leads. Click any card to warp to 
 
 ## 💡 Quote
 
-> 🛤️ *千里之行，始于足下。*
-> 🌍 *"A journey of a thousand miles begins beneath one's feet."* — Laozi
-> ✨ The engineer's footnote: every star in the sky above started as one tiny commit — the iota way 🌱.
+> 🌊 *问君能有几多愁？恰似一江春水向东流。*  
+> 🌍 *"How much sorrow can one heart hold? As much as a river of spring water flowing east."* — Li Yu, *Yu Meiren*  
+> ✨ The engineer's footnote: a commit history works the same way — one small green square at a time, and the river keeps flowing 🌱.
 
 ## 🏆 Highlights
 
-- 🍊 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,373 · 🍴 64 — the flagship: a polished third-party client for the Mikan Project (mikanani.me), bangumi tracking and torrent management in one Flutter app, still under active development 🚧
-- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 114 · 🍴 17 — a high-performance JavaScript engine embedded in Flutter; QuickJS on a Rust chassis with a Dart-grade API 🦀
+- 🍊 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** ⭐ 1,374 · 🍴 64 — the flagship: a polished third-party client for the Mikan Project (mikanani.me), bangumi tracking and torrent management in one Flutter app, still under active development 🚧
+- ⚡ **[fjs](https://github.com/fluttercandies/fjs)** ⭐ 114 · 🍴 18 — a high-performance JavaScript runtime embedded in Flutter; QuickJS on a Rust chassis with a Dart-grade API 🦀
 - 📺 **[dpad](https://github.com/fluttercandies/dpad)** ⭐ 58 · 🍴 12 — TV D-pad focus navigation as easy as writing native Android; your couch says thanks 🛋️
 - 🌸 **[sakura-dmhy](https://github.com/iota9star/sakura-dmhy)** ⭐ 37 — deliberately simple anime-resource tooling in Java · 💞 **[kisssub](https://github.com/iota9star/kisssub)** ⭐ 35 · 🍴 7 — a Kotlin client for Ailian BT
 - 🧩 **[json_dart](https://github.com/fluttercandies/json_dart)** ⭐ 24 — template-powered JSON → Dart codegen, zero ceremony · 📡 **[void_signals](https://github.com/void-signals/void_signals)** ⭐ 24 · 🍴 2 — alien-signals reactivity for Dart & Flutter at full tilt
@@ -93,13 +93,13 @@ Sorted by brightness ⭐ — the heaviest star leads. Click any card to warp to 
 
 ## 💭 How I Work
 
-- 🧩 Small is a feature — a library you can read in one sitting is a library you can trust
-- 🧠 If a human has to remember it, teach the type system instead
-- 🐢 Speed is a feature; predictable speed is a promise
-- 🚢 Ship the version that teaches; save the perfection for the API
-- 🪞 Review your own diff as a stranger would — future you qualifies
-- 📐 Constraints aren't the enemy of design; they are the design
-- 🤝 Every issue is someone who cared enough to write in — answer kindly
+- 🧩 **Small is a feature** — a library you can read in one sitting is a library you can trust
+- 🧠 **Push remembering into the compiler** — if a human has to memorize it, the types aren't done yet
+- 🐢 **Predictable beats fast** — a thing that's always quick feels faster than a thing that's sometimes blazing
+- 🚢 **Ship the version that teaches** — spend the perfection on the API shape
+- 🪞 **Read your own diff as a stranger would** — future-you absolutely qualifies
+- 📐 **Constraints are the design** — the box is where the ideas get good
+- 🤝 **Issues are fan mail with homework** — someone cared enough to write in; answer kindly
 
 ## 📧 Connect
 
@@ -111,4 +111,4 @@ Sorted by brightness ⭐ — the heaviest star leads. Click any card to warp to 
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 
-✨ Assembled from small pieces by [iota9star](https://github.com/iota9star) — keep the pieces tiny, the stars bright, and the reviews kind 🕊️
+✨ Built the iota way by [iota9star](https://github.com/iota9star) — keep the pieces tiny, the stars bright, and the reviews kind 🕊️
