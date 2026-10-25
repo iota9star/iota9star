@@ -49,3 +49,10 @@ scripts/_fetch_stars.py
 scripts/fetch_stars_sh.sh
 _star_*.json
 _stars/
+
+# Automation temp artifacts (README workflow)
+.r*.json
+.*_tmp.json
+.*_tmp.txt
+.tmp*
+temp_*.py
