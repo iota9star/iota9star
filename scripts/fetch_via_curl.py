@@ -9,6 +9,9 @@ REPOS = [
     "fluttercandies/env2dart", "fluttercandies/flexbox_layout",
     "fluttercandies/dotrix", "fluttercandies/dash_router",
     "fluttercandies/vcard_dart", "fluttercandies/svgo",
+    "fluttercandies/kache", "fluttercandies/pixa", "fluttercandies/lon",
+    "fluttercandies/meld", "fluttercandies/seeko", "fluttercandies/goal",
+    "fluttercandies/toto", "fluttercandies/acpd",
     "void-signals/void_signals", "iota9star/mikan_flutter",
     "iota9star/sakura-dmhy", "iota9star/kisssub",
 ]

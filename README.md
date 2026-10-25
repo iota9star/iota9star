@@ -34,7 +34,7 @@ Off the clock you'll find me publishing open source candy 🍬 at [fluttercandie
 
 ### 📊 Quick Stats
 
-![Repos](https://img.shields.io/badge/Public_Repos-16-2ea44f?style=flat-square) ![Stars](https://img.shields.io/badge/Stars_earned-1.7k%2B-f1c40f?style=flat-square) ![Top Repo](https://img.shields.io/badge/Top-mikan_flutter_1.3k%E2%AD%90-blueviolet?style=flat-square) ![Packages](https://img.shields.io/badge/Published_packages-12%2B-00b8d4?style=flat-square)
+![Repos](https://img.shields.io/badge/Public_Repos-24-2ea44f?style=flat-square) ![Stars](https://img.shields.io/badge/Stars_earned-1.8k%2B-f1c40f?style=flat-square) ![Top Repo](https://img.shields.io/badge/Top-mikan_flutter_1.3k%E2%AD%90-blueviolet?style=flat-square) ![Packages](https://img.shields.io/badge/Published_packages-20%2B-00b8d4?style=flat-square)
 
 ![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radical&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radical&hide_border=true)
@@ -57,13 +57,21 @@ Off the clock you'll find me publishing open source candy 🍬 at [fluttercandie
 [![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
 [![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
 [![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
+[![](cards/fluttercandies_seeko.svg)](https://github.com/fluttercandies/seeko)
 [![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
+[![](cards/fluttercandies_pixa.svg)](https://github.com/fluttercandies/pixa)
+[![](cards/fluttercandies_meld.svg)](https://github.com/fluttercandies/meld)
+[![](cards/fluttercandies_kache.svg)](https://github.com/fluttercandies/kache)
 [![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
+[![](cards/fluttercandies_acpd.svg)](https://github.com/fluttercandies/acpd)
+[![](cards/fluttercandies_goal.svg)](https://github.com/fluttercandies/goal)
+[![](cards/fluttercandies_lon.svg)](https://github.com/fluttercandies/lon)
+[![](cards/fluttercandies_toto.svg)](https://github.com/fluttercandies/toto)
 
 ### 🏆 Highlights
 
 - 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) crossed **1.3k ⭐** — a Bangumi & anime tracking client people actually love
-- 🍬 **12+ packages** shipped under the [fluttercandies](https://github.com/fluttercandies) banner — JSON, routing, layout, limits, and more
+- 🍬 **20+ packages** shipped under the [fluttercandies](https://github.com/fluttercandies) banner — JSON, routing, layout, limits, and more
 - ⚡ Early mover on [void_signals](https://github.com/void-signals/void_signals) — fine-grained reactivity for Dart, from first principles
 - 🦀 Rustacean by conviction, Java craftsman by trade, product person by instinct
 - 🤝 Community contributor — docs, examples, and reviews across ecosystems

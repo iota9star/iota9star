@@ -42,6 +42,14 @@ https://github.com/fluttercandies/dotrix
 https://github.com/fluttercandies/dash_router
 https://github.com/fluttercandies/vcard_dart
 https://github.com/fluttercandies/svgo
+https://github.com/fluttercandies/kache
+https://github.com/fluttercandies/pixa
+https://github.com/fluttercandies/lon
+https://github.com/fluttercandies/meld
+https://github.com/fluttercandies/seeko
+https://github.com/fluttercandies/goal
+https://github.com/fluttercandies/toto
+https://github.com/fluttercandies/acpd
 https://github.com/void-signals/void_signals
 https://github.com/iota9star/mikan_flutter
 https://github.com/iota9star/sakura-dmhy

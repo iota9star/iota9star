@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>gh-card discontinued</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>gh-card discontinued</h1>
+  <p>
+    This service has been discontinued. We apologize for any inconvenience and thank you for using our service.
+  </p>
+  <ul>
+    <li>
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        https://github.com/stats-organization/github-stats-extended
+      </a>
+    </li>
+  </ul>
+</body>
+</html>
