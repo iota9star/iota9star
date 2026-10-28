@@ -1,22 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=6,11,20&text=%F0%9F%8C%9F%20iota9star&fontSize=44&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Rust%20%26%20Java%20%C2%B7%20Product%20Mindset&descSize=16&descAlignY=74&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=gradient&customColorList=8,12,17&text=%F0%9F%8C%9F%20iota9star&fontSize=44&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Rust%20%26%20Java%20%C2%B7%20Product%20Mindset&descSize=16&descAlignY=74&animation=twinkling)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=F472B6&center=true&vCenter=true&width=660&lines=Building+%F0%9F%A6%80+Rust+services+that+fly;Crafting+%E2%98%95+Java+backends+that+scale;Shipping+%F0%9F%93%B1+Flutter+candy+to+the+community;Teaching+%F0%9F%A4%96+AI+agents+to+write+better+code;Exploring+the+%E2%9B%93+Web3+frontier+%E2%80%94+BTC+%C2%B7+EVM+%C2%B7+IC)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=660&lines=%F0%9F%A6%80+Rust+backends+built+for+speed+%26+clarity;%E2%98%95+Java+microservices+that+refuse+to+drop;%F0%9F%93%B1+Flutter+packages+shipped+as+candy;%F0%9F%A4%96+AI+agents+coached+to+ship+clean+code;%E2%9B%93+Mapping+Web3+%E2%80%94+BTC+%C2%B7+EVM+%C2%B7+IC)
 
 ### 👨‍💻 About Me
 
-Hi there, I'm **iota9star** 🌟 — a full stack developer who treats software as one continuous craft, from the first schema to the last pixel ✨  
-My days swing between writing blazing-fast Rust 🦀 handlers in Axum, wiring resilient Java ☕ microservices with Spring, and polishing Flutter 📱 interfaces that feel effortless on every device.  
-I'm a product-minded engineer: the details *are* the product — the spring in an animation, the honesty of an error message, the care put into an empty state 🎨  
-When I'm not shipping, I'm publishing open source candy 🍬 at [fluttercandies](https://github.com/fluttercandies), hacking on fine-grained reactive signals ⚡, or mapping the Web3 landscape ⛓️
+Hi, I'm **iota9star** 🌟 — a full stack developer who refuses to pick a side of the stack 🧭  
+One commit I'm tuning a 🦀 Rust handler in Axum for microseconds; the next I'm wiring ☕ Spring microservices, or nudging a Flutter 📱 animation until it *feels* right.  
+I believe the details are the product: honest error messages 🧯, thoughtful empty states 🫧, and interfaces that answer before you ask ✨  
+Off the clock you'll find me publishing open source candy 🍬 at [fluttercandies](https://github.com/fluttercandies), researching fine-grained reactivity ⚡, or charting the Web3 seas ⛓️
 
 ### 🎯 What I Do
 
-- 🦀 **High-Performance Backends** — Axum & Spring microservices engineered for throughput, uptime, and clean observability
-- 📱 **Cross-Platform Frontends** — Flutter, React, Vue, and Android apps from a single, well-tended codebase
-- 📦 **Package Author & Maintainer** — 20+ published packages feeding the Flutter ecosystem 🍬
-- 🤖 **AI-Augmented Development** — agents, assistants, and quality-first automation woven into daily workflows
-- ⛓️ **Web3 Exploration** — BTC fundamentals, EVM contracts, and Internet Computer canisters
-- 🔬 **Reactive Systems R&D** — signals, state graphs, and zero-boilerplate reactivity in Dart
+- 🚀 **Backend Engineering** — Rust (Axum) & Java (Spring) services designed for throughput, resilience, and observability
+- 📱 **Cross-Platform Apps** — Flutter, React, Vue & Android products that feel native everywhere
+- 🍬 **Package Authoring** — 20+ Flutter packages published and maintained for the community
+- 🤖 **AI-Augmented Workflows** — code assistants and agents with a quality-first mindset
+- ⛓️ **Web3 Research** — BTC fundamentals, EVM contracts, Internet Computer canisters
+- 🔬 **Reactive Systems R&D** — signals and state graphs with zero-boilerplate ergonomics
 
 ### 🛠️ Tech Stack
 
@@ -41,7 +41,7 @@ When I'm not shipping, I'm publishing open source candy 🍬 at [fluttercandies]
 
 ### 🔥 Featured Projects
 
-🌟 Sorted by community love — click any card to dive into the code 🔍
+🌟 Ranked by community love — tap any card to explore the source 🔍
 
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 [![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
@@ -70,25 +70,25 @@ When I'm not shipping, I'm publishing open source candy 🍬 at [fluttercandies]
 
 ### 🏆 Highlights
 
-- 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) — **1.37k ⭐** Bangumi & anime tracking client, the Flutter app the community kept asking for
-- 🦀 [fjs](https://github.com/fluttercandies/fjs) — **114 ⭐** a high-performance JavaScript runtime for Flutter, built with Rust and powered by QuickJS
-- 🍬 **20+ packages** published under the [fluttercandies](https://github.com/fluttercandies) umbrella — JSON, routing, layout, concurrency limits, caching, and beyond
-- ⚡ [void_signals](https://github.com/void-signals/void_signals) — fine-grained reactivity for Dart, built from first principles
-- 🦀 Rustacean by conviction, Java craftsman by trade, product person by instinct
-- 🤝 Open source citizen — reviews, docs, and examples contributed across ecosystems
+- 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) — **1.37k ⭐** a Bangumi & anime tracking client the community actually asked for, by name
+- 🦀 [fjs](https://github.com/fluttercandies/fjs) — **114 ⭐** a Rust-powered JavaScript runtime that lets Flutter run JS at native speed
+- 🍬 **20+ packages** under the [fluttercandies](https://github.com/fluttercandies) umbrella — JSON, routing, layouts, concurrency limits, caching, images, and more
+- ⚡ [void_signals](https://github.com/void-signals/void_signals) — fine-grained reactive signals for Dart, designed from first principles
+- 🧭 Rustacean by conviction, Java craftsman by trade, product person by instinct
+- 🤝 Open source citizen — reviews, docs, and examples given back across ecosystems
 
 ### 💭 Philosophy
 
-- 🎯 Product first — code is the means, the experience is the destination
+- 🎯 Product first: code is the means, the experience is the destination
 - 🧱 Small commits, honest reviews, zero broken windows
 - 🤖 Automate the boring, handcraft the essential
-- 📚 Stay curious — today's weekend hack is tomorrow's production stack ✨
+- 📚 Stay curious — today's weekend hack becomes tomorrow's production stack ✨
 
 ### 💡 Quote of the Moment
 
-> 「其实从头到尾，被挫骨扬灰，灰飞烟灭的，只有温情一人。」  
-> *"From beginning to end, the only one scattered to ash and smoke was Wen Qing, alone."*  
-> — hitokoto 🌠
+> 「为君沉醉又何妨，只怕酒醒时候断人肠。」  
+> *"What harm in being drunk with devotion? I only fear the heartbreak when the wine wears off."*  
+> — 秦观《虞美人》· via hitokoto 🌠
 
 ### 🌍 Contribution Landscape
 
@@ -98,7 +98,7 @@ When I'm not shipping, I'm publishing open source candy 🍬 at [fluttercandies]
 
 [![Gmail](https://img.shields.io/badge/Gmail-iota9star-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com) [![X](https://img.shields.io/badge/%40iota9star-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iota9star) [![Juejin](https://img.shields.io/badge/Juejin-Blog-1E80FF?style=flat-square)](https://juejin.cn/user/1591748568562829)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=6,11,20&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&height=110&color=gradient&customColorList=8,12,17&section=footer)
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
