@@ -34,7 +34,7 @@ When I'm not shipping, I'm publishing open source candy 🍬 at [fluttercandies]
 
 ### 📊 Quick Stats
 
-![Repos](https://img.shields.io/badge/Public_Repos-24-2ea44f?style=flat-square) ![Stars](https://img.shields.io/badge/Stars_earned-1.8k%2B-f1c40f?style=flat-square) ![Top Repo](https://img.shields.io/badge/Top-mikan_flutter_1.3k%E2%AD%90-blueviolet?style=flat-square) ![Packages](https://img.shields.io/badge/Published_packages-20%2B-00b8d4?style=flat-square)
+![Repos](https://img.shields.io/badge/Public_Repos-24-2ea44f?style=flat-square) ![Stars](https://img.shields.io/badge/Stars_earned-1.8k%2B-f1c40f?style=flat-square) ![Top Repo](https://img.shields.io/badge/Top-mikan_flutter_1.37k%E2%AD%90-blueviolet?style=flat-square) ![Runner Up](https://img.shields.io/badge/2nd-fjs_114%E2%AD%90-orange?style=flat-square) ![Packages](https://img.shields.io/badge/Published_packages-20%2B-00b8d4?style=flat-square)
 
 ![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true)
@@ -55,22 +55,23 @@ When I'm not shipping, I'm publishing open source candy 🍬 at [fluttercandies]
 [![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
 [![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
 [![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
-[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
 [![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
+[![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
+[![](cards/fluttercandies_meld.svg)](https://github.com/fluttercandies/meld)
 [![](cards/fluttercandies_seeko.svg)](https://github.com/fluttercandies/seeko)
 [![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
 [![](cards/fluttercandies_pixa.svg)](https://github.com/fluttercandies/pixa)
-[![](cards/fluttercandies_meld.svg)](https://github.com/fluttercandies/meld)
 [![](cards/fluttercandies_kache.svg)](https://github.com/fluttercandies/kache)
 [![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
 [![](cards/fluttercandies_acpd.svg)](https://github.com/fluttercandies/acpd)
 [![](cards/fluttercandies_goal.svg)](https://github.com/fluttercandies/goal)
-[![](cards/fluttercandies_lon.svg)](https://github.com/fluttercandies/lon)
 [![](cards/fluttercandies_toto.svg)](https://github.com/fluttercandies/toto)
+[![](cards/fluttercandies_lon.svg)](https://github.com/fluttercandies/lon)
 
 ### 🏆 Highlights
 
-- 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) grew past **1.3k ⭐** — the Bangumi & anime tracking client the community asked for
+- 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) — **1.37k ⭐** Bangumi & anime tracking client, the Flutter app the community kept asking for
+- 🦀 [fjs](https://github.com/fluttercandies/fjs) — **114 ⭐** a high-performance JavaScript runtime for Flutter, built with Rust and powered by QuickJS
 - 🍬 **20+ packages** published under the [fluttercandies](https://github.com/fluttercandies) umbrella — JSON, routing, layout, concurrency limits, caching, and beyond
 - ⚡ [void_signals](https://github.com/void-signals/void_signals) — fine-grained reactivity for Dart, built from first principles
 - 🦀 Rustacean by conviction, Java craftsman by trade, product person by instinct
@@ -85,8 +86,8 @@ When I'm not shipping, I'm publishing open source candy 🍬 at [fluttercandies]
 
 ### 💡 Quote of the Moment
 
-> 「星光不问赶路人，时光不负有心人。」  
-> *"The starlight never questions the traveler; time never fails the devoted."*  
+> 「其实从头到尾，被挫骨扬灰，灰飞烟灭的，只有温情一人。」  
+> *"From beginning to end, the only one scattered to ash and smoke was Wen Qing, alone."*  
 > — hitokoto 🌠
 
 ### 🌍 Contribution Landscape
