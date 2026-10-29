@@ -1,22 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=gradient&customColorList=8,12,17&text=%F0%9F%8C%9F%20iota9star&fontSize=44&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Rust%20%26%20Java%20%C2%B7%20Product%20Mindset&descSize=16&descAlignY=74&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=gradient&customColorList=6,11,20&text=%E2%9C%A8%20iota9star&fontSize=46&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Rust%20%26%20Java%20%C2%B7%20Product%20Mindset&descSize=16&descAlignY=74&animation=twinkling)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=660&lines=%F0%9F%A6%80+Rust+backends+built+for+speed+%26+clarity;%E2%98%95+Java+microservices+that+refuse+to+drop;%F0%9F%93%B1+Flutter+packages+shipped+as+candy;%F0%9F%A4%96+AI+agents+coached+to+ship+clean+code;%E2%9B%93+Mapping+Web3+%E2%80%94+BTC+%C2%B7+EVM+%C2%B7+IC)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=660&lines=%F0%9F%A6%80+Rust+services+tuned+to+the+microsecond;%E2%98%95+Java+microservices+that+never+drop+a+beat;%F0%9F%93%B1+Flutter+candy+shipped+to+the+community;%F0%9F%A4%96+Agents+coached+to+write+reviewable+code;%E2%9B%93+Charting+Web3+%E2%80%94+BTC+%C2%B7+EVM+%C2%B7+IC)
 
 ### 👨‍💻 About Me
 
-Hi, I'm **iota9star** 🌟 — a full stack developer who refuses to pick a side of the stack 🧭  
-One commit I'm tuning a 🦀 Rust handler in Axum for microseconds; the next I'm wiring ☕ Spring microservices, or nudging a Flutter 📱 animation until it *feels* right.  
-I believe the details are the product: honest error messages 🧯, thoughtful empty states 🫧, and interfaces that answer before you ask ✨  
-Off the clock you'll find me publishing open source candy 🍬 at [fluttercandies](https://github.com/fluttercandies), researching fine-grained reactivity ⚡, or charting the Web3 seas ⛓️
+Hi, I'm **iota9star** 🌟 — a full stack developer who treats the entire stack as one canvas 🎨  
+By day I'm shaping ☕ Java microservices and 🦀 Rust services that stay fast under pressure; by night I'm polishing 📱 Flutter animations until they feel inevitable, or sketching reactive state graphs ⚡ on the whiteboard.  
+I care about the details users never name but always feel: honest error messages 🧯, empty states with personality 🫧, and latency you can't perceive ✨  
+When I'm not shipping, I'm publishing open source candy 🍬 under [fluttercandies](https://github.com/fluttercandies), mentoring AI agents 🤖 to write code humans enjoy reviewing, and exploring the Web3 frontier ⛓️
 
 ### 🎯 What I Do
 
-- 🚀 **Backend Engineering** — Rust (Axum) & Java (Spring) services designed for throughput, resilience, and observability
-- 📱 **Cross-Platform Apps** — Flutter, React, Vue & Android products that feel native everywhere
-- 🍬 **Package Authoring** — 20+ Flutter packages published and maintained for the community
-- 🤖 **AI-Augmented Workflows** — code assistants and agents with a quality-first mindset
-- ⛓️ **Web3 Research** — BTC fundamentals, EVM contracts, Internet Computer canisters
-- 🔬 **Reactive Systems R&D** — signals and state graphs with zero-boilerplate ergonomics
+- 🦀 **High-Performance Backends** — Rust (Axum) and Java (Spring) services engineered for throughput, resilience, and observability
+- 📱 **Cross-Platform Products** — Flutter, React, Vue & Android experiences that feel at home on every screen
+- 🍬 **Open Source Packaging** — 20+ Flutter packages authored and maintained for the community
+- 🤖 **AI-Native Development** — assistants and agents woven into workflows with a quality-first bar
+- ⚡ **Reactive Systems R&D** — fine-grained signals and state graphs with zero-boilerplate ergonomics
+- ⛓️ **Web3 Exploration** — BTC fundamentals, EVM contracts, and Internet Computer canisters
 
 ### 🛠️ Tech Stack
 
@@ -34,7 +34,7 @@ Off the clock you'll find me publishing open source candy 🍬 at [fluttercandie
 
 ### 📊 Quick Stats
 
-![Repos](https://img.shields.io/badge/Public_Repos-24-2ea44f?style=flat-square) ![Stars](https://img.shields.io/badge/Stars_earned-1.8k%2B-f1c40f?style=flat-square) ![Top Repo](https://img.shields.io/badge/Top-mikan_flutter_1.37k%E2%AD%90-blueviolet?style=flat-square) ![Runner Up](https://img.shields.io/badge/2nd-fjs_114%E2%AD%90-orange?style=flat-square) ![Packages](https://img.shields.io/badge/Published_packages-20%2B-00b8d4?style=flat-square)
+![Repos](https://img.shields.io/badge/Pinned_repos-24-2ea44f?style=flat-square) ![Stars](https://img.shields.io/badge/Stars_earned-1.8k%2B-f1c40f?style=flat-square) ![Top Repo](https://img.shields.io/badge/Top-mikan_flutter_1.37k%E2%AD%90-blueviolet?style=flat-square) ![Runner Up](https://img.shields.io/badge/2nd-fjs_114%E2%AD%90-orange?style=flat-square) ![Packages](https://img.shields.io/badge/Published_packages-20%2B-00b8d4?style=flat-square)
 
 ![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true)
@@ -55,8 +55,8 @@ Off the clock you'll find me publishing open source candy 🍬 at [fluttercandie
 [![](cards/fluttercandies_flexbox_layout.svg)](https://github.com/fluttercandies/flexbox_layout)
 [![](cards/fluttercandies_env2dart.svg)](https://github.com/fluttercandies/env2dart)
 [![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
-[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
 [![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
+[![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
 [![](cards/fluttercandies_meld.svg)](https://github.com/fluttercandies/meld)
 [![](cards/fluttercandies_seeko.svg)](https://github.com/fluttercandies/seeko)
 [![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
@@ -70,8 +70,8 @@ Off the clock you'll find me publishing open source candy 🍬 at [fluttercandie
 
 ### 🏆 Highlights
 
-- 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) — **1.37k ⭐** a Bangumi & anime tracking client the community actually asked for, by name
-- 🦀 [fjs](https://github.com/fluttercandies/fjs) — **114 ⭐** a Rust-powered JavaScript runtime that lets Flutter run JS at native speed
+- 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) — **1.37k ⭐** a Bangumi & anime tracking client the community asked for, by name
+- 🦀 [fjs](https://github.com/fluttercandies/fjs) — **114 ⭐** a Rust-powered JavaScript runtime so Flutter can run JS at native speed
 - 🍬 **20+ packages** under the [fluttercandies](https://github.com/fluttercandies) umbrella — JSON, routing, layouts, concurrency limits, caching, images, and more
 - ⚡ [void_signals](https://github.com/void-signals/void_signals) — fine-grained reactive signals for Dart, designed from first principles
 - 🧭 Rustacean by conviction, Java craftsman by trade, product person by instinct
@@ -79,16 +79,17 @@ Off the clock you'll find me publishing open source candy 🍬 at [fluttercandie
 
 ### 💭 Philosophy
 
-- 🎯 Product first: code is the means, the experience is the destination
+- 🎯 Build the product, not just the code — the experience is the destination
 - 🧱 Small commits, honest reviews, zero broken windows
 - 🤖 Automate the boring, handcraft the essential
+- 🌱 Leave every codebase easier to understand than you found it
 - 📚 Stay curious — today's weekend hack becomes tomorrow's production stack ✨
 
 ### 💡 Quote of the Moment
 
-> 「为君沉醉又何妨，只怕酒醒时候断人肠。」  
-> *"What harm in being drunk with devotion? I only fear the heartbreak when the wine wears off."*  
-> — 秦观《虞美人》· via hitokoto 🌠
+> 「开成花灾的玫瑰不是灿烂，而是荒凉。」  
+> *"Roses that bloom into a flood of blossoms make not brilliance, but desolation."*  
+> — 严歌苓《花儿与少年》· via hitokoto 🌹
 
 ### 🌍 Contribution Landscape
 
@@ -98,7 +99,7 @@ Off the clock you'll find me publishing open source candy 🍬 at [fluttercandie
 
 [![Gmail](https://img.shields.io/badge/Gmail-iota9star-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com) [![X](https://img.shields.io/badge/%40iota9star-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iota9star) [![Juejin](https://img.shields.io/badge/Juejin-Blog-1E80FF?style=flat-square)](https://juejin.cn/user/1591748568562829)
 
-![footer](https://capsule-render.vercel.app/api?type=soft&height=110&color=gradient&customColorList=8,12,17&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&height=110&color=gradient&customColorList=6,11,20&section=footer)
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
