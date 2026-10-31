@@ -1,22 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&customColorList=5,13,19&text=%E2%AD%90%20iota9star&fontSize=48&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Rust%20%26%20Java%20Backend%20%C2%B7%20Product%20Mindset&descSize=16&descAlignY=76&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=0:6a11cb,100:2575fc&text=%F0%9F%9B%B0%EF%B8%8F%20iota9star&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Rust%20%26%20Java%20Backend%20%C2%B7%20Product%20Mindset&descSize=15&descAlignY=80&animation=blinking)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=680&lines=%F0%9F%A6%80+Rust+that+stays+fast+under+pressure;%E2%98%95+Java+microservices+built+to+last;%F0%9F%8D%AC+Flutter+candy+shipped+to+the+community;%F0%9F%A4%96+AI+agents+coached+to+ship+quality;%E2%9B%93+Exploring+Web3+%E2%80%94+BTC+%C2%B7+EVM+%C2%B7+IC)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=93C5FD&center=true&vCenter=true&width=680&lines=%F0%9F%A6%80+Rust+that+bends+under+no+load;%E2%98%95+Java+microservices+boring+in+the+good+way;%F0%9F%8D%AC+Flutter+candy+shipped+to+the+community;%F0%9F%A4%96+AI+agents+taught+to+review+themselves;%E2%9B%93+Digging+Web3+%E2%80%94+BTC+%C2%B7+EVM+%C2%B7+IC)
 
 ### 👨‍💻 About Me
 
-Hi, I'm **iota9star** 🌟 — a full stack developer who refuses to pick a favorite layer 🎨  
-By day I build ☕ Java microservices and 🦀 Rust services that stay calm under load; by night I polish 📱 Flutter apps until scrolling feels like silk 🪢  
-I care about the details users never name but always feel — honest error states 🧯, empty screens with personality 🫧, and latency nobody can perceive ✨  
-Weekends are for sketching reactive state graphs ⚡, poking at smart contracts ⛓️, and shipping open source candy 🍬 under [fluttercandies](https://github.com/fluttercandies)  
-When I'm not compiling, I'm coaching AI agents 🤖 to write code humans enjoy reviewing — or writing about it on [Juejin](https://juejin.cn/user/1591748568562829) ✍️
+Hi, I'm **iota9star** 🌟 — I build across every layer and refuse to pick a favorite one 🎨  
+On the server I speak 🦀 Rust and ☕ Java, tuning services that stay quiet under pressure; on the client I shape 📱 Flutter, React and Vue apps where every frame feels intentional 🪢  
+The details I chase are invisible by design — error states that help instead of scold 🧯, empty screens with personality 🫧, and latency nobody can notice ✨  
+Off the clock I sketch reactive state graphs ⚡, poke at smart contracts ⛓️, and publish open source candy 🍬 under [fluttercandies](https://github.com/fluttercandies)  
+Otherwise I'm coaching AI agents 🤖 to write code humans enjoy reviewing — and writing about the journey on [Juejin](https://juejin.cn/user/1591748568562829) ✍️
 
 ### 🎯 What I Do
 
-- 🦀 **High-Performance Backends** — Rust (Axum) & Java (Spring) services engineered for throughput, resilience, and observability
-- 📱 **Cross-Platform Products** — Flutter, React, Vue & Android experiences that feel at home on every screen
-- 🍬 **Open Source Packaging** — 20+ Flutter packages authored and maintained for the community
+- 🦀 **High-Performance Backends** — Rust (Axum) & Java (Spring) microservices built for throughput, resilience, and honest observability
+- 📱 **Cross-Platform Products** — Flutter, React, Vue & Android experiences that feel native on every screen
+- 🍬 **Open Source Packaging** — 20+ Flutter packages authored, documented, and maintained for the community
 - ⚡ **Reactive Systems R&D** — fine-grained signals and state graphs with zero-boilerplate ergonomics
-- 🤖 **AI-Native Development** — assistants and agents woven into daily workflows with a quality-first bar
+- 🤖 **AI-Native Workflows** — assistants and agents woven into daily development behind a quality-first bar
 - ⛓️ **Web3 Exploration** — BTC fundamentals, EVM contracts, and Internet Computer canisters
 
 ### 🛠️ Tech Stack
@@ -35,14 +35,15 @@ When I'm not compiling, I'm coaching AI agents 🤖 to write code humans enjoy r
 
 ### 📊 Quick Stats
 
-![Repos](https://img.shields.io/badge/Featured_repos-24-2ea44f?style=flat-square) ![Stars](https://img.shields.io/badge/Stars_earned-1.8k%2B-f1c40f?style=flat-square) ![Top Repo](https://img.shields.io/badge/No.1-mikan_flutter_1.375k%E2%AD%90-blueviolet?style=flat-square) ![Runner Up](https://img.shields.io/badge/No.2-fjs_114%E2%AD%90-orange?style=flat-square) ![Packages](https://img.shields.io/badge/Published_packages-20%2B-00b8d4?style=flat-square)
+![Repos](https://img.shields.io/badge/Featured_repos-24-2ea44f?style=flat-square) ![Stars](https://img.shields.io/badge/Stars_earned-1.8k%2B-f1c40f?style=flat-square) ![Top Repo](https://img.shields.io/badge/No.1-mikan_flutter_1.4k%E2%AD%90-blueviolet?style=flat-square) ![Runner Up](https://img.shields.io/badge/No.2-fjs_114%E2%AD%90-orange?style=flat-square) ![Packages](https://img.shields.io/badge/Published_packages-20%2B-00b8d4?style=flat-square)
 
-![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radix&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radix&hide_border=true)
+![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=iota9star&theme=tokyonight&hide_border=true&locale=en)
 
 ### 🔥 Featured Projects
 
-🌟 Ranked by community love — tap any card to explore the source 🔍
+🌟 Ranked by community love — tap any card to open the source 🔍
 
 [![](cards/iota9star_mikan_flutter.svg)](https://github.com/iota9star/mikan_flutter)
 [![](cards/fluttercandies_fjs.svg)](https://github.com/fluttercandies/fjs)
@@ -58,10 +59,10 @@ When I'm not compiling, I'm coaching AI agents 🤖 to write code humans enjoy r
 [![](cards/fluttercandies_svgo.svg)](https://github.com/fluttercandies/svgo)
 [![](cards/fluttercandies_resx.svg)](https://github.com/fluttercandies/resx)
 [![](cards/fluttercandies_dotrix.svg)](https://github.com/fluttercandies/dotrix)
-[![](cards/fluttercandies_meld.svg)](https://github.com/fluttercandies/meld)
 [![](cards/fluttercandies_seeko.svg)](https://github.com/fluttercandies/seeko)
 [![](cards/fluttercandies_dash_router.svg)](https://github.com/fluttercandies/dash_router)
 [![](cards/fluttercandies_pixa.svg)](https://github.com/fluttercandies/pixa)
+[![](cards/fluttercandies_meld.svg)](https://github.com/fluttercandies/meld)
 [![](cards/fluttercandies_kache.svg)](https://github.com/fluttercandies/kache)
 [![](cards/fluttercandies_vcard_dart.svg)](https://github.com/fluttercandies/vcard_dart)
 [![](cards/fluttercandies_acpd.svg)](https://github.com/fluttercandies/acpd)
@@ -71,13 +72,23 @@ When I'm not compiling, I'm coaching AI agents 🤖 to write code humans enjoy r
 
 ### 🏆 Highlights
 
-- 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) — **1.375k ⭐** a Bangumi & anime tracking client the community asked for, by name
+- 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) — **1.4k ⭐** a Bangumi & anime tracking client the community asked for, by name
 - 🥈 [fjs](https://github.com/fluttercandies/fjs) — **114 ⭐** a Rust-powered JavaScript engine so Flutter can run JS at native speed
-- 🥉 [dpad](https://github.com/fluttercandies/dpad) — **59 ⭐** gamepad-friendly focus navigation for Flutter interfaces
-- 🌸 [sakura-dmhy](https://github.com/iota9star/sakura-dmhy) — **37 ⭐** & [kisssub](https://github.com/iota9star/kisssub) — **35 ⭐** resources search clients for the anime community
+- 🥉 [dpad](https://github.com/fluttercandies/dpad) — **58 ⭐** gamepad-friendly focus navigation for Flutter interfaces
+- 🌸 [sakura-dmhy](https://github.com/iota9star/sakura-dmhy) — **37 ⭐** & [kisssub](https://github.com/iota9star/kisssub) — **35 ⭐** resource search clients for the anime community
+- ⚡ [void_signals](https://github.com/void-signals/void_signals) — **24 ⭐** fine-grained reactive signals for Dart, designed from first principles
 - 🍬 **20+ packages** under the [fluttercandies](https://github.com/fluttercandies) umbrella — JSON, routing, layouts, concurrency limits, caching, images, and more
-- ⚡ [void_signals](https://github.com/void-signals/void_signals) — fine-grained reactive signals for Dart, designed from first principles
 - 🧭 Rustacean by conviction, Java craftsman by trade, product person by instinct
+
+### 💡 Quote of the Moment
+
+> 我们的世界，多姿多彩且奇妙。  
+> *"Our world is rich in color, and full of wonder."*  
+> — 《命运在手心 (feat. 初音ミク & 洛天依)》 via hitokoto 💠
+
+### 🌍 Contribution Landscape
+
+![3D Contributions](profile-3d-contrib/profile-season-animate.svg)
 
 ### 💭 Philosophy
 
@@ -87,21 +98,11 @@ When I'm not compiling, I'm coaching AI agents 🤖 to write code humans enjoy r
 - 🌱 Leave every codebase easier to understand than you found it
 - 📚 Stay curious — today's weekend hack becomes tomorrow's production stack ✨
 
-### 💡 Quote of the Moment
-
-> 「相信爱的人，才会和爱相遇。」  
-> *"Those who believe in love are the ones who meet it."*  
-> — 《日食记》 via hitokoto 💠
-
-### 🌍 Contribution Landscape
-
-![3D Contributions](profile-3d-contrib/profile-season-animate.svg)
-
 ### 📧 Connect with Me
 
 [![Email](https://img.shields.io/badge/Gmail-iota9star-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iota9star@gmail.com) [![X](https://img.shields.io/badge/%40iota9star-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iota9star) [![Juejin](https://img.shields.io/badge/Juejin-Blog-1E80FF?style=flat-square)](https://juejin.cn/user/1591748568562829)
 
-![footer](https://capsule-render.vercel.app/api?type=cylinder&height=110&color=gradient&customColorList=5,13,19&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&height=110&color=0:2575fc,100:6a11cb&section=footer)
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
