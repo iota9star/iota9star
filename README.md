@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&customColorList=5,13,19&text=%E2%AD%90%20iota9star&fontSize=48&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Rust%20%26%20Java%20Backend%20%C2%B7%20Product%20Mindset&descSize=16&descAlignY=76&animation=scaleIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=680&lines=%F0%9F%A6%80+Rust+services+that+stay+fast+under+pressure;%E2%98%95+Java+microservices+built+to+last;%F0%9F%93%B1+Flutter+candy+shipped+to+the+community;%F0%9F%A4%96+AI+agents+coached+to+ship+quality;%E2%9B%93+Exploring+Web3+%E2%80%94+BTC+%C2%B7+EVM+%C2%B7+IC)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=680&lines=%F0%9F%A6%80+Rust+that+stays+fast+under+pressure;%E2%98%95+Java+microservices+built+to+last;%F0%9F%8D%AC+Flutter+candy+shipped+to+the+community;%F0%9F%A4%96+AI+agents+coached+to+ship+quality;%E2%9B%93+Exploring+Web3+%E2%80%94+BTC+%C2%B7+EVM+%C2%B7+IC)
 
 ### 👨‍💻 About Me
 
-Hi, I'm **iota9star** 🌟 — a full stack developer who treats the whole stack as one canvas 🎨  
-I shape ☕ Java microservices and 🦀 Rust services by day, then switch to polishing 📱 Flutter apps until every frame feels effortless; the weekend is for sketching reactive state graphs ⚡ or poking at smart contracts ⛓️  
-I sweat the details users never name but always feel: honest error messages 🧯, empty states with personality 🫧, and latency you can't perceive ✨  
-Off the clock you'll find me publishing open source candy 🍬 under [fluttercandies](https://github.com/fluttercandies), coaching AI agents 🤖 to write code humans enjoy reviewing, and writing about it all on [Juejin](https://juejin.cn/user/1591748568562829) ✍️
+Hi, I'm **iota9star** 🌟 — a full stack developer who refuses to pick a favorite layer 🎨  
+By day I build ☕ Java microservices and 🦀 Rust services that stay calm under load; by night I polish 📱 Flutter apps until scrolling feels like silk 🪢  
+I care about the details users never name but always feel — honest error states 🧯, empty screens with personality 🫧, and latency nobody can perceive ✨  
+Weekends are for sketching reactive state graphs ⚡, poking at smart contracts ⛓️, and shipping open source candy 🍬 under [fluttercandies](https://github.com/fluttercandies)  
+When I'm not compiling, I'm coaching AI agents 🤖 to write code humans enjoy reviewing — or writing about it on [Juejin](https://juejin.cn/user/1591748568562829) ✍️
 
 ### 🎯 What I Do
 
@@ -15,7 +16,7 @@ Off the clock you'll find me publishing open source candy 🍬 under [fluttercan
 - 📱 **Cross-Platform Products** — Flutter, React, Vue & Android experiences that feel at home on every screen
 - 🍬 **Open Source Packaging** — 20+ Flutter packages authored and maintained for the community
 - ⚡ **Reactive Systems R&D** — fine-grained signals and state graphs with zero-boilerplate ergonomics
-- 🤖 **AI-Native Development** — assistants and agents woven into workflows with a quality-first bar
+- 🤖 **AI-Native Development** — assistants and agents woven into daily workflows with a quality-first bar
 - ⛓️ **Web3 Exploration** — BTC fundamentals, EVM contracts, and Internet Computer canisters
 
 ### 🛠️ Tech Stack
@@ -34,7 +35,7 @@ Off the clock you'll find me publishing open source candy 🍬 under [fluttercan
 
 ### 📊 Quick Stats
 
-![Repos](https://img.shields.io/badge/Featured_repos-24-2ea44f?style=flat-square) ![Stars](https://img.shields.io/badge/Stars_earned-1.8k%2B-f1c40f?style=flat-square) ![Top Repo](https://img.shields.io/badge/No.1-mikan_flutter_1.37k%E2%AD%90-blueviolet?style=flat-square) ![Runner Up](https://img.shields.io/badge/No.2-fjs_114%E2%AD%90-orange?style=flat-square) ![Packages](https://img.shields.io/badge/Published_packages-20%2B-00b8d4?style=flat-square)
+![Repos](https://img.shields.io/badge/Featured_repos-24-2ea44f?style=flat-square) ![Stars](https://img.shields.io/badge/Stars_earned-1.8k%2B-f1c40f?style=flat-square) ![Top Repo](https://img.shields.io/badge/No.1-mikan_flutter_1.375k%E2%AD%90-blueviolet?style=flat-square) ![Runner Up](https://img.shields.io/badge/No.2-fjs_114%E2%AD%90-orange?style=flat-square) ![Packages](https://img.shields.io/badge/Published_packages-20%2B-00b8d4?style=flat-square)
 
 ![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=radix&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=radix&hide_border=true)
@@ -70,13 +71,13 @@ Off the clock you'll find me publishing open source candy 🍬 under [fluttercan
 
 ### 🏆 Highlights
 
-- 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) — **1.37k ⭐** a Bangumi & anime tracking client the community asked for, by name
+- 🥇 [mikan_flutter](https://github.com/iota9star/mikan_flutter) — **1.375k ⭐** a Bangumi & anime tracking client the community asked for, by name
 - 🥈 [fjs](https://github.com/fluttercandies/fjs) — **114 ⭐** a Rust-powered JavaScript engine so Flutter can run JS at native speed
 - 🥉 [dpad](https://github.com/fluttercandies/dpad) — **59 ⭐** gamepad-friendly focus navigation for Flutter interfaces
+- 🌸 [sakura-dmhy](https://github.com/iota9star/sakura-dmhy) — **37 ⭐** & [kisssub](https://github.com/iota9star/kisssub) — **35 ⭐** resources search clients for the anime community
 - 🍬 **20+ packages** under the [fluttercandies](https://github.com/fluttercandies) umbrella — JSON, routing, layouts, concurrency limits, caching, images, and more
 - ⚡ [void_signals](https://github.com/void-signals/void_signals) — fine-grained reactive signals for Dart, designed from first principles
 - 🧭 Rustacean by conviction, Java craftsman by trade, product person by instinct
-- 🤝 Open source citizen — reviews, docs, and examples given back across ecosystems
 
 ### 💭 Philosophy
 
@@ -88,9 +89,9 @@ Off the clock you'll find me publishing open source candy 🍬 under [fluttercan
 
 ### 💡 Quote of the Moment
 
-> 「言念君子，温其如玉。」  
-> *"When I think of my beloved, warm as jade is he."*  
-> — 《诗经 · 秦风 · 小戎》 via hitokoto 💠
+> 「相信爱的人，才会和爱相遇。」  
+> *"Those who believe in love are the ones who meet it."*  
+> — 《日食记》 via hitokoto 💠
 
 ### 🌍 Contribution Landscape
 
