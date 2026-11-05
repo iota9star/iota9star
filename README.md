@@ -1,26 +1,26 @@
 ## Hi, I'm iota9star 👋
 
-**Full Stack Developer · Rust & Java Backend · Flutter Craftsman · Product Mindset** 🚀
+**Full Stack Developer 🧑‍💻 · Rust & Java Backend 🦀☕ · Flutter Craftsman 🍭 · Product Mindset 🧭**
 
-I build digital experiences across the whole stack — high-performance backends, elegant frontends, and the open-source libraries in between. ⚡
+I turn ideas into working products — high-performance backends under the hood, interfaces people love up front, and the open-source glue that holds it all together. ⚡
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Rust+%26+Java+backends+%F0%9F%A6%80;Flutter+packages+used+by+thousands+%F0%9F%8D%AC;AI-powered+development+workflows+%F0%9F%A4%96;Ship+products%2C+not+just+code+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=640&lines=Building+backends+in+Rust+%26+Java+%F0%9F%A6%80;Shipping+Flutter+packages+to+the+community+%F0%9F%8D%AC;Exploring+AI+agents+%26+Web3+%F0%9F%A4%96%E2%9B%93%EF%B8%8F;Products+first%2C+code+always+%F0%9F%9A%80)
 
 ## 👨‍💻 About Me
 
-I'm an engineer who cares about the entire journey of a product — from the first sketch to the last millisecond. 🧭
-I write **Rust** and **Java** for the heavy lifting, craft **Flutter** and **React** interfaces people genuinely enjoy, and treat code quality as a feature rather than an afterthought. ✨
-Open source is where my energy goes: I maintain my own apps and contribute **20 packages** to the **fluttercandies** community, so other developers can ship faster. 🍬
-Lately I'm deep into **AI-powered development** — agents, assistants and quality-first workflows that multiply what a small team can do. 🤖
+I'm **iota9star** — an engineer who builds across the entire stack and cares about the whole journey of a product, from the first sketch to the last millisecond. 🧭
+By day I write **Rust** and **Java** for the heavy lifting, and craft **Flutter**, **React** and **Vue** interfaces that feel effortless to use. ✨
+My real passion is **open source**: I've published **20 packages** with the **fluttercandies** community — caching, routing, date-time, error handling, concurrency — and maintain my own apps used by thousands of anime & bangumi fans. 🌸
+Lately I'm deep in **AI-powered development** 🤖 — agents, assistants and quality-first workflows that let a small team punch far above its weight — while keeping a curious eye on **Web3** ⛓️ (BTC, EVM, IC).
 
 ## 🎯 What I Do
 
-- 🦀 **Backend Engineering** — Rust (Axum) & Java (Spring) microservices built for speed and reliability
+- 🦀 **Backend Engineering** — Rust (Axum) & Java (Spring) microservices, tuned for speed and reliability
 - 📱 **Cross-platform Frontends** — Flutter, React, Vue, Android: one codebase, every screen
-- 🧩 **Open Source Libraries** — Dart/Flutter packages: caching, routing, date-time, error handling, concurrency
+- 🧩 **Open Source Libraries** — small, sharp Dart/Flutter packages that solve one problem really well
 - 🤖 **AI Workflows** — code assistants, agent pipelines and quality-first automation
-- ⛓️ **Web3 Exploration** — BTC, EVM and the Internet Computer
 - 📺 **TV & Embedded UX** — D-pad navigation and living-room-friendly interfaces
+- ⛓️ **Web3 Exploration** — BTC, EVM and the Internet Computer
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +37,7 @@ Lately I'm deep into **AI-powered development** — agents, assistants and quali
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-009639?style=flat-square&logo=protocolbuffers&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-009639?style=flat-square&logo=apacherocketmq&logoColor=white)
 
 **Frontend** 🎨
 
@@ -51,12 +51,12 @@ Lately I'm deep into **AI-powered development** — agents, assistants and quali
 ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=perplexityai&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![EVM](https://img.shields.io/badge/EVM-213147?style=flat-square&logo=ethereum&logoColor=white)
-![Internet Computer](https://img.shields.io/badge/IC-3B00B9?style=flat-square&logo=hugo&logoColor=white)
+![Internet Computer](https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat-square&logo=dfinity&logoColor=white)
 
 ## 📊 Quick Stats
 
 - ⭐ **1.8K+ stars** across 24 featured open-source projects
-- 🌸 **1.4K+ stars** on [mikan_flutter](https://github.com/iota9star/mikan_flutter) alone
+- 🌸 **1.3K+ stars** on [mikan_flutter](https://github.com/iota9star/mikan_flutter) alone
 - 🍬 **20 packages** contributed to the **fluttercandies** community
 - 👀 You are visitor ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -66,7 +66,7 @@ Lately I'm deep into **AI-powered development** — agents, assistants and quali
 
 ## 🔥 Featured Projects
 
-Sorted by stars ✨ — personal apps first, then community packages 🍬
+Sorted by stars ✨ — a mix of personal apps, community packages and experiments 🍬
 
 <table>
 <tr>
@@ -110,17 +110,17 @@ Sorted by stars ✨ — personal apps first, then community packages 🍬
 
 ## 💡 Quote
 
-> 💬 **"可怜之人必有可恨之处，可恨之人必有可悲之苦。"** — *"Those we pity carry their own faults; those we resent carry their own sorrows."*
-> — 民间俗语 Folk Proverb 🀄
+> 💬 **"人生自是有情痴，此恨不关风与月。"** — *"We are born to be moved by passion; such sorrow owes nothing to the wind or the moon."*
+> — 欧阳修 Ouyang Xiu 📜
 
 ## 🏆 Highlights
 
-- 🌸 **mikan_flutter** — 1.4K⭐ Flutter client for the Mikan Project; the most starred bangumi RSS app of its kind
-- ⚡ **fjs** — a high-performance JavaScript runtime for Flutter applications, right inside your app
-- 📺 **dpad** — native-as-feasible D-pad focus navigation for Flutter on Android TV and set-top boxes
-- 🍬 **fluttercandies** — 20 community packages: caching (kache, pixa), dates (hora), errors (resx), concurrency (f_limit), routing (dash_router) and more
+- 🌸 **mikan_flutter** — 1.3K⭐ Flutter client for the Mikan Project; a beloved bangumi RSS app
+- ⚡ **fjs** — 114⭐ run JavaScript inside Flutter at high speed, powered by Rust & QuickJS
+- 📺 **dpad** — 60⭐ native-feeling D-pad focus navigation for Android TV and set-top boxes
+- 🔄 **sakura-dmhy & kisssub** — polished resource-search clients (37⭐ & 35⭐)
 - 🌀 **void_signals** — high-performance signal-based reactivity for Dart & Flutter
-- 🤖 **AI-first CLI tools** — goal (a type-safe goal ledger) and toto (deterministic TOTP/HOTP)
+- 🍬 **fluttercandies × 20** — kache & pixa (caching), hora (dates), resx (errors), f_limit (concurrency), dash_router (navigation), svgo, json_dart and more
 
 ## 💭 Philosophy
 
