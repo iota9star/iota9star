@@ -2,22 +2,28 @@
 
 **Full Stack Developer 🧑‍💻 · Rust & Java Backend 🦀☕ · Flutter Craftsman 🍭 · Product Mindset 🧭**
 
-I turn ideas into working products — high-performance backends under the hood, interfaces people love up front, and the open-source glue that holds it all together. ⚡
+I ship ideas end to end — fast backends under the hood, interfaces people love up front, and the open-source glue that holds it all together. ⚡
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=640&lines=Building+backends+in+Rust+%26+Java+%F0%9F%A6%80;Shipping+Flutter+packages+to+the+community+%F0%9F%8D%AC;Exploring+AI+agents+%26+Web3+%F0%9F%A4%96%E2%9B%93%EF%B8%8F;Products+first%2C+code+always+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Backends+that+fly+-+Rust+%26+Java+%F0%9F%A6%80%E2%98%95;20%2B+Flutter+packages+with+fluttercandies+%F0%9F%8D%AC;AI+agents+%26+quality-first+workflows+%F0%9F%A4%96;Web3+explorer+-+BTC+%C2%B7+EVM+%C2%B7+IC+%E2%9B%93%EF%B8%8F;Product+first%2C+always+%F0%9F%A7%AD)
 
 ## 👨‍💻 About Me
 
-I'm **iota9star** — an engineer who builds across the entire stack and cares about the whole journey of a product, from the first sketch to the last millisecond. 🧭
-By day I write **Rust** and **Java** for the heavy lifting, and craft **Flutter**, **React** and **Vue** interfaces that feel effortless to use. ✨
-My real passion is **open source**: I've published **20 packages** with the **fluttercandies** community — caching, routing, date-time, error handling, concurrency — and maintain my own apps used by thousands of anime & bangumi fans. 🌸
+I'm **iota9star** — an engineer who cares about the whole journey of a product, from the first sketch to the last millisecond. 🧭
+By day I write **Rust** and **Java** for the heavy lifting, and craft **Flutter**, **React** and **Vue** frontends that feel effortless. ✨
+My real love is **open source**: I've published **20 packages** with the **fluttercandies** community — caching, routing, date-time, error handling, concurrency — and maintain apps used by thousands of anime & bangumi fans. 🌸
 Lately I'm deep in **AI-powered development** 🤖 — agents, assistants and quality-first workflows that let a small team punch far above its weight — while keeping a curious eye on **Web3** ⛓️ (BTC, EVM, IC).
+
+**Now** 🚀
+
+- 🤖 Building agent-driven dev workflows that raise the quality floor
+- 🍬 Shipping small, sharp Dart/Flutter packages with fluttercandies
+- ⛓️ Reading, prototyping and occasionally losing arguments with smart contracts
 
 ## 🎯 What I Do
 
 - 🦀 **Backend Engineering** — Rust (Axum) & Java (Spring) microservices, tuned for speed and reliability
 - 📱 **Cross-platform Frontends** — Flutter, React, Vue, Android: one codebase, every screen
-- 🧩 **Open Source Libraries** — small, sharp Dart/Flutter packages that solve one problem really well
+- 🧩 **Open Source Libraries** — small, sharp packages that solve one problem really well
 - 🤖 **AI Workflows** — code assistants, agent pipelines and quality-first automation
 - 📺 **TV & Embedded UX** — D-pad navigation and living-room-friendly interfaces
 - ⛓️ **Web3 Exploration** — BTC, EVM and the Internet Computer
@@ -55,7 +61,7 @@ Lately I'm deep in **AI-powered development** 🤖 — agents, assistants and qu
 
 ## 📊 Quick Stats
 
-- ⭐ **1.8K+ stars** across 24 featured open-source projects
+- ⭐ **1.8K+ stars** earned across 24 open-source projects
 - 🌸 **1.3K+ stars** on [mikan_flutter](https://github.com/iota9star/mikan_flutter) alone
 - 🍬 **20 packages** contributed to the **fluttercandies** community
 - 👀 You are visitor ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
@@ -66,7 +72,7 @@ Lately I'm deep in **AI-powered development** 🤖 — agents, assistants and qu
 
 ## 🔥 Featured Projects
 
-Sorted by stars ✨ — a mix of personal apps, community packages and experiments 🍬
+Sorted by stars ✨ — personal apps, community packages and experiments 🍬
 
 <table>
 <tr>
@@ -110,17 +116,16 @@ Sorted by stars ✨ — a mix of personal apps, community packages and experimen
 
 ## 💡 Quote
 
-> 💬 **"人生自是有情痴，此恨不关风与月。"** — *"We are born to be moved by passion; such sorrow owes nothing to the wind or the moon."*
-> — 欧阳修 Ouyang Xiu 📜
+> ☯️ **"一念放下，万般自在。"** — *"Release the thought you cling to, and ten thousand freedoms arise."*
 
 ## 🏆 Highlights
 
 - 🌸 **mikan_flutter** — 1.3K⭐ Flutter client for the Mikan Project; a beloved bangumi RSS app
-- ⚡ **fjs** — 114⭐ run JavaScript inside Flutter at high speed, powered by Rust & QuickJS
-- 📺 **dpad** — 60⭐ native-feeling D-pad focus navigation for Android TV and set-top boxes
+- ⚡ **fjs** — 115⭐ run JavaScript inside Flutter at high speed, powered by Rust & QuickJS
+- 📺 **dpad** — 59⭐ native-feeling D-pad focus navigation for Android TV and set-top boxes
 - 🔄 **sakura-dmhy & kisssub** — polished resource-search clients (37⭐ & 35⭐)
 - 🌀 **void_signals** — high-performance signal-based reactivity for Dart & Flutter
-- 🍬 **fluttercandies × 20** — kache & pixa (caching), hora (dates), resx (errors), f_limit (concurrency), dash_router (navigation), svgo, json_dart and more
+- 🍬 **fluttercandies × 20** — kache & pixa (caching), hora (dates), resx (errors), f_limit (concurrency), dash_router (navigation), json_dart, svgo and more
 
 ## 💭 Philosophy
 
