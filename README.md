@@ -1,28 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,0:3B82F6,0:8B5CF6&height=210&section=header&text=iota9star&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Rust%20%26%20Java%20%C2%B7%20Product%20Mindset&descSize=16&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:06B6D4&height=200&section=header&text=iota9star&fontSize=64&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%C2%B7%20Rust%20%26%20Java%20%C2%B7%20Product%20Mindset&descSize=16&descAlignY=68)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=640&lines=Rust+%F0%9F%A6%80+services+%2B+Java+%E2%98%95+systems+built+for+p99;Flutter+%F0%9F%93%B1+%C3%97+React+%E2%9B%9B%EF%B8%8F+%C3%97+Vue+%F0%9F%92%9A+%E2%80%94+one+product%2C+every+screen;24+open-source+packages+%C2%B7+1.8K%2B+stars+%E2%AD%90;AI+agents+in+the+loop+%F0%9F%A4%96+%E2%80%94+quality+gates+always+on+%E2%9C%85;Fueled+by+seasonal+anime+%F0%9F%8C%B8+and+strong+coffee+%E2%98%95)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Compiling+since+2016+%F0%9F%93%85+%C2%B7+still+shipping+weekly+%F0%9F%9A%80;Rust+%F0%9F%A6%80+for+speed+%C2%B7+Java+%E2%98%95+for+scale+%C2%B7+Dart+%F0%9F%8E%AF+for+reach;20+fluttercandies+packages+%F0%9F%8D%AC+%C2%B7+1.8K%2B+stars+%E2%AD%90+and+counting;If+an+AI+agent+wrote+it%2C+I+read+every+line+%F0%9F%A6%85;Anime+%F0%9F%8C%B8+%2B+Web3+%E2%9B%93%EF%B8%8F+%2B+OSS+%F0%9F%92%9A+%3D+my+happy+overlap)
 
-**Full Stack Developer · Rust & Java Backend · Product Mindset** 🚀
+**Full Stack Developer · Rust & Java Backend · Product Mindset** ✨
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
 ## 👨‍💻 About Me
 
-Hi, I'm **iota9star** — I write code on both sides of the wire and care equally about the microseconds and the pixels. ⚡  
-On the server I speak fluent **Rust** 🦀 and **Java** ☕: Axum routers tuned to the tail latency, Spring microservices that scale without drama.  
-On the client I build with **Flutter** 📱, **React** ⚛️, and **Vue** 💚 — software is only "done" when it feels good in the hand.  
-The product mindset is the thread through all of it: I read the roadmap like a spec and treat *why* as a compile-time dependency. 🎯  
-These days I live at the **Rust ↔ Flutter boundary** with the **fluttercandies** crew 🍬, and I let **AI agents** 🤖 draft the boilerplate while I review like a hawk. 🦅  
-When I'm off the clock: seasonal anime 🎬, BTC / EVM / IC rabbit holes ⛓️, and benchmarking things nobody asked me to benchmark. 🔬
+Hey, I'm **iota9star** — a full-stack engineer turning coffee into commits since August 2016 ☕📅, with **102 public repos** and no signs of slowing down.  
+My home turf is the **Rust ↔ Flutter boundary** 🦀📱: native FFI bridges, rendering-adjacent widgets, and the kind of glue code that has to be *both* fast and boring.  
+Server-side, I reach for **Axum** and **Spring** when p99 latency and horizontal scale actually matter — microservices tuned by measurement, not vibes. 📏  
+Client-side, I ship with **Flutter**, **React** ⚛️, and **Vue** 💚, because a feature isn't finished until it feels good in someone's hand.  
+I work **with AI agents in the loop** 🤖 every day — they draft, I architect, and the quality gates stay firmly on. ✅  
+Off the clock you'll find me chasing seasonal anime 🌸, falling down BTC / EVM / IC rabbit holes ⛓️, and benchmarking things nobody asked me to benchmark. 🔬
 
 ## 🎯 What I Do
 
-- 🦀 **Performance-first backends** — Axum & Spring microservices measured in p99, not vibes
+- 🦀 **Performance-first backends** — Axum & Spring services where p99 is a feature, not an afterthought
 - 📱 **Cross-platform clients** — Flutter, Android, React, Vue: one product, every screen
-- 🤖 **AI-augmented engineering** — agents, assistants, and automation with quality gates built in ✅
+- 🔌 **Rust × Dart bridges** — FFI layers that make native speed a first-class Flutter citizen
+- 🍬 **Open source stewardship** — 20 packages maintained in the fluttercandies ecosystem
+- 🤖 **AI-augmented workflows** — code assistants and agents with humans holding the review pen ✍️
 - ⛓️ **Web3 experiments** — BTC, EVM contracts, and the Internet Computer 🌐
-- 🧩 **Open source maintenance** — 20+ Dart/Flutter packages across the fluttercandies ecosystem 🍬
-- 🌸 **Anime tooling** — scrapers, aggregators, and clients that fans actually daily-drive
 
 ## 🛠️ Tech Stack
 
@@ -35,21 +35,20 @@ When I'm off the clock: seasonal anime 🎬, BTC / EVM / IC rabbit holes ⛓️,
 **Frontend**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Also exploring**
-🤖 AI agents · ⛓️ BTC / EVM / IC · ✅ quality-first workflows · 🌸 anime APIs & scrapers
+**Currently exploring**
+🤖 agentic dev loops · ⛓️ BTC / EVM / IC · 🌸 anime data pipelines · ✅ quality-gated automation
 
 ## 📊 Quick Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&hide_border=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=iota9star&hide_border=true)
 
-⭐ **1,823 stars** across 📦 **24 featured repos** · 🥇 flagship at **1.4K+ ⭐** · 🍬 **20+ packages** in fluttercandies · 🦀🤝📱 Rust × Dart is my favorite crossover episode
-
-![3D contributions](profile-3d-contrib/profile-season-animate.svg)
+⭐ **1,823 stars** earned across 📦 **24 featured repos** · 🥇 flagship at **1.4K+ ⭐** · 👥 **283 followers** · 🍬 **20 packages** under fluttercandies · 📅 **10+ years** of public building
 
 ## 🔥 Featured Projects
 
-Live cards, sorted by stars — freshest numbers straight from the API. 👇
+Sorted by stars, freshest numbers straight from the GitHub API. 👇
 
 <table>
 <tr>
@@ -81,9 +80,9 @@ Live cards, sorted by stars — freshest numbers straight from the API. 👇
 <td align="center"><a href="https://github.com/fluttercandies/pixa"><img src="https://gh-card.dev/repos/fluttercandies/pixa.svg" alt="fluttercandies/pixa" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/kache"><img src="https://gh-card.dev/repos/fluttercandies/kache.svg" alt="fluttercandies/kache" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
-</tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/acpd"><img src="https://gh-card.dev/repos/fluttercandies/acpd.svg" alt="fluttercandies/acpd" /></a></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
 <td align="center"><a href="https://github.com/fluttercandies/goal"><img src="https://gh-card.dev/repos/fluttercandies/goal.svg" alt="fluttercandies/goal" /></a></td>
 </tr><tr>
 <td align="center"><a href="https://github.com/fluttercandies/lon"><img src="https://gh-card.dev/repos/fluttercandies/lon.svg" alt="fluttercandies/lon" /></a></td>
@@ -91,44 +90,39 @@ Live cards, sorted by stars — freshest numbers straight from the API. 👇
 </tr>
 </table>
 
-## 💡 Quote of the Moment
-
-> 岁月总让人成长，却从不指明方向。  
-> *"Time makes us grow, but it never points the way."*  
-> — 佚名 (Anonymous), from the internet 🌐
-
 ## 🏆 Highlights
 
-- 🌟 **mikan_flutter** — 1.4K+ ⭐ · the Mikan Project client anime fans actually daily-drive
-- ⚡ **fjs** — 114 ⭐ · a JavaScript runtime for Flutter powered by Rust + QuickJS: two ecosystems, one bridge 🌉
-- 📺 **dpad** — 60 ⭐ · TV D-pad navigation that feels as native as Android itself
-- 🌸 **sakura-dmhy & kisssub** — anime resource clients from the Java/Kotlin camp, one product philosophy
-- 🕸️ **void_signals** — high-performance signal reactivity for Dart, in the alien-signals lineage
-- 🔍 **json_dart** — 24 ⭐ · JSON utilities that make Dart's type-less favorite friend actually pleasant
-- 🍬 **fluttercandies** — contributor across 20+ ecosystem packages: caching 💾 layout 📐 routing 🧭 SVG 🖼️ and more
-- 🤖 **goal & toto** — AI-era CLI companions: idempotent goal tracking 🔁 and deterministic TOTP/HOTP 🔐
+- 🥇 **mikan_flutter** — 1.4K★ flagship: a Flutter client anime fans actually daily-drive
+- 🍬 **20 packages** maintained in the fluttercandies collective — widgets, routing, caching, parsing
+- 🦀 **Rust core, everywhere** — engines and bridges built once, running on every platform
+- 📅 **10+ years** of open source — first commit Aug 2016, latest commit probably today
+- ⭐ **1,823 stars** and counting, all earned one useful PR at a time
 
 ## 💭 Philosophy
 
-> Measure twice, ship once 📐 — performance is empathy, latency is a bug 🐛, and the user's time is the scarcest resource in the system. ⏱️
+> *"Measure first, optimize second — the profiler knows more than I do."* 📏  
+> *"An API is a promise; break it and users break up with you."* 🤝  
+> *"Let agents write the boilerplate, so humans can afford to think."* 🤖  
+> *"Software is only done when it feels good in the hand."* ✨
 
-- 🔍 Profile before you optimize, then optimize anyway
-- 🧪 Tests are documentation that runs
-- 📦 Small packages, sharp edges, zero drama
-- 🚢 Ship it, measure it, make it faster next week
+## 🌸 Beyond the Terminal
 
-## 🧭 Beyond the Code
+- 🎬 **Seasonal anime tracking** — my own scrapers feed my own watchlist, naturally
+- ⛓️ **Web3 deep dives** — BTC, EVM, and IC experiments for the fun of it
+- 🔬 **Recreational benchmarking** — yes, I benchmark my keyboards' latency too
+- ☕ **Coffee-driven development** — the original just-in-time compiler
 
-- 🎬 Seasonal anime power user — literally the origin story of `mikan_flutter`
-- 🔄 Chronic optimizer: if it works, it can still work *faster*
-- 🌙 Night-owl committer — the best refactors happen after midnight
-- 🗣️ Bilingual: 中文 & English, in code and in conversation
+## 💡 Quote of the Day
+
+> 一叫一回肠一断，三春三月忆三巴。  
+> *"Every cuckoo call breaks my heart anew — in this third spring month, I long for home."* 🌸  
+> — 李白 · "Seeing Azaleas at Xuancheng"
 
 ## 📧 Connect
 
-- 📮 Email: [iota9star](mailto:iota9star@gmail.com)
+- ✉️ Email: [iota9star](mailto:iota9star@gmail.com)
 - 🐦 X: [@iota9star](https://x.com/iota9star)
-- ✍️ Juejin: [Blog](https://juejin.cn/user/1591748568562829)
-- 💬 PRs, issues, and "have you tried Rust?" conversations all welcome
+- 📝 Juejin: [Blog](https://juejin.cn/user/1591748568562829)
+- 💬 GitHub: [@iota9star](https://github.com/iota9star)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,0:3B82F6,0:06B6D4&height=110&section=footer&text=thanks%20for%20scrolling%20this%20far%20%F0%9F%8C%9F&fontSize=16&fontColor=ffffff&descAlignY=75)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:EC4899&height=120&section=footer)
