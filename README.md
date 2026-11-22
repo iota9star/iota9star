@@ -1,8 +1,8 @@
-# Hi there, I'm iota9star 🌟
+# ✨ iota9star — turning iotas into stars
 
-**Full Stack Developer** · **Rust & Java Backend** · **Product Mindset** 👋
+**Full Stack Developer** 🧑‍💻 · **Rust & Java Backend** 🦀☕ · **Product Mindset** 🎯
 
-Building digital experiences across the stack — from high-performance backends to elegant frontends.
+Building digital experiences across the whole stack — from high-performance backends to elegant frontends, one tiny commit at a time 👋
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -10,16 +10,16 @@ Building digital experiences across the stack — from high-performance backends
 
 ## 👨‍💻 About Me
 
-Hi, I'm **iota9star** — the name is a small joke about scale: an *iota* is the tiniest letter in the Greek alphabet, but point enough of them at the sky and you get a star ✨  
-I build digital experiences across the whole stack — Rust and Java services that stay fast under pressure on the back end, Flutter / React / Vue apps that feel effortless on the front end.  
-I care about product as much as code: small sharp tools, real users, and the polish in between. Types that hold, tests that catch, APIs that read like prose.  
-By day I ship Flutter packages with the **fluttercandies** crew 🍬 — by night I'm parsing anime RSS feeds 🌸, wiring up on-chain signals ⛓️, or teaching AI agents to write code better than I do 🤖.
+An *iota* is the smallest letter in the Greek alphabet — and the smallest spark of a star ✨ Everything I build starts there: small, sharp, well-typed pieces that compose into something much bigger.  
+I'm a full-stack engineer who cares as much about how a product **feels** as how it **runs** — Rust and Java services that stay fast under pressure, Flutter / React / Vue interfaces that get out of the user's way.  
+Types that hold, tests that catch, APIs that read like prose — that's the bar.  
+By day I ship Flutter packages with the [fluttercandies](https://github.com/fluttercandies) crew 🍬 — by night I'm parsing anime RSS feeds 🌸, decoding on-chain signals ⛓️, and teaching AI agents to write cleaner code than I do 🤖.
 
 ## 🎯 What I Do
 
-- 🦀 **Backend engineering** — high-performance services in Rust (Axum) and Java (Spring), microservices that hold up under load
+- 🦀 **Backend engineering** — high-performance services in Rust (Axum) and Java (Spring), microservices that hold up under real load
 - 📱 **Cross-platform frontends** — Flutter for mobile magic, React / Vue for the web, Kotlin for native Android
-- 🤖 **AI-powered workflows** — code assistants, agents, and quality-first automation baked into the dev loop
+- 🤖 **AI-powered development** — code assistants, agents, and quality-first automation woven into the dev loop
 - ⛓️ **Web3 exploration** — BTC, EVM contracts, and the Internet Computer
 - 🧩 **Open source** — building and maintaining a whole shelf of Flutter packages at [fluttercandies](https://github.com/fluttercandies)
 
@@ -39,10 +39,11 @@ By day I ship Flutter packages with the **fluttercandies** crew 🍬 — by nigh
 
 ## 📊 Quick Stats
 
-- ⭐ **1,824+ stars** across 24 featured repositories
+- ⭐ **1.8K+ stars** across 24 featured repositories
+- 🌸 Flagship **mikan_flutter** carries **1.4K+ ⭐** all by itself
+- 🦀 **[fjs](https://github.com/fluttercandies/fjs)** is the fastest riser — **114 ⭐** and climbing
 - 🍬 **20 packages** contributed to the [fluttercandies](https://github.com/fluttercandies) organization
-- 🌸 Flagship project **mikan_flutter** carries **1.3K+ ⭐** on its own
-- 🔥 Consistent contributor — watch the 3D city above keep growing
+- 🔥 Watch the 3D city above keep growing, commit by commit
 
 ![iota9star's GitHub stats](https://github-readme-stats.vercel.app/api?username=iota9star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iota9star&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)  
@@ -50,79 +51,79 @@ By day I ship Flutter packages with the **fluttercandies** crew 🍬 — by nigh
 
 ## 🔥 Featured Projects
 
-**1,824 ⭐ and counting across 24 projects — sorted by popularity.** Every card is clickable 👇
+**1.8K+ ⭐ across 24 projects — sorted by popularity.** Every card is clickable 👇
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/iota9star/mikan_flutter"><img src="https://gh-card.dev/repos/iota9star/mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/fjs"><img src="https://gh-card.dev/repos/fluttercandies/fjs.svg" alt="fluttercandies/fjs" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/mikan_flutter"><img src="cards/iota9star_mikan_flutter.svg" alt="iota9star/mikan_flutter" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/fjs"><img src="cards/fluttercandies_fjs.svg" alt="fluttercandies/fjs" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="https://gh-card.dev/repos/fluttercandies/dpad.svg" alt="fluttercandies/dpad" /></a></td>
-<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="https://gh-card.dev/repos/iota9star/sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dpad"><img src="cards/fluttercandies_dpad.svg" alt="fluttercandies/dpad" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/sakura-dmhy"><img src="cards/iota9star_sakura-dmhy.svg" alt="iota9star/sakura-dmhy" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/iota9star/kisssub"><img src="https://gh-card.dev/repos/iota9star/kisssub.svg" alt="iota9star/kisssub" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="https://gh-card.dev/repos/fluttercandies/json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
+<td align="center"><a href="https://github.com/iota9star/kisssub"><img src="cards/iota9star_kisssub.svg" alt="iota9star/kisssub" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/json_dart"><img src="cards/fluttercandies_json_dart.svg" alt="fluttercandies/json_dart" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/void-signals/void_signals"><img src="https://gh-card.dev/repos/void-signals/void_signals.svg" alt="void-signals/void_signals" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="https://gh-card.dev/repos/fluttercandies/hora.svg" alt="fluttercandies/hora" /></a></td>
+<td align="center"><a href="https://github.com/void-signals/void_signals"><img src="cards/void-signals_void_signals.svg" alt="void-signals/void_signals" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/hora"><img src="cards/fluttercandies_hora.svg" alt="fluttercandies/hora" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="https://gh-card.dev/repos/fluttercandies/f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="https://gh-card.dev/repos/fluttercandies/flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/f_limit"><img src="cards/fluttercandies_f_limit.svg" alt="fluttercandies/f_limit" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/flexbox_layout"><img src="cards/fluttercandies_flexbox_layout.svg" alt="fluttercandies/flexbox_layout" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="https://gh-card.dev/repos/fluttercandies/env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="https://gh-card.dev/repos/fluttercandies/svgo.svg" alt="fluttercandies/svgo" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/env2dart"><img src="cards/fluttercandies_env2dart.svg" alt="fluttercandies/env2dart" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/svgo"><img src="cards/fluttercandies_svgo.svg" alt="fluttercandies/svgo" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="https://gh-card.dev/repos/fluttercandies/resx.svg" alt="fluttercandies/resx" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="https://gh-card.dev/repos/fluttercandies/dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dotrix"><img src="cards/fluttercandies_dotrix.svg" alt="fluttercandies/dotrix" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/resx"><img src="cards/fluttercandies_resx.svg" alt="fluttercandies/resx" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="https://gh-card.dev/repos/fluttercandies/dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/meld"><img src="https://gh-card.dev/repos/fluttercandies/meld.svg" alt="fluttercandies/meld" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/seeko"><img src="cards/fluttercandies_seeko.svg" alt="fluttercandies/seeko" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/dash_router"><img src="cards/fluttercandies_dash_router.svg" alt="fluttercandies/dash_router" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/seeko"><img src="https://gh-card.dev/repos/fluttercandies/seeko.svg" alt="fluttercandies/seeko" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/pixa"><img src="https://gh-card.dev/repos/fluttercandies/pixa.svg" alt="fluttercandies/pixa" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/meld"><img src="cards/fluttercandies_meld.svg" alt="fluttercandies/meld" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/pixa"><img src="cards/fluttercandies_pixa.svg" alt="fluttercandies/pixa" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/kache"><img src="https://gh-card.dev/repos/fluttercandies/kache.svg" alt="fluttercandies/kache" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/acpd"><img src="https://gh-card.dev/repos/fluttercandies/acpd.svg" alt="fluttercandies/acpd" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/kache"><img src="cards/fluttercandies_kache.svg" alt="fluttercandies/kache" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/acpd"><img src="cards/fluttercandies_acpd.svg" alt="fluttercandies/acpd" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="https://gh-card.dev/repos/fluttercandies/vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/goal"><img src="https://gh-card.dev/repos/fluttercandies/goal.svg" alt="fluttercandies/goal" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/vcard_dart"><img src="cards/fluttercandies_vcard_dart.svg" alt="fluttercandies/vcard_dart" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/goal"><img src="cards/fluttercandies_goal.svg" alt="fluttercandies/goal" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/fluttercandies/lon"><img src="https://gh-card.dev/repos/fluttercandies/lon.svg" alt="fluttercandies/lon" /></a></td>
-<td align="center"><a href="https://github.com/fluttercandies/toto"><img src="https://gh-card.dev/repos/fluttercandies/toto.svg" alt="fluttercandies/toto" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/lon"><img src="cards/fluttercandies_lon.svg" alt="fluttercandies/lon" /></a></td>
+<td align="center"><a href="https://github.com/fluttercandies/toto"><img src="cards/fluttercandies_toto.svg" alt="fluttercandies/toto" /></a></td>
 </tr>
 </table>
 
 ## 🏆 Highlights
 
-- 🏆 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** — 1.3K+ ⭐ Flutter client for the Mikan Project: bangumi tracking, RSS subscriptions, and a UI people actually enjoy
-- 🦀 **[fluttercandies/fjs](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime for Flutter, built with Rust and powered by QuickJS (100+ ⭐)
-- 🍬 **fluttercandies core contributor** — 20 packages spanning caching ([kache](https://github.com/fluttercandies/kache)), rate limiting ([f_limit](https://github.com/fluttercandies/f_limit)), routing ([dash_router](https://github.com/fluttercandies/dash_router)), state ([hora](https://github.com/fluttercandies/hora)) and more
-- 🌸 **Anime data tooling** — [sakura-dmhy](https://github.com/iota9star/sakura-dmhy) and [kisssub](https://github.com/iota9star/kisssub) keep resources flowing
-- ⛓️ **[void_signals](https://github.com/void-signals/void_signals)** — decoding on-chain noise into signals
+- 🌸 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** — 1.4K+ ⭐ Flutter client for the Mikan Project: bangumi tracking, RSS subscriptions, and a UI people genuinely enjoy using
+- 🦀 **[fluttercandies/fjs](https://github.com/fluttercandies/fjs)** — a high-performance JavaScript runtime inside Flutter, built on Rust and QuickJS (114 ⭐)
+- 🍬 **fluttercandies core contributor** — 20 packages covering caching ([kache](https://github.com/fluttercandies/kache)), rate limiting ([f_limit](https://github.com/fluttercandies/f_limit)), navigation ([dash_router](https://github.com/fluttercandies/dash_router)), state ([hora](https://github.com/fluttercandies/hora)), TV focus ([dpad](https://github.com/fluttercandies/dpad)) and more
+- 🌸 **Anime data tooling** — [sakura-dmhy](https://github.com/iota9star/sakura-dmhy) and [kisssub](https://github.com/iota9star/kisssub) keep the resources flowing
+- ⛓️ **[void_signals](https://github.com/void-signals/void_signals)** — turning on-chain noise into signals worth reading
 
 ## 💡 Quote of the Moment
 
-> 🎐 *“伯牙鼓琴，志在高山。”*
-> — *Bo Ya played the qin, his heart set on high mountains.* From *Bo Ya's Last String* (伯牙绝弦) · via [Hitokoto](https://hitokoto.cn)
+> 🎐 *“认真的思索，真诚的明辨是非，有这种态度，大概可算是善良吧。”*
+> — *Wang Xiaobo (王小波), The Silent Majority (沉默的大多数)* · via [Hitokoto](https://hitokoto.cn)
 
-The birthplace of *zhiyin* (知音) — the friend who truly hears your music. May your code always find its listeners 🎶
+*To think seriously and sincerely tell right from wrong — that alone might be what goodness is.* Most of engineering is honestly telling bug from feature 😉 and doing it kindly.
 
 ## 💭 Philosophy
 
 - 🧱 **Performance is a feature** — fast software is kind software
-- 🎯 **Think in iotas** — small, sharp pieces that compose into something bigger
-- 🤝 **Quality over cleverness** — types, tests, and docs beat one-liners nobody can read
+- 🎯 **Think in iotas** — small sharp pieces that compose into big pictures ✨
+- 🤝 **Quality over cleverness** — types, tests, and docs beat unreadable one-liners
 - 🌱 **Build in the open** — learn publicly, share generously, star generously ⭐
 
 ## 📧 Connect
