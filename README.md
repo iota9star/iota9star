@@ -1,8 +1,8 @@
-# ✨ iota9star — turning iotas into stars
+# 🌟 iota9star — small iotas, bright stars
 
 **Full Stack Developer** 🧑‍💻 · **Rust & Java Backend** 🦀☕ · **Product Mindset** 🎯
 
-One iota at a time: high-performance backends, elegant frontends, and open source that people actually enjoy using 👋
+Great software isn't built in one leap — it's assembled from tiny, precise pieces. I write the pieces 👋
 
 ![viewcount](https://count.getloli.com/get/@iota9star?theme=rule34)
 
@@ -10,18 +10,18 @@ One iota at a time: high-performance backends, elegant frontends, and open sourc
 
 ## 👨‍💻 About Me
 
-Hi, I'm **iota9star** — named after the smallest letter in the Greek alphabet, because big things are always assembled from small, precise ones ✨
-I build across the entire stack: Rust and Java services that stay fast under real load, Flutter / React / Vue interfaces that feel effortless, and the glue — types, tests, tooling — that keeps it all honest.
-I care about the *product* as much as the *pipeline*: an API should read like prose, a UI should get out of the way, and a bug should be embarrassed to exist 🐛
-Most days you'll find me shipping Flutter packages with the [fluttercandies](https://github.com/fluttercandies) crew 🍬, tracking bangumi seasons 🌸, reading on-chain signals ⛓️, or teaching AI agents to lint harder than I do 🤖.
+Hi, I'm **iota9star** — the smallest Greek letter, plus every star I hope to ship ✨
+I build digital experiences across the whole stack: Rust and Java backends that stay calm under real traffic, Flutter / React / Vue frontends that feel invisible in the best way, and the types, tests, and tooling that keep the middle honest 🧪
+I care about the product as much as the pipeline — an API should read like prose, a UI should get out of the way, and a bug should be too embarrassed to survive code review 🐛
+Off the clock I'm usually shipping Flutter packages with the [fluttercandies](https://github.com/fluttercandies) crew 🍬, following the current bangumi season 🌸, reading signals out of on-chain noise ⛓️, or teaching AI agents to write better code than my 2 a.m. self 🤖
 
 ## 🎯 What I Do
 
-- 🦀 **Backend engineering** — Rust (Axum) and Java (Spring) microservices built for throughput and tidy failure modes
-- 📱 **Cross-platform UIs** — Flutter for mobile & TV, React / Vue for the web, Kotlin for native Android
-- 🤖 **AI-powered workflows** — agents, assistants, and quality gates folded into everyday development
-- ⛓️ **Web3 exploration** — BTC, EVM, and the Internet Computer, from contracts to clients
-- 🧩 **Open source maintenance** — a growing shelf of Flutter packages at [fluttercandies](https://github.com/fluttercandies)
+- 🦀 **Backend engineering** — Rust (Axum) and Java (Spring) microservices designed for throughput and graceful failure
+- 📱 **Cross-platform UIs** — Flutter for mobile and TV, React / Vue for the web, Kotlin for native Android
+- 🤖 **AI-assisted development** — agents, assistants, and quality gates wired into everyday workflows
+- ⛓️ **Web3 exploration** — BTC, EVM, and the Internet Computer, from contracts up to clients
+- 🧩 **Open source maintenance** — a growing shelf of Flutter packages under [fluttercandies](https://github.com/fluttercandies)
 
 ## 🛠️ Tech Stack
 
@@ -106,7 +106,7 @@ Most days you'll find me shipping Flutter packages with the [fluttercandies](htt
 
 ## 🏆 Highlights
 
-- 🌸 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** — 1.4K+ ⭐ Flutter client for the Mikan Project: bangumi tracking, RSS subscriptions, and a UI people genuinely enjoy using
+- 🌸 **[mikan_flutter](https://github.com/iota9star/mikan_flutter)** — a Flutter client for the Mikan Project: bangumi tracking, RSS subscriptions, and a UI people genuinely enjoy using (1.4K+ ⭐)
 - 🦀 **[fluttercandies/fjs](https://github.com/fluttercandies/fjs)** — a JavaScript runtime embedded in Flutter, powered by Rust and QuickJS (114 ⭐)
 - 🍬 **fluttercandies core contributor** — 20 packages spanning caching ([kache](https://github.com/fluttercandies/kache)), rate limiting ([f_limit](https://github.com/fluttercandies/f_limit)), navigation ([dash_router](https://github.com/fluttercandies/dash_router)), state ([hora](https://github.com/fluttercandies/hora)), TV focus ([dpad](https://github.com/fluttercandies/dpad)) and more
 - 🌸 **Anime data tooling** — [sakura-dmhy](https://github.com/iota9star/sakura-dmhy) and [kisssub](https://github.com/iota9star/kisssub) keep the resources flowing
@@ -114,17 +114,17 @@ Most days you'll find me shipping Flutter packages with the [fluttercandies](htt
 
 ## 💡 Quote of the Moment
 
-> 🎐 *“思路也仅仅是思路，不能赖于行走。况且也不止于一条。”*
-> — *Pusu (朴素), 安世* · via [Hitokoto](https://hitokoto.cn)
+> 🎐 *“有一种东西不能遵循从众原则，那就是人的良心。”*
+> — *杀死一只知更鸟 (To Kill a Mockingbird)* · via [Hitokoto](https://hitokoto.cn)
 
-*A train of thought is only a thought — it can't carry you the whole way. And besides, there's never just one road.* Perfect advice for both architecture decisions and refactors 🗺️
+*One thing doesn't follow the crowd: a person's conscience.* Words to code review by 👀
 
 ## 💭 Philosophy
 
 - 🧱 **Performance is a feature** — fast software is kind software
 - 🧩 **Think in iotas** — small, sharp pieces that compose into big pictures ✨
 - 🤝 **Quality over cleverness** — types, tests, and docs beat unreadable one-liners
-- 🛤️ **Many roads** — there's never only one solution; keep a second idea in your pocket
+- 💓 **Keep a conscience in the loop** — write the code you'd defend in public
 - 🌱 **Build in the open** — learn publicly, share generously, star generously ⭐
 
 ## 📧 Connect
@@ -134,4 +134,4 @@ Most days you'll find me shipping Flutter packages with the [fluttercandies](htt
 - ⛏️ Juejin: [Blog](https://juejin.cn/user/1591748568562829)
 - 🐙 GitHub: [@iota9star](https://github.com/iota9star)
 
-Thanks for stopping by — have a stellar day 🌟
+Thanks for stopping by — may your builds be green and your stars bright 🌟
